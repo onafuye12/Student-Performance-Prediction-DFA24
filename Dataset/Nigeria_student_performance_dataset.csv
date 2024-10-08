@@ -1,0 +1,2001 @@
+student_id,sex,age,famsize,Pstatus,Medu,Fedu,SS1_result_avg,SS2_result_avg,SS3_mock_result,absences,studytime,extra_tutoring,school_support,internet_access,CBT_preparation,health_status,wants_higher_education,wants_trade,CBT_outcome
+1,M,15,GT3,T,SSCE,No schooling,60,64,Pass,4,2,yes,no,yes,yes,Average,yes,no,High
+2,F,15,GT3,T,SSCE,No schooling,44,74,Pass,6,2,no,no,yes,yes,Average,yes,yes,High
+3,F,15,LE3,T,SSCE,Bachelor,56,56,Fail,3,3,yes,no,no,yes,Average,no,yes,High
+4,F,16,LE3,T,PhD,SSCE,54,46,Fail,6,1,yes,no,yes,yes,Good,no,no,Low
+5,M,16,GT3,T,SSCE,Bachelor,58,57,Fail,7,4,yes,yes,no,yes,Average,no,no,Low
+6,M,15,LE3,A,Bachelor,SSCE,56,35,Fail,4,1,no,no,no,no,Poor,yes,no,Low
+7,M,17,GT3,T,No schooling,SSCE,58,61,Fail,3,4,no,yes,yes,yes,Good,yes,no,Low
+8,F,15,LE3,A,Bachelor,SSCE,51,62,Fail,8,4,yes,yes,yes,yes,Average,yes,yes,High
+9,F,15,GT3,A,Masters,Bachelor,55,74,Fail,1,4,no,no,no,no,Poor,yes,yes,High
+10,F,15,GT3,T,SSCE,SSCE,42,56,Fail,5,3,no,yes,yes,yes,Poor,no,no,High
+11,M,13,LE3,T,SSCE,No schooling,51,62,Pass,6,1,no,yes,no,yes,Good,yes,yes,High
+12,F,16,GT3,T,Bachelor,Bachelor,68,49,Pass,5,3,yes,yes,yes,yes,Good,yes,yes,High
+13,F,16,LE3,A,Bachelor,SSCE,58,54,Pass,5,2,no,no,no,yes,Average,yes,no,High
+14,M,15,GT3,T,Bachelor,SSCE,54,42,Fail,5,4,yes,no,yes,no,Average,yes,no,Low
+15,M,16,GT3,T,SSCE,Bachelor,73,56,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+16,M,16,GT3,T,SSCE,SSCE,41,54,Pass,6,2,yes,no,no,yes,Good,yes,no,High
+17,M,14,GT3,A,PhD,Bachelor,43,60,Pass,5,4,no,no,no,yes,Very Good,yes,no,Low
+18,F,15,GT3,T,Masters,SSCE,72,51,Fail,5,1,no,no,yes,yes,Average,yes,yes,High
+19,M,16,LE3,A,Bachelor,Bachelor,55,58,Pass,8,2,no,yes,no,yes,Average,yes,no,High
+20,M,14,LE3,T,Masters,Bachelor,52,54,Pass,3,2,no,no,yes,yes,Very Poor,yes,no,High
+21,F,16,GT3,T,Bachelor,SSCE,43,54,Pass,5,3,no,no,no,yes,Poor,no,yes,High
+22,M,14,GT3,T,SSCE,Bachelor,59,58,Fail,3,3,no,yes,no,yes,Good,yes,no,High
+23,M,16,GT3,T,SSCE,Masters,60,58,Pass,3,3,yes,yes,yes,yes,Poor,yes,no,High
+24,M,15,GT3,T,SSCE,SSCE,44,65,Pass,7,4,yes,no,yes,no,Average,yes,no,High
+25,F,14,GT3,T,Bachelor,SSCE,53,56,Fail,4,1,yes,no,yes,no,Good,no,no,Low
+26,F,17,GT3,A,No schooling,Bachelor,51,54,Pass,4,2,yes,no,yes,yes,Average,yes,no,Low
+27,M,15,GT3,T,SSCE,Bachelor,57,56,Pass,2,3,no,no,no,yes,Good,no,no,High
+28,F,15,GT3,A,Masters,No schooling,43,50,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+29,F,16,GT3,T,Bachelor,Masters,67,54,Pass,3,2,no,no,no,yes,Average,yes,no,Low
+30,M,17,LE3,A,Bachelor,No schooling,64,78,Fail,7,1,yes,no,yes,yes,Very Good,yes,no,Low
+31,F,14,LE3,T,Masters,Bachelor,51,48,Pass,7,1,no,no,no,yes,Good,yes,no,High
+32,M,16,LE3,A,No schooling,Bachelor,52,55,Pass,8,1,yes,yes,yes,no,Average,yes,no,High
+33,M,16,LE3,A,Bachelor,PhD,53,54,Fail,6,2,no,yes,yes,yes,Good,yes,no,High
+34,F,16,LE3,T,Masters,No schooling,47,55,Fail,7,1,yes,no,no,no,Good,yes,yes,High
+35,F,16,GT3,T,Bachelor,Bachelor,50,54,Pass,4,2,no,yes,no,yes,Good,yes,no,High
+36,F,15,GT3,T,SSCE,SSCE,52,60,Pass,7,2,no,yes,no,yes,Good,yes,no,Low
+37,M,15,GT3,T,SSCE,SSCE,71,40,Fail,2,3,no,no,no,no,Average,no,no,Low
+38,M,16,GT3,A,Masters,No schooling,64,68,Fail,5,4,yes,yes,no,yes,Average,yes,yes,Low
+39,F,14,LE3,T,Bachelor,Bachelor,64,64,Pass,3,2,yes,no,no,no,Good,yes,no,High
+40,M,13,LE3,T,Masters,SSCE,58,45,Fail,7,2,yes,yes,yes,yes,Poor,yes,no,High
+41,M,16,LE3,T,Bachelor,No schooling,43,35,Pass,5,4,yes,no,yes,no,Good,yes,no,High
+42,F,16,GT3,A,Bachelor,Bachelor,54,48,Pass,7,2,no,no,no,no,Average,yes,no,High
+43,M,13,LE3,A,Masters,Bachelor,64,55,Pass,9,4,no,no,no,yes,Good,yes,no,High
+44,F,14,LE3,T,Bachelor,Bachelor,42,83,Pass,6,1,yes,no,no,no,Average,yes,no,High
+45,M,16,GT3,T,SSCE,Masters,61,63,Pass,5,4,no,no,yes,yes,Average,yes,yes,High
+46,F,18,GT3,T,Bachelor,SSCE,78,39,Pass,7,2,no,no,no,yes,Good,yes,no,Low
+47,M,16,LE3,T,Masters,PhD,65,51,Pass,1,1,yes,no,no,yes,Good,no,no,High
+48,F,15,GT3,T,SSCE,Masters,69,57,Pass,3,4,yes,yes,no,yes,Average,yes,no,High
+49,F,15,GT3,T,SSCE,SSCE,57,60,Pass,3,4,no,yes,yes,yes,Very Poor,no,no,Low
+50,M,17,GT3,T,No schooling,SSCE,64,44,Pass,11,2,no,yes,no,yes,Good,no,no,Low
+51,F,15,GT3,T,Masters,SSCE,47,56,Fail,4,4,no,yes,no,no,Very Good,no,no,High
+52,F,15,LE3,T,No schooling,SSCE,62,50,Pass,2,1,yes,yes,no,yes,Poor,yes,no,High
+53,F,15,LE3,T,Bachelor,Bachelor,61,46,Fail,5,3,yes,yes,no,no,Average,yes,yes,Low
+54,F,15,GT3,T,SSCE,Bachelor,57,60,Pass,7,2,no,no,no,yes,Average,yes,no,High
+55,F,16,GT3,T,SSCE,Bachelor,68,65,Pass,2,2,yes,no,yes,yes,Very Good,no,no,Low
+56,F,17,GT3,T,Bachelor,SSCE,49,66,Pass,5,3,yes,yes,no,no,Poor,yes,no,High
+57,M,16,GT3,T,No schooling,No schooling,53,63,Fail,2,2,no,no,no,no,Poor,yes,yes,High
+58,M,15,GT3,T,Bachelor,Masters,55,53,Pass,1,1,no,no,yes,no,Poor,no,no,High
+59,M,15,GT3,T,Masters,SSCE,44,65,Pass,6,2,no,no,yes,yes,Good,no,no,Low
+60,M,14,GT3,A,Masters,PhD,57,61,Fail,4,2,yes,no,no,yes,Very Good,yes,no,Low
+61,M,16,GT3,T,SSCE,No schooling,37,59,Fail,7,3,yes,yes,no,yes,Average,yes,yes,High
+62,M,15,LE3,T,Masters,PhD,65,51,Fail,7,2,no,no,no,yes,Poor,yes,no,High
+63,F,15,GT3,T,Bachelor,No schooling,55,53,Pass,6,3,no,no,yes,yes,Average,yes,no,High
+64,M,19,LE3,T,Masters,SSCE,49,58,Pass,6,2,no,no,no,yes,Poor,no,no,Low
+65,M,16,LE3,T,Bachelor,No schooling,46,82,Fail,6,2,no,no,no,yes,Very Poor,no,no,Low
+66,F,15,GT3,T,Bachelor,Bachelor,52,61,Pass,7,2,no,no,no,no,Very Good,yes,no,High
+67,M,15,LE3,T,Masters,Masters,61,51,Fail,4,3,no,no,no,no,Very Good,yes,no,Low
+68,F,17,LE3,T,Masters,SSCE,60,49,Fail,9,1,yes,no,no,yes,Very Good,yes,no,High
+69,M,16,LE3,T,SSCE,Masters,47,53,Fail,4,2,no,yes,yes,yes,Average,yes,no,High
+70,F,14,GT3,T,SSCE,Bachelor,46,79,Pass,6,2,no,no,no,yes,Average,yes,no,High
+71,F,16,GT3,T,SSCE,Bachelor,61,54,Pass,7,4,yes,no,no,yes,Good,yes,yes,High
+72,M,15,GT3,T,SSCE,Masters,47,67,Fail,4,1,no,no,yes,no,Poor,no,yes,Low
+73,M,17,LE3,T,SSCE,SSCE,55,54,Pass,6,3,yes,no,no,yes,Poor,no,no,High
+74,F,17,GT3,A,SSCE,SSCE,56,60,Pass,2,2,no,yes,yes,no,Average,yes,yes,Low
+75,F,15,GT3,T,Masters,Masters,58,65,Pass,6,1,yes,yes,no,yes,Very Good,yes,yes,Low
+76,F,17,LE3,T,No schooling,Masters,63,52,Pass,4,2,yes,no,no,no,Good,yes,no,Low
+77,F,16,GT3,A,Bachelor,PhD,42,51,Pass,3,1,no,yes,no,yes,Poor,yes,yes,High
+78,M,16,LE3,T,SSCE,Masters,35,74,Fail,3,2,yes,yes,no,no,Very Poor,yes,no,Low
+79,M,16,GT3,T,SSCE,No schooling,49,67,Pass,5,4,no,no,no,yes,Good,yes,no,High
+80,M,15,GT3,T,No schooling,Masters,73,65,Pass,3,1,yes,yes,no,yes,Good,yes,no,Low
+81,F,15,GT3,A,SSCE,SSCE,75,65,Pass,4,2,no,yes,no,yes,Good,yes,yes,High
+82,F,17,LE3,A,Masters,PhD,73,62,Pass,3,2,no,no,no,yes,Poor,no,no,Low
+83,M,15,GT3,T,Masters,SSCE,53,78,Fail,6,2,no,yes,no,yes,Average,no,yes,Low
+84,M,15,GT3,T,SSCE,Bachelor,37,58,Fail,9,2,no,yes,no,no,Good,yes,no,Low
+85,M,15,GT3,T,Bachelor,SSCE,31,63,Pass,5,4,no,yes,yes,yes,Very Good,yes,no,High
+86,M,16,GT3,T,Bachelor,SSCE,48,43,Fail,6,1,yes,no,no,yes,Poor,yes,no,High
+87,F,18,LE3,T,Masters,No schooling,53,49,Pass,4,3,yes,no,yes,no,Average,yes,yes,High
+88,F,14,LE3,T,Masters,Masters,68,45,Fail,3,2,yes,yes,no,yes,Poor,yes,yes,High
+89,F,16,GT3,T,Bachelor,Masters,63,70,Pass,9,2,no,yes,yes,yes,Average,yes,no,High
+90,F,17,GT3,T,Bachelor,No schooling,57,32,Pass,3,2,no,no,no,no,Poor,yes,no,Low
+91,M,15,GT3,T,Masters,Bachelor,46,53,Pass,9,2,yes,yes,yes,yes,Good,yes,no,Low
+92,F,16,LE3,T,No schooling,Bachelor,45,28,Fail,4,1,yes,no,yes,yes,Average,yes,no,High
+93,F,14,GT3,T,SSCE,SSCE,57,49,Pass,8,1,yes,no,no,no,Average,yes,no,Low
+94,F,16,LE3,A,Masters,SSCE,61,53,Fail,3,2,yes,yes,no,yes,Average,yes,yes,Low
+95,F,15,GT3,T,Bachelor,Masters,58,71,Pass,3,3,no,no,no,no,Very Good,yes,no,Low
+96,F,16,GT3,T,Bachelor,Bachelor,44,61,Fail,5,1,no,yes,yes,yes,Good,yes,no,Low
+97,F,17,GT3,T,Bachelor,SSCE,61,49,Pass,8,3,no,yes,no,yes,Very Poor,yes,no,Low
+98,M,18,LE3,T,SSCE,Bachelor,59,68,Fail,3,2,yes,yes,yes,yes,Very Poor,yes,no,High
+99,M,16,GT3,A,Bachelor,No schooling,44,58,Pass,4,4,no,no,no,no,Average,no,yes,Low
+100,M,16,LE3,T,Bachelor,SSCE,47,58,Pass,8,2,yes,yes,no,no,Average,no,no,High
+101,M,16,LE3,T,SSCE,SSCE,61,45,Fail,3,2,yes,no,yes,yes,Average,yes,no,Low
+102,F,15,GT3,T,Bachelor,SSCE,52,48,Fail,3,4,no,yes,no,yes,Good,yes,yes,Low
+103,M,16,GT3,T,Masters,Bachelor,70,49,Fail,2,2,yes,no,no,yes,Poor,yes,yes,High
+104,F,15,LE3,A,SSCE,Masters,60,58,Pass,7,2,yes,yes,no,yes,Very Good,no,no,High
+105,F,16,GT3,T,Bachelor,SSCE,50,58,Pass,2,2,yes,yes,yes,no,Very Poor,no,no,High
+106,M,17,GT3,T,SSCE,SSCE,54,73,Pass,6,2,no,no,no,no,Poor,yes,yes,High
+107,M,14,GT3,T,Bachelor,Bachelor,55,61,Pass,5,4,no,no,no,no,Average,yes,yes,High
+108,F,17,LE3,T,SSCE,Masters,47,30,Pass,6,3,no,no,no,yes,Average,no,no,Low
+109,M,17,GT3,A,Bachelor,Bachelor,45,60,Pass,2,3,no,yes,no,yes,Poor,yes,yes,High
+110,M,15,LE3,T,Masters,Masters,62,43,Fail,10,4,yes,no,yes,yes,Good,yes,yes,Low
+111,M,13,LE3,A,SSCE,SSCE,63,48,Fail,3,2,yes,no,yes,yes,Average,yes,no,High
+112,M,15,LE3,T,Masters,Bachelor,61,49,Pass,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+113,F,17,GT3,T,PhD,No schooling,70,51,Pass,5,3,no,no,no,no,Very Good,yes,no,Low
+114,F,15,LE3,T,SSCE,SSCE,49,44,Pass,7,2,yes,no,no,yes,Very Good,yes,no,High
+115,F,15,LE3,T,SSCE,SSCE,71,60,Fail,6,2,no,no,no,yes,Good,yes,no,High
+116,F,15,LE3,T,PhD,SSCE,45,43,Pass,7,2,yes,no,no,yes,Good,yes,no,High
+117,F,16,GT3,T,PhD,Masters,44,61,Fail,4,4,no,no,no,no,Poor,yes,no,High
+118,M,16,GT3,T,No schooling,Masters,37,80,Pass,7,2,no,yes,yes,no,Average,no,yes,High
+119,F,15,LE3,T,No schooling,No schooling,50,44,Pass,2,3,yes,no,no,yes,Average,no,no,High
+120,F,15,GT3,T,SSCE,SSCE,49,55,Fail,6,2,no,yes,no,no,Very Good,yes,no,High
+121,F,15,GT3,T,PhD,SSCE,60,32,Fail,7,1,yes,no,no,yes,Average,no,no,High
+122,F,15,GT3,T,SSCE,SSCE,57,54,Pass,5,3,yes,yes,yes,yes,Very Poor,no,no,Low
+123,M,17,LE3,T,Bachelor,Bachelor,43,64,Pass,4,4,yes,yes,no,yes,Average,no,no,High
+124,M,15,GT3,T,Masters,Masters,51,65,Fail,5,2,no,no,no,yes,Very Poor,no,no,Low
+125,M,17,GT3,A,No schooling,PhD,51,58,Pass,2,2,yes,no,yes,yes,Poor,no,yes,High
+126,M,17,GT3,T,Bachelor,Bachelor,37,66,Fail,8,2,yes,no,no,yes,Average,yes,yes,Low
+127,F,16,LE3,A,SSCE,Masters,45,83,Fail,5,3,no,no,no,yes,Average,yes,no,High
+128,F,15,GT3,T,Masters,SSCE,47,75,Fail,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+129,M,16,GT3,T,SSCE,SSCE,69,52,Pass,5,2,yes,no,yes,yes,Poor,yes,no,High
+130,F,15,GT3,T,Bachelor,SSCE,56,43,Pass,6,3,no,no,no,no,Average,no,no,High
+131,M,15,LE3,T,Bachelor,Bachelor,61,53,Fail,8,2,yes,no,yes,yes,Good,yes,no,Low
+132,M,16,LE3,T,SSCE,Bachelor,40,48,Pass,7,2,yes,no,no,yes,Average,no,no,High
+133,M,14,GT3,T,No schooling,SSCE,66,62,Pass,0,4,no,no,no,yes,Good,no,no,High
+134,M,17,GT3,T,SSCE,SSCE,68,46,Fail,4,4,yes,no,yes,yes,Poor,yes,no,Low
+135,F,15,LE3,T,SSCE,SSCE,35,57,Pass,7,4,yes,no,yes,yes,Poor,yes,no,High
+136,M,16,GT3,T,Masters,PhD,47,66,Fail,7,2,yes,yes,no,yes,Good,yes,no,High
+137,F,16,LE3,A,Masters,SSCE,59,56,Fail,2,4,no,no,yes,yes,Average,yes,yes,High
+138,F,15,GT3,T,Bachelor,Bachelor,61,48,Fail,3,3,yes,yes,no,no,Average,no,no,High
+139,M,16,GT3,T,Bachelor,Bachelor,48,69,Fail,9,2,yes,no,no,yes,Very Good,no,no,High
+140,F,15,GT3,T,Bachelor,SSCE,51,39,Pass,7,3,yes,no,no,no,Average,yes,no,Low
+141,F,16,GT3,T,Masters,Bachelor,49,54,Pass,8,1,yes,yes,yes,no,Very Poor,yes,no,High
+142,M,14,LE3,T,SSCE,Masters,56,57,Fail,4,3,no,yes,no,yes,Very Good,yes,no,Low
+143,F,16,GT3,T,SSCE,SSCE,66,58,Pass,2,3,yes,no,no,yes,Very Poor,yes,no,Low
+144,M,17,LE3,A,SSCE,Masters,47,59,Fail,6,3,no,no,yes,yes,Good,no,no,Low
+145,M,14,GT3,T,Bachelor,SSCE,65,64,Fail,2,2,no,no,yes,yes,Average,yes,no,High
+146,M,15,GT3,T,SSCE,No schooling,47,57,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+147,F,16,GT3,A,SSCE,Masters,46,54,Fail,9,2,yes,yes,yes,yes,Average,yes,yes,High
+148,F,16,LE3,A,No schooling,Masters,63,53,Pass,4,4,yes,no,yes,yes,Average,yes,no,Low
+149,M,16,GT3,T,Bachelor,PhD,64,51,Pass,3,3,yes,yes,no,yes,Good,yes,no,Low
+150,M,16,LE3,A,SSCE,Bachelor,63,65,Fail,4,1,no,no,yes,yes,Very Good,yes,no,High
+151,F,16,LE3,T,SSCE,Masters,41,51,Fail,2,2,no,yes,no,yes,Very Poor,yes,no,Low
+152,M,17,GT3,A,SSCE,Masters,50,66,Pass,7,3,yes,no,no,yes,Good,yes,no,High
+153,M,16,GT3,T,SSCE,Masters,63,58,Pass,7,2,no,yes,no,no,Poor,yes,no,Low
+154,F,15,GT3,T,Bachelor,Bachelor,55,52,Pass,2,3,no,no,yes,yes,Very Poor,yes,yes,Low
+155,F,16,LE3,T,SSCE,SSCE,44,64,Pass,4,2,yes,no,no,yes,Very Good,no,no,Low
+156,M,17,LE3,T,SSCE,Masters,59,50,Pass,4,3,yes,no,no,yes,Average,yes,no,Low
+157,F,15,GT3,T,Bachelor,SSCE,47,64,Pass,5,2,no,yes,yes,yes,Poor,yes,no,High
+158,F,15,GT3,T,SSCE,SSCE,72,60,Fail,6,2,yes,yes,yes,yes,Average,yes,yes,High
+159,M,17,LE3,T,SSCE,SSCE,70,52,Fail,6,4,no,yes,yes,yes,Average,no,no,High
+160,F,15,GT3,T,Masters,Bachelor,61,63,Pass,8,3,no,no,yes,no,Average,yes,yes,Low
+161,M,13,GT3,T,SSCE,SSCE,68,63,Pass,4,1,yes,no,yes,yes,Good,yes,no,Low
+162,F,16,GT3,T,SSCE,No schooling,55,69,Fail,1,4,no,no,yes,yes,Very Good,yes,no,High
+163,F,15,GT3,T,No schooling,Masters,62,67,Fail,4,2,yes,yes,no,yes,Very Poor,no,no,High
+164,F,15,GT3,T,Bachelor,SSCE,69,62,Fail,6,3,yes,no,no,yes,Poor,yes,yes,High
+165,M,16,GT3,A,Bachelor,Bachelor,57,46,Pass,3,2,yes,no,no,yes,Very Poor,no,no,High
+166,F,16,GT3,T,Bachelor,No schooling,52,82,Pass,4,2,yes,yes,no,yes,Very Poor,yes,no,High
+167,M,16,LE3,T,Bachelor,No schooling,37,43,Pass,1,2,no,no,no,yes,Very Good,yes,no,Low
+168,M,15,GT3,T,SSCE,SSCE,54,67,Fail,7,2,yes,yes,no,yes,Very Good,yes,no,High
+169,M,16,GT3,T,SSCE,Bachelor,63,62,Pass,2,4,no,no,no,yes,Good,yes,no,High
+170,F,15,GT3,T,Masters,No schooling,64,46,Pass,9,4,yes,no,yes,yes,Good,yes,no,High
+171,F,16,LE3,T,Masters,Masters,60,56,Pass,6,2,yes,no,yes,no,Good,yes,no,Low
+172,M,16,GT3,A,SSCE,SSCE,49,57,Pass,5,1,yes,no,no,no,Very Poor,yes,no,Low
+173,F,15,GT3,T,Bachelor,SSCE,35,71,Fail,10,4,yes,yes,yes,yes,Poor,yes,no,High
+174,M,17,LE3,T,SSCE,SSCE,50,50,Pass,7,2,yes,no,yes,yes,Average,yes,no,High
+175,F,15,GT3,T,No schooling,No schooling,51,55,Fail,5,2,no,yes,yes,yes,Good,yes,yes,High
+176,M,16,GT3,A,SSCE,Bachelor,51,34,Pass,4,2,yes,yes,no,no,Average,yes,yes,Low
+177,F,16,LE3,T,SSCE,Masters,61,75,Pass,11,2,no,no,yes,yes,Average,yes,no,Low
+178,M,17,GT3,T,Bachelor,Bachelor,74,47,Pass,4,2,yes,no,no,yes,Poor,yes,no,Low
+179,F,15,GT3,T,Bachelor,SSCE,56,61,Pass,3,3,no,yes,yes,yes,Good,yes,no,High
+180,M,15,GT3,T,SSCE,SSCE,52,56,Pass,1,2,no,yes,no,yes,Very Good,yes,no,High
+181,M,15,LE3,T,No schooling,SSCE,52,57,Fail,7,4,yes,no,no,yes,Average,yes,yes,High
+182,M,15,LE3,T,Masters,PhD,56,66,Fail,5,2,no,yes,yes,yes,Good,yes,no,High
+183,F,16,GT3,A,SSCE,SSCE,46,74,Pass,7,2,yes,no,no,yes,Average,yes,no,Low
+184,F,14,LE3,T,Bachelor,Bachelor,56,60,Pass,5,2,no,yes,no,no,Good,yes,no,High
+185,M,14,GT3,T,SSCE,SSCE,59,64,Fail,2,3,no,yes,no,no,Average,yes,yes,High
+186,F,14,LE3,T,Bachelor,SSCE,57,61,Pass,5,1,no,no,no,no,Average,yes,no,High
+187,F,16,LE3,T,SSCE,SSCE,59,68,Pass,9,2,no,no,no,yes,Average,no,no,Low
+188,F,17,LE3,T,No schooling,No schooling,59,53,Pass,11,3,no,no,no,no,Very Poor,no,no,Low
+189,F,15,GT3,T,SSCE,Bachelor,37,68,Fail,6,2,no,no,yes,no,Very Good,no,no,High
+190,M,15,GT3,T,SSCE,SSCE,61,69,Pass,6,3,yes,yes,no,no,Very Good,yes,no,High
+191,M,16,LE3,T,SSCE,Bachelor,48,68,Pass,3,4,no,no,yes,yes,Average,yes,no,High
+192,F,17,LE3,T,Bachelor,No schooling,44,51,Pass,8,2,yes,no,yes,yes,Poor,no,no,High
+193,F,15,LE3,T,SSCE,PhD,43,56,Pass,3,2,no,no,no,yes,Good,yes,no,Low
+194,F,16,GT3,A,No schooling,SSCE,59,60,Pass,8,2,no,no,yes,no,Average,yes,no,Low
+195,M,16,GT3,T,Bachelor,Masters,52,44,Fail,7,3,no,yes,no,yes,Average,yes,no,Low
+196,M,16,GT3,T,Bachelor,Masters,38,73,Fail,6,2,no,yes,no,yes,Very Poor,yes,yes,Low
+197,F,16,GT3,T,PhD,PhD,59,57,Pass,6,3,no,no,no,yes,Very Good,yes,yes,Low
+198,F,17,GT3,T,Bachelor,SSCE,40,60,Pass,3,3,yes,yes,yes,yes,Good,no,no,Low
+199,F,13,LE3,A,Bachelor,Bachelor,56,52,Fail,7,2,yes,no,yes,no,Good,no,no,Low
+200,F,16,GT3,T,Bachelor,SSCE,57,44,Fail,4,3,no,yes,no,yes,Average,yes,no,Low
+201,F,15,LE3,T,Masters,SSCE,63,51,Pass,4,2,yes,yes,no,yes,Good,no,no,High
+202,M,14,LE3,T,Masters,SSCE,72,60,Pass,10,2,no,yes,yes,no,Average,yes,yes,High
+203,M,16,GT3,T,SSCE,SSCE,41,64,Pass,6,3,yes,yes,no,yes,Average,yes,yes,High
+204,F,17,GT3,T,SSCE,PhD,54,59,Pass,2,2,yes,no,no,no,Good,yes,no,Low
+205,F,15,GT3,T,SSCE,No schooling,52,61,Pass,4,2,no,no,yes,yes,Very Good,yes,yes,High
+206,M,16,GT3,A,Bachelor,Bachelor,59,54,Fail,3,3,no,no,no,yes,Very Good,yes,no,High
+207,M,17,GT3,A,Bachelor,Bachelor,57,62,Pass,9,3,yes,yes,yes,yes,Good,yes,no,High
+208,F,17,LE3,T,Bachelor,SSCE,51,72,Fail,6,2,yes,no,no,yes,Good,yes,no,Low
+209,M,17,GT3,T,No schooling,Bachelor,50,65,Fail,3,3,yes,yes,yes,yes,Good,yes,no,Low
+210,M,16,GT3,A,Bachelor,No schooling,43,66,Fail,7,2,yes,no,yes,no,Very Good,no,yes,Low
+211,F,16,GT3,T,Masters,Bachelor,64,60,Pass,5,4,yes,yes,no,yes,Average,yes,no,High
+212,F,14,GT3,T,SSCE,SSCE,59,42,Pass,7,3,no,no,yes,yes,Poor,yes,no,High
+213,F,15,LE3,T,Bachelor,Masters,64,47,Fail,7,2,no,no,no,no,Good,yes,no,High
+214,M,15,GT3,A,SSCE,Bachelor,51,62,Fail,2,2,yes,no,yes,yes,Very Good,no,yes,Low
+215,F,18,GT3,A,Masters,PhD,48,57,Fail,7,3,yes,yes,no,yes,Average,yes,no,Low
+216,M,15,LE3,T,Masters,No schooling,44,62,Pass,3,4,no,no,no,yes,Good,yes,no,Low
+217,M,16,GT3,T,Bachelor,SSCE,58,74,Pass,7,2,no,yes,no,yes,Average,yes,yes,High
+218,F,16,GT3,T,Bachelor,SSCE,44,65,Fail,5,2,yes,no,yes,yes,Very Good,yes,yes,Low
+219,F,16,GT3,T,Masters,No schooling,73,70,Pass,8,1,yes,no,yes,no,Good,yes,no,High
+220,F,17,GT3,T,Bachelor,SSCE,41,58,Pass,3,2,yes,no,no,yes,Average,no,yes,High
+221,F,15,LE3,T,SSCE,Bachelor,57,49,Pass,7,3,yes,no,yes,yes,Good,yes,no,Low
+222,F,16,LE3,T,Masters,SSCE,70,57,Pass,4,1,no,yes,no,yes,Good,no,no,High
+223,M,15,LE3,A,SSCE,SSCE,60,49,Pass,3,3,no,yes,no,yes,Very Good,yes,no,Low
+224,M,14,GT3,T,SSCE,Masters,56,73,Pass,3,4,no,yes,no,no,Very Good,yes,no,Low
+225,M,15,LE3,T,Masters,Bachelor,45,65,Pass,2,4,no,no,yes,yes,Very Poor,yes,no,High
+226,M,15,LE3,T,Bachelor,SSCE,41,63,Fail,9,2,yes,no,no,no,Poor,yes,no,High
+227,F,15,GT3,T,SSCE,SSCE,62,70,Pass,10,3,no,no,no,yes,Good,yes,no,High
+228,M,15,GT3,T,SSCE,SSCE,70,37,Pass,7,4,yes,no,no,yes,Very Good,yes,no,Low
+229,F,14,GT3,A,SSCE,SSCE,50,63,Fail,7,1,yes,no,no,no,Average,no,no,High
+230,F,15,LE3,A,SSCE,Bachelor,43,44,Pass,4,2,no,no,yes,yes,Very Poor,yes,yes,High
+231,F,14,LE3,T,SSCE,SSCE,30,57,Pass,4,4,yes,no,no,yes,Average,yes,no,Low
+232,F,16,LE3,T,Bachelor,Masters,45,54,Fail,5,2,yes,no,no,no,Average,yes,no,High
+233,F,16,GT3,A,SSCE,Bachelor,53,64,Fail,3,4,no,no,yes,yes,Good,yes,no,High
+234,F,14,GT3,T,Bachelor,Bachelor,70,60,Pass,7,2,yes,yes,yes,yes,Very Poor,yes,no,High
+235,M,15,GT3,T,SSCE,SSCE,61,71,Pass,4,1,no,yes,yes,yes,Poor,yes,no,High
+236,F,15,LE3,T,PhD,SSCE,58,51,Fail,4,2,yes,yes,no,no,Very Good,yes,no,High
+237,M,16,GT3,A,SSCE,Bachelor,50,65,Pass,4,2,no,no,no,yes,Poor,no,no,Low
+238,M,17,LE3,T,No schooling,SSCE,49,59,Fail,8,2,yes,no,yes,no,Good,yes,yes,High
+239,F,14,LE3,T,No schooling,SSCE,69,41,Fail,5,2,no,yes,no,yes,Average,yes,no,Low
+240,M,16,GT3,A,Bachelor,SSCE,57,48,Fail,3,2,yes,no,no,no,Good,yes,yes,High
+241,F,15,GT3,T,Bachelor,SSCE,33,56,Pass,11,2,no,yes,no,yes,Very Poor,yes,yes,Low
+242,F,16,LE3,T,SSCE,Bachelor,48,69,Pass,7,1,no,no,no,yes,Average,yes,yes,Low
+243,F,16,LE3,T,SSCE,SSCE,46,62,Fail,5,3,yes,no,no,yes,Average,yes,yes,High
+244,M,15,GT3,A,No schooling,SSCE,49,46,Pass,6,2,yes,no,no,yes,Very Good,yes,no,High
+245,M,15,LE3,T,Bachelor,SSCE,60,56,Pass,2,3,yes,yes,yes,yes,Average,yes,no,High
+246,F,15,LE3,A,Bachelor,Bachelor,53,78,Fail,1,3,no,no,no,yes,Very Poor,no,no,Low
+247,M,17,LE3,T,SSCE,Masters,54,59,Pass,3,2,no,yes,no,no,Good,yes,yes,High
+248,F,16,LE3,T,SSCE,Masters,68,54,Pass,5,1,yes,no,yes,yes,Very Poor,yes,yes,High
+249,F,17,LE3,A,SSCE,SSCE,48,62,Fail,7,4,no,no,yes,no,Very Good,yes,no,High
+250,F,15,GT3,T,SSCE,No schooling,73,65,Pass,3,3,no,no,yes,yes,Poor,yes,no,High
+251,M,15,LE3,T,Bachelor,SSCE,48,53,Pass,4,1,yes,no,no,yes,Average,yes,no,Low
+252,M,14,GT3,T,SSCE,Bachelor,55,63,Pass,2,3,yes,no,no,no,Very Poor,yes,yes,Low
+253,F,14,GT3,T,SSCE,Bachelor,52,54,Fail,5,1,no,no,no,no,Average,no,yes,High
+254,M,14,GT3,T,SSCE,Bachelor,56,65,Pass,2,1,no,yes,no,yes,Average,yes,yes,High
+255,M,16,GT3,T,PhD,SSCE,59,59,Pass,5,2,yes,no,yes,yes,Average,yes,yes,High
+256,F,16,GT3,T,Masters,Bachelor,59,62,Fail,7,1,yes,no,no,yes,Very Poor,yes,no,High
+257,F,14,LE3,A,SSCE,SSCE,47,50,Fail,3,4,yes,yes,yes,yes,Very Good,yes,no,Low
+258,F,16,GT3,T,SSCE,Bachelor,43,49,Pass,6,4,no,no,yes,no,Good,yes,yes,High
+259,F,15,GT3,A,SSCE,SSCE,80,67,Fail,3,3,no,no,yes,yes,Good,no,no,Low
+260,M,16,GT3,T,Bachelor,Bachelor,50,57,Pass,10,1,yes,no,yes,yes,Average,yes,no,High
+261,F,17,GT3,T,No schooling,No schooling,61,60,Fail,5,2,yes,no,yes,yes,Good,no,no,Low
+262,F,16,GT3,T,Bachelor,SSCE,38,54,Pass,3,2,yes,no,yes,yes,Poor,yes,yes,Low
+263,M,15,GT3,T,Bachelor,Bachelor,52,66,Pass,7,2,no,yes,no,yes,Very Good,yes,no,Low
+264,F,15,LE3,T,Masters,SSCE,53,51,Fail,3,2,yes,no,yes,no,Average,yes,no,High
+265,F,13,GT3,T,SSCE,Bachelor,59,56,Pass,5,2,no,no,yes,yes,Good,yes,no,High
+266,F,15,GT3,A,Masters,Bachelor,27,65,Pass,4,2,no,no,no,yes,Good,yes,no,Low
+267,F,15,GT3,A,Masters,Bachelor,56,69,Pass,7,4,no,yes,no,no,Good,no,yes,Low
+268,F,15,LE3,T,SSCE,SSCE,43,52,Fail,4,4,no,no,yes,yes,Very Good,no,no,High
+269,M,15,GT3,A,SSCE,SSCE,58,77,Pass,4,2,yes,yes,yes,no,Average,yes,no,High
+270,M,16,LE3,T,SSCE,Bachelor,44,61,Pass,3,3,no,yes,no,yes,Good,yes,yes,Low
+271,F,15,LE3,T,SSCE,SSCE,46,47,Pass,6,1,no,no,no,yes,Average,yes,no,Low
+272,F,15,GT3,A,SSCE,Bachelor,52,61,Pass,10,2,no,yes,yes,yes,Very Poor,no,no,High
+273,F,16,LE3,T,Bachelor,SSCE,44,54,Pass,3,4,yes,no,yes,no,Average,yes,no,High
+274,F,16,GT3,T,SSCE,SSCE,50,62,Pass,5,3,yes,no,no,no,Good,yes,no,Low
+275,F,14,LE3,T,Masters,SSCE,43,57,Pass,4,2,no,yes,no,yes,Average,yes,no,Low
+276,F,17,GT3,T,SSCE,No schooling,36,58,Pass,5,2,no,no,no,yes,Average,yes,yes,High
+277,F,15,LE3,T,PhD,SSCE,65,48,Fail,2,4,no,yes,yes,yes,Average,yes,no,High
+278,F,16,LE3,T,SSCE,Bachelor,42,67,Fail,3,2,no,no,yes,yes,Good,yes,no,Low
+279,F,16,LE3,A,Masters,Bachelor,53,46,Fail,4,2,no,yes,no,no,Very Good,yes,no,High
+280,F,16,LE3,T,SSCE,SSCE,62,46,Pass,6,4,yes,yes,no,yes,Poor,yes,no,High
+281,F,16,LE3,T,SSCE,PhD,48,61,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+282,M,16,LE3,T,Masters,SSCE,46,74,Pass,4,2,no,no,no,yes,Average,yes,no,High
+283,M,15,GT3,T,SSCE,Masters,57,54,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+284,M,16,LE3,T,Bachelor,Bachelor,66,65,Pass,4,4,no,yes,no,no,Very Good,yes,no,High
+285,F,14,GT3,T,Bachelor,Bachelor,43,68,Pass,5,3,yes,yes,yes,yes,Very Poor,yes,yes,Low
+286,M,16,LE3,A,Bachelor,No schooling,53,66,Pass,6,2,yes,no,no,yes,Poor,yes,no,High
+287,F,15,GT3,A,Bachelor,SSCE,37,54,Pass,9,1,no,no,no,yes,Good,yes,yes,High
+288,F,15,GT3,A,Bachelor,No schooling,51,47,Fail,3,2,yes,no,no,yes,Average,yes,yes,High
+289,M,15,GT3,A,No schooling,Bachelor,55,35,Fail,9,2,no,no,no,yes,Good,yes,no,High
+290,F,14,LE3,T,Bachelor,SSCE,46,55,Fail,6,1,no,yes,yes,no,Good,no,no,Low
+291,M,15,LE3,A,Masters,Bachelor,50,69,Fail,2,2,yes,yes,no,yes,Average,yes,no,Low
+292,M,16,GT3,T,No schooling,SSCE,40,46,Pass,9,1,no,no,yes,yes,Poor,yes,no,Low
+293,F,16,LE3,T,SSCE,Masters,55,65,Pass,4,4,yes,yes,no,no,Poor,no,yes,High
+294,M,14,LE3,T,Bachelor,No schooling,65,48,Fail,5,1,no,yes,yes,yes,Poor,yes,no,High
+295,M,17,LE3,T,SSCE,SSCE,44,59,Pass,5,2,yes,yes,no,yes,Average,yes,no,High
+296,F,15,LE3,T,SSCE,SSCE,48,65,Fail,4,2,no,no,no,yes,Very Good,yes,no,High
+297,F,16,LE3,A,SSCE,SSCE,60,51,Pass,3,3,no,yes,yes,yes,Good,no,no,High
+298,M,16,GT3,T,Bachelor,SSCE,67,59,Pass,5,1,yes,no,no,yes,Very Poor,yes,yes,High
+299,F,15,LE3,T,SSCE,Bachelor,40,53,Fail,4,2,no,no,no,yes,Very Good,yes,no,Low
+300,M,17,GT3,T,Bachelor,No schooling,53,65,Pass,3,3,no,yes,no,yes,Very Poor,yes,yes,Low
+301,M,14,LE3,T,Masters,SSCE,57,60,Pass,5,4,no,no,yes,yes,Good,yes,yes,High
+302,F,16,LE3,T,SSCE,Masters,53,58,Pass,6,3,no,no,no,yes,Poor,yes,no,High
+303,F,17,GT3,T,Bachelor,No schooling,30,73,Fail,9,1,yes,yes,no,yes,Very Poor,yes,no,Low
+304,F,15,LE3,T,PhD,Masters,60,64,Pass,3,1,no,yes,yes,yes,Good,yes,no,High
+305,F,17,GT3,T,Bachelor,PhD,70,51,Pass,5,3,yes,yes,no,no,Average,yes,no,High
+306,F,15,GT3,T,Masters,No schooling,56,57,Pass,7,2,no,no,no,no,Average,yes,no,High
+307,F,16,LE3,T,SSCE,SSCE,44,57,Pass,5,2,yes,no,no,yes,Average,yes,yes,High
+308,M,16,GT3,T,Masters,SSCE,49,58,Pass,2,4,yes,yes,no,no,Very Poor,yes,yes,High
+309,F,15,LE3,T,No schooling,Bachelor,72,83,Pass,5,3,yes,no,no,yes,Good,yes,yes,High
+310,M,16,GT3,T,SSCE,Bachelor,64,61,Fail,7,3,yes,no,no,no,Good,yes,no,High
+311,M,16,LE3,T,SSCE,Bachelor,61,37,Fail,8,4,no,yes,yes,yes,Very Poor,yes,no,Low
+312,M,14,GT3,T,SSCE,Bachelor,58,52,Pass,2,3,yes,no,yes,yes,Average,yes,no,High
+313,M,17,LE3,T,Masters,No schooling,48,38,Fail,3,3,no,yes,no,no,Average,yes,yes,High
+314,F,14,GT3,T,SSCE,Masters,52,54,Pass,6,2,yes,no,yes,no,Good,yes,yes,High
+315,F,17,GT3,T,Bachelor,Bachelor,54,38,Pass,3,4,no,yes,no,yes,Average,yes,no,High
+316,F,17,GT3,T,Bachelor,Bachelor,60,49,Pass,6,2,no,no,no,no,Good,yes,no,High
+317,M,14,GT3,T,Bachelor,Masters,70,42,Pass,10,2,yes,yes,yes,yes,Very Good,no,yes,High
+318,M,15,GT3,A,SSCE,Bachelor,66,61,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+319,M,14,GT3,A,Bachelor,SSCE,40,58,Pass,6,1,yes,yes,no,yes,Average,no,no,High
+320,M,15,LE3,T,SSCE,SSCE,57,61,Fail,5,2,yes,no,yes,yes,Good,yes,yes,Low
+321,F,15,LE3,T,No schooling,SSCE,62,56,Pass,3,2,yes,yes,no,no,Average,yes,yes,High
+322,F,16,LE3,T,PhD,No schooling,61,44,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+323,F,17,LE3,A,SSCE,PhD,48,63,Pass,5,2,yes,yes,no,yes,Good,yes,no,Low
+324,M,17,LE3,A,No schooling,No schooling,84,77,Pass,5,2,no,yes,yes,yes,Good,no,no,Low
+325,F,15,GT3,T,Masters,Bachelor,42,62,Pass,9,1,yes,no,yes,no,Average,yes,yes,Low
+326,F,15,LE3,A,SSCE,SSCE,44,53,Pass,6,2,no,no,yes,yes,Poor,yes,no,Low
+327,F,14,GT3,T,Bachelor,No schooling,57,43,Fail,4,3,no,no,yes,yes,Average,yes,yes,High
+328,F,15,LE3,T,SSCE,Masters,76,48,Fail,3,2,yes,no,no,yes,Very Good,yes,yes,High
+329,M,16,LE3,T,SSCE,Masters,46,62,Pass,4,2,yes,yes,no,yes,Very Good,no,yes,Low
+330,M,17,GT3,T,SSCE,SSCE,52,68,Fail,2,2,yes,yes,yes,no,Good,yes,no,Low
+331,M,14,GT3,A,SSCE,SSCE,65,60,Fail,5,4,yes,no,yes,yes,Good,yes,no,High
+332,F,15,GT3,T,SSCE,No schooling,54,65,Fail,4,3,no,no,no,yes,Poor,no,yes,Low
+333,M,15,GT3,T,Bachelor,SSCE,51,65,Pass,2,1,yes,no,no,no,Average,no,no,High
+334,M,16,LE3,A,Bachelor,SSCE,60,63,Fail,5,4,yes,no,no,yes,Poor,yes,no,High
+335,M,15,GT3,A,Masters,SSCE,57,51,Pass,11,3,yes,yes,yes,yes,Good,yes,yes,High
+336,M,16,LE3,T,No schooling,PhD,65,59,Fail,4,3,no,yes,no,yes,Average,yes,no,High
+337,F,15,LE3,T,Bachelor,Bachelor,67,49,Pass,6,2,no,no,no,yes,Good,yes,no,Low
+338,F,15,GT3,T,Bachelor,Masters,58,58,Pass,2,3,no,no,yes,no,Good,no,no,Low
+339,F,16,LE3,T,Masters,Bachelor,57,61,Pass,4,2,no,yes,no,yes,Very Good,no,no,High
+340,M,16,LE3,A,No schooling,SSCE,57,74,Pass,9,3,yes,no,no,no,Good,yes,no,High
+341,F,15,GT3,A,Bachelor,Masters,59,44,Fail,2,4,yes,no,no,yes,Average,yes,yes,High
+342,F,15,GT3,T,Masters,SSCE,55,62,Pass,5,4,yes,no,no,yes,Average,yes,no,High
+343,M,15,LE3,T,SSCE,Masters,54,72,Pass,4,2,no,no,no,yes,Average,yes,yes,High
+344,M,15,LE3,T,Masters,SSCE,66,65,Fail,5,4,no,yes,yes,no,Poor,yes,no,High
+345,M,15,LE3,A,No schooling,No schooling,70,66,Pass,3,1,yes,no,yes,yes,Poor,yes,no,High
+346,F,17,LE3,T,Bachelor,Masters,39,63,Pass,4,1,yes,no,no,yes,Poor,yes,yes,High
+347,F,16,GT3,T,Masters,Bachelor,55,70,Pass,5,2,yes,no,no,yes,Very Good,yes,no,Low
+348,M,15,LE3,T,Bachelor,Masters,48,47,Pass,7,3,no,yes,no,yes,Poor,yes,no,Low
+349,M,16,GT3,T,SSCE,Masters,51,44,Pass,6,2,no,no,no,yes,Good,yes,no,High
+350,F,15,LE3,T,No schooling,No schooling,59,57,Pass,5,2,yes,yes,no,yes,Poor,no,no,High
+351,F,17,GT3,T,Masters,SSCE,61,36,Fail,7,1,yes,yes,no,no,Very Good,yes,no,Low
+352,F,16,LE3,A,Bachelor,SSCE,53,70,Fail,5,3,yes,no,no,no,Average,yes,yes,Low
+353,F,15,GT3,A,No schooling,Bachelor,35,70,Pass,9,4,no,no,no,yes,Average,yes,no,High
+354,M,16,LE3,T,Bachelor,Bachelor,45,53,Pass,5,3,no,no,no,yes,Average,no,yes,High
+355,M,14,GT3,T,Bachelor,SSCE,63,54,Pass,5,2,yes,no,no,yes,Good,no,yes,High
+356,F,14,LE3,T,SSCE,Bachelor,27,57,Fail,8,4,yes,no,no,yes,Poor,yes,no,High
+357,M,14,LE3,T,SSCE,Bachelor,66,58,Pass,4,3,yes,yes,yes,yes,Good,yes,no,High
+358,F,16,GT3,T,No schooling,No schooling,60,59,Fail,2,3,no,no,yes,yes,Good,yes,no,High
+359,F,17,GT3,A,Bachelor,Masters,68,63,Pass,5,3,no,no,no,no,Poor,yes,no,Low
+360,F,18,GT3,T,Bachelor,Bachelor,53,56,Fail,3,4,no,no,yes,yes,Very Poor,yes,no,High
+361,M,16,GT3,T,Bachelor,Masters,34,67,Pass,2,3,no,no,yes,yes,Good,yes,no,Low
+362,F,16,GT3,A,Masters,SSCE,59,62,Fail,5,2,yes,no,no,no,Poor,yes,no,High
+363,F,14,LE3,A,Masters,No schooling,67,51,Pass,8,2,no,no,yes,no,Very Good,yes,no,High
+364,F,15,LE3,T,Bachelor,SSCE,64,71,Fail,3,3,yes,no,no,yes,Poor,yes,no,High
+365,F,15,LE3,T,No schooling,No schooling,48,44,Pass,4,2,yes,no,yes,yes,Good,yes,no,Low
+366,M,15,GT3,T,Bachelor,PhD,55,57,Pass,11,3,no,no,yes,yes,Good,yes,no,High
+367,F,15,LE3,T,SSCE,No schooling,49,67,Pass,4,2,no,no,no,yes,Good,yes,no,High
+368,F,15,LE3,T,Bachelor,Bachelor,46,50,Fail,7,2,no,yes,no,no,Average,no,yes,High
+369,M,14,GT3,T,Bachelor,SSCE,64,61,Fail,1,2,no,yes,yes,no,Very Good,yes,no,High
+370,M,16,GT3,A,SSCE,SSCE,43,63,Pass,3,3,no,yes,no,no,Good,yes,yes,High
+371,M,14,LE3,T,Masters,No schooling,46,49,Pass,2,3,yes,no,no,yes,Average,yes,yes,High
+372,M,16,LE3,T,SSCE,Bachelor,43,57,Pass,6,1,no,yes,no,yes,Good,yes,no,High
+373,M,18,LE3,T,Bachelor,Bachelor,40,56,Fail,3,2,no,no,no,yes,Average,yes,no,High
+374,F,15,LE3,T,No schooling,SSCE,56,52,Fail,5,1,no,no,yes,yes,Very Good,yes,no,Low
+375,M,13,LE3,A,Masters,Masters,66,81,Fail,8,1,no,no,no,yes,Very Good,no,no,High
+376,M,15,GT3,T,SSCE,SSCE,53,50,Pass,8,2,no,yes,yes,yes,Poor,no,yes,High
+377,F,17,GT3,T,No schooling,SSCE,39,68,Fail,2,3,no,yes,yes,yes,Average,no,yes,High
+378,M,17,GT3,T,SSCE,SSCE,63,54,Fail,6,4,yes,no,no,yes,Very Good,yes,no,Low
+379,F,14,LE3,T,SSCE,No schooling,71,47,Fail,7,2,no,no,no,yes,Poor,yes,yes,High
+380,M,16,GT3,T,SSCE,Masters,48,59,Pass,3,2,no,no,no,yes,Very Good,yes,no,High
+381,M,15,LE3,T,Bachelor,SSCE,50,64,Fail,4,3,yes,no,yes,yes,Good,yes,no,High
+382,F,15,GT3,T,SSCE,No schooling,60,67,Pass,8,4,no,no,no,yes,Very Poor,yes,yes,Low
+383,F,18,GT3,T,No schooling,SSCE,71,73,Pass,6,4,yes,no,no,yes,Average,no,yes,High
+384,F,14,LE3,T,SSCE,Bachelor,49,87,Pass,5,1,yes,no,no,no,Average,yes,no,Low
+385,F,16,LE3,A,Masters,SSCE,41,60,Pass,2,2,no,no,yes,yes,Good,yes,no,Low
+386,F,16,GT3,A,Bachelor,Bachelor,61,51,Pass,6,1,no,no,no,no,Average,yes,yes,High
+387,M,17,LE3,T,Bachelor,No schooling,62,62,Pass,5,3,yes,no,yes,no,Average,yes,yes,High
+388,M,16,GT3,T,Bachelor,SSCE,55,55,Pass,8,3,no,no,no,yes,Very Good,yes,no,Low
+389,F,16,LE3,T,SSCE,Masters,49,67,Fail,3,2,no,yes,no,yes,Very Poor,yes,no,High
+390,F,15,GT3,T,No schooling,No schooling,64,45,Pass,5,4,no,no,yes,yes,Average,yes,no,High
+391,F,16,LE3,T,SSCE,Masters,60,81,Pass,4,2,no,no,yes,yes,Average,yes,no,High
+392,M,15,LE3,A,Masters,No schooling,47,66,Pass,7,4,no,no,yes,yes,Very Poor,yes,no,High
+393,M,16,GT3,A,PhD,Masters,55,41,Fail,9,1,no,yes,no,no,Very Poor,yes,no,High
+394,F,15,LE3,T,Bachelor,SSCE,41,50,Fail,6,1,no,yes,yes,yes,Average,yes,yes,Low
+395,M,16,LE3,T,No schooling,Bachelor,61,66,Pass,13,2,yes,yes,no,no,Poor,no,no,Low
+396,F,15,LE3,A,SSCE,SSCE,52,69,Fail,3,1,yes,yes,yes,no,Average,yes,no,High
+397,F,17,LE3,A,SSCE,No schooling,50,45,Pass,7,3,yes,yes,yes,yes,Good,no,yes,High
+398,M,15,LE3,T,Bachelor,SSCE,54,65,Fail,5,1,no,no,no,yes,Good,yes,yes,Low
+399,F,14,LE3,T,No schooling,No schooling,55,38,Pass,6,3,yes,no,no,yes,Average,no,yes,High
+400,F,17,GT3,T,Masters,SSCE,63,57,Pass,11,1,yes,no,no,yes,Average,yes,no,Low
+401,M,15,LE3,T,SSCE,SSCE,60,69,Pass,7,2,no,no,yes,yes,Poor,yes,no,High
+402,F,15,GT3,T,Masters,Bachelor,53,52,Pass,4,3,no,yes,yes,no,Poor,yes,yes,Low
+403,F,15,LE3,T,Masters,Bachelor,62,42,Pass,8,4,no,no,no,yes,Average,no,no,High
+404,F,17,LE3,T,Masters,Bachelor,59,59,Fail,6,2,yes,no,no,yes,Very Good,no,no,High
+405,M,13,GT3,T,Bachelor,Bachelor,50,51,Fail,4,4,yes,no,no,no,Poor,yes,no,High
+406,F,19,LE3,T,Bachelor,SSCE,53,64,Pass,4,3,yes,yes,yes,yes,Average,yes,no,High
+407,M,17,GT3,T,Bachelor,SSCE,53,49,Pass,7,2,yes,no,yes,yes,Good,yes,no,Low
+408,M,16,LE3,A,Bachelor,SSCE,60,50,Pass,8,3,yes,yes,no,yes,Good,yes,no,Low
+409,F,15,GT3,A,Bachelor,Masters,51,37,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+410,M,16,GT3,T,PhD,SSCE,51,59,Fail,8,2,yes,no,no,no,Poor,yes,no,High
+411,M,16,GT3,T,Bachelor,No schooling,74,56,Pass,6,3,no,yes,no,no,Very Poor,yes,yes,Low
+412,F,16,GT3,A,Masters,Bachelor,64,46,Fail,8,2,yes,yes,yes,yes,Average,no,no,High
+413,F,16,GT3,T,Masters,SSCE,47,59,Pass,3,1,yes,no,no,yes,Poor,yes,yes,Low
+414,F,16,LE3,T,SSCE,Masters,60,68,Pass,3,1,no,no,no,yes,Average,yes,no,High
+415,F,15,LE3,T,No schooling,Masters,56,55,Pass,7,3,no,no,yes,no,Very Good,yes,yes,High
+416,M,15,GT3,T,Bachelor,No schooling,58,60,Pass,6,3,no,yes,no,yes,Good,yes,yes,Low
+417,M,15,LE3,T,Bachelor,No schooling,56,60,Pass,6,2,yes,yes,no,yes,Poor,yes,yes,Low
+418,M,17,LE3,A,Masters,SSCE,66,45,Fail,4,4,no,yes,yes,yes,Poor,yes,no,Low
+419,F,16,GT3,T,SSCE,Bachelor,58,78,Pass,3,2,no,no,no,no,Very Good,no,yes,High
+420,F,13,LE3,T,Bachelor,SSCE,54,53,Pass,7,3,no,yes,no,yes,Average,yes,no,Low
+421,F,16,GT3,A,Bachelor,Bachelor,65,64,Fail,7,4,yes,yes,no,yes,Very Good,yes,yes,Low
+422,F,16,GT3,T,No schooling,Bachelor,57,65,Pass,7,3,yes,no,no,no,Good,yes,no,Low
+423,M,15,GT3,T,Bachelor,SSCE,56,56,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+424,F,15,GT3,T,Masters,No schooling,58,64,Pass,4,3,no,no,no,yes,Very Good,yes,no,Low
+425,M,17,LE3,T,SSCE,Bachelor,54,60,Pass,4,2,no,no,no,yes,Average,yes,no,High
+426,F,16,LE3,T,Bachelor,SSCE,55,43,Fail,7,3,no,no,no,no,Good,yes,yes,High
+427,M,15,GT3,T,Bachelor,Masters,49,54,Fail,5,2,no,no,yes,yes,Average,yes,yes,High
+428,F,16,LE3,T,SSCE,SSCE,47,51,Pass,4,2,no,no,no,yes,Poor,no,no,Low
+429,M,15,GT3,T,SSCE,Bachelor,45,53,Pass,3,2,no,no,yes,yes,Poor,yes,no,High
+430,M,14,GT3,T,PhD,Masters,41,44,Fail,3,1,yes,no,yes,no,Average,yes,no,High
+431,M,15,GT3,T,SSCE,Masters,46,69,Pass,3,2,yes,no,yes,yes,Poor,yes,no,Low
+432,F,16,LE3,T,SSCE,SSCE,53,74,Pass,6,4,no,no,no,yes,Poor,yes,no,High
+433,F,16,GT3,T,SSCE,SSCE,56,67,Fail,5,1,no,no,yes,yes,Average,yes,no,High
+434,M,16,GT3,T,Bachelor,Bachelor,52,70,Fail,5,2,yes,no,no,yes,Very Good,yes,no,Low
+435,M,16,GT3,A,Bachelor,SSCE,31,54,Fail,4,2,no,no,no,no,Average,yes,no,High
+436,F,16,LE3,T,Bachelor,SSCE,70,51,Fail,8,3,no,no,no,yes,Average,yes,yes,High
+437,M,15,GT3,T,No schooling,Masters,65,50,Fail,7,2,yes,yes,yes,no,Poor,yes,no,High
+438,F,16,GT3,T,Masters,SSCE,59,64,Fail,4,1,no,no,no,no,Poor,no,yes,High
+439,F,16,GT3,T,SSCE,No schooling,74,60,Fail,3,2,no,no,yes,no,Good,yes,no,High
+440,M,16,GT3,T,SSCE,No schooling,45,57,Pass,4,3,no,no,yes,yes,Good,yes,yes,Low
+441,M,17,LE3,A,Bachelor,Bachelor,73,70,Pass,7,1,no,yes,no,yes,Average,yes,no,Low
+442,F,16,GT3,A,SSCE,Bachelor,45,62,Fail,9,2,yes,no,yes,yes,Average,no,no,High
+443,M,16,GT3,T,Masters,SSCE,57,49,Fail,8,3,no,yes,no,no,Good,no,yes,High
+444,M,17,LE3,T,Masters,SSCE,42,51,Pass,3,1,no,no,no,no,Very Poor,no,yes,High
+445,F,15,GT3,T,SSCE,SSCE,55,64,Pass,5,2,yes,yes,yes,yes,Average,yes,yes,High
+446,F,15,GT3,T,Masters,Bachelor,58,68,Fail,6,2,yes,no,no,no,Good,yes,yes,Low
+447,F,15,GT3,T,Masters,No schooling,53,63,Pass,7,4,no,no,yes,no,Good,yes,yes,High
+448,F,15,GT3,T,Masters,Masters,62,76,Pass,6,2,no,no,yes,no,Very Poor,no,no,Low
+449,M,15,GT3,A,SSCE,SSCE,55,74,Fail,5,2,yes,no,no,yes,Poor,no,no,Low
+450,M,15,GT3,T,Bachelor,PhD,49,62,Fail,8,2,yes,yes,yes,no,Good,yes,no,Low
+451,F,15,LE3,T,SSCE,SSCE,49,49,Fail,7,4,yes,yes,no,no,Average,yes,no,High
+452,F,15,LE3,T,Masters,Bachelor,63,44,Fail,4,1,yes,no,yes,yes,Good,yes,no,High
+453,M,14,GT3,T,No schooling,SSCE,48,54,Pass,6,2,no,yes,no,no,Very Poor,yes,yes,High
+454,F,16,GT3,T,Bachelor,No schooling,64,65,Fail,9,3,no,no,no,yes,Poor,no,no,Low
+455,M,16,GT3,A,SSCE,Masters,67,76,Pass,6,4,yes,no,no,yes,Average,yes,no,High
+456,F,15,GT3,T,SSCE,Masters,38,62,Fail,5,3,no,yes,no,no,Very Good,yes,yes,High
+457,M,16,LE3,T,Bachelor,SSCE,66,69,Pass,4,2,no,yes,no,yes,Good,yes,no,Low
+458,F,16,GT3,T,Masters,Bachelor,75,55,Pass,3,2,yes,yes,no,no,Very Good,yes,yes,High
+459,M,14,LE3,T,Bachelor,Bachelor,57,64,Pass,0,2,no,no,yes,yes,Average,yes,yes,High
+460,M,15,GT3,A,Masters,Masters,60,66,Pass,6,3,no,yes,no,yes,Good,no,yes,High
+461,M,15,GT3,T,SSCE,SSCE,65,38,Fail,3,3,yes,yes,no,yes,Very Good,no,no,High
+462,F,15,LE3,T,Bachelor,SSCE,52,53,Fail,4,3,yes,no,no,yes,Average,yes,no,Low
+463,F,16,LE3,A,Bachelor,SSCE,56,67,Fail,4,2,no,no,no,no,Very Good,yes,no,High
+464,F,15,GT3,T,No schooling,SSCE,41,60,Fail,8,3,yes,no,no,yes,Very Good,yes,no,High
+465,F,15,GT3,T,Bachelor,Masters,56,46,Pass,3,4,yes,no,no,yes,Very Good,yes,no,Low
+466,M,13,LE3,T,Bachelor,SSCE,59,33,Fail,4,4,no,yes,no,yes,Very Good,no,no,High
+467,M,16,GT3,A,Bachelor,No schooling,60,54,Fail,2,3,no,yes,no,no,Good,yes,no,High
+468,F,14,GT3,T,Bachelor,Bachelor,65,57,Fail,5,3,no,yes,no,yes,Very Good,yes,no,High
+469,M,16,GT3,T,Bachelor,Bachelor,47,49,Pass,7,2,yes,no,yes,no,Average,no,no,Low
+470,F,16,GT3,T,No schooling,SSCE,49,59,Fail,9,2,no,yes,no,yes,Good,yes,no,Low
+471,M,17,GT3,T,SSCE,SSCE,73,63,Fail,8,1,no,no,no,yes,Poor,yes,no,High
+472,F,14,GT3,T,Bachelor,Masters,53,64,Pass,10,2,no,no,no,no,Good,yes,no,High
+473,M,12,GT3,T,SSCE,SSCE,57,34,Fail,6,2,yes,no,no,yes,Good,no,yes,Low
+474,F,16,GT3,T,No schooling,Bachelor,54,44,Fail,14,2,yes,yes,no,yes,Good,no,no,High
+475,F,17,LE3,T,SSCE,Bachelor,46,54,Pass,3,3,no,no,yes,no,Good,no,yes,High
+476,F,17,GT3,T,Bachelor,SSCE,71,63,Fail,6,2,no,no,yes,yes,Average,no,no,High
+477,M,16,LE3,T,SSCE,Masters,49,62,Fail,8,1,no,no,yes,no,Average,yes,no,Low
+478,F,15,LE3,A,Bachelor,Bachelor,43,62,Fail,4,1,yes,no,yes,no,Very Poor,yes,yes,Low
+479,F,16,LE3,T,Bachelor,SSCE,50,54,Pass,6,1,no,no,no,yes,Poor,yes,no,Low
+480,F,15,LE3,T,SSCE,Bachelor,34,54,Fail,8,2,no,no,no,yes,Good,no,no,Low
+481,F,16,GT3,T,Masters,Bachelor,48,50,Pass,9,4,no,yes,yes,yes,Average,yes,no,Low
+482,F,16,LE3,T,Bachelor,Bachelor,45,65,Pass,6,2,yes,yes,yes,no,Poor,no,yes,High
+483,F,17,GT3,A,Bachelor,Masters,61,48,Fail,9,2,no,no,yes,no,Poor,yes,yes,High
+484,F,18,GT3,A,Bachelor,SSCE,48,66,Fail,1,1,no,no,yes,yes,Average,no,yes,Low
+485,F,16,GT3,A,No schooling,SSCE,63,60,Fail,6,3,no,no,no,yes,Good,yes,yes,High
+486,F,15,LE3,T,Bachelor,SSCE,68,57,Pass,6,3,no,no,yes,yes,Good,yes,no,Low
+487,M,15,GT3,T,SSCE,No schooling,62,51,Pass,7,2,yes,no,yes,yes,Very Poor,yes,no,Low
+488,M,14,GT3,T,Masters,No schooling,52,44,Fail,4,4,no,yes,no,yes,Good,yes,yes,High
+489,F,15,GT3,T,Masters,Masters,56,51,Pass,13,3,yes,no,yes,no,Average,yes,yes,High
+490,F,15,GT3,T,Bachelor,Bachelor,39,54,Fail,3,2,no,no,no,no,Good,yes,no,High
+491,F,15,GT3,A,SSCE,Bachelor,53,34,Fail,5,2,yes,no,no,no,Poor,yes,no,High
+492,F,16,GT3,T,SSCE,Bachelor,46,56,Fail,4,2,yes,yes,yes,yes,Very Good,yes,no,Low
+493,M,15,LE3,T,SSCE,Masters,61,67,Pass,4,2,no,no,no,no,Very Poor,yes,yes,High
+494,M,17,GT3,T,Bachelor,SSCE,80,63,Fail,8,3,yes,yes,no,no,Good,yes,no,Low
+495,F,16,LE3,A,SSCE,Masters,59,53,Fail,3,1,no,yes,yes,yes,Average,no,yes,High
+496,M,15,GT3,T,Bachelor,SSCE,35,58,Pass,2,2,yes,no,yes,yes,Very Poor,no,no,Low
+497,F,15,LE3,T,SSCE,Masters,51,52,Pass,4,2,no,no,no,no,Very Poor,yes,no,High
+498,M,16,LE3,A,PhD,Bachelor,56,59,Pass,5,2,no,no,no,no,Average,no,no,High
+499,F,16,GT3,T,SSCE,SSCE,55,73,Pass,5,4,yes,no,no,yes,Good,no,yes,High
+500,F,15,GT3,T,Masters,Bachelor,47,67,Fail,6,2,no,yes,yes,yes,Very Poor,no,yes,High
+501,F,15,LE3,T,Masters,SSCE,57,63,Fail,7,1,yes,yes,yes,yes,Good,no,no,Low
+502,F,15,GT3,T,Bachelor,No schooling,42,53,Fail,6,3,yes,no,no,no,Good,yes,no,Low
+503,M,14,GT3,A,Bachelor,Bachelor,45,65,Pass,4,2,yes,yes,no,no,Average,yes,no,High
+504,F,15,LE3,T,SSCE,SSCE,61,41,Fail,10,1,no,no,no,yes,Very Poor,yes,yes,High
+505,F,15,GT3,T,Bachelor,No schooling,44,55,Pass,7,2,yes,no,yes,yes,Very Good,yes,no,Low
+506,M,16,LE3,T,SSCE,Masters,60,63,Fail,5,2,yes,yes,no,no,Average,yes,no,Low
+507,F,16,GT3,T,SSCE,Bachelor,41,65,Fail,2,2,no,no,no,no,Poor,yes,no,High
+508,F,16,GT3,T,Bachelor,Masters,72,64,Fail,5,2,yes,yes,no,no,Good,yes,yes,High
+509,F,16,LE3,T,Bachelor,Bachelor,47,60,Fail,4,1,yes,no,yes,no,Poor,yes,no,High
+510,F,15,GT3,T,Bachelor,SSCE,52,56,Fail,3,2,yes,no,no,yes,Average,yes,yes,High
+511,F,16,LE3,T,SSCE,SSCE,58,63,Fail,2,1,yes,no,no,no,Very Poor,yes,no,High
+512,M,15,GT3,A,SSCE,Bachelor,49,48,Fail,2,4,yes,no,yes,yes,Very Good,no,no,High
+513,F,16,GT3,T,No schooling,PhD,56,49,Pass,6,2,yes,yes,no,no,Average,yes,no,High
+514,F,15,GT3,T,No schooling,SSCE,60,58,Fail,12,3,yes,yes,no,yes,Very Good,no,yes,High
+515,M,13,LE3,T,SSCE,Masters,64,59,Fail,7,3,yes,no,yes,no,Average,yes,yes,High
+516,M,15,LE3,A,No schooling,Masters,62,39,Pass,1,2,yes,no,no,no,Average,yes,no,High
+517,M,17,LE3,T,SSCE,Bachelor,53,62,Pass,8,3,no,yes,yes,yes,Very Good,yes,no,High
+518,F,16,LE3,T,Masters,Masters,53,65,Fail,4,3,no,no,no,yes,Average,yes,yes,High
+519,F,16,GT3,T,No schooling,SSCE,78,57,Pass,3,2,yes,no,no,yes,Average,yes,no,High
+520,M,17,GT3,T,Bachelor,PhD,64,81,Pass,10,4,no,no,no,no,Very Poor,no,no,High
+521,F,16,GT3,T,SSCE,Bachelor,45,51,Fail,2,1,no,yes,no,no,Very Good,yes,no,Low
+522,M,16,GT3,A,Masters,No schooling,55,54,Fail,7,2,no,no,no,no,Very Poor,no,no,High
+523,F,15,GT3,A,Bachelor,Masters,51,54,Fail,3,3,yes,yes,no,yes,Good,yes,yes,Low
+524,F,15,GT3,T,SSCE,SSCE,53,57,Pass,5,2,no,no,no,yes,Average,yes,no,High
+525,F,16,GT3,T,Bachelor,SSCE,42,54,Pass,5,3,yes,yes,yes,yes,Very Poor,yes,no,High
+526,F,17,GT3,T,SSCE,Bachelor,50,43,Pass,9,4,no,no,yes,yes,Very Poor,yes,no,High
+527,M,15,LE3,T,Bachelor,No schooling,73,52,Pass,2,4,yes,no,no,yes,Very Good,yes,no,High
+528,M,15,LE3,A,SSCE,SSCE,60,57,Pass,7,2,yes,no,yes,no,Good,yes,no,High
+529,M,16,GT3,T,PhD,Masters,30,70,Fail,5,4,yes,no,no,yes,Good,no,yes,High
+530,F,16,LE3,T,SSCE,No schooling,67,80,Pass,6,2,no,yes,no,no,Average,yes,no,High
+531,F,14,LE3,T,SSCE,SSCE,65,71,Pass,4,2,no,no,yes,yes,Poor,no,no,High
+532,F,13,GT3,T,Bachelor,No schooling,51,50,Pass,5,2,yes,no,yes,yes,Good,yes,yes,Low
+533,F,15,GT3,T,SSCE,SSCE,62,51,Pass,6,3,yes,yes,no,yes,Good,yes,no,High
+534,F,14,GT3,T,Masters,Bachelor,46,56,Pass,10,2,no,no,no,yes,Good,yes,no,Low
+535,F,15,LE3,T,Bachelor,Bachelor,50,75,Pass,7,2,no,no,yes,no,Average,yes,no,High
+536,F,15,LE3,A,Bachelor,Masters,69,56,Fail,2,2,no,no,no,yes,Very Good,yes,yes,High
+537,F,15,GT3,T,SSCE,Bachelor,52,44,Pass,7,2,no,no,no,yes,Very Poor,yes,yes,Low
+538,M,17,GT3,T,Masters,SSCE,36,52,Pass,5,4,yes,yes,no,no,Very Poor,yes,no,High
+539,F,16,GT3,T,Bachelor,Masters,54,65,Pass,9,2,yes,no,no,no,Very Good,yes,no,Low
+540,M,16,GT3,T,SSCE,Bachelor,54,64,Pass,4,2,yes,no,yes,yes,Good,yes,yes,High
+541,F,16,GT3,T,SSCE,Bachelor,66,55,Pass,7,3,yes,yes,no,yes,Average,yes,no,High
+542,F,14,GT3,T,SSCE,Bachelor,55,64,Pass,3,2,no,no,yes,yes,Good,no,yes,High
+543,M,17,LE3,T,PhD,Masters,50,35,Pass,7,3,yes,no,yes,yes,Average,yes,no,High
+544,F,15,GT3,T,SSCE,Bachelor,65,59,Fail,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+545,F,16,GT3,A,Bachelor,SSCE,56,66,Pass,3,2,yes,no,yes,no,Good,yes,no,High
+546,M,14,GT3,T,No schooling,Bachelor,47,49,Pass,5,1,yes,no,no,yes,Poor,no,no,High
+547,M,14,GT3,T,SSCE,No schooling,66,49,Pass,4,1,no,no,yes,yes,Poor,yes,no,High
+548,F,16,GT3,T,Bachelor,SSCE,56,39,Pass,7,3,yes,yes,no,yes,Poor,yes,no,High
+549,F,16,LE3,T,PhD,SSCE,55,73,Pass,6,2,yes,no,no,no,Average,yes,no,Low
+550,F,15,GT3,T,Bachelor,SSCE,56,50,Pass,3,4,no,yes,no,yes,Very Poor,no,no,High
+551,F,15,LE3,A,Masters,No schooling,44,60,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+552,F,17,GT3,T,Bachelor,No schooling,49,64,Pass,2,2,yes,no,no,yes,Average,yes,no,High
+553,F,14,LE3,A,No schooling,Bachelor,55,73,Pass,6,3,no,no,yes,yes,Average,yes,no,High
+554,F,17,LE3,T,SSCE,Masters,53,56,Pass,5,3,yes,no,no,yes,Good,yes,no,High
+555,F,15,GT3,T,Bachelor,PhD,67,52,Pass,6,3,no,no,yes,yes,Good,yes,no,Low
+556,M,16,GT3,T,PhD,SSCE,57,59,Fail,5,3,no,no,no,yes,Good,no,no,Low
+557,M,15,GT3,A,Masters,Bachelor,63,70,Fail,6,2,yes,no,yes,yes,Poor,yes,yes,High
+558,M,16,LE3,T,SSCE,Masters,55,56,Fail,3,3,yes,no,no,yes,Poor,yes,no,High
+559,F,15,GT3,A,SSCE,SSCE,65,48,Fail,5,2,no,no,yes,no,Very Good,yes,no,High
+560,F,15,LE3,A,SSCE,Bachelor,58,42,Fail,8,2,yes,no,yes,yes,Poor,yes,no,Low
+561,F,16,GT3,A,Masters,Bachelor,55,45,Fail,6,4,no,no,no,no,Very Poor,yes,no,High
+562,M,14,GT3,T,Masters,No schooling,54,66,Fail,4,2,yes,no,no,yes,Good,yes,no,Low
+563,M,16,GT3,T,Masters,Masters,45,54,Pass,4,3,no,no,yes,no,Poor,no,no,High
+564,M,15,LE3,T,SSCE,Masters,60,51,Pass,2,2,no,yes,no,yes,Very Good,yes,no,Low
+565,M,15,GT3,T,Bachelor,No schooling,54,50,Fail,6,1,no,no,yes,yes,Very Good,yes,no,High
+566,F,15,LE3,T,Bachelor,No schooling,49,58,Fail,10,2,yes,no,no,no,Good,yes,no,Low
+567,M,13,GT3,T,SSCE,No schooling,66,55,Pass,5,2,yes,no,no,no,Good,no,yes,High
+568,M,15,LE3,T,Bachelor,SSCE,42,55,Fail,3,2,yes,no,yes,no,Average,no,yes,High
+569,F,18,GT3,T,No schooling,SSCE,50,71,Pass,7,2,no,yes,no,no,Good,yes,no,High
+570,M,16,LE3,T,SSCE,SSCE,65,73,Pass,6,3,yes,yes,yes,yes,Good,yes,no,High
+571,F,15,GT3,T,Masters,SSCE,58,41,Pass,5,1,no,no,yes,yes,Very Poor,yes,no,High
+572,F,15,GT3,T,Masters,Masters,54,61,Pass,6,2,yes,yes,no,yes,Very Good,yes,no,Low
+573,M,16,GT3,T,SSCE,SSCE,57,50,Pass,1,3,yes,yes,no,yes,Very Good,yes,no,Low
+574,F,16,LE3,T,Bachelor,No schooling,56,55,Fail,5,4,yes,no,no,no,Very Good,yes,no,High
+575,F,14,GT3,T,SSCE,SSCE,39,61,Fail,4,2,no,no,yes,yes,Good,no,yes,High
+576,F,17,GT3,T,Bachelor,SSCE,51,55,Fail,9,4,no,no,no,no,Average,yes,no,Low
+577,M,16,GT3,T,Masters,SSCE,71,60,Pass,9,2,yes,no,no,yes,Poor,yes,no,High
+578,F,16,LE3,T,Masters,SSCE,48,64,Fail,6,2,no,yes,no,yes,Poor,yes,no,Low
+579,F,16,GT3,T,Bachelor,No schooling,51,60,Pass,9,3,yes,no,yes,yes,Poor,yes,yes,High
+580,M,16,GT3,T,SSCE,Masters,49,51,Pass,7,4,no,yes,no,yes,Poor,yes,no,Low
+581,F,16,LE3,T,SSCE,PhD,54,51,Fail,2,2,no,yes,no,no,Average,yes,no,High
+582,F,16,LE3,T,Bachelor,SSCE,49,43,Pass,3,1,yes,no,no,no,Good,yes,yes,High
+583,F,15,GT3,T,SSCE,SSCE,59,49,Pass,4,1,yes,yes,yes,yes,Average,no,yes,High
+584,M,15,LE3,T,Masters,Bachelor,56,77,Pass,5,2,yes,no,no,no,Average,no,no,Low
+585,F,16,LE3,T,SSCE,Bachelor,62,50,Fail,8,3,yes,no,no,yes,Average,yes,yes,High
+586,M,17,GT3,T,SSCE,SSCE,44,46,Pass,4,2,no,yes,no,no,Good,yes,yes,Low
+587,M,14,GT3,T,SSCE,Masters,51,61,Fail,4,2,no,no,no,yes,Very Good,yes,no,High
+588,M,14,LE3,T,PhD,Bachelor,52,56,Fail,4,2,no,no,yes,yes,Good,yes,yes,Low
+589,M,16,GT3,T,SSCE,SSCE,59,56,Fail,3,4,no,no,yes,yes,Very Poor,no,yes,High
+590,M,16,LE3,T,Bachelor,Bachelor,47,72,Fail,2,1,yes,no,no,yes,Average,yes,no,High
+591,M,16,LE3,T,SSCE,PhD,64,63,Pass,5,3,yes,yes,yes,yes,Good,yes,yes,Low
+592,F,16,LE3,A,No schooling,Bachelor,66,52,Pass,9,4,no,no,no,yes,Average,yes,no,Low
+593,M,15,GT3,T,Bachelor,No schooling,45,53,Pass,6,2,no,no,no,yes,Very Good,yes,no,Low
+594,M,17,LE3,T,Bachelor,SSCE,50,52,Pass,3,3,no,no,yes,yes,Very Poor,yes,yes,Low
+595,F,14,LE3,T,Bachelor,SSCE,49,66,Fail,4,3,no,no,no,no,Average,yes,no,High
+596,F,15,GT3,T,Masters,SSCE,81,54,Pass,3,1,yes,no,no,no,Poor,no,yes,High
+597,F,15,GT3,A,SSCE,Bachelor,50,40,Pass,4,2,yes,yes,no,no,Good,yes,yes,High
+598,M,14,LE3,T,No schooling,Masters,71,57,Fail,3,3,no,no,no,yes,Average,yes,no,High
+599,M,15,GT3,T,Masters,Bachelor,42,42,Fail,5,2,yes,no,yes,yes,Poor,no,yes,High
+600,M,17,LE3,A,SSCE,PhD,45,79,Fail,6,2,no,no,no,yes,Average,yes,no,Low
+601,M,16,GT3,T,Bachelor,SSCE,48,48,Fail,8,2,yes,no,no,yes,Average,no,no,High
+602,M,16,GT3,T,Masters,Masters,46,56,Fail,2,3,yes,no,no,yes,Very Good,yes,no,High
+603,M,14,GT3,A,SSCE,Bachelor,52,60,Fail,6,2,yes,yes,yes,yes,Average,no,no,High
+604,M,15,LE3,T,Bachelor,SSCE,47,55,Pass,4,2,no,no,yes,yes,Poor,yes,no,High
+605,M,15,LE3,T,SSCE,Bachelor,46,55,Fail,5,2,no,no,no,yes,Average,yes,no,High
+606,F,15,LE3,T,SSCE,No schooling,66,62,Pass,5,3,yes,yes,yes,yes,Average,no,no,High
+607,M,17,LE3,T,SSCE,Bachelor,67,73,Pass,7,1,yes,yes,no,no,Average,no,no,Low
+608,M,16,LE3,T,Masters,SSCE,64,65,Pass,7,2,no,no,yes,no,Average,yes,no,High
+609,F,14,GT3,A,SSCE,SSCE,60,72,Fail,6,2,yes,no,yes,yes,Good,yes,no,Low
+610,F,16,GT3,T,Bachelor,Bachelor,55,47,Fail,5,1,yes,no,yes,yes,Very Good,no,no,High
+611,M,16,GT3,T,Masters,Bachelor,50,61,Pass,2,2,yes,yes,yes,no,Poor,yes,no,High
+612,F,17,GT3,A,Bachelor,SSCE,45,59,Pass,0,3,yes,no,no,no,Good,yes,yes,High
+613,F,17,GT3,T,Bachelor,No schooling,58,61,Fail,4,3,no,yes,no,no,Very Good,yes,no,Low
+614,M,14,GT3,T,Bachelor,SSCE,43,71,Fail,4,3,yes,no,yes,yes,Average,yes,yes,Low
+615,F,15,LE3,T,SSCE,Bachelor,45,55,Pass,2,2,yes,no,yes,yes,Poor,yes,yes,High
+616,F,14,GT3,A,Bachelor,Masters,66,53,Pass,5,1,yes,no,yes,yes,Good,no,yes,High
+617,M,15,GT3,A,Bachelor,Masters,74,63,Fail,8,4,yes,no,yes,no,Good,yes,no,High
+618,M,16,GT3,T,PhD,SSCE,58,40,Pass,5,2,no,no,no,no,Poor,no,no,High
+619,F,16,GT3,T,Masters,Bachelor,66,55,Fail,7,3,yes,no,no,yes,Average,yes,no,Low
+620,F,15,LE3,T,Masters,SSCE,52,56,Pass,7,4,no,no,no,yes,Average,yes,no,High
+621,M,15,LE3,A,Masters,Bachelor,41,48,Pass,6,3,yes,yes,no,yes,Poor,yes,no,High
+622,M,16,GT3,T,Bachelor,SSCE,61,68,Pass,6,2,no,no,no,no,Good,yes,no,Low
+623,M,15,LE3,T,Bachelor,SSCE,60,47,Pass,5,2,no,yes,no,no,Good,yes,no,High
+624,F,18,GT3,A,Masters,Bachelor,55,56,Pass,5,1,yes,no,no,yes,Very Good,yes,yes,Low
+625,F,14,GT3,T,SSCE,No schooling,52,60,Pass,4,3,no,no,no,yes,Average,yes,no,Low
+626,M,16,GT3,T,PhD,Bachelor,64,71,Fail,10,3,yes,no,no,yes,Average,yes,no,High
+627,F,18,GT3,T,SSCE,Masters,45,57,Pass,2,3,yes,no,yes,no,Good,yes,no,High
+628,F,16,LE3,T,Bachelor,SSCE,47,67,Fail,8,1,yes,no,no,no,Average,no,yes,High
+629,M,15,LE3,T,Bachelor,SSCE,44,65,Pass,2,3,yes,no,no,yes,Good,yes,no,Low
+630,M,15,GT3,A,PhD,Masters,55,59,Fail,4,3,yes,yes,no,yes,Good,no,yes,Low
+631,F,15,GT3,T,SSCE,Bachelor,44,47,Pass,7,1,yes,no,yes,yes,Good,no,yes,High
+632,F,17,GT3,T,Bachelor,SSCE,48,43,Pass,3,2,yes,no,no,yes,Good,yes,no,High
+633,F,13,LE3,T,Bachelor,SSCE,47,59,Pass,6,3,no,no,no,yes,Good,yes,no,High
+634,F,17,LE3,T,SSCE,Bachelor,52,52,Pass,10,2,yes,yes,yes,yes,Poor,no,no,High
+635,M,14,GT3,T,Masters,Bachelor,40,67,Fail,5,1,yes,no,no,no,Very Good,yes,no,High
+636,M,15,LE3,T,Bachelor,SSCE,55,65,Fail,4,1,yes,no,no,no,Average,no,no,Low
+637,F,15,GT3,A,Bachelor,SSCE,67,56,Fail,4,3,yes,no,yes,yes,Very Good,yes,yes,High
+638,M,16,LE3,T,SSCE,Masters,56,46,Pass,7,2,yes,no,no,yes,Average,yes,no,Low
+639,M,14,GT3,T,Bachelor,Bachelor,70,63,Fail,4,2,yes,yes,yes,yes,Poor,yes,no,Low
+640,M,16,GT3,T,Bachelor,PhD,68,47,Fail,1,3,no,yes,no,no,Very Good,yes,no,High
+641,M,18,GT3,A,SSCE,Bachelor,62,50,Fail,4,3,yes,no,no,no,Good,yes,no,Low
+642,M,14,LE3,T,SSCE,Masters,55,48,Fail,2,3,no,no,no,yes,Good,yes,yes,High
+643,M,16,GT3,T,PhD,SSCE,55,56,Pass,12,2,yes,no,no,yes,Very Poor,yes,no,Low
+644,M,15,GT3,T,Bachelor,Bachelor,62,69,Pass,4,2,yes,no,no,yes,Very Good,yes,no,High
+645,M,16,GT3,A,Bachelor,No schooling,51,57,Pass,7,3,yes,no,no,yes,Average,no,no,Low
+646,F,16,GT3,T,SSCE,Bachelor,36,53,Fail,8,4,no,yes,yes,yes,Average,no,no,Low
+647,F,15,GT3,T,SSCE,SSCE,59,42,Pass,6,2,no,no,no,yes,Very Good,no,no,High
+648,F,16,GT3,T,SSCE,SSCE,43,63,Fail,8,2,yes,no,yes,yes,Good,yes,yes,High
+649,F,17,GT3,T,SSCE,Masters,45,50,Pass,4,1,yes,no,yes,yes,Poor,yes,no,High
+650,F,15,LE3,T,Bachelor,Masters,55,59,Pass,1,3,yes,yes,no,no,Average,yes,no,High
+651,M,16,LE3,T,Bachelor,No schooling,54,54,Pass,3,2,yes,yes,no,yes,Good,yes,no,High
+652,F,14,LE3,T,Bachelor,Bachelor,40,66,Pass,4,1,no,yes,no,no,Very Good,yes,no,Low
+653,F,15,GT3,A,SSCE,SSCE,56,56,Fail,4,2,no,no,yes,yes,Average,yes,no,Low
+654,F,16,GT3,A,Bachelor,SSCE,64,57,Pass,5,2,yes,no,yes,yes,Good,yes,no,High
+655,M,17,GT3,T,SSCE,Masters,43,62,Fail,6,2,yes,no,no,yes,Good,yes,yes,High
+656,M,16,LE3,A,SSCE,SSCE,67,79,Pass,7,4,no,yes,yes,yes,Poor,yes,no,High
+657,M,15,LE3,T,Masters,Masters,39,66,Pass,7,3,no,yes,yes,yes,Very Poor,yes,no,Low
+658,M,15,GT3,T,Bachelor,SSCE,76,57,Fail,2,1,no,no,no,yes,Average,no,no,High
+659,F,14,GT3,T,Bachelor,Bachelor,50,58,Pass,6,2,yes,no,no,yes,Good,yes,yes,High
+660,F,16,LE3,T,SSCE,Bachelor,56,52,Fail,6,1,no,no,yes,no,Average,no,no,High
+661,M,16,GT3,T,Masters,SSCE,36,48,Fail,4,3,yes,yes,yes,yes,Good,yes,yes,Low
+662,F,15,LE3,T,Bachelor,SSCE,54,52,Fail,6,2,yes,no,no,yes,Good,no,no,High
+663,F,15,LE3,T,Masters,Masters,57,50,Pass,8,4,no,no,no,no,Good,yes,yes,High
+664,M,16,GT3,T,SSCE,Bachelor,54,64,Pass,6,3,no,yes,yes,no,Very Poor,yes,yes,High
+665,M,15,LE3,T,PhD,SSCE,49,47,Fail,2,2,yes,no,no,yes,Very Poor,yes,yes,High
+666,M,15,GT3,T,Masters,SSCE,45,71,Fail,3,3,no,yes,yes,yes,Good,no,no,High
+667,M,18,LE3,A,Masters,No schooling,66,65,Fail,9,3,no,yes,no,yes,Good,yes,no,High
+668,M,15,LE3,T,SSCE,SSCE,55,58,Pass,6,2,yes,no,yes,yes,Average,yes,no,High
+669,M,15,LE3,T,SSCE,SSCE,70,58,Pass,8,2,no,no,no,yes,Average,yes,no,High
+670,M,15,GT3,T,SSCE,No schooling,49,52,Pass,3,2,no,yes,no,yes,Good,yes,no,High
+671,M,16,GT3,T,SSCE,Masters,50,60,Fail,5,2,no,no,no,no,Poor,yes,no,High
+672,F,15,GT3,A,Masters,Bachelor,63,68,Pass,9,2,yes,no,no,yes,Good,no,no,High
+673,M,15,LE3,T,No schooling,Masters,38,50,Pass,5,2,yes,yes,no,yes,Average,yes,yes,High
+674,F,17,LE3,T,No schooling,Bachelor,42,42,Fail,2,2,no,yes,no,yes,Good,yes,yes,High
+675,M,17,GT3,T,SSCE,Masters,65,65,Pass,7,1,yes,no,yes,yes,Average,yes,no,High
+676,F,15,GT3,T,SSCE,Bachelor,43,61,Pass,2,4,yes,yes,yes,yes,Good,yes,yes,High
+677,M,14,GT3,A,SSCE,Bachelor,36,46,Pass,2,3,no,no,no,yes,Average,yes,no,High
+678,M,17,LE3,T,Masters,PhD,73,50,Pass,6,3,no,no,no,yes,Average,yes,yes,High
+679,F,15,GT3,T,Bachelor,Bachelor,41,49,Pass,5,2,yes,yes,no,no,Average,yes,no,High
+680,F,16,GT3,T,No schooling,No schooling,56,50,Pass,7,3,yes,no,no,yes,Good,yes,yes,High
+681,F,14,LE3,T,SSCE,Bachelor,55,54,Pass,6,4,no,yes,no,yes,Average,yes,no,High
+682,M,16,GT3,T,SSCE,Masters,26,55,Pass,5,2,yes,yes,no,no,Poor,yes,yes,High
+683,M,14,LE3,T,SSCE,Bachelor,52,51,Pass,7,3,yes,yes,no,no,Very Good,no,no,High
+684,F,16,GT3,T,Bachelor,Bachelor,59,50,Fail,5,2,yes,no,yes,yes,Average,yes,no,Low
+685,F,16,GT3,T,Bachelor,Bachelor,58,55,Pass,5,4,no,no,yes,no,Poor,yes,no,High
+686,F,15,GT3,A,Bachelor,PhD,64,59,Pass,9,4,yes,no,no,yes,Good,yes,yes,High
+687,F,15,GT3,T,Bachelor,No schooling,51,54,Pass,7,4,no,no,yes,yes,Good,yes,no,High
+688,M,16,LE3,T,No schooling,Bachelor,62,69,Pass,3,1,no,yes,yes,yes,Average,yes,no,High
+689,F,16,GT3,T,PhD,SSCE,48,63,Pass,7,2,yes,yes,yes,yes,Good,yes,yes,High
+690,M,16,LE3,T,Masters,Bachelor,40,42,Pass,6,1,yes,yes,no,yes,Poor,yes,no,Low
+691,M,17,LE3,T,Masters,Bachelor,42,63,Fail,7,2,yes,yes,no,yes,Average,no,yes,High
+692,M,14,GT3,T,No schooling,SSCE,40,64,Pass,3,2,yes,yes,yes,no,Poor,yes,yes,High
+693,F,17,GT3,T,Masters,SSCE,65,53,Fail,4,2,yes,no,no,yes,Average,no,no,Low
+694,M,16,GT3,T,Masters,Bachelor,39,43,Pass,7,3,no,no,yes,yes,Average,no,yes,High
+695,M,15,LE3,A,Masters,No schooling,57,58,Pass,8,2,yes,no,no,yes,Average,yes,no,High
+696,F,14,GT3,T,No schooling,SSCE,52,57,Pass,5,4,no,yes,no,no,Average,yes,yes,High
+697,M,15,GT3,T,Bachelor,Masters,53,46,Fail,5,2,no,no,no,no,Average,yes,no,High
+698,F,16,LE3,T,PhD,SSCE,68,43,Pass,5,2,yes,no,no,yes,Average,yes,no,Low
+699,M,15,LE3,A,Bachelor,SSCE,50,57,Pass,4,3,yes,no,yes,no,Poor,no,no,High
+700,F,17,LE3,A,Bachelor,Masters,61,55,Pass,5,3,no,yes,no,no,Average,yes,yes,Low
+701,F,14,LE3,T,Masters,SSCE,55,53,Pass,5,1,no,no,yes,no,Poor,yes,yes,Low
+702,M,15,GT3,T,SSCE,SSCE,53,57,Fail,3,3,no,no,yes,yes,Good,yes,no,High
+703,M,14,GT3,T,Bachelor,Bachelor,77,46,Pass,3,2,yes,no,no,yes,Good,yes,yes,High
+704,M,16,GT3,T,Bachelor,Bachelor,40,53,Fail,3,4,no,no,no,yes,Good,yes,no,High
+705,M,16,GT3,A,Masters,Masters,67,63,Fail,3,4,yes,no,no,no,Good,yes,no,Low
+706,F,15,LE3,T,No schooling,Masters,61,54,Pass,6,2,yes,yes,no,no,Average,yes,yes,High
+707,M,13,GT3,T,Bachelor,Bachelor,50,41,Pass,6,4,yes,no,no,no,Good,yes,no,High
+708,F,16,GT3,T,Bachelor,SSCE,71,53,Fail,6,3,yes,yes,no,yes,Good,no,no,Low
+709,M,16,GT3,T,Masters,No schooling,36,47,Pass,5,4,no,yes,yes,yes,Very Poor,yes,no,High
+710,F,16,LE3,T,Bachelor,SSCE,49,60,Pass,3,4,yes,no,no,yes,Very Good,yes,no,High
+711,F,17,GT3,T,Masters,No schooling,42,61,Fail,6,3,no,no,no,yes,Very Poor,yes,no,High
+712,F,14,LE3,T,Masters,Bachelor,59,41,Fail,6,2,no,yes,yes,yes,Average,no,yes,High
+713,F,16,LE3,T,No schooling,Bachelor,43,65,Fail,5,2,no,no,no,yes,Average,no,yes,High
+714,M,17,GT3,T,SSCE,No schooling,59,46,Fail,4,4,yes,no,yes,no,Good,yes,no,Low
+715,M,14,LE3,T,No schooling,Masters,53,73,Pass,5,3,no,no,no,yes,Very Good,yes,no,High
+716,F,16,GT3,T,SSCE,SSCE,50,57,Pass,6,2,yes,yes,no,no,Very Good,no,no,High
+717,F,15,GT3,T,Bachelor,SSCE,58,45,Pass,4,2,no,no,yes,no,Average,yes,no,High
+718,F,15,GT3,T,Masters,Bachelor,52,46,Fail,4,3,no,yes,yes,yes,Good,yes,no,Low
+719,M,16,LE3,A,Masters,SSCE,44,61,Fail,4,2,yes,yes,no,yes,Very Poor,yes,no,Low
+720,F,15,LE3,A,SSCE,SSCE,83,54,Pass,6,1,yes,no,no,no,Average,no,yes,High
+721,F,15,LE3,A,No schooling,No schooling,50,57,Pass,4,1,no,yes,no,no,Very Good,yes,no,High
+722,M,16,GT3,T,Bachelor,SSCE,32,74,Pass,3,3,no,yes,no,yes,Average,yes,no,Low
+723,M,14,LE3,T,Bachelor,Bachelor,46,51,Fail,4,2,yes,no,yes,yes,Very Poor,yes,no,High
+724,F,14,LE3,T,SSCE,Masters,42,58,Pass,6,2,yes,yes,yes,yes,Poor,yes,yes,High
+725,F,16,LE3,A,Masters,SSCE,63,72,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+726,F,14,LE3,A,Masters,SSCE,58,60,Fail,3,3,no,no,no,yes,Poor,no,no,High
+727,M,16,GT3,A,SSCE,Bachelor,58,41,Fail,6,2,yes,no,yes,no,Average,no,no,High
+728,F,16,GT3,T,Masters,Masters,51,63,Pass,6,1,no,no,no,yes,Average,yes,no,Low
+729,M,14,LE3,A,SSCE,SSCE,52,46,Fail,3,2,no,no,yes,yes,Average,yes,no,High
+730,M,15,GT3,T,Bachelor,SSCE,51,72,Pass,3,3,no,no,no,no,Very Poor,no,yes,High
+731,M,17,GT3,T,Bachelor,Bachelor,54,49,Pass,2,1,no,no,yes,yes,Very Good,yes,no,High
+732,F,15,GT3,T,SSCE,Bachelor,63,87,Pass,3,2,yes,yes,yes,no,Good,yes,no,High
+733,F,15,GT3,T,Masters,No schooling,58,72,Fail,5,4,yes,yes,yes,yes,Good,no,no,High
+734,F,16,GT3,T,Bachelor,Bachelor,60,50,Fail,7,4,yes,no,yes,yes,Good,no,no,High
+735,M,16,GT3,T,Bachelor,SSCE,59,58,Pass,3,2,yes,no,yes,yes,Average,yes,no,High
+736,F,15,LE3,T,SSCE,SSCE,63,65,Fail,3,1,yes,no,no,yes,Good,yes,no,High
+737,M,15,GT3,T,No schooling,SSCE,57,65,Pass,6,2,no,yes,no,no,Very Good,yes,no,High
+738,F,17,GT3,A,SSCE,Masters,58,62,Fail,7,2,no,yes,yes,no,Very Poor,no,no,Low
+739,M,17,LE3,T,Bachelor,SSCE,66,70,Fail,3,2,yes,no,no,no,Very Poor,no,yes,High
+740,M,16,LE3,T,Bachelor,SSCE,48,56,Pass,6,2,yes,no,no,yes,Good,yes,no,Low
+741,F,16,GT3,A,SSCE,SSCE,46,54,Pass,8,2,yes,no,yes,no,Poor,no,no,High
+742,M,15,GT3,A,Bachelor,Masters,43,54,Fail,3,1,no,yes,no,yes,Very Good,no,no,High
+743,F,15,GT3,T,Bachelor,SSCE,56,66,Pass,3,4,no,yes,yes,yes,Good,yes,no,High
+744,F,16,GT3,T,Bachelor,SSCE,36,61,Fail,5,3,yes,yes,yes,yes,Average,yes,no,High
+745,M,16,GT3,T,Bachelor,SSCE,59,60,Pass,5,2,no,no,no,yes,Average,yes,no,High
+746,F,17,GT3,T,Masters,Bachelor,53,65,Fail,7,4,yes,no,yes,yes,Good,no,yes,High
+747,M,16,GT3,T,Bachelor,SSCE,66,37,Pass,9,3,yes,no,no,yes,Poor,yes,no,High
+748,F,14,GT3,A,Bachelor,SSCE,48,61,Pass,4,4,yes,no,yes,yes,Very Good,yes,no,High
+749,F,17,GT3,T,SSCE,SSCE,52,60,Pass,6,2,no,no,no,yes,Very Poor,yes,no,Low
+750,F,15,GT3,A,SSCE,Masters,66,74,Fail,6,2,yes,no,no,yes,Very Good,yes,no,High
+751,M,15,LE3,A,No schooling,Bachelor,68,42,Pass,5,2,yes,no,yes,no,Poor,yes,no,High
+752,F,16,GT3,A,Bachelor,Bachelor,48,73,Pass,6,2,yes,yes,no,yes,Good,yes,no,Low
+753,F,17,GT3,T,SSCE,Masters,56,58,Fail,10,2,yes,no,no,yes,Very Poor,yes,no,High
+754,M,19,LE3,A,SSCE,Masters,57,62,Fail,4,3,no,yes,no,no,Average,yes,no,Low
+755,M,16,GT3,T,Masters,SSCE,58,74,Pass,3,1,yes,no,no,yes,Good,yes,yes,Low
+756,F,15,GT3,T,SSCE,PhD,52,63,Fail,8,3,no,no,yes,yes,Very Poor,yes,yes,High
+757,F,16,LE3,T,SSCE,No schooling,67,62,Fail,6,2,yes,yes,no,no,Average,yes,no,High
+758,F,16,GT3,T,SSCE,SSCE,36,60,Pass,7,3,yes,yes,yes,yes,Average,yes,no,Low
+759,F,15,GT3,T,Masters,Masters,50,53,Pass,5,2,yes,yes,yes,no,Average,yes,no,High
+760,F,17,GT3,T,SSCE,SSCE,59,57,Fail,6,4,yes,no,yes,yes,Average,yes,no,High
+761,M,16,LE3,T,Bachelor,SSCE,59,50,Fail,2,2,yes,yes,no,yes,Good,yes,no,High
+762,M,16,GT3,T,Bachelor,SSCE,68,57,Pass,4,4,yes,no,no,yes,Poor,yes,no,High
+763,M,16,GT3,T,Bachelor,Bachelor,66,34,Pass,4,1,no,yes,yes,yes,Very Poor,yes,yes,Low
+764,F,16,LE3,T,Bachelor,SSCE,52,62,Pass,5,3,no,no,yes,yes,Average,yes,yes,High
+765,M,16,GT3,A,Masters,Bachelor,67,56,Pass,6,2,no,yes,yes,yes,Very Good,yes,no,High
+766,F,15,GT3,T,No schooling,Masters,47,54,Pass,6,3,yes,no,yes,yes,Very Good,yes,no,High
+767,F,15,LE3,T,SSCE,Bachelor,64,60,Pass,3,3,yes,no,yes,no,Average,yes,yes,High
+768,F,14,GT3,T,SSCE,SSCE,73,43,Fail,6,3,yes,no,yes,no,Very Good,yes,no,High
+769,M,16,GT3,T,SSCE,Masters,67,77,Fail,3,1,no,no,yes,no,Good,yes,no,Low
+770,F,16,LE3,T,SSCE,SSCE,56,56,Pass,7,3,no,no,no,yes,Average,no,yes,Low
+771,M,16,LE3,T,SSCE,No schooling,51,56,Pass,3,2,no,yes,no,yes,Poor,yes,no,High
+772,F,17,LE3,A,Bachelor,No schooling,39,48,Pass,6,1,yes,no,no,yes,Average,yes,no,High
+773,M,15,LE3,T,Bachelor,Bachelor,58,58,Pass,9,2,yes,no,no,yes,Poor,no,yes,High
+774,M,16,GT3,T,SSCE,No schooling,43,71,Fail,3,2,yes,no,yes,no,Good,yes,no,High
+775,F,14,GT3,T,Bachelor,No schooling,47,68,Fail,5,3,yes,yes,no,yes,Average,yes,no,High
+776,M,15,LE3,A,SSCE,SSCE,43,66,Pass,7,2,yes,yes,yes,no,Average,yes,yes,Low
+777,M,16,LE3,T,SSCE,SSCE,50,63,Pass,2,1,yes,yes,no,no,Poor,yes,no,High
+778,F,16,LE3,T,Bachelor,Bachelor,54,54,Pass,4,3,yes,yes,no,no,Good,yes,yes,Low
+779,F,15,GT3,T,No schooling,Masters,57,43,Fail,4,4,yes,no,no,yes,Average,yes,no,High
+780,F,15,LE3,T,No schooling,Bachelor,48,55,Pass,12,3,yes,yes,no,no,Average,yes,yes,Low
+781,F,14,GT3,T,SSCE,SSCE,65,55,Fail,3,3,no,no,no,no,Very Good,yes,no,High
+782,F,15,GT3,T,Masters,SSCE,52,68,Fail,4,2,yes,no,yes,no,Average,yes,yes,Low
+783,M,16,LE3,T,Bachelor,PhD,47,61,Pass,7,3,yes,no,no,yes,Average,no,no,High
+784,M,16,GT3,T,No schooling,No schooling,57,74,Fail,6,4,no,no,no,yes,Good,yes,yes,Low
+785,M,16,GT3,T,Masters,Masters,74,69,Fail,9,2,no,yes,yes,yes,Very Good,yes,no,Low
+786,F,16,GT3,T,Bachelor,SSCE,58,53,Fail,6,2,yes,yes,no,no,Poor,no,no,Low
+787,F,16,GT3,T,Bachelor,Masters,51,40,Fail,3,4,no,no,no,no,Good,no,yes,High
+788,M,15,LE3,T,Masters,SSCE,39,71,Pass,3,4,yes,no,yes,yes,Very Good,no,no,High
+789,F,16,LE3,A,SSCE,SSCE,52,71,Pass,1,1,yes,yes,no,no,Average,yes,no,High
+790,F,16,GT3,A,SSCE,Bachelor,57,44,Fail,4,2,yes,yes,no,no,Average,no,no,High
+791,M,16,LE3,T,Bachelor,Bachelor,51,73,Fail,4,3,yes,no,yes,yes,Good,yes,no,Low
+792,F,15,LE3,T,Bachelor,SSCE,38,61,Fail,2,2,no,yes,no,yes,Poor,yes,yes,High
+793,F,13,LE3,T,Bachelor,Bachelor,46,59,Pass,2,2,yes,no,no,yes,Average,no,no,High
+794,F,17,LE3,T,Bachelor,Bachelor,69,74,Fail,8,3,yes,no,no,no,Very Good,yes,yes,High
+795,M,15,GT3,T,Masters,No schooling,69,71,Pass,8,2,no,no,no,yes,Average,yes,no,High
+796,F,15,LE3,A,Masters,No schooling,46,64,Pass,6,2,yes,no,yes,no,Very Poor,no,no,High
+797,F,16,GT3,T,Masters,SSCE,61,62,Pass,7,4,no,yes,yes,yes,Average,yes,no,High
+798,F,15,GT3,T,Masters,No schooling,43,64,Pass,1,3,yes,no,yes,yes,Good,yes,no,High
+799,F,17,GT3,T,Masters,Bachelor,69,53,Pass,6,4,yes,yes,yes,yes,Average,yes,no,High
+800,F,16,LE3,T,No schooling,SSCE,57,57,Fail,5,3,yes,no,no,yes,Good,yes,no,High
+801,F,16,GT3,T,SSCE,SSCE,64,48,Pass,7,3,no,no,no,yes,Good,yes,yes,Low
+802,M,14,LE3,T,Bachelor,SSCE,37,54,Pass,11,3,no,yes,no,yes,Average,yes,yes,Low
+803,F,17,GT3,T,Masters,SSCE,61,54,Pass,1,2,yes,no,yes,yes,Very Good,yes,yes,High
+804,F,16,GT3,A,Bachelor,No schooling,54,51,Pass,5,3,yes,no,yes,yes,Very Good,yes,yes,High
+805,M,15,GT3,T,Bachelor,No schooling,63,59,Fail,5,2,no,no,no,yes,Very Poor,yes,yes,High
+806,F,16,GT3,A,SSCE,No schooling,64,54,Pass,5,3,no,no,no,yes,Average,yes,no,Low
+807,F,14,GT3,A,SSCE,PhD,55,63,Pass,3,2,no,no,no,yes,Average,no,no,High
+808,F,16,LE3,T,Bachelor,No schooling,48,41,Fail,4,2,yes,no,no,yes,Poor,yes,no,High
+809,F,14,GT3,T,SSCE,Bachelor,62,56,Fail,6,2,no,no,no,no,Average,no,no,Low
+810,M,14,GT3,T,SSCE,No schooling,54,59,Fail,7,3,yes,no,no,yes,Average,no,yes,Low
+811,F,14,LE3,A,SSCE,No schooling,46,54,Fail,7,4,no,yes,no,yes,Very Poor,yes,no,Low
+812,F,17,GT3,T,SSCE,SSCE,45,56,Fail,2,4,yes,yes,no,no,Poor,yes,no,Low
+813,M,15,GT3,T,Bachelor,SSCE,40,42,Pass,5,2,no,yes,yes,no,Very Poor,no,no,Low
+814,F,17,GT3,T,SSCE,PhD,49,61,Fail,8,2,yes,yes,no,yes,Very Poor,yes,yes,Low
+815,F,15,GT3,T,Bachelor,Masters,66,64,Fail,6,1,no,yes,yes,yes,Average,yes,no,High
+816,F,14,GT3,A,No schooling,Bachelor,56,62,Pass,8,2,no,no,yes,no,Average,yes,yes,Low
+817,F,14,LE3,T,Masters,Bachelor,49,68,Fail,4,3,no,yes,yes,no,Very Good,yes,yes,Low
+818,M,17,GT3,T,SSCE,SSCE,63,60,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+819,M,15,LE3,T,Bachelor,SSCE,46,62,Pass,3,2,no,no,no,yes,Very Good,yes,no,High
+820,M,15,GT3,A,Bachelor,Masters,55,59,Pass,2,2,no,no,no,yes,Very Poor,yes,yes,Low
+821,F,16,LE3,T,SSCE,Bachelor,53,64,Fail,4,2,yes,no,no,yes,Good,yes,no,High
+822,M,16,LE3,T,Masters,Bachelor,62,42,Pass,5,2,yes,yes,yes,no,Poor,no,no,Low
+823,M,17,GT3,T,Bachelor,SSCE,39,49,Pass,5,3,no,no,yes,yes,Good,yes,no,High
+824,M,17,GT3,T,SSCE,No schooling,46,73,Fail,3,3,no,no,no,yes,Very Poor,yes,yes,Low
+825,F,15,LE3,T,SSCE,Masters,38,33,Pass,4,3,yes,no,yes,no,Very Good,yes,yes,High
+826,F,14,GT3,T,Masters,SSCE,52,56,Pass,3,2,no,yes,no,yes,Very Poor,yes,no,High
+827,M,15,LE3,T,Masters,SSCE,67,69,Fail,9,2,yes,no,no,yes,Poor,yes,no,Low
+828,M,16,LE3,T,SSCE,No schooling,49,57,Fail,2,2,yes,no,no,yes,Average,no,yes,High
+829,F,15,GT3,T,SSCE,Masters,49,53,Pass,7,1,no,no,no,yes,Good,no,no,Low
+830,F,15,GT3,T,Masters,No schooling,63,59,Fail,5,3,no,yes,no,no,Very Good,yes,yes,High
+831,M,16,LE3,T,Bachelor,Masters,65,54,Pass,6,3,no,no,yes,yes,Average,yes,yes,Low
+832,F,15,LE3,A,Masters,No schooling,54,58,Pass,5,3,no,no,no,yes,Good,yes,no,High
+833,M,16,LE3,A,SSCE,Masters,61,51,Pass,11,1,yes,no,no,yes,Good,yes,yes,High
+834,M,15,LE3,T,Bachelor,Bachelor,44,69,Fail,3,3,yes,no,yes,no,Average,yes,no,Low
+835,F,15,GT3,T,SSCE,SSCE,68,72,Pass,3,1,no,yes,yes,yes,Good,yes,no,High
+836,M,15,GT3,T,SSCE,Bachelor,76,56,Pass,5,1,no,yes,no,yes,Very Poor,yes,yes,Low
+837,F,16,LE3,T,Bachelor,SSCE,60,44,Fail,5,2,yes,yes,no,no,Average,yes,no,Low
+838,M,17,GT3,T,PhD,SSCE,34,52,Pass,3,2,no,yes,yes,no,Good,yes,no,High
+839,F,14,GT3,T,SSCE,Masters,49,56,Fail,6,3,no,yes,no,no,Average,no,no,High
+840,F,15,LE3,T,Bachelor,SSCE,61,63,Pass,5,3,no,yes,no,yes,Very Good,no,no,High
+841,M,14,GT3,A,Bachelor,SSCE,50,47,Fail,6,2,no,yes,no,yes,Good,no,no,High
+842,F,15,GT3,T,Bachelor,SSCE,67,50,Pass,2,2,yes,no,no,yes,Very Good,yes,no,High
+843,M,15,LE3,T,Masters,SSCE,60,63,Pass,5,2,yes,no,no,no,Poor,yes,yes,High
+844,F,14,LE3,T,Masters,Masters,47,67,Pass,6,1,no,yes,no,no,Poor,yes,no,Low
+845,M,15,GT3,T,No schooling,SSCE,55,51,Fail,2,2,no,yes,no,no,Very Poor,yes,no,High
+846,M,14,GT3,T,PhD,PhD,46,44,Fail,8,3,yes,no,yes,no,Very Good,yes,yes,High
+847,M,16,LE3,T,Masters,Masters,53,90,Pass,5,2,no,no,no,yes,Poor,yes,no,High
+848,F,16,LE3,T,Masters,No schooling,49,65,Fail,5,3,no,yes,no,no,Average,yes,no,High
+849,F,15,GT3,T,Bachelor,SSCE,66,55,Pass,12,2,yes,no,no,no,Average,no,no,Low
+850,F,16,GT3,A,Masters,Masters,76,66,Fail,4,2,no,yes,yes,no,Very Poor,yes,yes,High
+851,M,15,GT3,T,SSCE,SSCE,40,56,Fail,7,2,yes,no,yes,no,Average,yes,no,Low
+852,F,15,GT3,T,SSCE,No schooling,35,66,Fail,5,3,yes,no,no,yes,Very Poor,yes,no,High
+853,M,17,LE3,T,Masters,SSCE,52,59,Fail,3,2,no,yes,no,yes,Average,yes,no,High
+854,F,17,GT3,T,SSCE,Bachelor,39,58,Fail,8,1,yes,no,yes,yes,Very Good,yes,no,Low
+855,M,14,GT3,T,No schooling,Bachelor,55,56,Pass,3,4,yes,yes,yes,yes,Good,no,no,Low
+856,M,16,GT3,T,Masters,No schooling,62,43,Fail,3,1,no,no,no,yes,Good,yes,yes,Low
+857,M,16,LE3,A,Masters,No schooling,69,77,Fail,6,4,no,no,no,no,Average,no,no,High
+858,F,14,GT3,A,SSCE,Masters,57,48,Fail,4,1,yes,no,no,no,Good,yes,yes,High
+859,F,16,GT3,T,Masters,Bachelor,53,44,Pass,7,3,yes,yes,no,no,Very Good,yes,no,High
+860,M,17,GT3,A,Bachelor,Bachelor,35,55,Pass,5,2,yes,no,yes,yes,Very Good,no,yes,High
+861,F,14,GT3,T,Bachelor,Bachelor,55,48,Pass,4,2,no,no,no,yes,Very Poor,no,no,High
+862,F,15,LE3,T,Masters,SSCE,55,57,Fail,3,1,yes,no,no,yes,Very Good,no,no,Low
+863,F,17,GT3,T,SSCE,Bachelor,61,64,Pass,3,2,yes,yes,no,yes,Poor,yes,yes,High
+864,M,16,GT3,A,SSCE,SSCE,47,67,Pass,6,3,yes,yes,yes,yes,Average,yes,no,High
+865,M,16,GT3,T,SSCE,SSCE,50,66,Pass,4,4,yes,no,yes,no,Average,yes,no,High
+866,F,16,GT3,T,Bachelor,Bachelor,40,54,Pass,3,2,yes,no,no,yes,Good,yes,no,High
+867,M,16,GT3,T,Bachelor,SSCE,32,58,Pass,7,2,yes,no,no,yes,Average,yes,yes,High
+868,M,14,LE3,T,Masters,PhD,43,62,Pass,2,1,no,no,no,yes,Poor,yes,no,Low
+869,F,17,GT3,T,Masters,SSCE,39,40,Fail,7,3,no,yes,no,no,Good,no,no,Low
+870,F,17,LE3,A,Bachelor,Masters,58,63,Fail,3,2,yes,no,yes,no,Average,yes,no,High
+871,M,15,LE3,T,Masters,Masters,49,43,Pass,6,1,no,yes,no,no,Very Poor,yes,no,High
+872,M,15,LE3,T,SSCE,SSCE,49,78,Fail,5,3,no,no,no,no,Average,yes,yes,Low
+873,F,14,GT3,T,No schooling,Bachelor,45,53,Fail,4,2,yes,no,no,yes,Average,yes,no,High
+874,M,16,GT3,T,Masters,SSCE,22,56,Pass,3,1,yes,no,no,no,Very Poor,no,no,High
+875,M,16,GT3,T,No schooling,Masters,70,50,Pass,4,1,yes,yes,yes,yes,Poor,yes,no,High
+876,M,15,GT3,T,SSCE,SSCE,44,51,Fail,6,3,no,no,no,yes,Very Good,no,yes,High
+877,F,17,GT3,T,Bachelor,Bachelor,50,80,Pass,6,1,no,yes,no,yes,Very Good,no,yes,Low
+878,F,15,LE3,T,SSCE,SSCE,40,67,Fail,3,4,no,yes,no,no,Poor,no,no,Low
+879,M,16,GT3,T,Masters,SSCE,64,42,Pass,3,2,no,yes,no,no,Average,no,yes,High
+880,M,14,LE3,T,SSCE,SSCE,56,73,Pass,4,1,no,yes,no,yes,Average,yes,no,High
+881,M,15,LE3,T,No schooling,SSCE,46,69,Fail,7,3,no,no,no,yes,Average,yes,no,High
+882,F,15,GT3,T,SSCE,Bachelor,51,55,Pass,5,2,no,no,yes,no,Average,yes,no,High
+883,M,16,LE3,A,Bachelor,Bachelor,71,61,Fail,6,2,yes,no,yes,yes,Very Poor,yes,yes,Low
+884,M,15,LE3,T,SSCE,Bachelor,54,57,Pass,4,2,yes,yes,no,no,Average,no,yes,High
+885,F,15,GT3,T,Bachelor,SSCE,53,77,Pass,2,1,no,no,yes,yes,Poor,yes,no,High
+886,M,16,GT3,T,Masters,SSCE,45,50,Pass,4,3,no,yes,yes,yes,Average,yes,yes,High
+887,F,15,GT3,T,Masters,No schooling,36,59,Pass,6,2,yes,yes,no,yes,Very Good,yes,yes,High
+888,M,14,GT3,A,SSCE,Masters,53,53,Pass,6,3,no,no,no,yes,Very Good,yes,no,High
+889,M,17,GT3,T,Bachelor,PhD,58,43,Pass,7,3,no,no,yes,no,Very Good,yes,no,High
+890,M,17,GT3,T,Bachelor,SSCE,65,79,Pass,6,3,no,no,yes,no,Very Good,yes,no,Low
+891,F,14,LE3,T,Masters,No schooling,32,46,Fail,2,3,yes,no,yes,yes,Very Poor,yes,no,High
+892,F,16,GT3,T,PhD,SSCE,43,60,Pass,6,3,no,yes,no,no,Good,yes,no,Low
+893,F,15,GT3,A,SSCE,Bachelor,49,40,Fail,5,2,yes,yes,yes,no,Average,yes,yes,Low
+894,M,16,GT3,T,Bachelor,Bachelor,54,54,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+895,F,16,GT3,T,SSCE,Bachelor,53,62,Pass,6,1,no,yes,no,yes,Good,yes,no,High
+896,M,15,LE3,T,No schooling,SSCE,53,49,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+897,M,15,LE3,T,No schooling,Bachelor,59,63,Pass,11,3,yes,no,yes,yes,Average,no,no,Low
+898,F,15,GT3,A,Bachelor,Bachelor,45,55,Pass,5,2,no,yes,no,yes,Average,yes,no,High
+899,M,15,LE3,T,Bachelor,SSCE,64,69,Pass,7,4,yes,no,yes,no,Average,yes,no,Low
+900,M,15,GT3,T,No schooling,SSCE,59,71,Fail,5,2,no,yes,no,yes,Very Good,no,yes,High
+901,M,15,LE3,T,Bachelor,No schooling,51,52,Fail,4,2,no,yes,no,yes,Very Good,yes,no,Low
+902,M,15,GT3,T,SSCE,SSCE,71,58,Pass,1,1,yes,no,yes,yes,Poor,yes,no,High
+903,M,16,GT3,T,Bachelor,Masters,70,59,Pass,7,2,yes,no,yes,yes,Average,yes,yes,Low
+904,F,17,LE3,T,SSCE,SSCE,64,64,Fail,5,3,no,no,no,yes,Poor,yes,yes,High
+905,M,15,LE3,T,SSCE,Masters,24,58,Pass,4,1,yes,yes,yes,yes,Very Good,yes,yes,High
+906,F,16,GT3,T,SSCE,Bachelor,70,59,Pass,6,2,yes,yes,yes,yes,Very Good,yes,yes,High
+907,F,16,GT3,T,SSCE,SSCE,62,55,Pass,1,4,yes,no,yes,yes,Average,yes,no,High
+908,M,16,GT3,A,Bachelor,Bachelor,75,59,Pass,3,3,yes,no,no,yes,Good,yes,yes,Low
+909,M,16,LE3,T,SSCE,SSCE,67,70,Pass,5,2,no,no,no,yes,Good,yes,no,High
+910,M,16,GT3,T,Bachelor,SSCE,70,64,Fail,8,2,yes,no,yes,yes,Poor,yes,no,High
+911,F,16,GT3,T,SSCE,No schooling,63,65,Pass,5,1,no,no,no,yes,Very Good,yes,no,Low
+912,M,14,LE3,T,Bachelor,SSCE,68,65,Pass,2,4,yes,yes,yes,yes,Average,yes,no,High
+913,F,16,GT3,T,Masters,No schooling,74,56,Fail,11,4,no,yes,no,yes,Very Poor,yes,no,High
+914,M,16,LE3,A,SSCE,No schooling,57,61,Pass,8,3,no,yes,yes,yes,Average,yes,yes,High
+915,F,15,LE3,T,Bachelor,SSCE,39,47,Pass,3,1,yes,no,yes,yes,Good,yes,yes,High
+916,M,16,LE3,T,No schooling,SSCE,51,70,Pass,7,2,no,no,no,yes,Average,yes,no,Low
+917,M,16,LE3,T,Bachelor,Masters,58,30,Fail,5,2,yes,yes,yes,no,Good,yes,no,Low
+918,F,15,LE3,T,SSCE,SSCE,55,57,Pass,3,2,no,yes,yes,yes,Very Good,yes,no,Low
+919,F,17,GT3,T,Bachelor,Bachelor,42,69,Pass,10,2,no,no,no,yes,Good,no,no,High
+920,M,18,LE3,T,Bachelor,SSCE,38,44,Fail,6,3,no,no,no,yes,Good,yes,no,Low
+921,F,15,LE3,T,Masters,Bachelor,47,61,Fail,7,2,no,no,no,no,Average,yes,no,High
+922,F,14,LE3,T,Bachelor,SSCE,63,51,Fail,2,1,yes,yes,no,no,Average,yes,no,High
+923,F,16,GT3,T,Bachelor,Masters,70,54,Pass,4,3,yes,no,no,yes,Average,yes,yes,High
+924,F,16,GT3,T,SSCE,SSCE,64,67,Pass,8,2,yes,no,yes,yes,Average,yes,no,High
+925,M,15,GT3,T,Masters,Masters,65,59,Pass,6,3,no,yes,yes,yes,Very Good,no,no,Low
+926,M,17,GT3,T,Masters,SSCE,54,37,Pass,4,2,no,no,yes,yes,Very Good,yes,yes,High
+927,M,14,GT3,T,SSCE,No schooling,37,48,Fail,7,2,yes,yes,yes,yes,Poor,no,yes,Low
+928,F,16,LE3,T,Masters,Bachelor,50,67,Pass,5,1,yes,yes,no,yes,Good,yes,yes,High
+929,F,15,GT3,T,SSCE,No schooling,52,62,Fail,5,4,yes,no,yes,yes,Good,yes,yes,High
+930,M,17,GT3,T,Masters,SSCE,50,75,Pass,4,3,yes,no,no,yes,Very Good,no,yes,High
+931,M,17,GT3,T,Masters,SSCE,55,74,Pass,7,2,yes,no,yes,yes,Average,yes,no,High
+932,F,15,LE3,T,SSCE,Bachelor,59,54,Fail,7,1,no,yes,yes,no,Good,yes,no,Low
+933,F,15,GT3,T,Bachelor,PhD,63,83,Pass,5,3,no,no,no,yes,Average,yes,no,Low
+934,F,16,LE3,T,SSCE,SSCE,52,58,Fail,2,2,no,yes,yes,no,Very Poor,no,no,High
+935,M,15,GT3,T,SSCE,Masters,35,48,Fail,5,4,no,yes,yes,yes,Very Poor,yes,yes,High
+936,M,15,GT3,A,SSCE,SSCE,50,51,Pass,1,4,no,no,no,yes,Poor,yes,yes,High
+937,M,16,LE3,T,Bachelor,SSCE,55,35,Pass,3,3,no,no,no,no,Average,yes,yes,High
+938,F,14,GT3,T,SSCE,Masters,67,74,Pass,11,4,yes,yes,no,yes,Average,yes,no,Low
+939,M,15,LE3,T,No schooling,Masters,49,73,Fail,4,1,yes,no,no,yes,Good,yes,yes,High
+940,F,15,GT3,T,Bachelor,Bachelor,60,47,Pass,6,2,yes,yes,no,yes,Good,yes,no,High
+941,M,15,GT3,T,SSCE,SSCE,57,55,Fail,5,2,no,no,yes,yes,Very Good,yes,yes,Low
+942,F,17,LE3,T,SSCE,SSCE,55,58,Pass,11,1,no,no,yes,yes,Average,no,yes,High
+943,F,14,LE3,T,SSCE,SSCE,64,48,Fail,5,4,no,no,no,yes,Very Good,yes,yes,High
+944,F,16,GT3,T,SSCE,SSCE,48,40,Fail,7,1,no,no,yes,yes,Good,no,no,Low
+945,M,15,LE3,T,Bachelor,SSCE,49,55,Pass,6,4,yes,yes,yes,yes,Average,yes,yes,High
+946,M,15,LE3,T,No schooling,Masters,54,54,Pass,6,3,no,no,yes,yes,Good,yes,yes,High
+947,M,16,LE3,T,PhD,Masters,48,54,Pass,7,2,no,no,yes,yes,Good,no,no,Low
+948,F,16,GT3,T,Bachelor,SSCE,60,60,Pass,6,1,no,yes,no,no,Poor,yes,no,High
+949,F,16,GT3,T,SSCE,No schooling,47,72,Pass,5,1,no,no,yes,yes,Good,yes,no,High
+950,F,16,LE3,T,SSCE,Masters,57,54,Pass,2,2,no,yes,yes,yes,Good,yes,no,High
+951,F,15,LE3,T,SSCE,SSCE,53,59,Fail,3,2,yes,no,no,no,Very Good,yes,no,Low
+952,F,15,LE3,T,Bachelor,Bachelor,57,65,Fail,2,2,yes,no,no,yes,Very Good,no,yes,High
+953,M,14,LE3,T,SSCE,No schooling,50,63,Fail,4,2,no,no,no,yes,Good,yes,no,High
+954,F,15,GT3,T,SSCE,SSCE,51,51,Pass,6,3,no,yes,no,yes,Good,no,no,High
+955,M,18,GT3,A,Masters,PhD,55,58,Fail,2,2,yes,no,no,yes,Very Good,no,no,High
+956,M,17,LE3,A,SSCE,No schooling,57,63,Pass,6,2,no,no,no,yes,Very Good,yes,no,High
+957,F,14,LE3,T,SSCE,SSCE,54,46,Pass,6,3,no,no,yes,yes,Good,yes,no,High
+958,M,14,LE3,T,Masters,SSCE,72,70,Pass,7,2,yes,no,yes,yes,Good,yes,no,High
+959,M,16,GT3,T,Bachelor,Masters,45,72,Pass,5,2,yes,yes,no,yes,Poor,yes,yes,Low
+960,F,16,GT3,T,SSCE,Masters,54,50,Pass,2,3,yes,no,yes,no,Good,no,no,Low
+961,M,16,GT3,T,Bachelor,SSCE,39,59,Pass,2,4,yes,yes,yes,yes,Average,yes,no,High
+962,F,15,LE3,T,No schooling,No schooling,58,64,Fail,7,4,yes,no,yes,no,Average,yes,no,Low
+963,M,15,LE3,A,Bachelor,Bachelor,43,52,Pass,3,1,yes,yes,yes,no,Average,yes,no,High
+964,M,16,LE3,T,Bachelor,SSCE,52,62,Fail,8,2,yes,no,yes,yes,Average,yes,no,High
+965,M,16,LE3,T,Masters,Bachelor,51,59,Pass,3,1,no,yes,yes,yes,Average,yes,no,High
+966,M,13,GT3,T,PhD,No schooling,57,43,Pass,3,4,no,no,yes,yes,Very Good,yes,no,High
+967,F,15,GT3,A,Masters,No schooling,49,62,Pass,6,2,no,yes,yes,yes,Good,yes,yes,High
+968,M,15,GT3,T,Masters,Bachelor,49,46,Fail,6,2,no,no,yes,no,Average,no,no,High
+969,F,16,GT3,T,Bachelor,SSCE,69,67,Pass,4,4,no,yes,no,yes,Good,yes,no,Low
+970,F,18,LE3,T,SSCE,Masters,57,51,Pass,5,4,no,no,no,yes,Very Good,yes,yes,High
+971,F,16,GT3,A,Bachelor,No schooling,49,56,Pass,7,3,no,yes,no,yes,Average,yes,no,High
+972,F,15,LE3,T,Bachelor,SSCE,52,71,Pass,5,1,yes,no,no,yes,Average,yes,no,Low
+973,F,16,LE3,A,Masters,PhD,71,62,Fail,5,2,no,no,no,yes,Average,yes,no,Low
+974,M,16,GT3,T,SSCE,SSCE,52,47,Pass,5,3,no,no,no,yes,Very Good,no,no,High
+975,M,16,LE3,T,Masters,Bachelor,48,47,Pass,4,2,yes,no,yes,yes,Average,yes,yes,High
+976,M,16,GT3,T,Masters,SSCE,48,52,Fail,6,1,yes,yes,no,yes,Very Good,yes,no,Low
+977,F,18,LE3,T,PhD,Bachelor,49,61,Pass,2,2,no,yes,no,yes,Average,yes,no,High
+978,M,14,GT3,T,Masters,Bachelor,49,61,Fail,4,4,yes,no,yes,yes,Poor,yes,no,High
+979,F,16,GT3,A,SSCE,SSCE,42,49,Fail,5,2,yes,no,no,yes,Poor,yes,no,Low
+980,F,15,LE3,T,SSCE,Masters,43,46,Fail,7,3,no,no,no,yes,Average,yes,yes,High
+981,M,16,GT3,T,SSCE,Bachelor,46,60,Pass,3,2,no,yes,yes,yes,Good,yes,no,Low
+982,F,15,LE3,T,SSCE,SSCE,60,56,Fail,9,2,no,no,no,yes,Average,no,no,High
+983,M,15,GT3,T,Bachelor,Bachelor,51,79,Pass,2,4,no,no,yes,yes,Average,yes,no,Low
+984,M,15,GT3,T,Masters,Bachelor,52,58,Fail,3,2,no,yes,yes,yes,Average,yes,no,High
+985,F,16,GT3,T,Masters,SSCE,67,76,Pass,6,3,yes,yes,yes,yes,Good,no,no,High
+986,F,16,GT3,T,Bachelor,SSCE,67,46,Pass,5,2,no,no,no,yes,Good,yes,yes,Low
+987,F,14,LE3,T,No schooling,SSCE,52,42,Fail,7,1,yes,yes,no,yes,Good,yes,no,High
+988,M,16,GT3,A,SSCE,SSCE,48,46,Pass,2,3,no,no,no,yes,Very Good,yes,no,Low
+989,M,15,GT3,T,No schooling,Bachelor,46,69,Fail,8,3,yes,no,no,yes,Average,yes,no,High
+990,F,14,GT3,A,SSCE,SSCE,61,75,Fail,7,3,yes,no,yes,yes,Very Poor,no,no,Low
+991,F,15,LE3,T,Bachelor,Masters,52,50,Pass,2,2,yes,no,yes,no,Average,yes,no,Low
+992,F,15,GT3,T,No schooling,SSCE,51,53,Pass,6,2,no,no,no,yes,Average,yes,yes,Low
+993,M,18,GT3,T,SSCE,SSCE,46,46,Pass,3,4,no,yes,no,yes,Average,yes,yes,Low
+994,F,16,LE3,T,SSCE,Bachelor,47,39,Fail,4,2,yes,yes,no,yes,Very Good,yes,yes,High
+995,M,14,GT3,A,Bachelor,SSCE,58,65,Pass,5,3,yes,no,yes,yes,Good,yes,no,High
+996,M,15,LE3,T,Bachelor,SSCE,41,60,Pass,4,2,no,no,no,yes,Poor,yes,no,Low
+997,F,17,GT3,T,Bachelor,No schooling,64,58,Fail,6,4,no,no,yes,yes,Average,yes,no,High
+998,M,18,GT3,A,SSCE,SSCE,49,43,Fail,5,4,yes,no,yes,yes,Good,no,no,High
+999,F,14,GT3,T,PhD,SSCE,53,74,Fail,6,1,yes,yes,no,no,Very Good,yes,yes,High
+1000,M,14,GT3,T,SSCE,PhD,41,52,Fail,3,3,yes,yes,no,yes,Very Poor,yes,no,High
+1001,M,17,GT3,T,Bachelor,SSCE,54,63,Pass,4,2,no,yes,yes,no,Average,yes,no,Low
+1002,F,16,LE3,A,Bachelor,Masters,51,43,Pass,3,2,yes,no,no,no,Very Good,yes,no,Low
+1003,F,15,LE3,T,Bachelor,Bachelor,54,56,Pass,4,2,yes,no,no,no,Very Good,yes,yes,High
+1004,F,16,GT3,T,Masters,SSCE,69,60,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+1005,F,13,LE3,T,SSCE,SSCE,56,61,Fail,5,2,no,no,no,yes,Very Poor,no,yes,High
+1006,F,16,LE3,A,Bachelor,Masters,47,59,Fail,4,2,no,no,yes,yes,Average,no,yes,Low
+1007,F,16,GT3,T,No schooling,Masters,47,62,Fail,6,2,no,no,no,yes,Very Good,yes,no,High
+1008,F,16,LE3,T,Bachelor,SSCE,60,46,Pass,5,1,no,no,no,yes,Average,yes,no,Low
+1009,M,14,LE3,T,SSCE,SSCE,67,59,Pass,7,2,no,yes,yes,yes,Very Good,no,no,High
+1010,F,16,GT3,A,SSCE,SSCE,57,59,Pass,5,2,yes,no,no,no,Average,no,no,Low
+1011,M,15,LE3,A,Bachelor,No schooling,61,60,Pass,5,3,no,no,yes,yes,Good,yes,no,Low
+1012,F,16,GT3,A,Bachelor,Bachelor,61,58,Fail,6,3,yes,no,yes,yes,Good,no,no,Low
+1013,F,15,GT3,T,No schooling,Masters,69,45,Pass,3,4,no,no,no,yes,Average,no,yes,Low
+1014,M,15,GT3,T,Bachelor,SSCE,35,44,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+1015,F,15,LE3,T,Bachelor,Bachelor,61,35,Fail,6,1,no,no,yes,yes,Average,yes,yes,Low
+1016,F,16,GT3,A,SSCE,Bachelor,64,66,Pass,7,3,no,no,no,yes,Good,yes,no,Low
+1017,M,16,GT3,T,Bachelor,SSCE,41,66,Pass,7,3,no,yes,no,no,Poor,no,yes,High
+1018,F,15,GT3,T,Bachelor,No schooling,46,66,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1019,F,16,LE3,T,Bachelor,Bachelor,46,61,Pass,5,3,yes,yes,no,yes,Good,yes,yes,High
+1020,M,14,GT3,T,SSCE,Masters,47,36,Fail,5,2,no,yes,no,yes,Average,yes,yes,Low
+1021,F,15,GT3,T,SSCE,Bachelor,50,47,Pass,7,1,yes,yes,no,no,Very Good,yes,no,High
+1022,M,15,GT3,T,Bachelor,No schooling,57,59,Fail,3,3,no,no,yes,yes,Good,yes,no,High
+1023,F,18,GT3,T,Masters,SSCE,63,59,Fail,6,2,yes,yes,no,no,Good,yes,no,High
+1024,F,14,GT3,T,Bachelor,No schooling,65,55,Pass,6,2,yes,no,yes,no,Average,no,yes,High
+1025,F,17,GT3,T,No schooling,Bachelor,46,61,Fail,3,2,no,no,no,yes,Good,yes,yes,High
+1026,F,16,LE3,T,Bachelor,Bachelor,46,58,Fail,8,2,yes,no,no,yes,Poor,no,no,High
+1027,F,16,GT3,T,Masters,No schooling,68,59,Fail,7,2,yes,no,no,yes,Very Good,yes,no,Low
+1028,F,17,LE3,T,No schooling,Masters,61,51,Pass,3,1,no,yes,no,yes,Very Poor,yes,no,Low
+1029,M,16,GT3,T,PhD,Bachelor,55,67,Pass,4,4,no,no,no,no,Good,no,no,High
+1030,F,16,LE3,T,Masters,Bachelor,59,53,Pass,2,3,yes,yes,no,yes,Good,yes,no,High
+1031,M,15,GT3,T,No schooling,PhD,54,44,Pass,4,2,no,no,no,no,Poor,yes,no,High
+1032,F,17,LE3,T,Masters,No schooling,60,50,Fail,3,2,no,no,no,yes,Very Poor,yes,no,High
+1033,M,17,GT3,T,SSCE,Masters,51,54,Fail,5,1,no,yes,yes,yes,Poor,yes,no,Low
+1034,M,15,GT3,T,Masters,No schooling,57,67,Fail,6,3,no,yes,no,yes,Average,yes,yes,High
+1035,M,14,LE3,A,SSCE,SSCE,39,57,Pass,6,2,yes,no,no,yes,Very Good,yes,no,High
+1036,F,15,LE3,T,SSCE,Masters,48,56,Pass,4,2,yes,no,no,yes,Very Good,yes,no,High
+1037,M,15,LE3,T,Bachelor,Masters,48,45,Fail,4,2,yes,no,no,yes,Very Poor,yes,no,High
+1038,F,15,GT3,T,Masters,SSCE,51,65,Pass,5,2,yes,yes,yes,yes,Average,no,no,High
+1039,M,17,GT3,T,No schooling,Bachelor,45,51,Pass,8,3,yes,no,no,no,Very Good,yes,yes,High
+1040,M,15,GT3,T,Bachelor,Bachelor,49,56,Pass,5,3,yes,yes,yes,yes,Poor,yes,yes,High
+1041,F,15,LE3,T,SSCE,Masters,39,72,Pass,8,4,no,no,no,yes,Very Good,yes,yes,High
+1042,F,16,GT3,T,SSCE,No schooling,60,63,Fail,2,2,no,no,no,yes,Average,no,no,Low
+1043,M,16,GT3,T,SSCE,Masters,54,41,Pass,7,3,no,yes,yes,no,Good,no,no,Low
+1044,F,13,GT3,A,Bachelor,SSCE,37,40,Fail,11,1,yes,yes,no,yes,Average,yes,yes,Low
+1045,F,15,GT3,T,SSCE,SSCE,46,57,Fail,4,2,yes,no,no,yes,Poor,yes,yes,Low
+1046,F,16,LE3,T,SSCE,SSCE,58,45,Pass,6,2,no,yes,no,no,Average,yes,yes,Low
+1047,M,17,LE3,T,SSCE,SSCE,49,64,Fail,3,2,yes,no,no,no,Good,no,yes,High
+1048,M,15,LE3,T,No schooling,Masters,48,58,Pass,3,2,no,no,yes,yes,Average,yes,no,High
+1049,F,14,LE3,A,Bachelor,SSCE,54,59,Fail,1,3,no,yes,yes,no,Good,no,yes,High
+1050,M,16,LE3,T,PhD,PhD,58,50,Pass,3,1,yes,yes,no,yes,Poor,yes,no,High
+1051,F,15,LE3,A,SSCE,SSCE,40,75,Fail,6,2,yes,no,yes,no,Average,yes,no,High
+1052,F,14,LE3,T,Masters,Bachelor,60,86,Pass,3,4,yes,no,no,yes,Average,yes,yes,High
+1053,F,15,GT3,T,Bachelor,Masters,46,55,Fail,2,2,yes,no,no,yes,Average,no,no,High
+1054,F,15,GT3,T,Bachelor,Bachelor,54,61,Fail,6,3,yes,yes,no,no,Poor,yes,no,High
+1055,F,15,GT3,T,Bachelor,Bachelor,54,58,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+1056,M,13,GT3,T,Masters,Bachelor,49,55,Fail,3,2,no,no,no,yes,Good,no,no,Low
+1057,F,16,LE3,T,SSCE,Masters,44,49,Pass,6,2,yes,no,no,yes,Very Good,yes,yes,Low
+1058,M,17,GT3,T,Bachelor,Masters,52,47,Pass,2,3,no,yes,no,yes,Good,yes,yes,Low
+1059,F,16,LE3,T,Bachelor,No schooling,71,46,Fail,3,3,yes,yes,yes,yes,Poor,yes,yes,Low
+1060,F,14,GT3,A,Bachelor,Masters,41,62,Fail,10,1,yes,no,yes,yes,Average,yes,no,High
+1061,F,15,LE3,T,Masters,SSCE,71,52,Pass,7,2,yes,no,no,no,Very Poor,yes,no,High
+1062,F,15,GT3,T,No schooling,SSCE,52,32,Pass,4,2,yes,yes,no,yes,Poor,yes,no,Low
+1063,F,16,LE3,T,Bachelor,Masters,55,62,Fail,1,3,yes,no,yes,no,Average,yes,no,High
+1064,M,16,LE3,T,Bachelor,SSCE,44,57,Fail,3,2,yes,yes,no,yes,Poor,yes,yes,High
+1065,M,15,GT3,T,SSCE,Masters,47,71,Pass,7,4,yes,yes,no,yes,Poor,no,no,Low
+1066,F,16,LE3,A,SSCE,SSCE,49,61,Pass,7,4,yes,no,no,yes,Poor,no,no,Low
+1067,M,16,GT3,A,Bachelor,No schooling,44,43,Fail,3,3,no,no,yes,no,Average,no,no,High
+1068,M,17,GT3,T,Masters,SSCE,52,35,Fail,7,3,no,yes,yes,yes,Poor,no,no,Low
+1069,M,16,GT3,A,Bachelor,No schooling,50,50,Fail,2,2,yes,yes,no,yes,Average,no,no,High
+1070,M,16,GT3,T,Masters,Bachelor,73,51,Pass,5,1,yes,yes,yes,yes,Good,no,no,High
+1071,M,16,GT3,T,SSCE,SSCE,43,67,Fail,2,2,no,no,no,no,Poor,no,no,High
+1072,M,17,LE3,T,SSCE,SSCE,56,57,Fail,4,2,no,yes,no,yes,Poor,yes,yes,Low
+1073,M,16,GT3,T,No schooling,No schooling,57,69,Pass,5,2,no,yes,yes,yes,Very Poor,yes,yes,High
+1074,M,15,GT3,T,No schooling,SSCE,44,44,Pass,3,3,yes,yes,no,no,Average,yes,yes,Low
+1075,F,17,GT3,T,SSCE,Bachelor,61,67,Fail,4,2,yes,no,no,yes,Good,no,yes,High
+1076,M,16,LE3,T,SSCE,SSCE,51,65,Pass,5,3,no,no,yes,no,Very Poor,yes,no,High
+1077,M,15,GT3,T,Bachelor,Bachelor,30,37,Fail,2,2,no,yes,yes,no,Average,no,yes,High
+1078,F,15,GT3,T,Bachelor,Masters,61,71,Fail,5,2,yes,no,no,yes,Good,yes,no,High
+1079,M,16,GT3,A,No schooling,Bachelor,43,58,Fail,6,2,no,yes,no,yes,Average,no,no,High
+1080,F,16,GT3,T,SSCE,Masters,44,61,Fail,2,4,yes,no,no,yes,Very Good,yes,no,High
+1081,F,16,LE3,T,SSCE,No schooling,61,49,Pass,5,3,yes,yes,no,no,Very Good,yes,yes,Low
+1082,M,16,LE3,T,Bachelor,SSCE,51,70,Pass,5,2,yes,yes,no,yes,Very Poor,no,yes,Low
+1083,M,17,GT3,T,SSCE,Masters,64,46,Fail,7,2,yes,no,yes,no,Average,yes,yes,High
+1084,F,17,GT3,T,SSCE,Bachelor,67,66,Pass,8,4,no,no,yes,yes,Good,yes,no,High
+1085,F,16,GT3,T,Masters,Bachelor,48,66,Pass,7,1,no,no,yes,yes,Very Good,yes,no,High
+1086,F,16,LE3,T,Masters,Bachelor,62,48,Pass,4,2,no,no,no,yes,Good,yes,no,High
+1087,F,14,GT3,T,SSCE,SSCE,47,77,Pass,7,2,yes,yes,yes,yes,Poor,yes,no,High
+1088,M,16,GT3,T,SSCE,No schooling,77,60,Fail,6,2,yes,yes,no,yes,Average,yes,no,High
+1089,F,17,GT3,T,SSCE,Bachelor,48,64,Pass,7,2,yes,no,no,yes,Good,no,yes,Low
+1090,M,15,GT3,T,Masters,Bachelor,65,42,Pass,5,1,yes,no,no,yes,Average,yes,no,Low
+1091,F,15,LE3,T,Bachelor,SSCE,63,79,Fail,5,3,no,no,yes,yes,Average,yes,no,High
+1092,F,15,GT3,A,SSCE,Masters,58,45,Fail,5,1,yes,no,no,yes,Good,no,yes,Low
+1093,F,14,LE3,T,Bachelor,SSCE,48,68,Fail,7,3,no,no,no,yes,Poor,yes,no,High
+1094,F,15,GT3,A,SSCE,SSCE,53,48,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+1095,M,15,LE3,T,SSCE,Masters,33,51,Fail,2,2,yes,yes,no,yes,Very Good,yes,no,Low
+1096,M,14,GT3,A,SSCE,Bachelor,57,65,Fail,4,1,no,no,yes,no,Average,yes,no,Low
+1097,M,16,LE3,T,Bachelor,SSCE,58,68,Pass,7,3,yes,yes,yes,yes,Good,yes,no,High
+1098,M,16,GT3,T,SSCE,No schooling,56,45,Fail,7,2,no,yes,no,no,Good,no,no,Low
+1099,F,15,GT3,A,SSCE,SSCE,25,68,Pass,6,2,no,yes,no,yes,Poor,yes,no,Low
+1100,M,17,GT3,T,SSCE,Bachelor,42,68,Fail,3,2,yes,no,yes,no,Poor,yes,no,Low
+1101,M,16,LE3,T,No schooling,SSCE,47,48,Pass,1,3,yes,no,yes,yes,Very Poor,yes,no,High
+1102,F,17,LE3,T,Masters,Masters,57,73,Pass,4,1,no,no,no,yes,Very Good,yes,no,Low
+1103,F,15,LE3,T,SSCE,Masters,57,43,Pass,9,1,yes,no,no,yes,Average,yes,no,Low
+1104,F,16,GT3,A,No schooling,Masters,53,51,Pass,5,2,no,no,yes,yes,Very Poor,yes,no,High
+1105,F,14,LE3,T,Bachelor,SSCE,61,62,Fail,4,3,yes,yes,no,yes,Average,yes,no,High
+1106,M,16,GT3,T,Masters,Bachelor,44,49,Fail,4,2,no,no,no,yes,Very Poor,yes,yes,High
+1107,M,16,GT3,T,Masters,SSCE,61,60,Fail,7,3,no,no,no,yes,Very Poor,no,yes,High
+1108,F,16,GT3,T,Bachelor,SSCE,59,60,Fail,4,3,no,no,no,yes,Average,yes,yes,High
+1109,F,14,GT3,T,SSCE,No schooling,58,56,Pass,6,4,yes,yes,no,no,Average,no,no,Low
+1110,M,15,GT3,T,Bachelor,SSCE,53,66,Fail,2,2,yes,yes,yes,yes,Average,yes,yes,Low
+1111,F,16,LE3,T,Bachelor,Masters,73,55,Pass,7,2,yes,yes,no,yes,Good,yes,yes,High
+1112,M,15,GT3,T,SSCE,SSCE,59,60,Fail,3,3,no,no,no,yes,Good,yes,yes,Low
+1113,M,16,GT3,A,Masters,SSCE,45,69,Pass,3,2,yes,no,no,yes,Average,no,no,Low
+1114,F,14,LE3,T,SSCE,PhD,57,65,Pass,6,2,yes,no,no,yes,Good,yes,yes,High
+1115,F,16,GT3,T,PhD,No schooling,62,65,Fail,4,2,no,no,yes,yes,Average,yes,no,High
+1116,F,14,GT3,T,Masters,Bachelor,49,46,Fail,7,4,yes,yes,yes,yes,Average,yes,no,High
+1117,M,16,GT3,T,Bachelor,SSCE,65,63,Fail,6,2,no,yes,no,yes,Average,no,no,High
+1118,F,16,LE3,T,Masters,No schooling,58,49,Fail,8,2,no,no,yes,yes,Average,yes,no,High
+1119,M,15,GT3,A,Bachelor,Masters,31,45,Pass,3,3,no,yes,yes,no,Poor,yes,yes,High
+1120,M,16,LE3,T,SSCE,No schooling,57,57,Fail,5,2,yes,yes,no,no,Very Poor,yes,no,Low
+1121,F,16,LE3,A,SSCE,Bachelor,50,48,Fail,6,4,yes,no,no,yes,Average,yes,no,High
+1122,F,15,GT3,T,No schooling,SSCE,60,65,Pass,3,2,no,no,no,yes,Average,yes,yes,High
+1123,F,14,GT3,T,SSCE,No schooling,64,66,Pass,4,3,yes,no,no,yes,Average,no,no,Low
+1124,F,14,GT3,T,Bachelor,No schooling,56,38,Pass,8,2,no,yes,no,yes,Very Good,yes,no,Low
+1125,F,16,LE3,T,SSCE,No schooling,71,49,Fail,4,3,no,no,no,yes,Average,yes,no,Low
+1126,F,14,GT3,T,SSCE,No schooling,53,43,Pass,4,4,yes,yes,no,yes,Very Good,yes,yes,High
+1127,M,16,GT3,A,Bachelor,Bachelor,61,53,Pass,4,3,no,no,yes,yes,Average,yes,no,High
+1128,M,15,LE3,T,Masters,SSCE,63,62,Pass,4,3,no,yes,no,no,Poor,yes,no,High
+1129,M,16,GT3,A,No schooling,SSCE,54,55,Pass,8,1,no,no,no,no,Very Good,yes,no,High
+1130,M,15,LE3,T,SSCE,SSCE,62,52,Fail,7,4,no,yes,no,no,Very Good,yes,no,High
+1131,F,15,GT3,T,SSCE,Masters,49,71,Fail,7,3,no,no,no,yes,Average,no,no,High
+1132,F,16,GT3,T,Bachelor,Masters,50,34,Pass,5,4,yes,yes,no,no,Poor,yes,yes,Low
+1133,M,16,LE3,T,SSCE,Bachelor,41,70,Pass,7,3,no,yes,no,yes,Poor,yes,no,High
+1134,M,16,LE3,A,Bachelor,Masters,57,52,Pass,4,2,yes,no,no,yes,Good,yes,no,High
+1135,F,16,LE3,T,SSCE,SSCE,58,57,Fail,7,3,no,no,yes,no,Very Poor,no,yes,High
+1136,M,14,LE3,T,SSCE,SSCE,66,52,Pass,2,1,yes,yes,yes,no,Good,no,yes,High
+1137,F,16,GT3,T,Masters,Bachelor,62,73,Pass,2,3,yes,yes,yes,no,Good,yes,yes,High
+1138,F,16,GT3,T,No schooling,Bachelor,52,45,Fail,5,2,yes,no,no,yes,Poor,yes,yes,Low
+1139,F,14,LE3,T,SSCE,SSCE,43,58,Pass,5,2,yes,yes,no,yes,Good,yes,yes,High
+1140,F,15,LE3,T,No schooling,SSCE,59,63,Fail,8,4,yes,yes,no,yes,Good,yes,no,High
+1141,F,15,GT3,T,Bachelor,PhD,66,41,Pass,6,4,no,yes,no,no,Average,no,no,Low
+1142,M,15,GT3,T,Bachelor,Masters,62,48,Fail,5,4,yes,no,no,yes,Average,yes,yes,Low
+1143,F,16,LE3,T,SSCE,SSCE,65,56,Pass,8,3,no,yes,no,yes,Good,yes,no,Low
+1144,F,17,LE3,T,SSCE,Bachelor,52,49,Pass,5,3,yes,no,yes,yes,Average,yes,no,High
+1145,M,17,GT3,T,SSCE,SSCE,50,49,Pass,7,3,yes,no,no,yes,Good,yes,yes,High
+1146,F,14,LE3,T,Bachelor,No schooling,47,54,Fail,4,1,yes,no,no,no,Average,no,yes,High
+1147,F,16,LE3,T,Masters,SSCE,54,64,Fail,7,4,yes,yes,yes,yes,Poor,yes,yes,Low
+1148,F,17,GT3,T,Bachelor,SSCE,54,54,Pass,6,4,yes,no,yes,yes,Very Good,yes,no,High
+1149,F,16,GT3,T,Bachelor,No schooling,57,68,Fail,5,3,no,no,no,no,Average,yes,no,Low
+1150,F,17,GT3,T,SSCE,Masters,53,48,Fail,3,4,yes,no,no,yes,Average,yes,yes,Low
+1151,F,18,GT3,T,SSCE,SSCE,53,45,Fail,5,2,no,no,no,no,Good,yes,yes,High
+1152,F,17,GT3,T,SSCE,Bachelor,47,77,Fail,5,2,yes,yes,no,no,Good,yes,no,High
+1153,F,16,LE3,T,SSCE,No schooling,64,51,Pass,4,4,no,no,no,yes,Poor,yes,no,High
+1154,F,17,LE3,A,SSCE,SSCE,55,44,Fail,1,2,yes,yes,yes,yes,Very Good,no,no,High
+1155,F,16,LE3,T,Bachelor,Masters,53,40,Pass,6,3,no,no,no,yes,Very Poor,yes,no,Low
+1156,F,16,LE3,T,Bachelor,Bachelor,47,68,Pass,6,2,yes,no,yes,yes,Good,yes,yes,High
+1157,M,15,GT3,T,Masters,PhD,41,54,Pass,7,3,yes,yes,no,yes,Average,no,no,High
+1158,F,17,GT3,T,SSCE,PhD,68,55,Fail,8,3,no,yes,yes,yes,Average,yes,no,High
+1159,F,15,GT3,T,Bachelor,SSCE,60,56,Fail,7,3,no,yes,no,yes,Good,no,no,High
+1160,M,17,GT3,T,Masters,SSCE,38,68,Fail,1,2,yes,no,no,yes,Good,yes,no,High
+1161,F,16,LE3,T,Bachelor,Masters,62,56,Fail,5,2,yes,no,no,yes,Good,yes,no,High
+1162,M,14,LE3,T,SSCE,PhD,64,81,Fail,4,3,no,no,yes,yes,Average,yes,yes,High
+1163,M,16,GT3,T,SSCE,Bachelor,56,59,Pass,8,4,yes,no,yes,yes,Very Good,yes,yes,High
+1164,F,13,GT3,T,No schooling,Bachelor,70,68,Pass,3,1,yes,yes,yes,yes,Average,no,no,Low
+1165,M,16,GT3,T,SSCE,Bachelor,57,66,Pass,1,1,no,yes,yes,yes,Average,yes,no,Low
+1166,F,16,GT3,T,Bachelor,SSCE,40,57,Pass,2,1,no,yes,no,no,Very Good,no,yes,Low
+1167,F,15,GT3,T,No schooling,Bachelor,58,52,Pass,3,4,yes,yes,no,yes,Very Poor,yes,no,High
+1168,F,16,GT3,T,SSCE,Masters,57,61,Pass,7,3,no,no,no,no,Poor,yes,no,Low
+1169,M,17,LE3,A,Bachelor,Bachelor,48,63,Fail,4,4,yes,no,no,yes,Very Good,yes,yes,High
+1170,M,15,GT3,T,Masters,No schooling,60,52,Fail,7,2,yes,no,yes,yes,Very Good,yes,no,High
+1171,F,14,GT3,T,Bachelor,SSCE,38,59,Fail,11,2,yes,no,no,no,Good,yes,yes,High
+1172,F,17,LE3,T,Bachelor,No schooling,64,70,Fail,3,3,no,yes,no,yes,Average,yes,no,High
+1173,F,17,GT3,A,SSCE,SSCE,46,78,Pass,7,2,yes,yes,no,yes,Average,yes,no,Low
+1174,M,16,LE3,T,SSCE,Masters,45,66,Fail,5,2,yes,yes,no,yes,Average,no,no,High
+1175,F,17,GT3,T,SSCE,No schooling,53,76,Pass,9,2,no,no,no,yes,Average,no,yes,High
+1176,F,17,LE3,T,Bachelor,SSCE,59,51,Pass,5,2,yes,no,no,yes,Average,no,no,High
+1177,F,15,GT3,T,Masters,SSCE,56,65,Fail,7,2,no,yes,no,yes,Very Poor,yes,yes,Low
+1178,M,15,LE3,A,No schooling,Bachelor,47,71,Pass,4,1,no,no,no,yes,Average,yes,no,High
+1179,F,17,GT3,T,Bachelor,SSCE,49,49,Pass,3,2,no,no,no,no,Average,no,no,High
+1180,F,17,LE3,T,SSCE,SSCE,43,53,Pass,5,2,yes,yes,yes,no,Good,yes,no,Low
+1181,F,16,LE3,A,Bachelor,SSCE,52,75,Fail,4,3,no,no,no,yes,Average,yes,no,High
+1182,M,15,GT3,T,No schooling,SSCE,65,48,Fail,8,2,no,no,yes,no,Very Good,no,no,Low
+1183,F,17,GT3,T,SSCE,SSCE,54,44,Pass,4,2,yes,yes,no,yes,Average,no,yes,Low
+1184,F,15,LE3,T,Masters,SSCE,63,73,Fail,3,1,yes,no,no,yes,Average,yes,no,High
+1185,M,15,LE3,T,Bachelor,Masters,69,69,Pass,5,2,yes,yes,no,no,Average,yes,yes,Low
+1186,F,16,GT3,T,Bachelor,SSCE,49,62,Pass,2,3,yes,no,no,yes,Poor,yes,yes,Low
+1187,F,17,GT3,T,SSCE,No schooling,53,57,Pass,6,4,no,no,no,yes,Average,yes,no,High
+1188,M,16,GT3,T,SSCE,Bachelor,76,53,Fail,6,3,no,no,yes,yes,Good,yes,no,High
+1189,M,16,LE3,T,SSCE,SSCE,69,60,Pass,3,2,yes,yes,no,yes,Average,yes,yes,Low
+1190,F,16,GT3,A,Masters,Bachelor,38,73,Pass,4,1,no,no,no,yes,Very Good,yes,no,High
+1191,M,16,LE3,T,PhD,SSCE,58,60,Pass,5,2,yes,yes,no,no,Good,yes,no,High
+1192,F,16,LE3,A,SSCE,Bachelor,55,79,Pass,7,4,no,yes,yes,yes,Poor,yes,no,Low
+1193,M,13,GT3,T,SSCE,Bachelor,63,49,Fail,6,3,yes,no,no,yes,Average,yes,no,High
+1194,F,15,GT3,T,Masters,Masters,47,57,Pass,3,1,yes,yes,no,yes,Good,yes,no,Low
+1195,M,16,GT3,A,SSCE,SSCE,46,54,Pass,6,1,yes,yes,yes,no,Good,yes,no,High
+1196,F,14,LE3,T,Bachelor,SSCE,48,47,Pass,3,2,no,no,no,yes,Very Good,yes,no,Low
+1197,F,16,GT3,T,SSCE,SSCE,49,56,Pass,6,2,yes,no,yes,yes,Good,no,yes,High
+1198,F,15,GT3,T,Bachelor,Masters,63,62,Fail,2,3,yes,yes,no,no,Very Poor,yes,no,High
+1199,F,17,GT3,T,Bachelor,Masters,43,63,Pass,3,2,no,no,no,yes,Poor,no,no,High
+1200,M,17,LE3,T,Masters,No schooling,48,79,Pass,4,3,no,no,no,yes,Good,no,no,High
+1201,F,15,LE3,A,Masters,No schooling,37,62,Pass,11,2,no,yes,no,yes,Poor,yes,no,High
+1202,M,15,LE3,T,SSCE,SSCE,65,69,Pass,5,2,no,no,yes,yes,Average,no,yes,High
+1203,M,15,GT3,T,Bachelor,No schooling,67,58,Fail,4,2,no,no,no,yes,Good,yes,no,Low
+1204,M,15,LE3,T,Masters,SSCE,51,74,Fail,3,3,no,no,yes,yes,Average,yes,yes,High
+1205,F,16,GT3,T,SSCE,No schooling,52,81,Fail,2,2,no,yes,no,yes,Average,yes,no,High
+1206,F,15,LE3,T,SSCE,Bachelor,59,63,Pass,7,2,no,yes,yes,no,Good,yes,no,High
+1207,F,14,GT3,T,No schooling,Masters,69,48,Fail,4,3,no,no,no,yes,Poor,yes,no,Low
+1208,M,16,LE3,T,Bachelor,PhD,59,52,Fail,1,1,yes,no,no,yes,Good,yes,no,Low
+1209,M,16,GT3,T,SSCE,SSCE,48,60,Pass,0,2,yes,no,no,no,Good,yes,no,Low
+1210,F,15,GT3,A,Bachelor,Bachelor,38,62,Fail,6,2,yes,no,no,yes,Average,yes,yes,High
+1211,M,16,LE3,T,SSCE,Masters,43,64,Fail,5,3,no,no,yes,yes,Average,yes,yes,High
+1212,F,15,GT3,T,Masters,No schooling,55,62,Pass,5,1,no,no,no,yes,Good,yes,no,High
+1213,M,16,GT3,T,SSCE,Bachelor,48,58,Pass,9,3,no,no,no,yes,Average,no,no,Low
+1214,F,16,GT3,T,SSCE,SSCE,56,51,Fail,1,1,no,no,yes,yes,Very Poor,yes,no,High
+1215,F,15,GT3,T,Bachelor,SSCE,49,62,Pass,2,1,yes,yes,no,yes,Very Good,yes,yes,Low
+1216,M,16,LE3,A,Bachelor,SSCE,44,76,Fail,5,3,no,no,no,no,Good,yes,no,High
+1217,M,15,LE3,T,SSCE,No schooling,43,68,Fail,4,3,yes,yes,yes,yes,Average,yes,no,High
+1218,F,15,LE3,A,SSCE,Bachelor,70,63,Fail,5,4,yes,yes,yes,yes,Average,yes,yes,High
+1219,F,15,LE3,T,SSCE,SSCE,63,68,Pass,8,2,no,no,yes,yes,Very Good,no,no,High
+1220,M,15,LE3,A,Bachelor,SSCE,72,54,Pass,7,2,no,yes,yes,no,Good,yes,no,High
+1221,F,15,LE3,T,Masters,No schooling,60,52,Pass,5,3,no,yes,yes,yes,Average,no,no,High
+1222,M,14,GT3,A,Bachelor,Masters,50,50,Fail,6,2,yes,no,no,no,Good,no,no,High
+1223,M,15,GT3,T,Bachelor,SSCE,68,56,Fail,4,1,no,no,yes,yes,Average,yes,no,Low
+1224,F,15,LE3,T,Bachelor,Bachelor,54,53,Fail,4,2,yes,no,yes,yes,Poor,no,no,High
+1225,M,15,LE3,A,SSCE,Bachelor,57,70,Pass,5,2,no,no,yes,yes,Average,yes,yes,High
+1226,F,15,GT3,T,PhD,SSCE,54,53,Fail,5,2,yes,no,no,yes,Average,no,no,High
+1227,M,15,LE3,T,Masters,SSCE,25,49,Fail,3,4,no,yes,no,yes,Good,yes,no,High
+1228,M,16,LE3,T,SSCE,Bachelor,71,77,Pass,6,3,yes,yes,no,yes,Poor,yes,no,High
+1229,F,16,LE3,A,SSCE,No schooling,59,53,Pass,8,4,yes,no,no,no,Good,no,yes,High
+1230,M,15,GT3,T,SSCE,No schooling,58,59,Fail,3,4,no,no,no,no,Average,yes,yes,High
+1231,F,14,GT3,T,SSCE,Bachelor,54,62,Fail,6,2,no,no,yes,yes,Average,no,yes,High
+1232,M,14,LE3,T,Bachelor,SSCE,56,46,Fail,3,2,no,no,yes,no,Average,yes,no,Low
+1233,M,15,GT3,T,Bachelor,SSCE,49,70,Pass,8,2,no,yes,yes,yes,Average,yes,no,High
+1234,M,15,GT3,A,Masters,SSCE,61,64,Pass,3,4,no,no,yes,yes,Average,yes,yes,High
+1235,F,15,GT3,T,Bachelor,SSCE,41,73,Fail,11,2,no,yes,yes,yes,Average,no,yes,High
+1236,M,14,GT3,T,Bachelor,Bachelor,56,51,Fail,8,2,yes,no,no,yes,Good,yes,no,High
+1237,F,15,GT3,A,Bachelor,Bachelor,60,58,Fail,10,1,yes,yes,yes,yes,Good,yes,no,High
+1238,F,16,LE3,T,No schooling,Bachelor,53,58,Fail,7,2,no,no,no,yes,Good,yes,no,High
+1239,F,16,LE3,T,SSCE,Bachelor,58,60,Pass,9,2,yes,yes,no,no,Good,no,yes,High
+1240,M,15,GT3,T,Bachelor,SSCE,45,43,Fail,7,2,yes,no,no,yes,Good,yes,no,Low
+1241,F,15,GT3,T,No schooling,SSCE,45,59,Pass,8,4,yes,yes,yes,no,Poor,yes,no,High
+1242,F,15,GT3,T,No schooling,SSCE,57,43,Pass,8,1,yes,yes,no,yes,Very Good,yes,yes,Low
+1243,F,15,GT3,T,Masters,SSCE,61,61,Pass,4,4,no,no,no,yes,Average,yes,yes,High
+1244,F,15,GT3,T,Bachelor,PhD,36,36,Fail,5,1,yes,no,no,no,Good,no,yes,High
+1245,F,16,LE3,T,SSCE,Masters,60,39,Fail,6,4,yes,no,no,yes,Good,yes,yes,Low
+1246,F,14,GT3,T,Bachelor,SSCE,49,66,Pass,5,2,no,yes,no,no,Average,yes,no,High
+1247,M,15,GT3,T,Masters,No schooling,53,52,Pass,2,3,no,no,yes,yes,Very Good,yes,no,High
+1248,M,16,GT3,T,SSCE,No schooling,41,48,Fail,5,2,no,yes,yes,no,Poor,yes,no,Low
+1249,F,16,GT3,T,No schooling,SSCE,46,70,Fail,3,3,yes,yes,yes,yes,Average,yes,no,High
+1250,F,18,GT3,T,Masters,No schooling,64,61,Fail,7,4,yes,no,no,yes,Poor,no,no,Low
+1251,F,16,LE3,T,SSCE,SSCE,55,66,Pass,1,1,yes,yes,yes,yes,Poor,yes,no,High
+1252,F,14,GT3,T,SSCE,Masters,51,56,Pass,1,1,yes,no,yes,no,Good,yes,yes,High
+1253,M,15,LE3,T,Bachelor,Bachelor,53,84,Pass,3,2,yes,no,no,yes,Very Poor,yes,no,High
+1254,M,14,GT3,T,Masters,SSCE,59,51,Pass,2,2,no,yes,yes,no,Very Good,no,no,High
+1255,F,15,GT3,T,SSCE,SSCE,59,75,Pass,5,1,no,yes,no,yes,Good,yes,yes,High
+1256,M,15,LE3,T,SSCE,SSCE,54,57,Pass,0,3,no,no,no,yes,Average,no,no,Low
+1257,M,16,GT3,T,SSCE,Masters,65,41,Pass,4,2,no,no,yes,yes,Average,yes,no,High
+1258,F,15,GT3,A,PhD,Masters,64,62,Pass,4,3,no,no,yes,yes,Poor,yes,no,High
+1259,M,15,GT3,A,SSCE,Masters,59,61,Fail,3,4,no,no,no,yes,Very Good,yes,no,High
+1260,F,15,LE3,T,Bachelor,SSCE,55,47,Pass,2,3,no,no,no,yes,Good,yes,no,High
+1261,M,17,GT3,T,Masters,Bachelor,61,48,Pass,5,1,no,yes,no,no,Average,no,yes,High
+1262,F,15,GT3,T,SSCE,No schooling,58,57,Fail,5,2,yes,no,yes,yes,Very Poor,yes,no,High
+1263,M,17,GT3,T,PhD,Bachelor,65,61,Fail,3,2,yes,yes,yes,yes,Average,yes,no,High
+1264,F,16,LE3,T,Masters,SSCE,63,33,Fail,2,2,no,no,yes,yes,Poor,yes,yes,Low
+1265,M,16,GT3,T,Masters,SSCE,44,68,Fail,6,2,yes,yes,no,no,Good,yes,no,Low
+1266,M,16,GT3,T,SSCE,Bachelor,44,53,Fail,2,4,no,no,yes,yes,Good,no,no,Low
+1267,M,16,LE3,T,Bachelor,SSCE,47,44,Fail,7,3,no,yes,yes,yes,Average,no,yes,High
+1268,F,14,LE3,T,Masters,No schooling,64,67,Fail,5,1,no,no,no,yes,Very Good,yes,no,High
+1269,F,15,LE3,T,PhD,No schooling,39,57,Fail,10,2,yes,no,no,no,Poor,yes,no,High
+1270,M,16,GT3,T,SSCE,No schooling,58,70,Pass,2,2,yes,no,yes,no,Average,yes,no,Low
+1271,F,15,GT3,T,Masters,No schooling,58,62,Pass,6,4,yes,no,no,no,Good,no,no,High
+1272,F,14,GT3,T,SSCE,No schooling,66,57,Fail,6,4,no,no,no,no,Very Poor,no,no,High
+1273,F,15,LE3,T,SSCE,SSCE,56,56,Pass,6,2,yes,yes,no,yes,Average,no,yes,High
+1274,M,17,GT3,T,SSCE,SSCE,41,62,Fail,4,2,no,no,no,yes,Average,yes,yes,High
+1275,F,17,LE3,T,Masters,PhD,45,53,Pass,6,2,no,no,no,yes,Average,yes,no,Low
+1276,M,15,LE3,T,Bachelor,SSCE,43,49,Pass,6,2,no,yes,no,yes,Average,yes,no,High
+1277,M,16,GT3,T,Bachelor,No schooling,49,64,Fail,2,2,no,no,no,yes,Good,yes,yes,High
+1278,F,15,LE3,A,PhD,SSCE,53,56,Pass,3,3,no,no,no,yes,Average,yes,no,Low
+1279,M,14,GT3,A,SSCE,Masters,43,58,Fail,3,2,yes,no,no,yes,Poor,yes,no,High
+1280,F,15,LE3,T,Bachelor,Bachelor,69,68,Fail,6,3,no,yes,no,yes,Poor,yes,no,Low
+1281,F,17,GT3,T,SSCE,SSCE,41,56,Fail,2,2,yes,no,no,yes,Average,yes,no,Low
+1282,F,15,GT3,T,SSCE,Bachelor,68,58,Pass,5,3,yes,yes,yes,yes,Poor,yes,no,High
+1283,F,15,GT3,A,Bachelor,Bachelor,66,52,Fail,3,3,yes,no,yes,no,Very Good,yes,yes,High
+1284,M,15,LE3,T,Masters,Bachelor,63,62,Fail,8,2,no,no,no,yes,Good,yes,no,High
+1285,M,17,LE3,A,Bachelor,Bachelor,48,61,Fail,3,3,yes,no,no,no,Average,yes,yes,High
+1286,F,17,GT3,T,Masters,Masters,58,67,Fail,7,2,no,no,no,yes,Good,yes,no,Low
+1287,M,18,LE3,T,No schooling,Masters,42,52,Fail,2,1,no,yes,no,yes,Average,yes,no,High
+1288,M,15,GT3,A,SSCE,Bachelor,64,53,Fail,4,2,no,no,yes,yes,Poor,no,no,High
+1289,M,16,GT3,T,Bachelor,SSCE,54,65,Fail,3,2,yes,yes,no,yes,Good,yes,no,Low
+1290,M,14,LE3,T,No schooling,Bachelor,50,60,Pass,6,1,no,yes,no,no,Good,yes,yes,High
+1291,M,17,LE3,T,SSCE,Masters,42,48,Pass,5,3,no,no,yes,yes,Very Poor,yes,no,Low
+1292,M,14,GT3,T,Bachelor,No schooling,30,71,Pass,2,2,yes,yes,yes,no,Average,no,no,Low
+1293,F,16,GT3,T,No schooling,PhD,44,41,Pass,12,1,no,no,yes,yes,Very Poor,yes,yes,High
+1294,F,14,GT3,T,SSCE,SSCE,66,65,Fail,1,3,yes,no,yes,yes,Average,yes,no,Low
+1295,F,15,GT3,T,Bachelor,SSCE,50,45,Pass,4,3,no,no,yes,yes,Average,no,no,High
+1296,M,15,GT3,T,Bachelor,Masters,53,76,Fail,6,2,no,yes,no,yes,Good,yes,no,Low
+1297,M,15,LE3,A,Masters,SSCE,61,42,Pass,4,2,yes,no,no,yes,Poor,yes,no,Low
+1298,M,15,GT3,T,Bachelor,SSCE,73,69,Pass,7,2,yes,no,no,yes,Very Poor,no,no,High
+1299,F,15,GT3,T,SSCE,No schooling,68,57,Pass,5,2,no,no,no,no,Average,no,no,High
+1300,F,16,LE3,T,Masters,SSCE,45,54,Pass,4,4,yes,no,no,yes,Good,yes,no,High
+1301,M,14,LE3,T,Masters,SSCE,35,59,Pass,7,2,yes,no,yes,yes,Average,no,no,High
+1302,F,16,LE3,T,SSCE,SSCE,78,64,Pass,7,2,no,no,yes,no,Average,yes,yes,High
+1303,M,17,LE3,A,SSCE,SSCE,77,48,Fail,2,4,no,yes,yes,yes,Average,yes,yes,High
+1304,F,15,GT3,T,Bachelor,PhD,56,49,Pass,5,3,no,yes,no,yes,Good,yes,no,High
+1305,F,15,LE3,T,Bachelor,PhD,42,64,Pass,3,2,no,no,no,yes,Average,yes,no,High
+1306,F,15,LE3,T,Masters,No schooling,64,40,Fail,4,3,yes,no,yes,no,Very Poor,yes,no,High
+1307,F,17,LE3,T,Bachelor,Bachelor,53,52,Pass,5,3,no,no,no,yes,Poor,no,yes,High
+1308,F,16,GT3,A,Bachelor,No schooling,53,88,Pass,7,2,no,no,no,yes,Poor,yes,no,High
+1309,M,15,GT3,T,PhD,No schooling,63,48,Pass,6,4,yes,no,no,no,Average,yes,no,Low
+1310,F,16,GT3,T,Bachelor,No schooling,58,69,Pass,3,2,no,no,no,no,Very Poor,yes,yes,High
+1311,M,14,LE3,T,SSCE,PhD,43,52,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+1312,F,16,GT3,T,Masters,Masters,51,63,Pass,3,4,yes,no,yes,no,Good,yes,yes,Low
+1313,F,16,GT3,T,SSCE,SSCE,61,64,Fail,4,2,no,yes,no,no,Average,yes,yes,High
+1314,F,15,LE3,T,Masters,SSCE,60,69,Fail,5,3,no,no,no,yes,Good,no,no,Low
+1315,F,15,LE3,T,PhD,SSCE,57,55,Pass,4,3,yes,no,no,yes,Average,no,no,High
+1316,F,15,LE3,T,Bachelor,SSCE,64,77,Fail,5,3,no,yes,yes,no,Very Good,yes,no,High
+1317,F,16,LE3,T,Bachelor,Bachelor,51,52,Pass,4,3,no,yes,no,yes,Very Good,yes,no,High
+1318,F,17,GT3,A,Bachelor,SSCE,56,60,Pass,9,1,no,yes,no,yes,Good,yes,yes,Low
+1319,M,15,GT3,A,SSCE,Bachelor,21,60,Pass,6,3,yes,yes,yes,no,Very Good,yes,no,Low
+1320,M,16,GT3,T,SSCE,SSCE,50,46,Pass,1,3,yes,no,yes,no,Poor,yes,no,Low
+1321,M,13,GT3,T,Bachelor,Masters,62,55,Fail,5,3,yes,yes,no,yes,Good,yes,yes,High
+1322,M,15,GT3,T,Masters,Bachelor,51,59,Pass,7,3,no,no,yes,yes,Average,yes,no,High
+1323,F,15,GT3,T,Bachelor,SSCE,50,53,Fail,2,1,no,no,yes,yes,Good,yes,yes,High
+1324,M,15,GT3,T,SSCE,Bachelor,44,82,Fail,4,2,yes,no,yes,yes,Average,no,yes,High
+1325,F,15,LE3,T,Bachelor,Masters,65,49,Pass,4,3,yes,no,no,no,Average,yes,no,Low
+1326,M,15,LE3,A,Masters,SSCE,60,69,Fail,2,4,yes,no,no,yes,Very Good,yes,no,High
+1327,M,16,GT3,A,Bachelor,SSCE,63,66,Fail,4,2,no,yes,yes,yes,Poor,yes,no,High
+1328,F,15,LE3,T,Bachelor,Masters,37,57,Pass,6,2,no,yes,no,no,Good,yes,no,High
+1329,F,13,LE3,T,Masters,SSCE,53,49,Pass,3,3,yes,no,no,yes,Good,yes,yes,High
+1330,F,13,GT3,T,Bachelor,No schooling,52,50,Pass,4,3,yes,no,yes,yes,Average,yes,no,High
+1331,F,15,GT3,T,SSCE,SSCE,52,52,Pass,2,3,yes,yes,no,yes,Average,yes,no,High
+1332,F,16,GT3,T,Masters,Masters,48,40,Pass,6,1,yes,yes,no,yes,Poor,no,no,High
+1333,M,13,GT3,T,SSCE,Bachelor,51,47,Pass,3,3,no,no,no,yes,Very Good,no,no,Low
+1334,F,15,GT3,A,PhD,Masters,63,43,Fail,4,3,yes,no,no,yes,Very Good,yes,yes,High
+1335,F,15,GT3,T,SSCE,SSCE,35,71,Fail,4,3,yes,no,no,yes,Good,yes,no,High
+1336,F,17,GT3,T,No schooling,No schooling,72,64,Pass,4,3,no,yes,yes,no,Good,yes,no,Low
+1337,M,15,GT3,T,Masters,Bachelor,59,65,Pass,4,2,no,no,yes,yes,Very Poor,yes,no,Low
+1338,F,16,GT3,T,SSCE,Bachelor,54,63,Pass,6,4,no,no,no,yes,Average,yes,no,High
+1339,M,16,GT3,T,Bachelor,No schooling,64,59,Pass,4,3,no,no,no,yes,Average,yes,no,High
+1340,M,13,GT3,A,Masters,SSCE,40,72,Pass,7,2,no,no,no,yes,Average,yes,yes,Low
+1341,M,16,GT3,T,Masters,No schooling,48,51,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+1342,F,16,LE3,T,PhD,Bachelor,53,59,Pass,3,4,no,no,yes,no,Average,yes,no,High
+1343,F,16,LE3,T,SSCE,Masters,68,65,Pass,2,3,no,no,no,yes,Good,yes,no,High
+1344,F,19,LE3,T,Bachelor,Bachelor,54,44,Pass,4,2,no,yes,yes,yes,Poor,no,no,Low
+1345,F,13,GT3,A,SSCE,PhD,59,88,Fail,3,2,yes,no,yes,yes,Poor,no,no,Low
+1346,M,17,LE3,T,SSCE,No schooling,49,58,Fail,1,2,yes,no,no,yes,Very Poor,yes,yes,Low
+1347,M,15,LE3,A,Masters,Masters,59,59,Pass,4,2,yes,no,no,no,Good,yes,no,High
+1348,M,16,GT3,T,SSCE,Masters,71,70,Pass,5,2,no,no,no,no,Average,yes,yes,High
+1349,F,15,LE3,T,Bachelor,SSCE,64,67,Pass,5,2,no,no,yes,yes,Poor,yes,no,Low
+1350,M,15,GT3,T,Bachelor,PhD,54,58,Pass,4,2,no,no,yes,no,Good,yes,no,High
+1351,F,15,LE3,T,Bachelor,SSCE,61,59,Fail,3,4,yes,yes,no,yes,Poor,yes,no,High
+1352,F,16,GT3,T,PhD,Masters,60,42,Fail,3,2,yes,no,no,yes,Average,yes,no,High
+1353,M,14,GT3,T,No schooling,Masters,60,52,Fail,6,2,no,no,no,no,Good,yes,yes,High
+1354,F,16,GT3,T,Bachelor,Bachelor,66,63,Pass,1,2,yes,yes,no,yes,Average,no,no,Low
+1355,F,15,GT3,T,Masters,Bachelor,66,62,Pass,5,1,yes,no,no,yes,Average,yes,no,High
+1356,F,14,GT3,T,Bachelor,No schooling,53,70,Fail,4,4,no,yes,yes,yes,Poor,yes,no,High
+1357,F,15,LE3,T,No schooling,SSCE,61,56,Pass,6,2,yes,no,yes,yes,Poor,yes,no,High
+1358,M,17,LE3,T,Bachelor,SSCE,51,44,Fail,6,3,yes,no,yes,yes,Average,yes,no,High
+1359,M,15,LE3,T,SSCE,Bachelor,45,68,Pass,8,3,yes,yes,no,no,Very Poor,yes,yes,Low
+1360,F,16,GT3,T,SSCE,Bachelor,52,72,Pass,4,2,yes,no,yes,yes,Very Good,no,no,Low
+1361,F,15,GT3,T,Masters,Masters,54,66,Fail,1,2,no,no,yes,yes,Average,no,no,High
+1362,M,16,GT3,T,Bachelor,No schooling,38,56,Pass,7,2,yes,yes,no,yes,Average,yes,yes,Low
+1363,F,16,LE3,T,Masters,Masters,63,68,Pass,9,2,yes,no,yes,yes,Average,yes,yes,High
+1364,F,17,GT3,T,Masters,Masters,27,92,Pass,2,2,yes,no,yes,no,Very Good,yes,no,High
+1365,F,15,GT3,T,Bachelor,Bachelor,82,59,Fail,5,3,no,yes,no,no,Good,no,no,High
+1366,M,16,GT3,A,No schooling,No schooling,70,44,Pass,6,2,yes,no,no,no,Average,no,no,High
+1367,F,16,GT3,T,SSCE,No schooling,52,52,Pass,2,2,yes,yes,no,yes,Average,yes,yes,Low
+1368,F,17,LE3,T,SSCE,No schooling,55,64,Fail,10,1,yes,yes,no,no,Average,no,no,Low
+1369,M,15,GT3,T,Masters,Bachelor,58,41,Pass,5,3,yes,yes,yes,yes,Average,yes,no,Low
+1370,M,16,GT3,T,SSCE,Bachelor,49,59,Fail,2,2,yes,yes,no,yes,Average,yes,no,Low
+1371,F,15,LE3,A,SSCE,PhD,56,61,Pass,5,1,no,yes,no,no,Average,yes,yes,High
+1372,M,15,LE3,T,Bachelor,SSCE,53,73,Fail,7,3,no,no,yes,yes,Average,yes,no,High
+1373,F,16,GT3,A,SSCE,SSCE,54,71,Pass,5,2,no,yes,no,yes,Very Poor,no,no,High
+1374,F,16,GT3,A,SSCE,Bachelor,56,66,Fail,5,2,no,yes,yes,no,Very Poor,yes,no,Low
+1375,M,15,GT3,T,Bachelor,Masters,41,36,Fail,3,2,yes,yes,yes,no,Poor,no,no,Low
+1376,F,16,LE3,T,No schooling,Masters,55,67,Fail,7,4,no,no,no,yes,Average,no,no,High
+1377,M,17,GT3,T,No schooling,Masters,56,65,Pass,2,2,yes,no,yes,no,Very Good,no,yes,Low
+1378,F,16,GT3,T,SSCE,SSCE,56,60,Pass,11,2,no,no,yes,no,Good,yes,no,Low
+1379,M,16,GT3,T,Bachelor,Bachelor,52,40,Fail,6,4,yes,yes,yes,no,Very Good,yes,no,High
+1380,F,15,GT3,T,Bachelor,Masters,66,50,Pass,5,2,no,no,yes,yes,Average,yes,no,High
+1381,M,15,LE3,T,SSCE,SSCE,51,46,Pass,6,3,no,no,no,no,Average,no,yes,High
+1382,M,16,GT3,T,Bachelor,SSCE,57,37,Fail,4,2,yes,no,no,no,Good,yes,yes,High
+1383,F,16,LE3,T,SSCE,SSCE,67,57,Pass,4,1,yes,no,no,yes,Average,yes,no,Low
+1384,M,17,GT3,A,Masters,No schooling,54,50,Fail,5,3,no,no,no,yes,Average,no,no,Low
+1385,F,15,GT3,T,No schooling,Bachelor,57,84,Pass,5,4,yes,yes,no,yes,Average,no,yes,High
+1386,M,15,GT3,A,Bachelor,No schooling,54,56,Fail,1,2,no,yes,yes,yes,Average,no,yes,Low
+1387,F,14,GT3,T,Masters,SSCE,67,70,Pass,7,3,yes,yes,yes,no,Good,yes,no,High
+1388,M,15,GT3,T,Masters,SSCE,52,42,Pass,9,3,yes,no,yes,yes,Good,yes,yes,High
+1389,F,16,GT3,T,SSCE,Bachelor,67,52,Fail,6,2,no,yes,no,yes,Very Good,yes,no,High
+1390,F,15,GT3,T,SSCE,SSCE,53,58,Pass,6,3,yes,no,no,no,Very Good,yes,no,Low
+1391,M,16,GT3,T,Bachelor,Bachelor,46,48,Fail,3,2,yes,no,no,yes,Average,yes,no,Low
+1392,M,15,GT3,T,No schooling,No schooling,61,53,Fail,6,2,no,no,no,yes,Very Poor,yes,yes,High
+1393,M,16,GT3,A,Masters,No schooling,51,55,Pass,8,2,no,no,no,yes,Very Poor,no,no,Low
+1394,F,14,LE3,T,Bachelor,SSCE,61,55,Fail,8,4,no,no,yes,yes,Poor,no,yes,Low
+1395,M,16,GT3,T,Bachelor,SSCE,27,76,Pass,8,2,no,no,no,no,Very Poor,yes,yes,High
+1396,F,13,LE3,A,SSCE,SSCE,55,61,Fail,6,3,yes,no,no,no,Average,yes,yes,High
+1397,M,15,GT3,T,Bachelor,No schooling,50,62,Pass,4,2,yes,no,no,yes,Very Poor,yes,yes,Low
+1398,M,14,LE3,T,Bachelor,Masters,44,63,Fail,3,2,yes,no,yes,no,Good,yes,no,High
+1399,F,17,GT3,T,Masters,Bachelor,49,64,Fail,5,3,no,yes,no,yes,Poor,no,no,High
+1400,F,16,GT3,A,No schooling,No schooling,49,57,Pass,5,3,yes,no,no,yes,Average,yes,yes,High
+1401,M,16,GT3,T,No schooling,No schooling,54,54,Fail,3,2,yes,yes,yes,yes,Poor,yes,no,Low
+1402,M,17,GT3,T,SSCE,PhD,41,59,Pass,4,2,no,no,no,no,Good,yes,no,Low
+1403,M,15,LE3,T,SSCE,Bachelor,58,69,Pass,6,4,no,yes,yes,yes,Good,no,no,High
+1404,F,17,LE3,A,Bachelor,SSCE,68,69,Pass,4,1,no,yes,yes,yes,Average,no,yes,Low
+1405,F,16,LE3,T,Masters,Bachelor,57,55,Pass,6,3,yes,no,no,yes,Very Good,no,yes,High
+1406,F,15,GT3,A,SSCE,Bachelor,63,65,Pass,3,3,no,no,yes,yes,Poor,yes,yes,High
+1407,F,17,GT3,T,Masters,Bachelor,65,56,Pass,3,3,yes,no,no,no,Good,yes,no,Low
+1408,F,14,GT3,T,No schooling,SSCE,67,58,Pass,4,4,no,no,no,yes,Average,yes,no,High
+1409,F,15,LE3,T,SSCE,SSCE,73,53,Pass,5,3,yes,no,no,no,Average,yes,no,High
+1410,F,15,LE3,T,No schooling,No schooling,50,56,Pass,3,2,yes,no,no,yes,Very Poor,yes,yes,High
+1411,M,15,GT3,A,SSCE,Masters,47,71,Fail,9,2,yes,no,yes,no,Poor,no,no,High
+1412,M,14,GT3,T,Masters,Bachelor,62,58,Fail,3,2,yes,yes,no,no,Very Good,yes,no,High
+1413,M,17,GT3,T,No schooling,SSCE,62,59,Pass,4,1,no,no,no,yes,Good,yes,no,High
+1414,M,15,GT3,T,Bachelor,Masters,62,43,Fail,5,4,no,no,no,yes,Poor,no,yes,Low
+1415,F,16,GT3,T,Bachelor,Masters,73,54,Fail,1,1,no,no,no,no,Average,yes,no,High
+1416,F,15,LE3,T,Masters,PhD,55,55,Fail,2,3,yes,no,no,no,Poor,yes,no,High
+1417,M,14,GT3,T,SSCE,Masters,59,49,Pass,5,3,no,no,no,yes,Very Poor,yes,no,Low
+1418,M,16,GT3,T,SSCE,PhD,45,58,Pass,6,3,yes,yes,no,yes,Very Good,no,no,Low
+1419,F,14,LE3,T,No schooling,SSCE,76,53,Fail,3,2,yes,yes,no,no,Average,yes,no,High
+1420,F,15,GT3,T,SSCE,Masters,51,58,Fail,5,3,yes,yes,no,yes,Average,yes,yes,High
+1421,M,14,LE3,T,SSCE,Masters,51,59,Pass,5,2,yes,yes,yes,yes,Very Good,no,yes,Low
+1422,F,17,GT3,T,Masters,SSCE,51,48,Pass,6,3,yes,no,no,no,Average,yes,no,High
+1423,M,16,LE3,T,Bachelor,No schooling,48,54,Fail,1,2,yes,yes,no,no,Average,no,no,High
+1424,M,16,GT3,T,Bachelor,PhD,47,58,Fail,6,4,no,yes,no,no,Average,yes,no,High
+1425,F,17,LE3,A,Bachelor,SSCE,49,69,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1426,F,15,GT3,T,No schooling,Masters,41,60,Pass,7,2,yes,no,no,no,Average,yes,yes,High
+1427,M,16,GT3,A,SSCE,No schooling,47,51,Pass,2,2,yes,no,no,yes,Very Poor,yes,no,High
+1428,F,16,GT3,A,PhD,No schooling,74,61,Pass,2,3,yes,no,yes,yes,Good,yes,yes,High
+1429,F,16,GT3,T,Masters,SSCE,62,75,Pass,3,3,yes,no,no,yes,Good,yes,no,High
+1430,F,17,GT3,T,Masters,SSCE,64,67,Pass,2,2,yes,no,no,no,Good,yes,no,Low
+1431,F,16,LE3,A,Masters,Bachelor,66,63,Fail,4,1,yes,no,no,yes,Very Good,yes,no,Low
+1432,F,16,LE3,T,SSCE,Bachelor,73,65,Pass,3,2,no,no,yes,no,Average,yes,no,High
+1433,F,14,LE3,T,SSCE,No schooling,37,72,Fail,5,2,no,yes,no,no,Poor,no,no,High
+1434,F,15,GT3,T,No schooling,SSCE,42,68,Pass,5,2,yes,no,yes,yes,Good,yes,no,Low
+1435,M,15,LE3,T,SSCE,SSCE,46,63,Pass,5,2,no,no,no,no,Poor,yes,no,High
+1436,M,16,GT3,T,SSCE,SSCE,50,68,Pass,7,3,no,no,yes,no,Very Poor,yes,yes,Low
+1437,M,14,GT3,T,Bachelor,Bachelor,51,47,Pass,4,2,yes,no,no,yes,Very Poor,yes,no,High
+1438,F,18,LE3,T,Bachelor,SSCE,50,42,Fail,4,4,yes,no,yes,yes,Good,no,no,High
+1439,M,17,LE3,T,Masters,No schooling,57,59,Pass,3,2,no,no,no,yes,Very Poor,no,no,High
+1440,F,16,LE3,T,Bachelor,SSCE,55,58,Pass,6,3,no,yes,no,yes,Average,no,no,Low
+1441,F,16,GT3,T,Masters,No schooling,47,52,Pass,4,3,yes,yes,no,no,Poor,yes,no,High
+1442,M,15,LE3,T,No schooling,No schooling,33,66,Pass,5,2,no,yes,yes,yes,Good,yes,yes,Low
+1443,F,15,LE3,A,No schooling,SSCE,45,39,Fail,5,2,yes,yes,yes,no,Average,yes,no,High
+1444,M,16,GT3,T,Bachelor,Masters,49,52,Pass,7,2,no,yes,no,no,Poor,yes,yes,High
+1445,F,16,GT3,T,SSCE,Masters,52,53,Fail,3,2,yes,no,yes,yes,Good,no,no,High
+1446,M,14,LE3,T,SSCE,Masters,43,41,Fail,7,2,yes,no,yes,yes,Good,no,no,High
+1447,F,16,LE3,T,SSCE,SSCE,50,72,Pass,3,2,no,no,no,yes,Average,yes,yes,High
+1448,F,15,LE3,T,SSCE,SSCE,43,44,Pass,6,2,no,no,no,yes,Average,yes,no,High
+1449,F,14,GT3,A,Bachelor,SSCE,53,52,Fail,6,2,yes,no,yes,yes,Average,yes,no,High
+1450,F,15,GT3,T,SSCE,Bachelor,44,67,Fail,3,2,yes,yes,no,yes,Very Good,no,no,High
+1451,F,15,LE3,A,Bachelor,PhD,46,64,Pass,5,1,yes,no,no,yes,Very Poor,yes,no,Low
+1452,F,17,LE3,T,Bachelor,No schooling,41,46,Pass,4,1,yes,no,yes,yes,Average,yes,no,Low
+1453,F,16,GT3,T,SSCE,No schooling,53,64,Pass,7,3,yes,yes,no,no,Average,no,no,High
+1454,F,14,GT3,T,SSCE,Bachelor,46,60,Pass,6,3,no,yes,yes,yes,Good,no,no,High
+1455,M,16,LE3,A,SSCE,Masters,64,81,Pass,4,4,yes,yes,yes,yes,Good,yes,no,High
+1456,F,14,GT3,T,SSCE,Masters,59,62,Pass,3,1,no,no,yes,yes,Poor,yes,no,High
+1457,F,17,LE3,T,Bachelor,Bachelor,54,56,Pass,4,1,no,no,yes,yes,Poor,no,no,High
+1458,F,15,LE3,A,Masters,PhD,47,49,Pass,3,1,yes,no,no,yes,Very Good,yes,no,High
+1459,M,15,GT3,T,Bachelor,SSCE,58,50,Pass,10,2,no,yes,yes,yes,Good,yes,yes,Low
+1460,F,17,GT3,T,SSCE,Masters,61,49,Fail,4,3,no,yes,no,yes,Very Good,yes,yes,Low
+1461,M,14,GT3,A,Bachelor,PhD,56,71,Pass,1,2,yes,yes,no,yes,Good,no,no,High
+1462,F,14,GT3,T,Bachelor,Masters,71,58,Fail,3,3,no,yes,no,yes,Average,no,no,Low
+1463,M,15,GT3,T,Bachelor,SSCE,59,63,Pass,4,3,no,yes,no,yes,Poor,no,yes,High
+1464,F,17,GT3,T,Bachelor,SSCE,64,73,Fail,4,4,no,yes,no,yes,Good,yes,no,High
+1465,F,14,GT3,T,Bachelor,SSCE,56,34,Pass,4,1,yes,no,yes,no,Average,yes,no,Low
+1466,M,13,GT3,T,Bachelor,SSCE,61,70,Fail,5,1,no,no,no,yes,Average,yes,no,High
+1467,F,15,GT3,T,Bachelor,Masters,47,58,Pass,5,2,yes,no,no,yes,Average,no,yes,Low
+1468,M,16,LE3,T,SSCE,No schooling,50,62,Pass,7,1,no,no,yes,no,Very Good,yes,yes,High
+1469,F,17,GT3,T,Bachelor,SSCE,58,49,Fail,5,4,no,no,no,no,Very Poor,yes,yes,Low
+1470,F,15,GT3,A,SSCE,Bachelor,58,50,Pass,11,2,no,no,no,no,Poor,yes,no,High
+1471,F,15,GT3,A,No schooling,No schooling,60,62,Fail,4,2,yes,yes,yes,yes,Good,no,no,Low
+1472,F,17,LE3,T,PhD,SSCE,66,81,Pass,3,2,yes,no,no,yes,Very Good,no,no,High
+1473,F,14,GT3,T,PhD,SSCE,40,68,Pass,4,2,yes,no,yes,yes,Very Good,no,yes,High
+1474,M,15,GT3,A,No schooling,Bachelor,45,70,Pass,0,2,no,yes,yes,no,Average,yes,no,Low
+1475,M,16,LE3,T,SSCE,SSCE,57,56,Fail,6,2,yes,yes,no,no,Very Poor,no,yes,Low
+1476,F,16,GT3,T,SSCE,Masters,47,51,Pass,7,3,yes,no,no,yes,Average,yes,yes,Low
+1477,F,15,LE3,A,Bachelor,SSCE,88,50,Fail,1,4,yes,no,yes,yes,Very Good,no,no,High
+1478,F,16,LE3,T,Masters,Masters,60,53,Pass,5,2,no,yes,no,yes,Average,yes,yes,High
+1479,F,13,GT3,T,PhD,SSCE,54,37,Fail,6,2,yes,yes,no,yes,Good,yes,no,High
+1480,M,15,GT3,T,Bachelor,SSCE,49,50,Pass,4,1,no,no,no,no,Average,yes,yes,High
+1481,F,16,GT3,T,SSCE,No schooling,50,52,Pass,3,3,no,yes,yes,yes,Very Poor,yes,yes,Low
+1482,M,15,LE3,T,Bachelor,No schooling,55,56,Pass,3,1,no,no,no,yes,Average,yes,no,Low
+1483,F,16,GT3,T,SSCE,SSCE,56,59,Pass,3,4,yes,yes,no,no,Good,yes,yes,Low
+1484,M,16,LE3,T,Masters,No schooling,50,61,Pass,4,2,yes,no,no,yes,Very Good,yes,yes,High
+1485,M,15,LE3,T,Masters,SSCE,52,57,Pass,6,2,yes,yes,no,yes,Good,yes,no,High
+1486,M,16,LE3,T,Bachelor,Bachelor,68,52,Pass,3,2,yes,yes,no,yes,Average,yes,no,Low
+1487,M,15,GT3,T,SSCE,SSCE,68,38,Pass,4,4,no,no,yes,yes,Good,no,no,Low
+1488,F,15,GT3,T,SSCE,SSCE,57,52,Pass,6,2,yes,yes,no,yes,Good,no,no,Low
+1489,M,16,GT3,T,No schooling,Bachelor,41,48,Pass,5,2,yes,yes,yes,yes,Very Poor,no,no,Low
+1490,M,16,GT3,A,Masters,Masters,60,62,Pass,7,1,no,no,yes,yes,Very Good,yes,yes,Low
+1491,M,15,LE3,T,Bachelor,No schooling,70,67,Fail,5,2,yes,yes,yes,yes,Average,no,no,High
+1492,M,16,GT3,T,SSCE,SSCE,68,67,Fail,1,1,yes,yes,no,yes,Very Good,no,no,Low
+1493,M,16,GT3,T,Bachelor,PhD,62,65,Pass,8,3,yes,yes,yes,no,Good,yes,yes,High
+1494,M,13,GT3,T,Masters,No schooling,69,56,Fail,6,4,no,no,yes,yes,Poor,yes,no,Low
+1495,F,17,LE3,T,SSCE,PhD,55,52,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+1496,F,15,GT3,T,Masters,No schooling,61,50,Pass,10,1,no,no,yes,yes,Average,yes,no,High
+1497,F,16,GT3,T,Masters,Masters,48,42,Pass,3,2,yes,no,no,yes,Average,no,no,High
+1498,F,17,GT3,T,Masters,SSCE,57,67,Fail,5,1,yes,no,no,yes,Average,yes,yes,High
+1499,M,14,GT3,A,SSCE,Masters,68,56,Fail,6,2,no,no,yes,no,Good,yes,no,High
+1500,F,15,LE3,T,SSCE,SSCE,49,45,Fail,5,3,no,no,yes,yes,Average,yes,yes,High
+1501,F,15,GT3,T,SSCE,Bachelor,46,49,Fail,7,2,no,no,no,yes,Very Poor,yes,no,High
+1502,F,15,LE3,T,SSCE,No schooling,55,49,Pass,6,4,no,no,no,yes,Very Good,yes,yes,High
+1503,M,17,GT3,T,SSCE,SSCE,52,58,Pass,3,3,yes,no,no,no,Average,yes,no,High
+1504,M,15,GT3,A,Bachelor,Bachelor,61,68,Pass,8,2,no,yes,yes,no,Very Good,yes,no,High
+1505,M,15,LE3,T,Bachelor,SSCE,50,54,Pass,6,3,no,no,no,yes,Very Poor,yes,no,High
+1506,M,16,GT3,T,Masters,Masters,72,35,Pass,7,1,no,no,no,yes,Good,yes,no,High
+1507,F,14,GT3,T,No schooling,SSCE,42,56,Pass,6,2,no,yes,no,yes,Poor,no,yes,High
+1508,F,15,LE3,T,Bachelor,Masters,67,56,Pass,4,2,yes,yes,yes,no,Good,no,yes,High
+1509,F,16,GT3,T,Masters,SSCE,47,55,Pass,6,4,no,no,yes,yes,Good,yes,no,Low
+1510,F,15,LE3,T,Masters,PhD,37,51,Pass,6,2,no,no,no,yes,Very Good,yes,no,High
+1511,F,15,GT3,A,Masters,PhD,57,60,Pass,4,3,yes,no,yes,yes,Average,yes,no,Low
+1512,F,15,GT3,T,Bachelor,SSCE,52,58,Pass,3,3,yes,no,yes,yes,Poor,yes,yes,High
+1513,F,14,GT3,T,Masters,Masters,43,57,Pass,6,3,no,no,no,yes,Very Good,yes,no,High
+1514,M,16,GT3,T,SSCE,Masters,38,62,Fail,2,3,yes,yes,no,yes,Average,yes,yes,High
+1515,M,17,GT3,T,Bachelor,SSCE,54,53,Fail,7,2,no,no,no,no,Poor,no,no,High
+1516,M,16,GT3,T,No schooling,Bachelor,64,53,Pass,6,3,yes,no,no,yes,Average,yes,no,High
+1517,F,16,LE3,T,No schooling,No schooling,60,71,Pass,2,2,no,no,no,yes,Poor,no,no,Low
+1518,F,16,GT3,T,SSCE,Masters,55,63,Fail,6,2,yes,no,no,yes,Average,yes,yes,Low
+1519,M,14,GT3,T,SSCE,SSCE,59,66,Pass,3,1,yes,no,no,yes,Average,yes,no,Low
+1520,F,17,LE3,A,SSCE,No schooling,54,70,Fail,5,2,no,no,no,yes,Average,yes,no,Low
+1521,M,16,GT3,T,SSCE,SSCE,40,63,Pass,6,4,no,no,no,no,Average,yes,no,High
+1522,F,17,GT3,A,No schooling,Bachelor,40,67,Fail,3,2,yes,no,yes,yes,Average,yes,no,High
+1523,M,15,GT3,A,Masters,Masters,52,42,Fail,6,2,yes,no,no,no,Good,no,yes,Low
+1524,M,17,LE3,T,No schooling,PhD,53,60,Fail,7,2,no,no,yes,yes,Very Good,yes,no,Low
+1525,F,16,LE3,T,Bachelor,SSCE,63,56,Pass,4,1,no,no,no,yes,Poor,yes,no,High
+1526,M,16,LE3,T,SSCE,No schooling,62,74,Fail,3,2,no,no,yes,yes,Good,no,no,Low
+1527,M,16,GT3,A,Masters,Bachelor,61,67,Fail,9,2,no,no,no,no,Very Good,yes,yes,High
+1528,M,15,LE3,T,Masters,Bachelor,52,51,Fail,7,4,yes,no,yes,yes,Good,yes,no,High
+1529,F,17,GT3,T,Bachelor,SSCE,41,61,Pass,6,2,no,no,no,yes,Very Good,yes,yes,Low
+1530,F,16,LE3,A,Bachelor,SSCE,59,59,Fail,11,2,no,no,yes,yes,Average,yes,no,Low
+1531,M,14,GT3,T,No schooling,SSCE,60,62,Pass,1,2,no,yes,no,yes,Good,yes,no,Low
+1532,F,14,LE3,T,PhD,SSCE,31,47,Pass,7,2,no,yes,no,yes,Good,yes,yes,Low
+1533,F,15,GT3,T,Masters,Bachelor,46,61,Pass,7,4,no,yes,yes,yes,Average,yes,yes,High
+1534,M,16,LE3,T,Masters,SSCE,48,55,Pass,4,2,no,yes,yes,no,Good,yes,no,High
+1535,M,15,GT3,T,Bachelor,Masters,56,60,Fail,4,2,no,no,no,yes,Average,no,no,High
+1536,M,17,LE3,T,SSCE,SSCE,46,50,Fail,2,2,no,no,no,yes,Poor,yes,yes,Low
+1537,M,14,GT3,T,Masters,SSCE,54,52,Pass,6,3,no,no,yes,no,Poor,yes,no,High
+1538,F,16,GT3,A,SSCE,Masters,52,69,Fail,5,2,no,yes,yes,yes,Good,yes,yes,Low
+1539,M,14,LE3,T,Bachelor,Bachelor,53,47,Fail,6,2,no,no,no,yes,Good,yes,no,High
+1540,F,16,GT3,A,No schooling,SSCE,47,48,Pass,9,1,yes,no,yes,no,Average,yes,no,Low
+1541,F,15,GT3,A,Masters,Bachelor,48,57,Pass,6,4,yes,yes,no,yes,Average,yes,no,High
+1542,M,16,LE3,T,SSCE,SSCE,44,50,Pass,6,3,no,no,no,yes,Poor,no,no,High
+1543,F,15,GT3,T,SSCE,Masters,58,49,Pass,7,1,no,yes,yes,yes,Average,yes,no,High
+1544,M,17,LE3,T,Bachelor,SSCE,60,59,Pass,6,3,yes,yes,no,yes,Very Good,yes,no,High
+1545,F,17,GT3,T,Masters,Bachelor,47,42,Pass,8,2,yes,no,no,yes,Very Good,no,no,High
+1546,F,16,GT3,T,Bachelor,No schooling,70,47,Pass,2,2,yes,no,no,yes,Good,yes,yes,Low
+1547,F,15,LE3,T,SSCE,SSCE,51,78,Fail,5,1,yes,no,no,yes,Very Good,no,no,High
+1548,F,16,GT3,T,No schooling,PhD,70,62,Fail,10,3,yes,no,no,yes,Very Good,yes,no,Low
+1549,M,15,GT3,A,Masters,Masters,48,50,Pass,3,2,no,yes,no,no,Poor,no,no,Low
+1550,F,16,GT3,T,PhD,SSCE,34,62,Pass,6,3,no,no,no,yes,Average,yes,no,High
+1551,F,17,GT3,T,Masters,SSCE,59,63,Pass,6,1,no,no,yes,no,Poor,no,no,High
+1552,F,17,GT3,T,Bachelor,SSCE,57,67,Pass,7,3,yes,no,yes,yes,Average,yes,no,Low
+1553,F,15,GT3,A,Masters,Bachelor,55,56,Pass,3,1,no,no,no,yes,Good,yes,no,High
+1554,F,16,LE3,T,SSCE,Bachelor,48,67,Pass,10,2,no,yes,no,yes,Poor,yes,no,High
+1555,M,14,GT3,A,Bachelor,Bachelor,54,37,Pass,4,2,yes,no,yes,yes,Very Good,no,no,High
+1556,M,16,GT3,T,Bachelor,SSCE,49,47,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+1557,F,16,GT3,T,SSCE,Masters,51,59,Pass,1,2,no,yes,no,no,Good,yes,yes,High
+1558,M,14,GT3,T,Masters,SSCE,63,61,Fail,4,2,no,yes,yes,yes,Very Poor,no,yes,High
+1559,F,14,GT3,T,Bachelor,No schooling,56,48,Pass,4,4,no,yes,yes,yes,Very Poor,yes,no,High
+1560,F,15,GT3,T,SSCE,Bachelor,61,60,Pass,6,2,yes,no,yes,yes,Good,yes,yes,High
+1561,M,15,GT3,T,SSCE,PhD,52,51,Pass,2,2,no,yes,no,yes,Good,no,no,High
+1562,M,14,LE3,T,No schooling,Bachelor,51,55,Fail,5,2,yes,yes,no,yes,Very Good,yes,no,High
+1563,F,16,GT3,A,Bachelor,Bachelor,43,68,Fail,5,2,no,no,yes,no,Good,no,no,High
+1564,M,16,GT3,T,SSCE,Bachelor,51,67,Pass,5,1,no,yes,no,yes,Poor,yes,no,High
+1565,F,15,LE3,A,SSCE,Masters,21,48,Fail,7,3,yes,yes,no,yes,Poor,yes,no,High
+1566,M,15,GT3,T,Bachelor,SSCE,49,47,Pass,7,2,yes,no,no,yes,Very Good,yes,no,High
+1567,F,17,GT3,T,Bachelor,SSCE,54,53,Fail,6,3,yes,no,yes,no,Poor,no,no,High
+1568,M,17,LE3,T,Masters,PhD,60,57,Pass,4,2,yes,yes,no,yes,Good,no,yes,Low
+1569,F,15,LE3,T,Bachelor,Masters,52,51,Pass,5,4,yes,yes,yes,yes,Average,yes,no,High
+1570,F,15,LE3,T,Masters,SSCE,58,68,Fail,2,2,no,no,yes,yes,Average,yes,no,Low
+1571,F,16,GT3,T,Masters,SSCE,33,61,Pass,4,1,no,no,yes,yes,Average,yes,yes,High
+1572,M,15,LE3,T,Masters,SSCE,54,62,Fail,9,2,no,no,yes,no,Very Good,no,no,Low
+1573,F,15,LE3,T,Bachelor,No schooling,38,45,Pass,6,4,no,no,no,yes,Very Good,yes,no,High
+1574,F,16,GT3,T,SSCE,PhD,42,69,Fail,4,3,no,yes,no,no,Very Good,yes,yes,High
+1575,M,14,LE3,A,PhD,SSCE,53,29,Pass,8,1,no,yes,no,yes,Average,no,yes,High
+1576,M,17,LE3,T,SSCE,Masters,67,66,Pass,5,2,yes,no,yes,yes,Poor,no,yes,High
+1577,M,16,LE3,T,SSCE,SSCE,58,67,Fail,8,4,no,yes,no,yes,Very Good,yes,no,Low
+1578,F,15,GT3,T,SSCE,SSCE,55,53,Fail,3,1,yes,no,no,no,Poor,no,yes,Low
+1579,F,15,GT3,T,No schooling,No schooling,54,70,Fail,3,2,yes,no,yes,yes,Average,no,no,High
+1580,F,15,LE3,T,PhD,Bachelor,47,57,Fail,3,3,no,no,yes,yes,Average,no,yes,High
+1581,M,14,GT3,T,Bachelor,Bachelor,49,58,Fail,5,4,yes,no,no,no,Average,yes,no,High
+1582,M,17,GT3,T,Bachelor,Bachelor,59,61,Pass,8,3,no,no,yes,yes,Average,yes,no,High
+1583,F,16,LE3,T,Bachelor,No schooling,41,89,Pass,9,4,yes,yes,no,yes,Very Good,no,no,High
+1584,F,16,LE3,T,Bachelor,SSCE,60,71,Pass,7,1,yes,no,no,no,Very Good,yes,no,High
+1585,F,16,LE3,T,No schooling,No schooling,51,65,Pass,4,2,no,no,yes,yes,Average,yes,no,Low
+1586,M,14,GT3,T,Bachelor,SSCE,63,48,Fail,6,3,yes,yes,no,no,Very Poor,yes,no,High
+1587,F,16,GT3,A,Bachelor,Bachelor,64,59,Pass,7,3,yes,no,yes,yes,Good,yes,no,Low
+1588,M,15,LE3,T,SSCE,Bachelor,38,49,Fail,2,3,yes,no,yes,yes,Average,yes,yes,Low
+1589,M,16,GT3,T,Masters,Bachelor,49,66,Pass,3,4,no,no,yes,yes,Very Good,no,no,High
+1590,F,13,LE3,A,SSCE,SSCE,46,59,Fail,2,2,yes,yes,no,yes,Very Poor,yes,yes,High
+1591,F,15,GT3,A,SSCE,SSCE,36,46,Pass,4,1,no,no,yes,yes,Poor,yes,no,Low
+1592,F,15,GT3,T,SSCE,SSCE,44,58,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1593,M,16,LE3,T,SSCE,No schooling,79,49,Fail,6,3,no,no,yes,no,Good,yes,no,High
+1594,M,16,GT3,A,Masters,Masters,61,59,Pass,4,2,no,yes,yes,no,Average,yes,no,Low
+1595,F,15,LE3,T,Masters,Bachelor,74,49,Pass,0,3,yes,no,yes,yes,Average,no,no,High
+1596,F,15,GT3,A,SSCE,SSCE,63,58,Pass,6,2,no,no,no,yes,Average,yes,no,Low
+1597,M,15,LE3,T,Bachelor,SSCE,47,65,Pass,4,1,no,no,no,yes,Average,yes,no,High
+1598,M,15,GT3,T,Bachelor,Masters,51,57,Pass,3,2,yes,yes,no,yes,Poor,no,yes,Low
+1599,M,16,LE3,T,SSCE,Bachelor,60,54,Fail,5,3,yes,no,yes,no,Very Good,yes,yes,Low
+1600,F,15,GT3,T,SSCE,Bachelor,59,60,Pass,6,2,no,no,yes,yes,Very Poor,yes,yes,High
+1601,M,13,LE3,A,PhD,SSCE,49,64,Pass,4,3,no,no,no,yes,Average,yes,yes,Low
+1602,M,15,GT3,A,Bachelor,SSCE,39,46,Pass,5,2,no,no,yes,yes,Good,yes,no,Low
+1603,M,14,LE3,T,PhD,PhD,87,60,Fail,4,2,no,no,yes,yes,Very Poor,yes,no,High
+1604,M,14,GT3,T,SSCE,Bachelor,53,71,Fail,4,1,no,no,yes,yes,Very Good,no,yes,Low
+1605,M,14,LE3,A,Bachelor,SSCE,51,63,Pass,4,3,yes,no,no,yes,Good,yes,yes,High
+1606,F,16,LE3,T,SSCE,Masters,56,58,Pass,1,2,yes,yes,no,yes,Very Poor,yes,no,Low
+1607,M,17,GT3,T,SSCE,Bachelor,52,64,Pass,6,4,no,no,yes,yes,Very Good,yes,no,High
+1608,F,16,LE3,T,Bachelor,SSCE,56,62,Fail,5,2,yes,no,no,yes,Average,yes,no,High
+1609,M,15,LE3,T,SSCE,SSCE,67,65,Fail,4,2,yes,no,no,no,Good,no,no,High
+1610,F,16,GT3,T,SSCE,SSCE,53,37,Fail,6,2,no,yes,yes,yes,Very Good,yes,no,High
+1611,F,15,GT3,T,SSCE,No schooling,43,42,Pass,5,1,yes,no,yes,yes,Very Good,yes,yes,Low
+1612,F,15,LE3,T,No schooling,Bachelor,53,68,Pass,1,2,yes,no,no,yes,Average,yes,no,High
+1613,F,14,GT3,A,Bachelor,SSCE,50,42,Pass,3,2,no,yes,no,yes,Poor,no,no,High
+1614,M,14,GT3,T,Bachelor,Masters,69,62,Pass,6,3,no,no,yes,no,Average,yes,yes,High
+1615,M,15,LE3,T,No schooling,PhD,66,54,Pass,5,2,yes,yes,no,no,Good,yes,no,High
+1616,F,16,GT3,T,SSCE,No schooling,56,48,Pass,2,2,no,no,no,no,Very Good,yes,yes,High
+1617,F,15,GT3,T,SSCE,SSCE,42,61,Fail,6,1,no,no,no,no,Very Poor,no,no,High
+1618,F,15,GT3,T,Bachelor,Masters,42,60,Pass,6,2,yes,yes,yes,no,Very Poor,yes,yes,Low
+1619,F,15,LE3,T,No schooling,Bachelor,55,79,Fail,4,2,yes,yes,yes,yes,Good,yes,no,High
+1620,F,16,GT3,T,Masters,Bachelor,58,51,Pass,5,4,yes,no,no,yes,Average,yes,no,Low
+1621,F,14,LE3,T,No schooling,SSCE,51,72,Fail,2,3,no,no,no,yes,Average,yes,no,Low
+1622,M,16,LE3,T,SSCE,SSCE,50,61,Fail,9,3,no,no,yes,no,Poor,yes,no,High
+1623,F,14,LE3,T,Masters,Bachelor,49,51,Fail,4,2,no,no,no,yes,Average,yes,no,Low
+1624,F,15,GT3,T,Bachelor,PhD,54,65,Fail,2,1,no,no,no,yes,Very Good,no,no,High
+1625,M,14,GT3,T,No schooling,SSCE,31,63,Fail,1,2,yes,no,no,no,Very Good,no,no,High
+1626,F,15,GT3,T,Masters,Masters,43,58,Pass,5,2,yes,no,yes,yes,Average,no,yes,High
+1627,M,16,GT3,T,Bachelor,SSCE,48,60,Pass,2,2,yes,no,no,yes,Very Good,yes,no,High
+1628,F,16,LE3,A,Masters,PhD,67,52,Fail,8,2,yes,no,no,no,Average,no,no,High
+1629,M,16,LE3,A,Bachelor,Bachelor,46,49,Fail,6,4,no,no,yes,no,Very Good,yes,yes,Low
+1630,F,16,LE3,T,Bachelor,SSCE,56,65,Fail,4,4,no,yes,yes,no,Poor,yes,no,Low
+1631,F,14,LE3,T,PhD,Bachelor,57,55,Pass,3,2,yes,no,yes,no,Good,yes,no,Low
+1632,M,15,GT3,T,SSCE,SSCE,67,57,Pass,8,3,yes,no,no,yes,Average,yes,no,High
+1633,F,15,GT3,A,Bachelor,SSCE,67,60,Fail,0,3,yes,no,yes,yes,Poor,yes,no,High
+1634,F,17,LE3,T,Bachelor,No schooling,54,60,Fail,4,2,no,no,no,yes,Very Good,yes,no,Low
+1635,F,14,LE3,T,No schooling,No schooling,50,43,Pass,2,4,no,no,no,no,Poor,yes,yes,High
+1636,M,16,LE3,T,No schooling,SSCE,48,70,Pass,7,2,no,yes,no,yes,Very Good,yes,no,High
+1637,M,16,GT3,T,SSCE,Bachelor,52,59,Pass,2,3,yes,no,no,yes,Poor,yes,no,High
+1638,M,17,GT3,A,Bachelor,Bachelor,50,55,Pass,4,2,yes,yes,no,yes,Very Poor,no,no,High
+1639,F,15,GT3,T,Bachelor,No schooling,60,62,Pass,5,2,yes,yes,yes,yes,Very Good,no,yes,Low
+1640,F,16,GT3,T,Bachelor,Masters,59,60,Pass,7,2,no,no,no,yes,Average,no,yes,Low
+1641,F,18,GT3,T,No schooling,Bachelor,60,65,Fail,1,4,no,yes,yes,no,Average,no,no,High
+1642,F,15,LE3,T,Bachelor,PhD,67,63,Pass,5,1,no,yes,yes,yes,Very Poor,no,no,Low
+1643,F,14,LE3,T,Masters,Bachelor,73,65,Pass,6,1,no,no,yes,yes,Average,yes,no,High
+1644,F,14,GT3,T,SSCE,SSCE,56,71,Fail,2,2,no,yes,no,yes,Average,no,no,High
+1645,M,16,GT3,A,Bachelor,SSCE,65,66,Fail,3,1,yes,yes,yes,yes,Average,yes,no,High
+1646,F,14,LE3,T,Masters,Bachelor,51,56,Fail,1,3,yes,no,no,yes,Good,no,no,High
+1647,M,15,GT3,T,Masters,No schooling,66,46,Pass,7,3,no,no,no,yes,Good,yes,no,High
+1648,F,16,GT3,A,Bachelor,No schooling,65,74,Fail,3,4,yes,yes,yes,no,Very Good,yes,no,Low
+1649,F,16,GT3,T,Masters,No schooling,65,55,Pass,6,3,yes,yes,no,no,Good,no,no,Low
+1650,F,16,GT3,T,SSCE,SSCE,55,53,Fail,4,4,no,no,no,no,Average,yes,yes,High
+1651,M,16,GT3,T,Masters,SSCE,48,40,Fail,4,3,no,yes,yes,yes,Average,yes,no,High
+1652,M,17,GT3,A,SSCE,SSCE,41,61,Pass,9,4,no,no,no,no,Average,yes,no,Low
+1653,M,15,LE3,T,SSCE,No schooling,54,59,Pass,11,2,yes,no,no,no,Average,yes,no,High
+1654,M,15,LE3,A,No schooling,Bachelor,70,42,Pass,8,2,yes,no,yes,no,Average,no,no,High
+1655,M,15,LE3,T,Masters,Bachelor,51,62,Fail,7,4,no,no,yes,yes,Good,yes,yes,High
+1656,F,16,LE3,T,SSCE,SSCE,62,53,Pass,5,3,no,no,no,yes,Very Good,yes,no,High
+1657,F,16,GT3,T,SSCE,No schooling,63,84,Fail,5,4,no,no,no,yes,Good,no,yes,High
+1658,M,16,GT3,T,SSCE,No schooling,52,52,Pass,8,1,no,no,no,no,Average,no,yes,High
+1659,M,17,LE3,T,Masters,SSCE,68,53,Pass,6,4,no,no,yes,yes,Average,yes,no,Low
+1660,M,14,GT3,T,Masters,SSCE,25,49,Fail,5,3,yes,no,no,yes,Good,no,no,Low
+1661,F,17,LE3,A,Bachelor,SSCE,42,70,Fail,6,2,yes,no,yes,yes,Good,yes,yes,High
+1662,F,17,LE3,T,Bachelor,Bachelor,45,54,Fail,4,1,yes,no,no,no,Good,yes,yes,High
+1663,F,16,LE3,T,Bachelor,SSCE,46,50,Pass,5,2,no,yes,no,no,Very Poor,no,no,High
+1664,F,17,LE3,T,SSCE,SSCE,58,65,Pass,4,4,yes,no,no,no,Good,no,no,High
+1665,F,14,LE3,T,Masters,SSCE,57,44,Pass,3,3,no,yes,yes,no,Good,yes,no,Low
+1666,F,15,GT3,T,SSCE,Bachelor,58,64,Pass,5,4,no,yes,no,yes,Very Poor,yes,yes,High
+1667,M,15,GT3,T,SSCE,Masters,60,75,Pass,7,2,yes,no,yes,yes,Poor,yes,no,High
+1668,F,16,GT3,T,SSCE,Bachelor,45,63,Fail,6,4,no,no,yes,no,Good,no,yes,Low
+1669,M,14,LE3,T,Bachelor,Bachelor,42,64,Pass,8,2,no,no,no,no,Average,no,no,Low
+1670,F,16,LE3,T,Bachelor,SSCE,58,66,Pass,6,2,no,no,no,yes,Good,yes,no,High
+1671,M,17,LE3,A,Bachelor,SSCE,48,75,Pass,6,2,no,yes,no,yes,Poor,yes,no,High
+1672,F,16,GT3,A,SSCE,Masters,39,70,Pass,4,4,yes,no,no,yes,Very Poor,yes,yes,High
+1673,F,16,LE3,T,Bachelor,No schooling,64,62,Fail,3,2,yes,no,yes,yes,Poor,no,no,High
+1674,F,15,GT3,T,SSCE,PhD,68,67,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+1675,F,15,GT3,T,SSCE,Bachelor,70,49,Pass,8,1,no,yes,no,yes,Average,yes,no,Low
+1676,M,17,GT3,T,No schooling,Bachelor,56,65,Pass,6,2,no,no,yes,no,Very Good,yes,no,High
+1677,M,16,GT3,T,Masters,No schooling,61,47,Fail,5,4,no,no,no,yes,Good,yes,no,Low
+1678,M,15,LE3,T,SSCE,Bachelor,68,54,Fail,6,2,yes,no,no,yes,Very Good,yes,no,Low
+1679,M,15,LE3,T,Bachelor,SSCE,48,27,Fail,9,3,no,yes,no,yes,Very Poor,yes,yes,High
+1680,F,13,LE3,T,Bachelor,No schooling,66,62,Pass,9,4,no,no,no,no,Poor,yes,no,High
+1681,M,14,GT3,T,Bachelor,SSCE,57,51,Pass,6,2,no,no,yes,yes,Very Poor,no,no,High
+1682,F,17,LE3,T,Bachelor,Masters,64,69,Fail,4,3,yes,no,yes,yes,Average,yes,no,High
+1683,F,14,LE3,T,SSCE,SSCE,56,61,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1684,F,16,GT3,A,SSCE,SSCE,67,69,Fail,4,4,yes,no,yes,yes,Good,yes,yes,High
+1685,M,17,LE3,T,Bachelor,No schooling,57,47,Fail,3,1,yes,no,no,yes,Poor,yes,no,Low
+1686,F,14,GT3,T,Bachelor,Bachelor,40,68,Pass,10,3,yes,yes,yes,yes,Poor,yes,no,High
+1687,F,16,GT3,T,Masters,Bachelor,69,79,Fail,3,3,yes,no,no,yes,Average,yes,yes,High
+1688,F,16,LE3,A,Masters,Bachelor,45,65,Fail,7,2,no,no,yes,yes,Average,no,no,Low
+1689,F,16,LE3,T,SSCE,SSCE,67,65,Fail,9,2,yes,yes,no,yes,Good,no,yes,Low
+1690,F,18,LE3,T,SSCE,SSCE,54,59,Pass,2,2,no,no,yes,no,Good,no,no,High
+1691,M,14,GT3,A,Bachelor,Bachelor,66,52,Pass,7,1,yes,yes,no,no,Poor,yes,no,High
+1692,F,17,GT3,T,SSCE,SSCE,66,65,Pass,3,2,yes,yes,yes,yes,Good,no,no,High
+1693,M,15,GT3,T,No schooling,Masters,59,42,Pass,8,4,yes,no,yes,yes,Average,no,no,Low
+1694,M,16,GT3,T,Masters,Bachelor,60,53,Pass,8,2,yes,no,no,yes,Average,yes,no,High
+1695,M,16,GT3,T,SSCE,SSCE,59,40,Fail,4,2,yes,no,no,yes,Very Poor,yes,no,Low
+1696,M,15,LE3,T,Masters,SSCE,34,50,Pass,6,1,no,yes,no,no,Good,yes,no,High
+1697,M,16,LE3,T,Bachelor,Masters,56,64,Pass,4,1,no,no,no,yes,Very Poor,yes,no,Low
+1698,M,14,GT3,T,Masters,SSCE,43,63,Pass,4,2,yes,no,no,no,Average,no,no,Low
+1699,F,16,LE3,T,SSCE,SSCE,56,58,Pass,5,4,yes,no,no,no,Very Poor,yes,no,High
+1700,F,16,LE3,T,SSCE,Bachelor,43,59,Fail,5,4,yes,no,no,yes,Average,yes,no,Low
+1701,F,16,GT3,T,Bachelor,SSCE,43,39,Pass,7,2,no,no,yes,yes,Good,yes,no,Low
+1702,M,17,GT3,T,SSCE,Bachelor,71,54,Pass,3,2,no,yes,no,yes,Very Good,yes,yes,High
+1703,M,16,GT3,A,SSCE,No schooling,65,51,Fail,3,2,no,no,no,yes,Good,no,no,High
+1704,F,16,GT3,T,SSCE,Bachelor,54,51,Fail,2,3,yes,no,no,no,Very Good,yes,no,Low
+1705,M,15,LE3,T,SSCE,No schooling,56,63,Pass,3,3,yes,yes,no,yes,Good,yes,no,Low
+1706,M,15,GT3,T,SSCE,No schooling,52,49,Fail,3,3,yes,no,yes,yes,Average,yes,no,High
+1707,F,17,LE3,T,Masters,Masters,60,51,Fail,4,1,no,no,no,no,Average,no,no,High
+1708,M,17,LE3,T,SSCE,Bachelor,48,37,Fail,3,4,yes,no,no,no,Average,yes,no,High
+1709,F,15,GT3,T,No schooling,SSCE,64,55,Pass,6,1,no,no,no,yes,Average,no,yes,High
+1710,F,16,LE3,T,Bachelor,SSCE,52,47,Fail,6,2,no,yes,no,no,Average,yes,no,High
+1711,M,15,GT3,T,PhD,Bachelor,50,58,Pass,7,4,no,yes,yes,yes,Good,yes,no,High
+1712,M,17,LE3,T,SSCE,SSCE,55,48,Pass,8,2,yes,no,yes,no,Very Poor,yes,no,High
+1713,F,16,GT3,T,SSCE,PhD,49,59,Pass,4,1,no,yes,no,yes,Good,yes,yes,Low
+1714,F,17,LE3,T,Bachelor,PhD,58,56,Pass,4,2,yes,yes,yes,no,Poor,yes,no,High
+1715,M,15,GT3,T,Masters,Bachelor,49,74,Fail,5,2,no,no,no,yes,Very Poor,yes,no,High
+1716,F,15,GT3,T,Masters,SSCE,59,62,Pass,6,1,yes,yes,no,yes,Average,yes,yes,High
+1717,M,16,LE3,T,Bachelor,SSCE,67,39,Pass,7,2,yes,no,yes,yes,Average,yes,yes,High
+1718,F,16,LE3,T,SSCE,Bachelor,47,45,Pass,10,2,yes,no,yes,yes,Very Poor,yes,yes,Low
+1719,F,15,LE3,T,Bachelor,No schooling,53,58,Pass,3,3,no,no,no,yes,Average,yes,no,High
+1720,M,15,LE3,T,No schooling,SSCE,59,48,Fail,3,1,yes,no,yes,no,Average,no,yes,Low
+1721,M,16,GT3,A,Bachelor,No schooling,50,28,Pass,4,3,yes,no,yes,no,Very Poor,yes,yes,Low
+1722,M,16,GT3,T,Bachelor,No schooling,59,71,Fail,2,2,yes,no,no,no,Good,yes,no,High
+1723,M,15,LE3,T,PhD,SSCE,60,65,Fail,1,2,yes,no,no,no,Poor,yes,no,Low
+1724,M,17,LE3,A,SSCE,SSCE,65,63,Fail,4,2,no,no,no,no,Good,yes,yes,High
+1725,F,17,LE3,T,No schooling,Bachelor,48,51,Fail,6,3,yes,no,no,no,Average,yes,yes,High
+1726,M,16,GT3,T,Bachelor,SSCE,45,62,Pass,4,3,no,no,no,yes,Average,yes,no,High
+1727,F,16,LE3,T,Bachelor,SSCE,51,50,Fail,6,1,no,no,no,no,Very Good,no,yes,High
+1728,F,16,GT3,T,Masters,No schooling,45,60,Fail,5,3,no,no,no,yes,Good,no,yes,High
+1729,F,15,GT3,T,SSCE,Bachelor,60,48,Fail,3,4,yes,no,no,no,Good,yes,no,High
+1730,F,16,LE3,T,SSCE,SSCE,43,73,Fail,5,1,yes,no,no,yes,Poor,yes,no,High
+1731,M,13,GT3,T,Bachelor,Bachelor,78,42,Fail,10,3,no,yes,yes,yes,Very Poor,yes,no,High
+1732,F,16,GT3,T,SSCE,PhD,67,70,Fail,2,2,no,yes,no,yes,Good,yes,no,High
+1733,F,14,GT3,T,Masters,No schooling,55,58,Fail,8,1,yes,no,yes,yes,Average,yes,no,High
+1734,M,17,LE3,T,Bachelor,SSCE,63,53,Pass,4,2,no,yes,yes,yes,Very Good,no,no,High
+1735,M,15,LE3,T,Masters,SSCE,38,59,Pass,6,4,no,yes,no,no,Average,yes,no,High
+1736,F,15,GT3,T,Bachelor,PhD,80,65,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+1737,M,15,GT3,T,Masters,Bachelor,49,71,Pass,4,4,no,yes,yes,yes,Average,yes,no,High
+1738,M,15,GT3,T,SSCE,Masters,53,61,Fail,7,3,yes,no,yes,yes,Good,no,no,High
+1739,M,17,GT3,T,Masters,SSCE,36,49,Fail,6,1,yes,yes,no,yes,Average,yes,yes,High
+1740,M,13,GT3,T,SSCE,PhD,59,58,Fail,3,1,yes,no,no,yes,Very Good,yes,yes,High
+1741,F,17,GT3,T,Bachelor,No schooling,43,76,Fail,4,3,yes,no,no,yes,Average,yes,no,Low
+1742,F,16,LE3,T,SSCE,No schooling,56,71,Pass,4,2,yes,yes,no,yes,Good,yes,no,High
+1743,F,14,GT3,T,Bachelor,Masters,49,67,Fail,7,1,no,no,no,yes,Average,yes,yes,Low
+1744,M,14,GT3,T,SSCE,Masters,44,65,Pass,5,3,no,no,no,yes,Good,yes,no,High
+1745,M,17,GT3,T,SSCE,No schooling,46,64,Pass,7,3,no,no,yes,no,Very Poor,yes,yes,High
+1746,F,15,GT3,T,PhD,No schooling,57,69,Pass,4,3,no,no,no,yes,Good,no,yes,High
+1747,M,14,LE3,T,SSCE,No schooling,42,53,Fail,3,2,yes,no,yes,yes,Average,yes,yes,Low
+1748,M,17,GT3,T,Masters,No schooling,47,44,Pass,3,2,yes,yes,yes,yes,Average,yes,no,High
+1749,F,16,GT3,A,PhD,SSCE,61,58,Fail,3,4,no,no,no,yes,Poor,yes,yes,Low
+1750,M,15,LE3,T,No schooling,PhD,81,49,Pass,3,4,no,yes,no,yes,Good,yes,no,Low
+1751,F,16,GT3,A,Bachelor,Bachelor,59,47,Pass,4,2,yes,no,no,yes,Poor,no,yes,Low
+1752,M,14,LE3,A,SSCE,Bachelor,45,50,Pass,6,3,no,yes,yes,no,Poor,yes,yes,High
+1753,M,17,LE3,T,No schooling,Bachelor,51,82,Pass,4,2,yes,no,yes,yes,Poor,yes,no,High
+1754,M,17,LE3,T,SSCE,SSCE,55,59,Fail,11,2,no,yes,yes,yes,Very Poor,yes,no,High
+1755,F,16,GT3,T,Masters,Bachelor,51,61,Pass,3,2,no,yes,no,yes,Good,no,no,High
+1756,F,16,GT3,A,No schooling,Bachelor,64,45,Fail,6,1,yes,no,no,yes,Average,yes,yes,High
+1757,F,17,GT3,T,Bachelor,SSCE,57,39,Fail,1,4,yes,no,no,yes,Poor,yes,yes,High
+1758,F,15,GT3,A,Bachelor,Bachelor,64,49,Fail,10,2,no,no,no,yes,Average,yes,no,Low
+1759,M,14,GT3,T,Masters,SSCE,51,72,Pass,4,2,yes,no,no,no,Average,yes,yes,Low
+1760,F,16,LE3,T,No schooling,Masters,68,61,Fail,5,3,yes,yes,yes,yes,Average,no,no,High
+1761,F,18,LE3,T,Bachelor,PhD,53,63,Pass,3,3,yes,no,no,yes,Average,yes,no,High
+1762,F,14,GT3,T,Bachelor,SSCE,45,65,Pass,6,1,no,no,no,no,Average,yes,no,Low
+1763,M,15,LE3,T,Bachelor,Bachelor,76,52,Pass,11,3,no,yes,no,yes,Average,yes,no,High
+1764,F,16,GT3,T,Masters,No schooling,36,71,Fail,6,3,no,no,yes,yes,Good,yes,no,Low
+1765,M,15,GT3,A,Masters,Bachelor,47,51,Pass,3,3,no,no,no,yes,Very Poor,yes,yes,Low
+1766,M,15,GT3,T,No schooling,SSCE,48,72,Pass,2,3,no,yes,yes,yes,Very Good,no,no,High
+1767,F,17,GT3,T,Bachelor,No schooling,80,62,Pass,5,2,yes,yes,no,no,Poor,yes,no,Low
+1768,F,18,LE3,T,SSCE,SSCE,73,40,Pass,7,2,no,no,no,yes,Good,yes,yes,Low
+1769,M,16,LE3,T,SSCE,Bachelor,69,50,Pass,3,3,yes,no,yes,yes,Average,yes,no,High
+1770,M,15,GT3,T,Bachelor,No schooling,51,40,Fail,1,4,yes,no,yes,no,Average,no,no,High
+1771,F,14,LE3,T,SSCE,Masters,79,69,Pass,9,2,no,no,no,yes,Good,yes,no,Low
+1772,F,16,GT3,T,SSCE,No schooling,58,57,Fail,6,1,yes,yes,no,yes,Good,yes,yes,High
+1773,F,17,LE3,T,PhD,Masters,64,35,Fail,6,4,no,no,no,yes,Average,no,no,Low
+1774,F,16,GT3,T,No schooling,Bachelor,56,61,Fail,3,2,yes,yes,no,no,Average,yes,no,High
+1775,F,15,GT3,T,Masters,SSCE,54,52,Pass,4,2,no,yes,no,no,Very Poor,yes,no,High
+1776,M,15,GT3,T,Bachelor,SSCE,52,43,Fail,6,2,yes,yes,yes,yes,Very Good,yes,no,Low
+1777,F,14,LE3,T,Bachelor,Bachelor,52,74,Pass,2,2,yes,no,no,no,Good,yes,yes,High
+1778,M,16,LE3,T,Masters,Bachelor,61,59,Pass,7,2,yes,yes,no,no,Average,yes,yes,High
+1779,M,16,GT3,T,SSCE,Bachelor,58,55,Fail,8,2,yes,no,yes,no,Good,no,no,High
+1780,F,14,LE3,T,SSCE,SSCE,54,54,Fail,5,1,yes,no,yes,yes,Average,yes,no,High
+1781,M,17,GT3,T,SSCE,SSCE,70,42,Fail,6,4,no,no,yes,no,Good,yes,yes,High
+1782,F,16,GT3,A,SSCE,PhD,25,44,Fail,3,4,no,yes,yes,yes,Average,yes,no,High
+1783,F,17,GT3,A,Masters,SSCE,60,70,Pass,6,4,yes,yes,no,no,Average,yes,no,High
+1784,F,14,GT3,T,Masters,SSCE,62,53,Fail,6,4,yes,no,yes,yes,Very Poor,no,no,High
+1785,F,14,LE3,T,SSCE,SSCE,66,58,Pass,5,3,yes,no,no,yes,Very Good,yes,no,High
+1786,F,15,GT3,A,SSCE,Bachelor,54,37,Pass,8,2,yes,no,no,no,Good,no,no,High
+1787,F,16,GT3,T,SSCE,Bachelor,57,44,Fail,7,1,no,no,yes,no,Good,no,yes,High
+1788,F,17,GT3,T,No schooling,SSCE,64,64,Fail,5,1,yes,no,yes,yes,Average,no,no,High
+1789,M,16,GT3,T,Bachelor,No schooling,69,61,Pass,2,2,no,yes,no,yes,Average,yes,no,Low
+1790,F,15,GT3,T,SSCE,No schooling,51,75,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+1791,M,14,LE3,A,Bachelor,SSCE,57,71,Pass,9,4,no,no,yes,yes,Good,yes,no,High
+1792,F,17,LE3,T,No schooling,SSCE,71,55,Pass,4,2,no,no,yes,yes,Very Good,yes,no,Low
+1793,F,15,GT3,T,SSCE,PhD,33,62,Fail,5,2,yes,no,yes,yes,Average,yes,no,High
+1794,F,17,LE3,T,Bachelor,SSCE,48,54,Fail,11,3,no,no,yes,yes,Good,yes,no,High
+1795,M,15,GT3,T,Bachelor,SSCE,69,78,Fail,3,2,no,no,yes,yes,Good,no,no,High
+1796,M,17,GT3,A,PhD,Masters,65,69,Fail,3,4,no,yes,no,yes,Poor,yes,no,High
+1797,F,16,LE3,T,Masters,SSCE,60,59,Pass,4,2,yes,no,yes,no,Average,yes,no,High
+1798,M,15,LE3,T,SSCE,Bachelor,50,60,Pass,3,2,no,yes,no,yes,Poor,yes,no,Low
+1799,M,15,GT3,T,No schooling,No schooling,46,72,Pass,6,4,no,no,yes,yes,Good,yes,no,High
+1800,M,15,LE3,A,Masters,SSCE,49,63,Fail,7,3,yes,no,yes,no,Very Good,yes,yes,High
+1801,F,16,GT3,T,Masters,Masters,70,73,Fail,2,2,yes,yes,no,yes,Very Good,yes,no,Low
+1802,F,16,GT3,T,Masters,Bachelor,48,36,Fail,4,2,yes,yes,yes,yes,Good,yes,yes,Low
+1803,M,15,GT3,T,SSCE,SSCE,56,62,Pass,3,3,yes,no,yes,yes,Average,yes,no,High
+1804,M,15,GT3,T,PhD,Bachelor,47,52,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1805,M,16,LE3,T,SSCE,Masters,63,75,Fail,7,4,yes,no,yes,yes,Very Good,yes,no,Low
+1806,F,13,GT3,T,Bachelor,SSCE,49,73,Pass,5,4,no,yes,no,yes,Good,yes,yes,High
+1807,F,16,LE3,T,Masters,SSCE,54,58,Fail,4,2,yes,yes,yes,no,Average,yes,no,High
+1808,M,15,LE3,T,SSCE,PhD,38,73,Pass,5,3,yes,no,yes,yes,Very Good,yes,no,High
+1809,M,14,GT3,T,Masters,SSCE,38,75,Pass,7,4,no,no,yes,no,Good,yes,yes,High
+1810,M,14,GT3,T,SSCE,Bachelor,55,58,Fail,6,2,yes,no,no,yes,Very Good,yes,no,High
+1811,F,14,LE3,T,PhD,Bachelor,41,82,Pass,3,4,no,no,no,yes,Very Good,no,yes,Low
+1812,F,14,GT3,T,SSCE,Bachelor,76,57,Fail,6,3,no,no,no,yes,Average,yes,yes,Low
+1813,M,15,GT3,T,PhD,SSCE,34,55,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+1814,M,17,LE3,T,No schooling,SSCE,46,66,Pass,4,3,no,yes,no,no,Average,no,no,High
+1815,M,15,LE3,T,Bachelor,Bachelor,55,54,Fail,2,2,no,yes,no,yes,Very Poor,yes,no,High
+1816,F,16,GT3,T,Bachelor,SSCE,51,58,Pass,5,1,no,yes,no,yes,Good,yes,no,High
+1817,M,16,GT3,A,Bachelor,SSCE,43,72,Pass,5,3,yes,no,no,yes,Average,no,yes,High
+1818,F,16,GT3,T,SSCE,SSCE,45,58,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1819,F,15,GT3,A,Bachelor,No schooling,45,41,Pass,3,3,no,no,no,no,Very Good,no,yes,Low
+1820,M,14,LE3,T,SSCE,PhD,52,61,Pass,6,2,no,no,no,no,Very Poor,yes,yes,High
+1821,M,17,GT3,T,Bachelor,SSCE,74,51,Fail,5,2,yes,yes,yes,no,Very Good,yes,no,High
+1822,M,17,GT3,T,SSCE,PhD,55,66,Pass,5,3,no,no,no,yes,Poor,yes,no,High
+1823,F,14,GT3,T,PhD,No schooling,66,64,Fail,6,4,no,yes,no,yes,Average,yes,no,High
+1824,F,14,LE3,T,No schooling,Bachelor,60,72,Fail,5,4,yes,no,yes,yes,Average,yes,yes,High
+1825,F,15,LE3,T,SSCE,SSCE,66,67,Pass,6,4,no,no,no,yes,Good,no,no,High
+1826,F,15,LE3,A,SSCE,Bachelor,27,68,Pass,2,2,no,no,no,yes,Poor,yes,no,Low
+1827,M,16,GT3,T,SSCE,Bachelor,51,51,Pass,12,3,no,no,no,no,Very Good,no,yes,High
+1828,F,15,GT3,A,SSCE,No schooling,68,66,Pass,7,2,yes,no,yes,no,Good,yes,yes,High
+1829,F,18,GT3,A,Bachelor,Masters,49,77,Fail,4,2,yes,no,yes,no,Good,no,no,Low
+1830,M,17,LE3,T,Masters,SSCE,72,51,Fail,5,1,no,yes,yes,yes,Poor,yes,no,Low
+1831,F,16,LE3,T,Bachelor,Bachelor,69,75,Pass,7,4,no,yes,yes,yes,Average,yes,yes,Low
+1832,F,17,GT3,T,Bachelor,PhD,50,52,Fail,1,1,yes,no,no,no,Very Good,yes,yes,High
+1833,F,17,GT3,A,No schooling,Masters,49,49,Fail,5,1,yes,no,no,no,Average,yes,no,High
+1834,F,15,GT3,T,Bachelor,PhD,44,60,Pass,6,2,yes,no,no,no,Poor,yes,no,Low
+1835,F,15,LE3,T,SSCE,SSCE,48,65,Fail,5,2,yes,no,yes,yes,Average,yes,yes,High
+1836,F,16,GT3,T,Masters,No schooling,42,67,Fail,2,4,no,no,yes,no,Very Good,yes,no,Low
+1837,M,16,LE3,A,SSCE,SSCE,59,48,Pass,5,2,no,yes,no,yes,Average,yes,no,High
+1838,M,16,LE3,T,SSCE,SSCE,40,62,Pass,2,2,no,yes,no,yes,Average,yes,yes,High
+1839,F,14,GT3,T,SSCE,Bachelor,61,51,Fail,4,2,no,no,no,no,Good,yes,no,High
+1840,M,15,LE3,T,Masters,SSCE,61,43,Pass,5,2,no,yes,no,yes,Very Good,yes,yes,High
+1841,M,15,LE3,A,SSCE,Bachelor,38,48,Pass,6,1,yes,no,no,yes,Very Poor,yes,no,Low
+1842,M,15,GT3,T,Bachelor,SSCE,70,50,Fail,3,2,no,no,yes,yes,Poor,no,yes,Low
+1843,M,17,GT3,T,SSCE,SSCE,60,63,Fail,6,2,yes,yes,no,yes,Poor,yes,no,High
+1844,F,14,GT3,T,Bachelor,Bachelor,62,69,Pass,6,2,no,no,yes,yes,Very Poor,no,no,High
+1845,F,16,GT3,A,Masters,SSCE,47,43,Pass,3,3,yes,no,no,yes,Average,no,no,High
+1846,M,17,LE3,T,SSCE,Masters,61,61,Pass,4,4,yes,no,no,yes,Poor,yes,no,Low
+1847,M,18,LE3,A,Bachelor,SSCE,66,46,Pass,4,1,yes,no,no,yes,Average,no,yes,High
+1848,M,15,GT3,T,Masters,Bachelor,54,64,Pass,7,1,no,no,yes,no,Average,yes,no,High
+1849,F,16,GT3,T,Bachelor,No schooling,75,51,Pass,4,3,yes,no,no,yes,Average,no,yes,High
+1850,F,16,GT3,T,Bachelor,SSCE,55,47,Pass,7,2,yes,no,yes,no,Very Good,yes,no,Low
+1851,M,16,LE3,A,Bachelor,Bachelor,66,65,Pass,5,2,no,no,yes,yes,Poor,yes,yes,High
+1852,F,15,GT3,T,Bachelor,Masters,57,52,Pass,2,2,no,no,no,yes,Average,yes,no,Low
+1853,F,16,LE3,A,SSCE,SSCE,60,54,Pass,6,4,yes,no,no,yes,Average,no,yes,High
+1854,F,13,GT3,T,Masters,SSCE,38,35,Pass,5,3,yes,no,no,yes,Average,yes,yes,Low
+1855,F,16,GT3,T,SSCE,SSCE,58,67,Pass,3,1,yes,no,no,no,Good,yes,no,High
+1856,M,16,GT3,T,No schooling,SSCE,47,66,Fail,2,1,no,no,yes,yes,Good,yes,yes,High
+1857,F,15,GT3,T,Masters,Masters,46,58,Pass,8,2,no,no,yes,no,Average,no,no,High
+1858,F,18,GT3,T,SSCE,Bachelor,72,42,Fail,1,2,yes,no,yes,yes,Very Good,yes,yes,Low
+1859,F,15,GT3,T,SSCE,No schooling,52,70,Fail,5,2,no,no,no,no,Good,yes,yes,High
+1860,F,15,GT3,T,Bachelor,SSCE,44,51,Pass,4,3,yes,yes,yes,yes,Poor,yes,no,Low
+1861,F,17,LE3,A,Masters,Bachelor,51,53,Fail,6,2,yes,no,no,yes,Poor,yes,yes,Low
+1862,F,15,GT3,T,Masters,SSCE,41,81,Pass,3,2,no,yes,no,yes,Good,yes,yes,High
+1863,M,15,LE3,T,PhD,Bachelor,69,50,Pass,5,2,yes,no,no,yes,Very Good,no,yes,Low
+1864,F,15,GT3,T,Masters,No schooling,48,65,Pass,3,1,no,no,no,yes,Average,no,yes,Low
+1865,F,16,GT3,T,No schooling,Bachelor,60,63,Pass,7,4,no,no,yes,yes,Poor,yes,yes,Low
+1866,F,16,GT3,T,SSCE,SSCE,68,61,Pass,5,1,yes,no,no,yes,Very Good,no,yes,Low
+1867,M,14,LE3,T,Masters,Masters,49,60,Pass,7,2,yes,no,no,no,Poor,no,yes,Low
+1868,M,15,LE3,T,SSCE,SSCE,60,61,Fail,6,1,no,yes,no,no,Good,no,no,High
+1869,M,15,GT3,T,Bachelor,SSCE,44,60,Fail,8,2,no,no,yes,yes,Very Poor,no,yes,Low
+1870,F,15,GT3,T,Bachelor,Masters,79,57,Pass,6,4,yes,yes,yes,yes,Very Poor,yes,no,Low
+1871,F,16,GT3,T,SSCE,No schooling,64,73,Pass,4,1,yes,no,no,yes,Average,yes,no,High
+1872,M,16,LE3,T,Masters,SSCE,53,44,Pass,4,2,yes,no,yes,no,Good,yes,yes,High
+1873,F,14,GT3,T,Bachelor,SSCE,47,68,Pass,2,1,no,no,no,yes,Poor,yes,yes,Low
+1874,F,17,GT3,T,Bachelor,SSCE,53,66,Fail,2,3,yes,no,yes,yes,Good,no,yes,High
+1875,F,16,LE3,T,PhD,Masters,51,64,Pass,5,3,yes,no,no,yes,Poor,yes,no,High
+1876,F,17,LE3,T,Bachelor,Bachelor,74,69,Pass,2,3,no,yes,no,yes,Average,no,no,High
+1877,F,16,GT3,T,SSCE,No schooling,42,57,Fail,1,2,yes,no,no,yes,Average,yes,no,Low
+1878,F,17,GT3,T,Bachelor,Bachelor,56,39,Fail,4,4,yes,yes,no,yes,Good,yes,no,High
+1879,M,16,GT3,T,Masters,SSCE,54,57,Pass,6,2,no,yes,no,yes,Good,yes,yes,Low
+1880,F,17,GT3,T,Masters,Masters,53,48,Pass,6,2,no,no,no,yes,Very Poor,no,no,High
+1881,F,16,GT3,T,Masters,SSCE,53,50,Pass,9,3,yes,yes,no,yes,Poor,yes,no,Low
+1882,F,15,GT3,T,Bachelor,Bachelor,53,45,Pass,3,2,yes,yes,yes,yes,Very Good,yes,no,High
+1883,F,18,LE3,T,SSCE,SSCE,63,53,Pass,9,2,yes,yes,yes,yes,Average,yes,no,Low
+1884,F,16,LE3,A,Masters,SSCE,61,52,Pass,6,2,yes,no,yes,yes,Average,no,yes,High
+1885,M,16,GT3,T,Masters,SSCE,59,34,Fail,11,1,no,no,yes,yes,Poor,yes,no,High
+1886,F,14,GT3,T,SSCE,SSCE,24,65,Pass,5,2,no,no,no,yes,Very Good,no,no,High
+1887,M,14,GT3,A,SSCE,Bachelor,57,80,Pass,2,3,no,no,no,yes,Very Good,yes,no,Low
+1888,M,16,GT3,T,PhD,SSCE,38,64,Pass,7,1,no,no,no,yes,Very Poor,yes,no,Low
+1889,F,16,LE3,T,Masters,PhD,61,55,Pass,2,3,no,yes,yes,no,Average,yes,no,High
+1890,F,15,GT3,T,Masters,SSCE,69,57,Fail,2,4,no,yes,yes,yes,Very Good,no,no,Low
+1891,M,16,LE3,T,Masters,Bachelor,45,53,Pass,5,2,no,no,no,yes,Average,yes,no,Low
+1892,M,17,GT3,T,Bachelor,Masters,52,58,Pass,7,2,yes,no,no,yes,Average,yes,yes,High
+1893,F,16,GT3,A,Bachelor,Bachelor,49,57,Pass,4,4,no,no,no,yes,Average,yes,no,High
+1894,M,14,GT3,T,Bachelor,Masters,67,49,Pass,6,3,yes,yes,no,no,Very Poor,no,no,High
+1895,F,15,GT3,T,No schooling,Masters,55,74,Pass,6,1,yes,yes,no,no,Good,yes,no,High
+1896,F,15,LE3,T,Bachelor,SSCE,72,43,Pass,2,2,no,yes,no,yes,Average,yes,no,Low
+1897,F,15,GT3,T,Bachelor,Bachelor,59,65,Pass,10,3,yes,no,no,yes,Average,yes,no,High
+1898,M,15,LE3,T,Bachelor,SSCE,57,56,Pass,4,2,no,yes,no,no,Average,yes,no,High
+1899,M,15,GT3,A,Bachelor,SSCE,55,77,Pass,4,3,no,no,yes,no,Good,yes,yes,Low
+1900,F,14,GT3,A,Bachelor,SSCE,63,61,Fail,4,2,no,yes,no,yes,Good,yes,no,Low
+1901,F,15,GT3,T,SSCE,Bachelor,37,54,Fail,3,3,no,no,no,yes,Average,yes,no,High
+1902,M,15,GT3,A,SSCE,SSCE,55,55,Fail,3,2,yes,yes,yes,no,Very Good,yes,no,High
+1903,F,13,LE3,T,SSCE,SSCE,54,58,Fail,7,3,yes,yes,yes,no,Poor,yes,yes,High
+1904,M,18,GT3,T,SSCE,SSCE,62,46,Pass,7,4,no,yes,no,yes,Good,yes,no,Low
+1905,F,17,LE3,T,PhD,PhD,53,50,Fail,7,2,yes,yes,no,yes,Average,no,no,Low
+1906,M,15,GT3,T,SSCE,No schooling,44,40,Pass,3,3,no,yes,no,yes,Poor,yes,no,High
+1907,F,16,LE3,T,SSCE,No schooling,55,48,Pass,5,2,yes,no,yes,yes,Poor,yes,yes,High
+1908,M,14,LE3,T,Bachelor,SSCE,44,58,Pass,7,2,yes,yes,no,yes,Average,no,yes,High
+1909,M,17,GT3,T,Bachelor,PhD,35,61,Pass,7,4,yes,yes,yes,yes,Very Good,yes,no,Low
+1910,M,17,GT3,T,SSCE,PhD,62,38,Fail,4,1,no,no,no,no,Good,yes,no,High
+1911,M,16,LE3,T,Masters,Bachelor,60,56,Pass,8,2,yes,no,no,yes,Good,yes,yes,Low
+1912,F,17,LE3,A,Masters,Masters,59,63,Pass,8,2,yes,yes,no,yes,Very Poor,yes,no,High
+1913,F,16,GT3,T,SSCE,SSCE,68,56,Pass,5,2,yes,no,yes,no,Very Good,yes,no,Low
+1914,M,14,LE3,T,SSCE,PhD,48,51,Pass,10,3,yes,no,yes,yes,Average,no,no,High
+1915,M,15,LE3,T,Masters,No schooling,40,53,Pass,6,2,yes,yes,yes,no,Good,yes,no,High
+1916,F,16,GT3,T,Masters,No schooling,54,52,Pass,9,1,yes,no,no,no,Good,yes,no,High
+1917,F,15,LE3,T,Bachelor,No schooling,51,51,Pass,8,2,no,yes,yes,yes,Poor,no,yes,High
+1918,F,15,GT3,T,No schooling,Bachelor,46,59,Fail,6,2,yes,yes,yes,yes,Good,yes,yes,High
+1919,M,15,GT3,T,SSCE,Bachelor,54,81,Pass,4,2,yes,no,no,no,Very Poor,yes,no,High
+1920,M,15,GT3,T,Bachelor,SSCE,48,50,Pass,2,3,no,yes,no,yes,Poor,yes,no,High
+1921,F,16,GT3,T,SSCE,PhD,36,54,Fail,3,2,yes,yes,yes,yes,Good,no,no,High
+1922,M,14,GT3,T,SSCE,SSCE,50,57,Fail,1,2,no,no,yes,no,Poor,yes,yes,High
+1923,F,15,LE3,T,Bachelor,SSCE,43,51,Pass,8,3,yes,no,no,yes,Average,yes,no,Low
+1924,M,14,LE3,T,SSCE,SSCE,57,68,Pass,7,1,yes,no,no,yes,Poor,yes,no,Low
+1925,F,16,GT3,T,Masters,Bachelor,48,34,Fail,5,2,yes,no,no,yes,Average,yes,no,High
+1926,M,13,LE3,T,Masters,Masters,66,52,Pass,2,3,no,no,yes,yes,Very Poor,yes,no,High
+1927,F,17,GT3,T,SSCE,SSCE,71,66,Pass,7,2,no,no,no,yes,Good,yes,yes,Low
+1928,F,17,GT3,A,Masters,Bachelor,61,55,Pass,12,2,yes,yes,no,yes,Very Poor,yes,yes,High
+1929,F,15,LE3,T,SSCE,SSCE,39,49,Fail,5,2,no,no,no,yes,Good,no,no,High
+1930,M,13,GT3,T,Masters,Bachelor,70,62,Fail,3,2,yes,yes,yes,yes,Good,no,no,High
+1931,F,15,GT3,T,SSCE,PhD,70,67,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+1932,F,15,GT3,T,No schooling,No schooling,55,60,Pass,5,4,no,no,no,yes,Very Good,yes,no,High
+1933,F,14,GT3,T,Bachelor,Masters,68,49,Pass,6,2,no,no,no,yes,Poor,yes,yes,Low
+1934,F,15,GT3,A,Bachelor,Bachelor,49,62,Pass,3,3,yes,yes,no,yes,Average,yes,no,High
+1935,F,17,GT3,A,Masters,SSCE,36,53,Fail,3,4,yes,yes,yes,no,Poor,yes,no,Low
+1936,F,16,GT3,T,SSCE,PhD,47,65,Fail,1,3,no,no,no,yes,Average,yes,yes,Low
+1937,M,15,GT3,T,SSCE,SSCE,72,72,Pass,5,2,no,no,yes,yes,Very Good,yes,no,Low
+1938,F,14,LE3,T,Bachelor,SSCE,40,31,Fail,2,2,yes,no,yes,no,Poor,yes,no,High
+1939,F,15,LE3,T,Bachelor,SSCE,54,59,Pass,4,2,no,no,no,no,Good,yes,no,High
+1940,M,15,GT3,T,SSCE,SSCE,55,40,Pass,2,3,yes,no,yes,yes,Good,yes,yes,High
+1941,M,16,LE3,T,Bachelor,Masters,49,82,Fail,7,1,no,no,yes,no,Very Poor,yes,no,High
+1942,M,15,LE3,T,Masters,Bachelor,50,53,Pass,3,4,no,no,no,no,Very Good,no,no,Low
+1943,F,16,GT3,T,Masters,Masters,55,65,Pass,9,2,no,no,yes,no,Very Good,yes,yes,High
+1944,F,17,LE3,T,PhD,SSCE,49,57,Pass,6,3,no,no,no,yes,Very Good,no,no,Low
+1945,F,16,GT3,T,SSCE,No schooling,40,49,Fail,5,1,yes,no,no,yes,Average,no,yes,High
+1946,F,15,GT3,T,Bachelor,No schooling,57,48,Fail,2,4,yes,no,no,yes,Poor,no,no,Low
+1947,M,15,GT3,T,SSCE,SSCE,65,73,Fail,5,1,no,yes,no,yes,Average,no,no,High
+1948,M,15,GT3,A,Bachelor,PhD,63,67,Fail,5,3,yes,no,no,yes,Good,yes,no,High
+1949,M,17,LE3,T,Bachelor,Bachelor,46,77,Pass,8,2,yes,no,yes,yes,Average,yes,yes,Low
+1950,M,15,GT3,T,PhD,SSCE,42,58,Pass,2,3,no,no,no,yes,Good,no,yes,High
+1951,M,16,GT3,T,Bachelor,Masters,52,60,Fail,5,3,yes,yes,no,yes,Good,yes,no,High
+1952,M,16,GT3,T,PhD,Bachelor,70,55,Pass,5,2,yes,yes,yes,yes,Poor,yes,no,High
+1953,F,15,GT3,T,Masters,No schooling,61,55,Fail,6,2,yes,no,no,yes,Average,yes,no,High
+1954,F,14,LE3,T,Masters,Masters,62,47,Fail,1,2,no,no,yes,yes,Very Good,yes,yes,High
+1955,F,16,GT3,A,Masters,SSCE,63,58,Fail,3,2,yes,no,yes,yes,Poor,no,yes,High
+1956,F,15,LE3,T,Bachelor,No schooling,59,50,Pass,9,3,yes,yes,yes,no,Average,yes,no,High
+1957,F,16,GT3,T,SSCE,SSCE,56,62,Pass,6,1,no,no,yes,no,Very Poor,yes,no,Low
+1958,M,15,GT3,T,SSCE,SSCE,61,59,Fail,5,2,no,yes,no,yes,Average,no,yes,High
+1959,F,17,LE3,A,No schooling,SSCE,49,60,Fail,4,3,no,no,no,yes,Average,yes,yes,Low
+1960,F,15,LE3,T,Bachelor,SSCE,40,74,Fail,3,2,no,no,no,yes,Very Poor,no,yes,High
+1961,M,17,LE3,A,Bachelor,SSCE,62,57,Pass,11,4,yes,no,no,yes,Very Poor,no,yes,Low
+1962,M,14,GT3,A,Bachelor,Bachelor,67,65,Pass,6,2,no,no,no,yes,Average,no,yes,High
+1963,F,16,GT3,T,PhD,PhD,43,78,Fail,3,2,yes,yes,no,yes,Average,yes,no,High
+1964,M,16,LE3,A,Masters,Bachelor,63,71,Fail,7,1,yes,no,no,yes,Very Poor,yes,no,High
+1965,F,15,GT3,A,SSCE,SSCE,71,69,Fail,6,2,yes,no,yes,yes,Very Good,yes,yes,High
+1966,F,16,LE3,T,SSCE,SSCE,54,54,Pass,2,2,yes,yes,no,yes,Average,yes,no,Low
+1967,M,17,GT3,T,SSCE,SSCE,46,60,Fail,4,2,yes,no,no,no,Poor,yes,no,Low
+1968,M,13,LE3,T,SSCE,No schooling,56,44,Pass,5,1,yes,no,no,no,Very Good,yes,no,High
+1969,M,16,GT3,T,Masters,Bachelor,49,62,Fail,2,2,no,yes,no,yes,Average,yes,no,Low
+1970,M,13,GT3,T,Bachelor,Bachelor,48,60,Pass,2,2,yes,no,no,no,Poor,yes,no,High
+1971,M,15,GT3,T,Bachelor,Bachelor,59,58,Pass,4,1,no,yes,no,no,Very Good,yes,no,High
+1972,F,17,GT3,T,Masters,Bachelor,38,68,Fail,6,3,no,no,no,no,Poor,yes,no,Low
+1973,M,15,GT3,T,Masters,SSCE,40,45,Pass,4,4,no,no,no,no,Very Good,no,no,High
+1974,F,14,GT3,T,SSCE,SSCE,55,74,Pass,6,4,yes,yes,yes,no,Good,yes,yes,High
+1975,M,15,GT3,A,Bachelor,Bachelor,54,67,Pass,8,4,no,no,yes,yes,Average,yes,no,High
+1976,F,18,GT3,T,SSCE,SSCE,58,57,Fail,7,3,no,no,no,yes,Very Poor,yes,no,High
+1977,M,14,GT3,T,SSCE,SSCE,73,56,Pass,8,2,no,no,yes,no,Very Poor,yes,yes,High
+1978,M,14,LE3,T,No schooling,SSCE,56,62,Pass,5,2,yes,yes,yes,yes,Poor,yes,no,High
+1979,F,17,GT3,T,Bachelor,SSCE,60,73,Fail,1,2,yes,no,no,no,Very Good,yes,no,Low
+1980,F,17,LE3,A,SSCE,No schooling,45,59,Pass,5,3,yes,no,no,no,Average,no,yes,High
+1981,M,15,GT3,T,SSCE,Masters,62,59,Pass,5,4,yes,yes,no,yes,Very Poor,yes,no,High
+1982,F,14,GT3,T,Bachelor,Masters,49,58,Pass,7,2,no,yes,no,yes,Average,yes,no,Low
+1983,F,18,GT3,A,Masters,SSCE,55,75,Fail,2,2,no,no,no,yes,Poor,no,no,High
+1984,F,17,LE3,A,SSCE,No schooling,53,54,Pass,6,3,yes,no,no,yes,Poor,yes,yes,High
+1985,M,16,LE3,T,No schooling,Bachelor,65,57,Fail,6,2,yes,no,no,yes,Poor,yes,no,Low
+1986,M,15,GT3,T,Masters,SSCE,41,72,Pass,3,2,yes,no,no,yes,Good,no,no,Low
+1987,F,15,GT3,T,No schooling,SSCE,32,59,Fail,5,2,yes,yes,yes,yes,Very Poor,yes,yes,High
+1988,F,15,LE3,T,Masters,No schooling,52,69,Fail,7,4,no,no,no,yes,Average,yes,no,Low
+1989,M,16,GT3,T,Bachelor,SSCE,59,48,Pass,4,2,no,no,no,yes,Very Poor,no,yes,Low
+1990,F,17,GT3,T,SSCE,Bachelor,56,55,Pass,3,2,yes,no,yes,no,Average,yes,no,High
+1991,F,16,GT3,A,SSCE,Masters,67,72,Fail,2,2,yes,yes,no,no,Average,yes,no,High
+1992,M,14,LE3,T,No schooling,SSCE,59,51,Pass,4,2,no,no,no,yes,Very Poor,yes,no,High
+1993,F,17,GT3,T,SSCE,SSCE,49,56,Fail,8,2,yes,no,yes,yes,Average,yes,no,High
+1994,M,16,LE3,A,SSCE,No schooling,31,60,Pass,9,2,no,no,no,no,Average,yes,no,High
+1995,F,16,GT3,T,Bachelor,No schooling,52,48,Fail,11,2,no,no,yes,yes,Poor,yes,no,Low
+1996,F,17,LE3,A,SSCE,PhD,65,53,Pass,4,1,no,yes,yes,yes,Good,no,no,Low
+1997,F,14,LE3,A,Bachelor,Bachelor,51,59,Fail,8,2,yes,no,no,yes,Average,no,yes,High
+1998,M,15,LE3,T,Bachelor,SSCE,55,58,Pass,2,2,yes,no,no,yes,Good,yes,yes,High
+1999,M,15,LE3,T,SSCE,Bachelor,59,70,Pass,2,4,no,no,yes,yes,Average,yes,no,High
+2000,M,14,GT3,T,No schooling,Masters,44,73,Pass,8,1,yes,yes,no,yes,Very Good,yes,yes,High

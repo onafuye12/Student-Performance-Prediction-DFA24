@@ -1,0 +1,2001 @@
+student_id,Medu,Fedu
+1,SSCE,No schooling
+2,SSCE,No schooling
+3,SSCE,Bachelor
+4,PhD,SSCE
+5,SSCE,Bachelor
+6,Bachelor,SSCE
+7,No schooling,SSCE
+8,Bachelor,SSCE
+9,Masters,Bachelor
+10,SSCE,SSCE
+11,SSCE,No schooling
+12,Bachelor,Bachelor
+13,Bachelor,SSCE
+14,Bachelor,SSCE
+15,SSCE,Bachelor
+16,SSCE,SSCE
+17,PhD,Bachelor
+18,Masters,SSCE
+19,Bachelor,Bachelor
+20,Masters,Bachelor
+21,Bachelor,SSCE
+22,SSCE,Bachelor
+23,SSCE,Masters
+24,SSCE,SSCE
+25,Bachelor,SSCE
+26,No schooling,Bachelor
+27,SSCE,Bachelor
+28,Masters,No schooling
+29,Bachelor,Masters
+30,Bachelor,No schooling
+31,Masters,Bachelor
+32,No schooling,Bachelor
+33,Bachelor,PhD
+34,Masters,No schooling
+35,Bachelor,Bachelor
+36,SSCE,SSCE
+37,SSCE,SSCE
+38,Masters,No schooling
+39,Bachelor,Bachelor
+40,Masters,SSCE
+41,Bachelor,No schooling
+42,Bachelor,Bachelor
+43,Masters,Bachelor
+44,Bachelor,Bachelor
+45,SSCE,Masters
+46,Bachelor,SSCE
+47,Masters,PhD
+48,SSCE,Masters
+49,SSCE,SSCE
+50,No schooling,SSCE
+51,Masters,SSCE
+52,No schooling,SSCE
+53,Bachelor,Bachelor
+54,SSCE,Bachelor
+55,SSCE,Bachelor
+56,Bachelor,SSCE
+57,No schooling,No schooling
+58,Bachelor,Masters
+59,Masters,SSCE
+60,Masters,PhD
+61,SSCE,No schooling
+62,Masters,PhD
+63,Bachelor,No schooling
+64,Masters,SSCE
+65,Bachelor,No schooling
+66,Bachelor,Bachelor
+67,Masters,Masters
+68,Masters,SSCE
+69,SSCE,Masters
+70,SSCE,Bachelor
+71,SSCE,Bachelor
+72,SSCE,Masters
+73,SSCE,SSCE
+74,SSCE,SSCE
+75,Masters,Masters
+76,No schooling,Masters
+77,Bachelor,PhD
+78,SSCE,Masters
+79,SSCE,No schooling
+80,No schooling,Masters
+81,SSCE,SSCE
+82,Masters,PhD
+83,Masters,SSCE
+84,SSCE,Bachelor
+85,Bachelor,SSCE
+86,Bachelor,SSCE
+87,Masters,No schooling
+88,Masters,Masters
+89,Bachelor,Masters
+90,Bachelor,No schooling
+91,Masters,Bachelor
+92,No schooling,Bachelor
+93,SSCE,SSCE
+94,Masters,SSCE
+95,Bachelor,Masters
+96,Bachelor,Bachelor
+97,Bachelor,SSCE
+98,SSCE,Bachelor
+99,Bachelor,No schooling
+100,Bachelor,SSCE
+101,SSCE,SSCE
+102,Bachelor,SSCE
+103,Masters,Bachelor
+104,SSCE,Masters
+105,Bachelor,SSCE
+106,SSCE,SSCE
+107,Bachelor,Bachelor
+108,SSCE,Masters
+109,Bachelor,Bachelor
+110,Masters,Masters
+111,SSCE,SSCE
+112,Masters,Bachelor
+113,PhD,No schooling
+114,SSCE,SSCE
+115,SSCE,SSCE
+116,PhD,SSCE
+117,PhD,Masters
+118,No schooling,Masters
+119,No schooling,No schooling
+120,SSCE,SSCE
+121,PhD,SSCE
+122,SSCE,SSCE
+123,Bachelor,Bachelor
+124,Masters,Masters
+125,No schooling,PhD
+126,Bachelor,Bachelor
+127,SSCE,Masters
+128,Masters,SSCE
+129,SSCE,SSCE
+130,Bachelor,SSCE
+131,Bachelor,Bachelor
+132,SSCE,Bachelor
+133,No schooling,SSCE
+134,SSCE,SSCE
+135,SSCE,SSCE
+136,Masters,PhD
+137,Masters,SSCE
+138,Bachelor,Bachelor
+139,Bachelor,Bachelor
+140,Bachelor,SSCE
+141,Masters,Bachelor
+142,SSCE,Masters
+143,SSCE,SSCE
+144,SSCE,Masters
+145,Bachelor,SSCE
+146,SSCE,No schooling
+147,SSCE,Masters
+148,No schooling,Masters
+149,Bachelor,PhD
+150,SSCE,Bachelor
+151,SSCE,Masters
+152,SSCE,Masters
+153,SSCE,Masters
+154,Bachelor,Bachelor
+155,SSCE,SSCE
+156,SSCE,Masters
+157,Bachelor,SSCE
+158,SSCE,SSCE
+159,SSCE,SSCE
+160,Masters,Bachelor
+161,SSCE,SSCE
+162,SSCE,No schooling
+163,No schooling,Masters
+164,Bachelor,SSCE
+165,Bachelor,Bachelor
+166,Bachelor,No schooling
+167,Bachelor,No schooling
+168,SSCE,SSCE
+169,SSCE,Bachelor
+170,Masters,No schooling
+171,Masters,Masters
+172,SSCE,SSCE
+173,Bachelor,SSCE
+174,SSCE,SSCE
+175,No schooling,No schooling
+176,SSCE,Bachelor
+177,SSCE,Masters
+178,Bachelor,Bachelor
+179,Bachelor,SSCE
+180,SSCE,SSCE
+181,No schooling,SSCE
+182,Masters,PhD
+183,SSCE,SSCE
+184,Bachelor,Bachelor
+185,SSCE,SSCE
+186,Bachelor,SSCE
+187,SSCE,SSCE
+188,No schooling,No schooling
+189,SSCE,Bachelor
+190,SSCE,SSCE
+191,SSCE,Bachelor
+192,Bachelor,No schooling
+193,SSCE,PhD
+194,No schooling,SSCE
+195,Bachelor,Masters
+196,Bachelor,Masters
+197,PhD,PhD
+198,Bachelor,SSCE
+199,Bachelor,Bachelor
+200,Bachelor,SSCE
+201,Masters,SSCE
+202,Masters,SSCE
+203,SSCE,SSCE
+204,SSCE,PhD
+205,SSCE,No schooling
+206,Bachelor,Bachelor
+207,Bachelor,Bachelor
+208,Bachelor,SSCE
+209,No schooling,Bachelor
+210,Bachelor,No schooling
+211,Masters,Bachelor
+212,SSCE,SSCE
+213,Bachelor,Masters
+214,SSCE,Bachelor
+215,Masters,PhD
+216,Masters,No schooling
+217,Bachelor,SSCE
+218,Bachelor,SSCE
+219,Masters,No schooling
+220,Bachelor,SSCE
+221,SSCE,Bachelor
+222,Masters,SSCE
+223,SSCE,SSCE
+224,SSCE,Masters
+225,Masters,Bachelor
+226,Bachelor,SSCE
+227,SSCE,SSCE
+228,SSCE,SSCE
+229,SSCE,SSCE
+230,SSCE,Bachelor
+231,SSCE,SSCE
+232,Bachelor,Masters
+233,SSCE,Bachelor
+234,Bachelor,Bachelor
+235,SSCE,SSCE
+236,PhD,SSCE
+237,SSCE,Bachelor
+238,No schooling,SSCE
+239,No schooling,SSCE
+240,Bachelor,SSCE
+241,Bachelor,SSCE
+242,SSCE,Bachelor
+243,SSCE,SSCE
+244,No schooling,SSCE
+245,Bachelor,SSCE
+246,Bachelor,Bachelor
+247,SSCE,Masters
+248,SSCE,Masters
+249,SSCE,SSCE
+250,SSCE,No schooling
+251,Bachelor,SSCE
+252,SSCE,Bachelor
+253,SSCE,Bachelor
+254,SSCE,Bachelor
+255,PhD,SSCE
+256,Masters,Bachelor
+257,SSCE,SSCE
+258,SSCE,Bachelor
+259,SSCE,SSCE
+260,Bachelor,Bachelor
+261,No schooling,No schooling
+262,Bachelor,SSCE
+263,Bachelor,Bachelor
+264,Masters,SSCE
+265,SSCE,Bachelor
+266,Masters,Bachelor
+267,Masters,Bachelor
+268,SSCE,SSCE
+269,SSCE,SSCE
+270,SSCE,Bachelor
+271,SSCE,SSCE
+272,SSCE,Bachelor
+273,Bachelor,SSCE
+274,SSCE,SSCE
+275,Masters,SSCE
+276,SSCE,No schooling
+277,PhD,SSCE
+278,SSCE,Bachelor
+279,Masters,Bachelor
+280,SSCE,SSCE
+281,SSCE,PhD
+282,Masters,SSCE
+283,SSCE,Masters
+284,Bachelor,Bachelor
+285,Bachelor,Bachelor
+286,Bachelor,No schooling
+287,Bachelor,SSCE
+288,Bachelor,No schooling
+289,No schooling,Bachelor
+290,Bachelor,SSCE
+291,Masters,Bachelor
+292,No schooling,SSCE
+293,SSCE,Masters
+294,Bachelor,No schooling
+295,SSCE,SSCE
+296,SSCE,SSCE
+297,SSCE,SSCE
+298,Bachelor,SSCE
+299,SSCE,Bachelor
+300,Bachelor,No schooling
+301,Masters,SSCE
+302,SSCE,Masters
+303,Bachelor,No schooling
+304,PhD,Masters
+305,Bachelor,PhD
+306,Masters,No schooling
+307,SSCE,SSCE
+308,Masters,SSCE
+309,No schooling,Bachelor
+310,SSCE,Bachelor
+311,SSCE,Bachelor
+312,SSCE,Bachelor
+313,Masters,No schooling
+314,SSCE,Masters
+315,Bachelor,Bachelor
+316,Bachelor,Bachelor
+317,Bachelor,Masters
+318,SSCE,Bachelor
+319,Bachelor,SSCE
+320,SSCE,SSCE
+321,No schooling,SSCE
+322,PhD,No schooling
+323,SSCE,PhD
+324,No schooling,No schooling
+325,Masters,Bachelor
+326,SSCE,SSCE
+327,Bachelor,No schooling
+328,SSCE,Masters
+329,SSCE,Masters
+330,SSCE,SSCE
+331,SSCE,SSCE
+332,SSCE,No schooling
+333,Bachelor,SSCE
+334,Bachelor,SSCE
+335,Masters,SSCE
+336,No schooling,PhD
+337,Bachelor,Bachelor
+338,Bachelor,Masters
+339,Masters,Bachelor
+340,No schooling,SSCE
+341,Bachelor,Masters
+342,Masters,SSCE
+343,SSCE,Masters
+344,Masters,SSCE
+345,No schooling,No schooling
+346,Bachelor,Masters
+347,Masters,Bachelor
+348,Bachelor,Masters
+349,SSCE,Masters
+350,No schooling,No schooling
+351,Masters,SSCE
+352,Bachelor,SSCE
+353,No schooling,Bachelor
+354,Bachelor,Bachelor
+355,Bachelor,SSCE
+356,SSCE,Bachelor
+357,SSCE,Bachelor
+358,No schooling,No schooling
+359,Bachelor,Masters
+360,Bachelor,Bachelor
+361,Bachelor,Masters
+362,Masters,SSCE
+363,Masters,No schooling
+364,Bachelor,SSCE
+365,No schooling,No schooling
+366,Bachelor,PhD
+367,SSCE,No schooling
+368,Bachelor,Bachelor
+369,Bachelor,SSCE
+370,SSCE,SSCE
+371,Masters,No schooling
+372,SSCE,Bachelor
+373,Bachelor,Bachelor
+374,No schooling,SSCE
+375,Masters,Masters
+376,SSCE,SSCE
+377,No schooling,SSCE
+378,SSCE,SSCE
+379,SSCE,No schooling
+380,SSCE,Masters
+381,Bachelor,SSCE
+382,SSCE,No schooling
+383,No schooling,SSCE
+384,SSCE,Bachelor
+385,Masters,SSCE
+386,Bachelor,Bachelor
+387,Bachelor,No schooling
+388,Bachelor,SSCE
+389,SSCE,Masters
+390,No schooling,No schooling
+391,SSCE,Masters
+392,Masters,No schooling
+393,PhD,Masters
+394,Bachelor,SSCE
+395,No schooling,Bachelor
+396,SSCE,SSCE
+397,SSCE,No schooling
+398,Bachelor,SSCE
+399,No schooling,No schooling
+400,Masters,SSCE
+401,SSCE,SSCE
+402,Masters,Bachelor
+403,Masters,Bachelor
+404,Masters,Bachelor
+405,Bachelor,Bachelor
+406,Bachelor,SSCE
+407,Bachelor,SSCE
+408,Bachelor,SSCE
+409,Bachelor,Masters
+410,PhD,SSCE
+411,Bachelor,No schooling
+412,Masters,Bachelor
+413,Masters,SSCE
+414,SSCE,Masters
+415,No schooling,Masters
+416,Bachelor,No schooling
+417,Bachelor,No schooling
+418,Masters,SSCE
+419,SSCE,Bachelor
+420,Bachelor,SSCE
+421,Bachelor,Bachelor
+422,No schooling,Bachelor
+423,Bachelor,SSCE
+424,Masters,No schooling
+425,SSCE,Bachelor
+426,Bachelor,SSCE
+427,Bachelor,Masters
+428,SSCE,SSCE
+429,SSCE,Bachelor
+430,PhD,Masters
+431,SSCE,Masters
+432,SSCE,SSCE
+433,SSCE,SSCE
+434,Bachelor,Bachelor
+435,Bachelor,SSCE
+436,Bachelor,SSCE
+437,No schooling,Masters
+438,Masters,SSCE
+439,SSCE,No schooling
+440,SSCE,No schooling
+441,Bachelor,Bachelor
+442,SSCE,Bachelor
+443,Masters,SSCE
+444,Masters,SSCE
+445,SSCE,SSCE
+446,Masters,Bachelor
+447,Masters,No schooling
+448,Masters,Masters
+449,SSCE,SSCE
+450,Bachelor,PhD
+451,SSCE,SSCE
+452,Masters,Bachelor
+453,No schooling,SSCE
+454,Bachelor,No schooling
+455,SSCE,Masters
+456,SSCE,Masters
+457,Bachelor,SSCE
+458,Masters,Bachelor
+459,Bachelor,Bachelor
+460,Masters,Masters
+461,SSCE,SSCE
+462,Bachelor,SSCE
+463,Bachelor,SSCE
+464,No schooling,SSCE
+465,Bachelor,Masters
+466,Bachelor,SSCE
+467,Bachelor,No schooling
+468,Bachelor,Bachelor
+469,Bachelor,Bachelor
+470,No schooling,SSCE
+471,SSCE,SSCE
+472,Bachelor,Masters
+473,SSCE,SSCE
+474,No schooling,Bachelor
+475,SSCE,Bachelor
+476,Bachelor,SSCE
+477,SSCE,Masters
+478,Bachelor,Bachelor
+479,Bachelor,SSCE
+480,SSCE,Bachelor
+481,Masters,Bachelor
+482,Bachelor,Bachelor
+483,Bachelor,Masters
+484,Bachelor,SSCE
+485,No schooling,SSCE
+486,Bachelor,SSCE
+487,SSCE,No schooling
+488,Masters,No schooling
+489,Masters,Masters
+490,Bachelor,Bachelor
+491,SSCE,Bachelor
+492,SSCE,Bachelor
+493,SSCE,Masters
+494,Bachelor,SSCE
+495,SSCE,Masters
+496,Bachelor,SSCE
+497,SSCE,Masters
+498,PhD,Bachelor
+499,SSCE,SSCE
+500,Masters,Bachelor
+501,Masters,SSCE
+502,Bachelor,No schooling
+503,Bachelor,Bachelor
+504,SSCE,SSCE
+505,Bachelor,No schooling
+506,SSCE,Masters
+507,SSCE,Bachelor
+508,Bachelor,Masters
+509,Bachelor,Bachelor
+510,Bachelor,SSCE
+511,SSCE,SSCE
+512,SSCE,Bachelor
+513,No schooling,PhD
+514,No schooling,SSCE
+515,SSCE,Masters
+516,No schooling,Masters
+517,SSCE,Bachelor
+518,Masters,Masters
+519,No schooling,SSCE
+520,Bachelor,PhD
+521,SSCE,Bachelor
+522,Masters,No schooling
+523,Bachelor,Masters
+524,SSCE,SSCE
+525,Bachelor,SSCE
+526,SSCE,Bachelor
+527,Bachelor,No schooling
+528,SSCE,SSCE
+529,PhD,Masters
+530,SSCE,No schooling
+531,SSCE,SSCE
+532,Bachelor,No schooling
+533,SSCE,SSCE
+534,Masters,Bachelor
+535,Bachelor,Bachelor
+536,Bachelor,Masters
+537,SSCE,Bachelor
+538,Masters,SSCE
+539,Bachelor,Masters
+540,SSCE,Bachelor
+541,SSCE,Bachelor
+542,SSCE,Bachelor
+543,PhD,Masters
+544,SSCE,Bachelor
+545,Bachelor,SSCE
+546,No schooling,Bachelor
+547,SSCE,No schooling
+548,Bachelor,SSCE
+549,PhD,SSCE
+550,Bachelor,SSCE
+551,Masters,No schooling
+552,Bachelor,No schooling
+553,No schooling,Bachelor
+554,SSCE,Masters
+555,Bachelor,PhD
+556,PhD,SSCE
+557,Masters,Bachelor
+558,SSCE,Masters
+559,SSCE,SSCE
+560,SSCE,Bachelor
+561,Masters,Bachelor
+562,Masters,No schooling
+563,Masters,Masters
+564,SSCE,Masters
+565,Bachelor,No schooling
+566,Bachelor,No schooling
+567,SSCE,No schooling
+568,Bachelor,SSCE
+569,No schooling,SSCE
+570,SSCE,SSCE
+571,Masters,SSCE
+572,Masters,Masters
+573,SSCE,SSCE
+574,Bachelor,No schooling
+575,SSCE,SSCE
+576,Bachelor,SSCE
+577,Masters,SSCE
+578,Masters,SSCE
+579,Bachelor,No schooling
+580,SSCE,Masters
+581,SSCE,PhD
+582,Bachelor,SSCE
+583,SSCE,SSCE
+584,Masters,Bachelor
+585,SSCE,Bachelor
+586,SSCE,SSCE
+587,SSCE,Masters
+588,PhD,Bachelor
+589,SSCE,SSCE
+590,Bachelor,Bachelor
+591,SSCE,PhD
+592,No schooling,Bachelor
+593,Bachelor,No schooling
+594,Bachelor,SSCE
+595,Bachelor,SSCE
+596,Masters,SSCE
+597,SSCE,Bachelor
+598,No schooling,Masters
+599,Masters,Bachelor
+600,SSCE,PhD
+601,Bachelor,SSCE
+602,Masters,Masters
+603,SSCE,Bachelor
+604,Bachelor,SSCE
+605,SSCE,Bachelor
+606,SSCE,No schooling
+607,SSCE,Bachelor
+608,Masters,SSCE
+609,SSCE,SSCE
+610,Bachelor,Bachelor
+611,Masters,Bachelor
+612,Bachelor,SSCE
+613,Bachelor,No schooling
+614,Bachelor,SSCE
+615,SSCE,Bachelor
+616,Bachelor,Masters
+617,Bachelor,Masters
+618,PhD,SSCE
+619,Masters,Bachelor
+620,Masters,SSCE
+621,Masters,Bachelor
+622,Bachelor,SSCE
+623,Bachelor,SSCE
+624,Masters,Bachelor
+625,SSCE,No schooling
+626,PhD,Bachelor
+627,SSCE,Masters
+628,Bachelor,SSCE
+629,Bachelor,SSCE
+630,PhD,Masters
+631,SSCE,Bachelor
+632,Bachelor,SSCE
+633,Bachelor,SSCE
+634,SSCE,Bachelor
+635,Masters,Bachelor
+636,Bachelor,SSCE
+637,Bachelor,SSCE
+638,SSCE,Masters
+639,Bachelor,Bachelor
+640,Bachelor,PhD
+641,SSCE,Bachelor
+642,SSCE,Masters
+643,PhD,SSCE
+644,Bachelor,Bachelor
+645,Bachelor,No schooling
+646,SSCE,Bachelor
+647,SSCE,SSCE
+648,SSCE,SSCE
+649,SSCE,Masters
+650,Bachelor,Masters
+651,Bachelor,No schooling
+652,Bachelor,Bachelor
+653,SSCE,SSCE
+654,Bachelor,SSCE
+655,SSCE,Masters
+656,SSCE,SSCE
+657,Masters,Masters
+658,Bachelor,SSCE
+659,Bachelor,Bachelor
+660,SSCE,Bachelor
+661,Masters,SSCE
+662,Bachelor,SSCE
+663,Masters,Masters
+664,SSCE,Bachelor
+665,PhD,SSCE
+666,Masters,SSCE
+667,Masters,No schooling
+668,SSCE,SSCE
+669,SSCE,SSCE
+670,SSCE,No schooling
+671,SSCE,Masters
+672,Masters,Bachelor
+673,No schooling,Masters
+674,No schooling,Bachelor
+675,SSCE,Masters
+676,SSCE,Bachelor
+677,SSCE,Bachelor
+678,Masters,PhD
+679,Bachelor,Bachelor
+680,No schooling,No schooling
+681,SSCE,Bachelor
+682,SSCE,Masters
+683,SSCE,Bachelor
+684,Bachelor,Bachelor
+685,Bachelor,Bachelor
+686,Bachelor,PhD
+687,Bachelor,No schooling
+688,No schooling,Bachelor
+689,PhD,SSCE
+690,Masters,Bachelor
+691,Masters,Bachelor
+692,No schooling,SSCE
+693,Masters,SSCE
+694,Masters,Bachelor
+695,Masters,No schooling
+696,No schooling,SSCE
+697,Bachelor,Masters
+698,PhD,SSCE
+699,Bachelor,SSCE
+700,Bachelor,Masters
+701,Masters,SSCE
+702,SSCE,SSCE
+703,Bachelor,Bachelor
+704,Bachelor,Bachelor
+705,Masters,Masters
+706,No schooling,Masters
+707,Bachelor,Bachelor
+708,Bachelor,SSCE
+709,Masters,No schooling
+710,Bachelor,SSCE
+711,Masters,No schooling
+712,Masters,Bachelor
+713,No schooling,Bachelor
+714,SSCE,No schooling
+715,No schooling,Masters
+716,SSCE,SSCE
+717,Bachelor,SSCE
+718,Masters,Bachelor
+719,Masters,SSCE
+720,SSCE,SSCE
+721,No schooling,No schooling
+722,Bachelor,SSCE
+723,Bachelor,Bachelor
+724,SSCE,Masters
+725,Masters,SSCE
+726,Masters,SSCE
+727,SSCE,Bachelor
+728,Masters,Masters
+729,SSCE,SSCE
+730,Bachelor,SSCE
+731,Bachelor,Bachelor
+732,SSCE,Bachelor
+733,Masters,No schooling
+734,Bachelor,Bachelor
+735,Bachelor,SSCE
+736,SSCE,SSCE
+737,No schooling,SSCE
+738,SSCE,Masters
+739,Bachelor,SSCE
+740,Bachelor,SSCE
+741,SSCE,SSCE
+742,Bachelor,Masters
+743,Bachelor,SSCE
+744,Bachelor,SSCE
+745,Bachelor,SSCE
+746,Masters,Bachelor
+747,Bachelor,SSCE
+748,Bachelor,SSCE
+749,SSCE,SSCE
+750,SSCE,Masters
+751,No schooling,Bachelor
+752,Bachelor,Bachelor
+753,SSCE,Masters
+754,SSCE,Masters
+755,Masters,SSCE
+756,SSCE,PhD
+757,SSCE,No schooling
+758,SSCE,SSCE
+759,Masters,Masters
+760,SSCE,SSCE
+761,Bachelor,SSCE
+762,Bachelor,SSCE
+763,Bachelor,Bachelor
+764,Bachelor,SSCE
+765,Masters,Bachelor
+766,No schooling,Masters
+767,SSCE,Bachelor
+768,SSCE,SSCE
+769,SSCE,Masters
+770,SSCE,SSCE
+771,SSCE,No schooling
+772,Bachelor,No schooling
+773,Bachelor,Bachelor
+774,SSCE,No schooling
+775,Bachelor,No schooling
+776,SSCE,SSCE
+777,SSCE,SSCE
+778,Bachelor,Bachelor
+779,No schooling,Masters
+780,No schooling,Bachelor
+781,SSCE,SSCE
+782,Masters,SSCE
+783,Bachelor,PhD
+784,No schooling,No schooling
+785,Masters,Masters
+786,Bachelor,SSCE
+787,Bachelor,Masters
+788,Masters,SSCE
+789,SSCE,SSCE
+790,SSCE,Bachelor
+791,Bachelor,Bachelor
+792,Bachelor,SSCE
+793,Bachelor,Bachelor
+794,Bachelor,Bachelor
+795,Masters,No schooling
+796,Masters,No schooling
+797,Masters,SSCE
+798,Masters,No schooling
+799,Masters,Bachelor
+800,No schooling,SSCE
+801,SSCE,SSCE
+802,Bachelor,SSCE
+803,Masters,SSCE
+804,Bachelor,No schooling
+805,Bachelor,No schooling
+806,SSCE,No schooling
+807,SSCE,PhD
+808,Bachelor,No schooling
+809,SSCE,Bachelor
+810,SSCE,No schooling
+811,SSCE,No schooling
+812,SSCE,SSCE
+813,Bachelor,SSCE
+814,SSCE,PhD
+815,Bachelor,Masters
+816,No schooling,Bachelor
+817,Masters,Bachelor
+818,SSCE,SSCE
+819,Bachelor,SSCE
+820,Bachelor,Masters
+821,SSCE,Bachelor
+822,Masters,Bachelor
+823,Bachelor,SSCE
+824,SSCE,No schooling
+825,SSCE,Masters
+826,Masters,SSCE
+827,Masters,SSCE
+828,SSCE,No schooling
+829,SSCE,Masters
+830,Masters,No schooling
+831,Bachelor,Masters
+832,Masters,No schooling
+833,SSCE,Masters
+834,Bachelor,Bachelor
+835,SSCE,SSCE
+836,SSCE,Bachelor
+837,Bachelor,SSCE
+838,PhD,SSCE
+839,SSCE,Masters
+840,Bachelor,SSCE
+841,Bachelor,SSCE
+842,Bachelor,SSCE
+843,Masters,SSCE
+844,Masters,Masters
+845,No schooling,SSCE
+846,PhD,PhD
+847,Masters,Masters
+848,Masters,No schooling
+849,Bachelor,SSCE
+850,Masters,Masters
+851,SSCE,SSCE
+852,SSCE,No schooling
+853,Masters,SSCE
+854,SSCE,Bachelor
+855,No schooling,Bachelor
+856,Masters,No schooling
+857,Masters,No schooling
+858,SSCE,Masters
+859,Masters,Bachelor
+860,Bachelor,Bachelor
+861,Bachelor,Bachelor
+862,Masters,SSCE
+863,SSCE,Bachelor
+864,SSCE,SSCE
+865,SSCE,SSCE
+866,Bachelor,Bachelor
+867,Bachelor,SSCE
+868,Masters,PhD
+869,Masters,SSCE
+870,Bachelor,Masters
+871,Masters,Masters
+872,SSCE,SSCE
+873,No schooling,Bachelor
+874,Masters,SSCE
+875,No schooling,Masters
+876,SSCE,SSCE
+877,Bachelor,Bachelor
+878,SSCE,SSCE
+879,Masters,SSCE
+880,SSCE,SSCE
+881,No schooling,SSCE
+882,SSCE,Bachelor
+883,Bachelor,Bachelor
+884,SSCE,Bachelor
+885,Bachelor,SSCE
+886,Masters,SSCE
+887,Masters,No schooling
+888,SSCE,Masters
+889,Bachelor,PhD
+890,Bachelor,SSCE
+891,Masters,No schooling
+892,PhD,SSCE
+893,SSCE,Bachelor
+894,Bachelor,Bachelor
+895,SSCE,Bachelor
+896,No schooling,SSCE
+897,No schooling,Bachelor
+898,Bachelor,Bachelor
+899,Bachelor,SSCE
+900,No schooling,SSCE
+901,Bachelor,No schooling
+902,SSCE,SSCE
+903,Bachelor,Masters
+904,SSCE,SSCE
+905,SSCE,Masters
+906,SSCE,Bachelor
+907,SSCE,SSCE
+908,Bachelor,Bachelor
+909,SSCE,SSCE
+910,Bachelor,SSCE
+911,SSCE,No schooling
+912,Bachelor,SSCE
+913,Masters,No schooling
+914,SSCE,No schooling
+915,Bachelor,SSCE
+916,No schooling,SSCE
+917,Bachelor,Masters
+918,SSCE,SSCE
+919,Bachelor,Bachelor
+920,Bachelor,SSCE
+921,Masters,Bachelor
+922,Bachelor,SSCE
+923,Bachelor,Masters
+924,SSCE,SSCE
+925,Masters,Masters
+926,Masters,SSCE
+927,SSCE,No schooling
+928,Masters,Bachelor
+929,SSCE,No schooling
+930,Masters,SSCE
+931,Masters,SSCE
+932,SSCE,Bachelor
+933,Bachelor,PhD
+934,SSCE,SSCE
+935,SSCE,Masters
+936,SSCE,SSCE
+937,Bachelor,SSCE
+938,SSCE,Masters
+939,No schooling,Masters
+940,Bachelor,Bachelor
+941,SSCE,SSCE
+942,SSCE,SSCE
+943,SSCE,SSCE
+944,SSCE,SSCE
+945,Bachelor,SSCE
+946,No schooling,Masters
+947,PhD,Masters
+948,Bachelor,SSCE
+949,SSCE,No schooling
+950,SSCE,Masters
+951,SSCE,SSCE
+952,Bachelor,Bachelor
+953,SSCE,No schooling
+954,SSCE,SSCE
+955,Masters,PhD
+956,SSCE,No schooling
+957,SSCE,SSCE
+958,Masters,SSCE
+959,Bachelor,Masters
+960,SSCE,Masters
+961,Bachelor,SSCE
+962,No schooling,No schooling
+963,Bachelor,Bachelor
+964,Bachelor,SSCE
+965,Masters,Bachelor
+966,PhD,No schooling
+967,Masters,No schooling
+968,Masters,Bachelor
+969,Bachelor,SSCE
+970,SSCE,Masters
+971,Bachelor,No schooling
+972,Bachelor,SSCE
+973,Masters,PhD
+974,SSCE,SSCE
+975,Masters,Bachelor
+976,Masters,SSCE
+977,PhD,Bachelor
+978,Masters,Bachelor
+979,SSCE,SSCE
+980,SSCE,Masters
+981,SSCE,Bachelor
+982,SSCE,SSCE
+983,Bachelor,Bachelor
+984,Masters,Bachelor
+985,Masters,SSCE
+986,Bachelor,SSCE
+987,No schooling,SSCE
+988,SSCE,SSCE
+989,No schooling,Bachelor
+990,SSCE,SSCE
+991,Bachelor,Masters
+992,No schooling,SSCE
+993,SSCE,SSCE
+994,SSCE,Bachelor
+995,Bachelor,SSCE
+996,Bachelor,SSCE
+997,Bachelor,No schooling
+998,SSCE,SSCE
+999,PhD,SSCE
+1000,SSCE,PhD
+1001,Bachelor,SSCE
+1002,Bachelor,Masters
+1003,Bachelor,Bachelor
+1004,Masters,SSCE
+1005,SSCE,SSCE
+1006,Bachelor,Masters
+1007,No schooling,Masters
+1008,Bachelor,SSCE
+1009,SSCE,SSCE
+1010,SSCE,SSCE
+1011,Bachelor,No schooling
+1012,Bachelor,Bachelor
+1013,No schooling,Masters
+1014,Bachelor,SSCE
+1015,Bachelor,Bachelor
+1016,SSCE,Bachelor
+1017,Bachelor,SSCE
+1018,Bachelor,No schooling
+1019,Bachelor,Bachelor
+1020,SSCE,Masters
+1021,SSCE,Bachelor
+1022,Bachelor,No schooling
+1023,Masters,SSCE
+1024,Bachelor,No schooling
+1025,No schooling,Bachelor
+1026,Bachelor,Bachelor
+1027,Masters,No schooling
+1028,No schooling,Masters
+1029,PhD,Bachelor
+1030,Masters,Bachelor
+1031,No schooling,PhD
+1032,Masters,No schooling
+1033,SSCE,Masters
+1034,Masters,No schooling
+1035,SSCE,SSCE
+1036,SSCE,Masters
+1037,Bachelor,Masters
+1038,Masters,SSCE
+1039,No schooling,Bachelor
+1040,Bachelor,Bachelor
+1041,SSCE,Masters
+1042,SSCE,No schooling
+1043,SSCE,Masters
+1044,Bachelor,SSCE
+1045,SSCE,SSCE
+1046,SSCE,SSCE
+1047,SSCE,SSCE
+1048,No schooling,Masters
+1049,Bachelor,SSCE
+1050,PhD,PhD
+1051,SSCE,SSCE
+1052,Masters,Bachelor
+1053,Bachelor,Masters
+1054,Bachelor,Bachelor
+1055,Bachelor,Bachelor
+1056,Masters,Bachelor
+1057,SSCE,Masters
+1058,Bachelor,Masters
+1059,Bachelor,No schooling
+1060,Bachelor,Masters
+1061,Masters,SSCE
+1062,No schooling,SSCE
+1063,Bachelor,Masters
+1064,Bachelor,SSCE
+1065,SSCE,Masters
+1066,SSCE,SSCE
+1067,Bachelor,No schooling
+1068,Masters,SSCE
+1069,Bachelor,No schooling
+1070,Masters,Bachelor
+1071,SSCE,SSCE
+1072,SSCE,SSCE
+1073,No schooling,No schooling
+1074,No schooling,SSCE
+1075,SSCE,Bachelor
+1076,SSCE,SSCE
+1077,Bachelor,Bachelor
+1078,Bachelor,Masters
+1079,No schooling,Bachelor
+1080,SSCE,Masters
+1081,SSCE,No schooling
+1082,Bachelor,SSCE
+1083,SSCE,Masters
+1084,SSCE,Bachelor
+1085,Masters,Bachelor
+1086,Masters,Bachelor
+1087,SSCE,SSCE
+1088,SSCE,No schooling
+1089,SSCE,Bachelor
+1090,Masters,Bachelor
+1091,Bachelor,SSCE
+1092,SSCE,Masters
+1093,Bachelor,SSCE
+1094,SSCE,SSCE
+1095,SSCE,Masters
+1096,SSCE,Bachelor
+1097,Bachelor,SSCE
+1098,SSCE,No schooling
+1099,SSCE,SSCE
+1100,SSCE,Bachelor
+1101,No schooling,SSCE
+1102,Masters,Masters
+1103,SSCE,Masters
+1104,No schooling,Masters
+1105,Bachelor,SSCE
+1106,Masters,Bachelor
+1107,Masters,SSCE
+1108,Bachelor,SSCE
+1109,SSCE,No schooling
+1110,Bachelor,SSCE
+1111,Bachelor,Masters
+1112,SSCE,SSCE
+1113,Masters,SSCE
+1114,SSCE,PhD
+1115,PhD,No schooling
+1116,Masters,Bachelor
+1117,Bachelor,SSCE
+1118,Masters,No schooling
+1119,Bachelor,Masters
+1120,SSCE,No schooling
+1121,SSCE,Bachelor
+1122,No schooling,SSCE
+1123,SSCE,No schooling
+1124,Bachelor,No schooling
+1125,SSCE,No schooling
+1126,SSCE,No schooling
+1127,Bachelor,Bachelor
+1128,Masters,SSCE
+1129,No schooling,SSCE
+1130,SSCE,SSCE
+1131,SSCE,Masters
+1132,Bachelor,Masters
+1133,SSCE,Bachelor
+1134,Bachelor,Masters
+1135,SSCE,SSCE
+1136,SSCE,SSCE
+1137,Masters,Bachelor
+1138,No schooling,Bachelor
+1139,SSCE,SSCE
+1140,No schooling,SSCE
+1141,Bachelor,PhD
+1142,Bachelor,Masters
+1143,SSCE,SSCE
+1144,SSCE,Bachelor
+1145,SSCE,SSCE
+1146,Bachelor,No schooling
+1147,Masters,SSCE
+1148,Bachelor,SSCE
+1149,Bachelor,No schooling
+1150,SSCE,Masters
+1151,SSCE,SSCE
+1152,SSCE,Bachelor
+1153,SSCE,No schooling
+1154,SSCE,SSCE
+1155,Bachelor,Masters
+1156,Bachelor,Bachelor
+1157,Masters,PhD
+1158,SSCE,PhD
+1159,Bachelor,SSCE
+1160,Masters,SSCE
+1161,Bachelor,Masters
+1162,SSCE,PhD
+1163,SSCE,Bachelor
+1164,No schooling,Bachelor
+1165,SSCE,Bachelor
+1166,Bachelor,SSCE
+1167,No schooling,Bachelor
+1168,SSCE,Masters
+1169,Bachelor,Bachelor
+1170,Masters,No schooling
+1171,Bachelor,SSCE
+1172,Bachelor,No schooling
+1173,SSCE,SSCE
+1174,SSCE,Masters
+1175,SSCE,No schooling
+1176,Bachelor,SSCE
+1177,Masters,SSCE
+1178,No schooling,Bachelor
+1179,Bachelor,SSCE
+1180,SSCE,SSCE
+1181,Bachelor,SSCE
+1182,No schooling,SSCE
+1183,SSCE,SSCE
+1184,Masters,SSCE
+1185,Bachelor,Masters
+1186,Bachelor,SSCE
+1187,SSCE,No schooling
+1188,SSCE,Bachelor
+1189,SSCE,SSCE
+1190,Masters,Bachelor
+1191,PhD,SSCE
+1192,SSCE,Bachelor
+1193,SSCE,Bachelor
+1194,Masters,Masters
+1195,SSCE,SSCE
+1196,Bachelor,SSCE
+1197,SSCE,SSCE
+1198,Bachelor,Masters
+1199,Bachelor,Masters
+1200,Masters,No schooling
+1201,Masters,No schooling
+1202,SSCE,SSCE
+1203,Bachelor,No schooling
+1204,Masters,SSCE
+1205,SSCE,No schooling
+1206,SSCE,Bachelor
+1207,No schooling,Masters
+1208,Bachelor,PhD
+1209,SSCE,SSCE
+1210,Bachelor,Bachelor
+1211,SSCE,Masters
+1212,Masters,No schooling
+1213,SSCE,Bachelor
+1214,SSCE,SSCE
+1215,Bachelor,SSCE
+1216,Bachelor,SSCE
+1217,SSCE,No schooling
+1218,SSCE,Bachelor
+1219,SSCE,SSCE
+1220,Bachelor,SSCE
+1221,Masters,No schooling
+1222,Bachelor,Masters
+1223,Bachelor,SSCE
+1224,Bachelor,Bachelor
+1225,SSCE,Bachelor
+1226,PhD,SSCE
+1227,Masters,SSCE
+1228,SSCE,Bachelor
+1229,SSCE,No schooling
+1230,SSCE,No schooling
+1231,SSCE,Bachelor
+1232,Bachelor,SSCE
+1233,Bachelor,SSCE
+1234,Masters,SSCE
+1235,Bachelor,SSCE
+1236,Bachelor,Bachelor
+1237,Bachelor,Bachelor
+1238,No schooling,Bachelor
+1239,SSCE,Bachelor
+1240,Bachelor,SSCE
+1241,No schooling,SSCE
+1242,No schooling,SSCE
+1243,Masters,SSCE
+1244,Bachelor,PhD
+1245,SSCE,Masters
+1246,Bachelor,SSCE
+1247,Masters,No schooling
+1248,SSCE,No schooling
+1249,No schooling,SSCE
+1250,Masters,No schooling
+1251,SSCE,SSCE
+1252,SSCE,Masters
+1253,Bachelor,Bachelor
+1254,Masters,SSCE
+1255,SSCE,SSCE
+1256,SSCE,SSCE
+1257,SSCE,Masters
+1258,PhD,Masters
+1259,SSCE,Masters
+1260,Bachelor,SSCE
+1261,Masters,Bachelor
+1262,SSCE,No schooling
+1263,PhD,Bachelor
+1264,Masters,SSCE
+1265,Masters,SSCE
+1266,SSCE,Bachelor
+1267,Bachelor,SSCE
+1268,Masters,No schooling
+1269,PhD,No schooling
+1270,SSCE,No schooling
+1271,Masters,No schooling
+1272,SSCE,No schooling
+1273,SSCE,SSCE
+1274,SSCE,SSCE
+1275,Masters,PhD
+1276,Bachelor,SSCE
+1277,Bachelor,No schooling
+1278,PhD,SSCE
+1279,SSCE,Masters
+1280,Bachelor,Bachelor
+1281,SSCE,SSCE
+1282,SSCE,Bachelor
+1283,Bachelor,Bachelor
+1284,Masters,Bachelor
+1285,Bachelor,Bachelor
+1286,Masters,Masters
+1287,No schooling,Masters
+1288,SSCE,Bachelor
+1289,Bachelor,SSCE
+1290,No schooling,Bachelor
+1291,SSCE,Masters
+1292,Bachelor,No schooling
+1293,No schooling,PhD
+1294,SSCE,SSCE
+1295,Bachelor,SSCE
+1296,Bachelor,Masters
+1297,Masters,SSCE
+1298,Bachelor,SSCE
+1299,SSCE,No schooling
+1300,Masters,SSCE
+1301,Masters,SSCE
+1302,SSCE,SSCE
+1303,SSCE,SSCE
+1304,Bachelor,PhD
+1305,Bachelor,PhD
+1306,Masters,No schooling
+1307,Bachelor,Bachelor
+1308,Bachelor,No schooling
+1309,PhD,No schooling
+1310,Bachelor,No schooling
+1311,SSCE,PhD
+1312,Masters,Masters
+1313,SSCE,SSCE
+1314,Masters,SSCE
+1315,PhD,SSCE
+1316,Bachelor,SSCE
+1317,Bachelor,Bachelor
+1318,Bachelor,SSCE
+1319,SSCE,Bachelor
+1320,SSCE,SSCE
+1321,Bachelor,Masters
+1322,Masters,Bachelor
+1323,Bachelor,SSCE
+1324,SSCE,Bachelor
+1325,Bachelor,Masters
+1326,Masters,SSCE
+1327,Bachelor,SSCE
+1328,Bachelor,Masters
+1329,Masters,SSCE
+1330,Bachelor,No schooling
+1331,SSCE,SSCE
+1332,Masters,Masters
+1333,SSCE,Bachelor
+1334,PhD,Masters
+1335,SSCE,SSCE
+1336,No schooling,No schooling
+1337,Masters,Bachelor
+1338,SSCE,Bachelor
+1339,Bachelor,No schooling
+1340,Masters,SSCE
+1341,Masters,No schooling
+1342,PhD,Bachelor
+1343,SSCE,Masters
+1344,Bachelor,Bachelor
+1345,SSCE,PhD
+1346,SSCE,No schooling
+1347,Masters,Masters
+1348,SSCE,Masters
+1349,Bachelor,SSCE
+1350,Bachelor,PhD
+1351,Bachelor,SSCE
+1352,PhD,Masters
+1353,No schooling,Masters
+1354,Bachelor,Bachelor
+1355,Masters,Bachelor
+1356,Bachelor,No schooling
+1357,No schooling,SSCE
+1358,Bachelor,SSCE
+1359,SSCE,Bachelor
+1360,SSCE,Bachelor
+1361,Masters,Masters
+1362,Bachelor,No schooling
+1363,Masters,Masters
+1364,Masters,Masters
+1365,Bachelor,Bachelor
+1366,No schooling,No schooling
+1367,SSCE,No schooling
+1368,SSCE,No schooling
+1369,Masters,Bachelor
+1370,SSCE,Bachelor
+1371,SSCE,PhD
+1372,Bachelor,SSCE
+1373,SSCE,SSCE
+1374,SSCE,Bachelor
+1375,Bachelor,Masters
+1376,No schooling,Masters
+1377,No schooling,Masters
+1378,SSCE,SSCE
+1379,Bachelor,Bachelor
+1380,Bachelor,Masters
+1381,SSCE,SSCE
+1382,Bachelor,SSCE
+1383,SSCE,SSCE
+1384,Masters,No schooling
+1385,No schooling,Bachelor
+1386,Bachelor,No schooling
+1387,Masters,SSCE
+1388,Masters,SSCE
+1389,SSCE,Bachelor
+1390,SSCE,SSCE
+1391,Bachelor,Bachelor
+1392,No schooling,No schooling
+1393,Masters,No schooling
+1394,Bachelor,SSCE
+1395,Bachelor,SSCE
+1396,SSCE,SSCE
+1397,Bachelor,No schooling
+1398,Bachelor,Masters
+1399,Masters,Bachelor
+1400,No schooling,No schooling
+1401,No schooling,No schooling
+1402,SSCE,PhD
+1403,SSCE,Bachelor
+1404,Bachelor,SSCE
+1405,Masters,Bachelor
+1406,SSCE,Bachelor
+1407,Masters,Bachelor
+1408,No schooling,SSCE
+1409,SSCE,SSCE
+1410,No schooling,No schooling
+1411,SSCE,Masters
+1412,Masters,Bachelor
+1413,No schooling,SSCE
+1414,Bachelor,Masters
+1415,Bachelor,Masters
+1416,Masters,PhD
+1417,SSCE,Masters
+1418,SSCE,PhD
+1419,No schooling,SSCE
+1420,SSCE,Masters
+1421,SSCE,Masters
+1422,Masters,SSCE
+1423,Bachelor,No schooling
+1424,Bachelor,PhD
+1425,Bachelor,SSCE
+1426,No schooling,Masters
+1427,SSCE,No schooling
+1428,PhD,No schooling
+1429,Masters,SSCE
+1430,Masters,SSCE
+1431,Masters,Bachelor
+1432,SSCE,Bachelor
+1433,SSCE,No schooling
+1434,No schooling,SSCE
+1435,SSCE,SSCE
+1436,SSCE,SSCE
+1437,Bachelor,Bachelor
+1438,Bachelor,SSCE
+1439,Masters,No schooling
+1440,Bachelor,SSCE
+1441,Masters,No schooling
+1442,No schooling,No schooling
+1443,No schooling,SSCE
+1444,Bachelor,Masters
+1445,SSCE,Masters
+1446,SSCE,Masters
+1447,SSCE,SSCE
+1448,SSCE,SSCE
+1449,Bachelor,SSCE
+1450,SSCE,Bachelor
+1451,Bachelor,PhD
+1452,Bachelor,No schooling
+1453,SSCE,No schooling
+1454,SSCE,Bachelor
+1455,SSCE,Masters
+1456,SSCE,Masters
+1457,Bachelor,Bachelor
+1458,Masters,PhD
+1459,Bachelor,SSCE
+1460,SSCE,Masters
+1461,Bachelor,PhD
+1462,Bachelor,Masters
+1463,Bachelor,SSCE
+1464,Bachelor,SSCE
+1465,Bachelor,SSCE
+1466,Bachelor,SSCE
+1467,Bachelor,Masters
+1468,SSCE,No schooling
+1469,Bachelor,SSCE
+1470,SSCE,Bachelor
+1471,No schooling,No schooling
+1472,PhD,SSCE
+1473,PhD,SSCE
+1474,No schooling,Bachelor
+1475,SSCE,SSCE
+1476,SSCE,Masters
+1477,Bachelor,SSCE
+1478,Masters,Masters
+1479,PhD,SSCE
+1480,Bachelor,SSCE
+1481,SSCE,No schooling
+1482,Bachelor,No schooling
+1483,SSCE,SSCE
+1484,Masters,No schooling
+1485,Masters,SSCE
+1486,Bachelor,Bachelor
+1487,SSCE,SSCE
+1488,SSCE,SSCE
+1489,No schooling,Bachelor
+1490,Masters,Masters
+1491,Bachelor,No schooling
+1492,SSCE,SSCE
+1493,Bachelor,PhD
+1494,Masters,No schooling
+1495,SSCE,PhD
+1496,Masters,No schooling
+1497,Masters,Masters
+1498,Masters,SSCE
+1499,SSCE,Masters
+1500,SSCE,SSCE
+1501,SSCE,Bachelor
+1502,SSCE,No schooling
+1503,SSCE,SSCE
+1504,Bachelor,Bachelor
+1505,Bachelor,SSCE
+1506,Masters,Masters
+1507,No schooling,SSCE
+1508,Bachelor,Masters
+1509,Masters,SSCE
+1510,Masters,PhD
+1511,Masters,PhD
+1512,Bachelor,SSCE
+1513,Masters,Masters
+1514,SSCE,Masters
+1515,Bachelor,SSCE
+1516,No schooling,Bachelor
+1517,No schooling,No schooling
+1518,SSCE,Masters
+1519,SSCE,SSCE
+1520,SSCE,No schooling
+1521,SSCE,SSCE
+1522,No schooling,Bachelor
+1523,Masters,Masters
+1524,No schooling,PhD
+1525,Bachelor,SSCE
+1526,SSCE,No schooling
+1527,Masters,Bachelor
+1528,Masters,Bachelor
+1529,Bachelor,SSCE
+1530,Bachelor,SSCE
+1531,No schooling,SSCE
+1532,PhD,SSCE
+1533,Masters,Bachelor
+1534,Masters,SSCE
+1535,Bachelor,Masters
+1536,SSCE,SSCE
+1537,Masters,SSCE
+1538,SSCE,Masters
+1539,Bachelor,Bachelor
+1540,No schooling,SSCE
+1541,Masters,Bachelor
+1542,SSCE,SSCE
+1543,SSCE,Masters
+1544,Bachelor,SSCE
+1545,Masters,Bachelor
+1546,Bachelor,No schooling
+1547,SSCE,SSCE
+1548,No schooling,PhD
+1549,Masters,Masters
+1550,PhD,SSCE
+1551,Masters,SSCE
+1552,Bachelor,SSCE
+1553,Masters,Bachelor
+1554,SSCE,Bachelor
+1555,Bachelor,Bachelor
+1556,Bachelor,SSCE
+1557,SSCE,Masters
+1558,Masters,SSCE
+1559,Bachelor,No schooling
+1560,SSCE,Bachelor
+1561,SSCE,PhD
+1562,No schooling,Bachelor
+1563,Bachelor,Bachelor
+1564,SSCE,Bachelor
+1565,SSCE,Masters
+1566,Bachelor,SSCE
+1567,Bachelor,SSCE
+1568,Masters,PhD
+1569,Bachelor,Masters
+1570,Masters,SSCE
+1571,Masters,SSCE
+1572,Masters,SSCE
+1573,Bachelor,No schooling
+1574,SSCE,PhD
+1575,PhD,SSCE
+1576,SSCE,Masters
+1577,SSCE,SSCE
+1578,SSCE,SSCE
+1579,No schooling,No schooling
+1580,PhD,Bachelor
+1581,Bachelor,Bachelor
+1582,Bachelor,Bachelor
+1583,Bachelor,No schooling
+1584,Bachelor,SSCE
+1585,No schooling,No schooling
+1586,Bachelor,SSCE
+1587,Bachelor,Bachelor
+1588,SSCE,Bachelor
+1589,Masters,Bachelor
+1590,SSCE,SSCE
+1591,SSCE,SSCE
+1592,SSCE,SSCE
+1593,SSCE,No schooling
+1594,Masters,Masters
+1595,Masters,Bachelor
+1596,SSCE,SSCE
+1597,Bachelor,SSCE
+1598,Bachelor,Masters
+1599,SSCE,Bachelor
+1600,SSCE,Bachelor
+1601,PhD,SSCE
+1602,Bachelor,SSCE
+1603,PhD,PhD
+1604,SSCE,Bachelor
+1605,Bachelor,SSCE
+1606,SSCE,Masters
+1607,SSCE,Bachelor
+1608,Bachelor,SSCE
+1609,SSCE,SSCE
+1610,SSCE,SSCE
+1611,SSCE,No schooling
+1612,No schooling,Bachelor
+1613,Bachelor,SSCE
+1614,Bachelor,Masters
+1615,No schooling,PhD
+1616,SSCE,No schooling
+1617,SSCE,SSCE
+1618,Bachelor,Masters
+1619,No schooling,Bachelor
+1620,Masters,Bachelor
+1621,No schooling,SSCE
+1622,SSCE,SSCE
+1623,Masters,Bachelor
+1624,Bachelor,PhD
+1625,No schooling,SSCE
+1626,Masters,Masters
+1627,Bachelor,SSCE
+1628,Masters,PhD
+1629,Bachelor,Bachelor
+1630,Bachelor,SSCE
+1631,PhD,Bachelor
+1632,SSCE,SSCE
+1633,Bachelor,SSCE
+1634,Bachelor,No schooling
+1635,No schooling,No schooling
+1636,No schooling,SSCE
+1637,SSCE,Bachelor
+1638,Bachelor,Bachelor
+1639,Bachelor,No schooling
+1640,Bachelor,Masters
+1641,No schooling,Bachelor
+1642,Bachelor,PhD
+1643,Masters,Bachelor
+1644,SSCE,SSCE
+1645,Bachelor,SSCE
+1646,Masters,Bachelor
+1647,Masters,No schooling
+1648,Bachelor,No schooling
+1649,Masters,No schooling
+1650,SSCE,SSCE
+1651,Masters,SSCE
+1652,SSCE,SSCE
+1653,SSCE,No schooling
+1654,No schooling,Bachelor
+1655,Masters,Bachelor
+1656,SSCE,SSCE
+1657,SSCE,No schooling
+1658,SSCE,No schooling
+1659,Masters,SSCE
+1660,Masters,SSCE
+1661,Bachelor,SSCE
+1662,Bachelor,Bachelor
+1663,Bachelor,SSCE
+1664,SSCE,SSCE
+1665,Masters,SSCE
+1666,SSCE,Bachelor
+1667,SSCE,Masters
+1668,SSCE,Bachelor
+1669,Bachelor,Bachelor
+1670,Bachelor,SSCE
+1671,Bachelor,SSCE
+1672,SSCE,Masters
+1673,Bachelor,No schooling
+1674,SSCE,PhD
+1675,SSCE,Bachelor
+1676,No schooling,Bachelor
+1677,Masters,No schooling
+1678,SSCE,Bachelor
+1679,Bachelor,SSCE
+1680,Bachelor,No schooling
+1681,Bachelor,SSCE
+1682,Bachelor,Masters
+1683,SSCE,SSCE
+1684,SSCE,SSCE
+1685,Bachelor,No schooling
+1686,Bachelor,Bachelor
+1687,Masters,Bachelor
+1688,Masters,Bachelor
+1689,SSCE,SSCE
+1690,SSCE,SSCE
+1691,Bachelor,Bachelor
+1692,SSCE,SSCE
+1693,No schooling,Masters
+1694,Masters,Bachelor
+1695,SSCE,SSCE
+1696,Masters,SSCE
+1697,Bachelor,Masters
+1698,Masters,SSCE
+1699,SSCE,SSCE
+1700,SSCE,Bachelor
+1701,Bachelor,SSCE
+1702,SSCE,Bachelor
+1703,SSCE,No schooling
+1704,SSCE,Bachelor
+1705,SSCE,No schooling
+1706,SSCE,No schooling
+1707,Masters,Masters
+1708,SSCE,Bachelor
+1709,No schooling,SSCE
+1710,Bachelor,SSCE
+1711,PhD,Bachelor
+1712,SSCE,SSCE
+1713,SSCE,PhD
+1714,Bachelor,PhD
+1715,Masters,Bachelor
+1716,Masters,SSCE
+1717,Bachelor,SSCE
+1718,SSCE,Bachelor
+1719,Bachelor,No schooling
+1720,No schooling,SSCE
+1721,Bachelor,No schooling
+1722,Bachelor,No schooling
+1723,PhD,SSCE
+1724,SSCE,SSCE
+1725,No schooling,Bachelor
+1726,Bachelor,SSCE
+1727,Bachelor,SSCE
+1728,Masters,No schooling
+1729,SSCE,Bachelor
+1730,SSCE,SSCE
+1731,Bachelor,Bachelor
+1732,SSCE,PhD
+1733,Masters,No schooling
+1734,Bachelor,SSCE
+1735,Masters,SSCE
+1736,Bachelor,PhD
+1737,Masters,Bachelor
+1738,SSCE,Masters
+1739,Masters,SSCE
+1740,SSCE,PhD
+1741,Bachelor,No schooling
+1742,SSCE,No schooling
+1743,Bachelor,Masters
+1744,SSCE,Masters
+1745,SSCE,No schooling
+1746,PhD,No schooling
+1747,SSCE,No schooling
+1748,Masters,No schooling
+1749,PhD,SSCE
+1750,No schooling,PhD
+1751,Bachelor,Bachelor
+1752,SSCE,Bachelor
+1753,No schooling,Bachelor
+1754,SSCE,SSCE
+1755,Masters,Bachelor
+1756,No schooling,Bachelor
+1757,Bachelor,SSCE
+1758,Bachelor,Bachelor
+1759,Masters,SSCE
+1760,No schooling,Masters
+1761,Bachelor,PhD
+1762,Bachelor,SSCE
+1763,Bachelor,Bachelor
+1764,Masters,No schooling
+1765,Masters,Bachelor
+1766,No schooling,SSCE
+1767,Bachelor,No schooling
+1768,SSCE,SSCE
+1769,SSCE,Bachelor
+1770,Bachelor,No schooling
+1771,SSCE,Masters
+1772,SSCE,No schooling
+1773,PhD,Masters
+1774,No schooling,Bachelor
+1775,Masters,SSCE
+1776,Bachelor,SSCE
+1777,Bachelor,Bachelor
+1778,Masters,Bachelor
+1779,SSCE,Bachelor
+1780,SSCE,SSCE
+1781,SSCE,SSCE
+1782,SSCE,PhD
+1783,Masters,SSCE
+1784,Masters,SSCE
+1785,SSCE,SSCE
+1786,SSCE,Bachelor
+1787,SSCE,Bachelor
+1788,No schooling,SSCE
+1789,Bachelor,No schooling
+1790,SSCE,No schooling
+1791,Bachelor,SSCE
+1792,No schooling,SSCE
+1793,SSCE,PhD
+1794,Bachelor,SSCE
+1795,Bachelor,SSCE
+1796,PhD,Masters
+1797,Masters,SSCE
+1798,SSCE,Bachelor
+1799,No schooling,No schooling
+1800,Masters,SSCE
+1801,Masters,Masters
+1802,Masters,Bachelor
+1803,SSCE,SSCE
+1804,PhD,Bachelor
+1805,SSCE,Masters
+1806,Bachelor,SSCE
+1807,Masters,SSCE
+1808,SSCE,PhD
+1809,Masters,SSCE
+1810,SSCE,Bachelor
+1811,PhD,Bachelor
+1812,SSCE,Bachelor
+1813,PhD,SSCE
+1814,No schooling,SSCE
+1815,Bachelor,Bachelor
+1816,Bachelor,SSCE
+1817,Bachelor,SSCE
+1818,SSCE,SSCE
+1819,Bachelor,No schooling
+1820,SSCE,PhD
+1821,Bachelor,SSCE
+1822,SSCE,PhD
+1823,PhD,No schooling
+1824,No schooling,Bachelor
+1825,SSCE,SSCE
+1826,SSCE,Bachelor
+1827,SSCE,Bachelor
+1828,SSCE,No schooling
+1829,Bachelor,Masters
+1830,Masters,SSCE
+1831,Bachelor,Bachelor
+1832,Bachelor,PhD
+1833,No schooling,Masters
+1834,Bachelor,PhD
+1835,SSCE,SSCE
+1836,Masters,No schooling
+1837,SSCE,SSCE
+1838,SSCE,SSCE
+1839,SSCE,Bachelor
+1840,Masters,SSCE
+1841,SSCE,Bachelor
+1842,Bachelor,SSCE
+1843,SSCE,SSCE
+1844,Bachelor,Bachelor
+1845,Masters,SSCE
+1846,SSCE,Masters
+1847,Bachelor,SSCE
+1848,Masters,Bachelor
+1849,Bachelor,No schooling
+1850,Bachelor,SSCE
+1851,Bachelor,Bachelor
+1852,Bachelor,Masters
+1853,SSCE,SSCE
+1854,Masters,SSCE
+1855,SSCE,SSCE
+1856,No schooling,SSCE
+1857,Masters,Masters
+1858,SSCE,Bachelor
+1859,SSCE,No schooling
+1860,Bachelor,SSCE
+1861,Masters,Bachelor
+1862,Masters,SSCE
+1863,PhD,Bachelor
+1864,Masters,No schooling
+1865,No schooling,Bachelor
+1866,SSCE,SSCE
+1867,Masters,Masters
+1868,SSCE,SSCE
+1869,Bachelor,SSCE
+1870,Bachelor,Masters
+1871,SSCE,No schooling
+1872,Masters,SSCE
+1873,Bachelor,SSCE
+1874,Bachelor,SSCE
+1875,PhD,Masters
+1876,Bachelor,Bachelor
+1877,SSCE,No schooling
+1878,Bachelor,Bachelor
+1879,Masters,SSCE
+1880,Masters,Masters
+1881,Masters,SSCE
+1882,Bachelor,Bachelor
+1883,SSCE,SSCE
+1884,Masters,SSCE
+1885,Masters,SSCE
+1886,SSCE,SSCE
+1887,SSCE,Bachelor
+1888,PhD,SSCE
+1889,Masters,PhD
+1890,Masters,SSCE
+1891,Masters,Bachelor
+1892,Bachelor,Masters
+1893,Bachelor,Bachelor
+1894,Bachelor,Masters
+1895,No schooling,Masters
+1896,Bachelor,SSCE
+1897,Bachelor,Bachelor
+1898,Bachelor,SSCE
+1899,Bachelor,SSCE
+1900,Bachelor,SSCE
+1901,SSCE,Bachelor
+1902,SSCE,SSCE
+1903,SSCE,SSCE
+1904,SSCE,SSCE
+1905,PhD,PhD
+1906,SSCE,No schooling
+1907,SSCE,No schooling
+1908,Bachelor,SSCE
+1909,Bachelor,PhD
+1910,SSCE,PhD
+1911,Masters,Bachelor
+1912,Masters,Masters
+1913,SSCE,SSCE
+1914,SSCE,PhD
+1915,Masters,No schooling
+1916,Masters,No schooling
+1917,Bachelor,No schooling
+1918,No schooling,Bachelor
+1919,SSCE,Bachelor
+1920,Bachelor,SSCE
+1921,SSCE,PhD
+1922,SSCE,SSCE
+1923,Bachelor,SSCE
+1924,SSCE,SSCE
+1925,Masters,Bachelor
+1926,Masters,Masters
+1927,SSCE,SSCE
+1928,Masters,Bachelor
+1929,SSCE,SSCE
+1930,Masters,Bachelor
+1931,SSCE,PhD
+1932,No schooling,No schooling
+1933,Bachelor,Masters
+1934,Bachelor,Bachelor
+1935,Masters,SSCE
+1936,SSCE,PhD
+1937,SSCE,SSCE
+1938,Bachelor,SSCE
+1939,Bachelor,SSCE
+1940,SSCE,SSCE
+1941,Bachelor,Masters
+1942,Masters,Bachelor
+1943,Masters,Masters
+1944,PhD,SSCE
+1945,SSCE,No schooling
+1946,Bachelor,No schooling
+1947,SSCE,SSCE
+1948,Bachelor,PhD
+1949,Bachelor,Bachelor
+1950,PhD,SSCE
+1951,Bachelor,Masters
+1952,PhD,Bachelor
+1953,Masters,No schooling
+1954,Masters,Masters
+1955,Masters,SSCE
+1956,Bachelor,No schooling
+1957,SSCE,SSCE
+1958,SSCE,SSCE
+1959,No schooling,SSCE
+1960,Bachelor,SSCE
+1961,Bachelor,SSCE
+1962,Bachelor,Bachelor
+1963,PhD,PhD
+1964,Masters,Bachelor
+1965,SSCE,SSCE
+1966,SSCE,SSCE
+1967,SSCE,SSCE
+1968,SSCE,No schooling
+1969,Masters,Bachelor
+1970,Bachelor,Bachelor
+1971,Bachelor,Bachelor
+1972,Masters,Bachelor
+1973,Masters,SSCE
+1974,SSCE,SSCE
+1975,Bachelor,Bachelor
+1976,SSCE,SSCE
+1977,SSCE,SSCE
+1978,No schooling,SSCE
+1979,Bachelor,SSCE
+1980,SSCE,No schooling
+1981,SSCE,Masters
+1982,Bachelor,Masters
+1983,Masters,SSCE
+1984,SSCE,No schooling
+1985,No schooling,Bachelor
+1986,Masters,SSCE
+1987,No schooling,SSCE
+1988,Masters,No schooling
+1989,Bachelor,SSCE
+1990,SSCE,Bachelor
+1991,SSCE,Masters
+1992,No schooling,SSCE
+1993,SSCE,SSCE
+1994,SSCE,No schooling
+1995,Bachelor,No schooling
+1996,SSCE,PhD
+1997,Bachelor,Bachelor
+1998,Bachelor,SSCE
+1999,SSCE,Bachelor
+2000,No schooling,Masters

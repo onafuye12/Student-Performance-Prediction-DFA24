@@ -1,0 +1,2001 @@
+student_id,SS1_result_avg,SS2_result_avg,SS3_mock_result,absences,studytime,extra_tutoring,school_support,internet_access,CBT_preparation,health_status,wants_higher_education,wants_trade,CBT_outcome
+1,60,64,Pass,4,2,yes,no,yes,yes,Average,yes,no,High
+2,44,74,Pass,6,2,no,no,yes,yes,Average,yes,yes,High
+3,56,56,Fail,3,3,yes,no,no,yes,Average,no,yes,High
+4,54,46,Fail,6,1,yes,no,yes,yes,Good,no,no,Low
+5,58,57,Fail,7,4,yes,yes,no,yes,Average,no,no,Low
+6,56,35,Fail,4,1,no,no,no,no,Poor,yes,no,Low
+7,58,61,Fail,3,4,no,yes,yes,yes,Good,yes,no,Low
+8,51,62,Fail,8,4,yes,yes,yes,yes,Average,yes,yes,High
+9,55,74,Fail,1,4,no,no,no,no,Poor,yes,yes,High
+10,42,56,Fail,5,3,no,yes,yes,yes,Poor,no,no,High
+11,51,62,Pass,6,1,no,yes,no,yes,Good,yes,yes,High
+12,68,49,Pass,5,3,yes,yes,yes,yes,Good,yes,yes,High
+13,58,54,Pass,5,2,no,no,no,yes,Average,yes,no,High
+14,54,42,Fail,5,4,yes,no,yes,no,Average,yes,no,Low
+15,73,56,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+16,41,54,Pass,6,2,yes,no,no,yes,Good,yes,no,High
+17,43,60,Pass,5,4,no,no,no,yes,Very Good,yes,no,Low
+18,72,51,Fail,5,1,no,no,yes,yes,Average,yes,yes,High
+19,55,58,Pass,8,2,no,yes,no,yes,Average,yes,no,High
+20,52,54,Pass,3,2,no,no,yes,yes,Very Poor,yes,no,High
+21,43,54,Pass,5,3,no,no,no,yes,Poor,no,yes,High
+22,59,58,Fail,3,3,no,yes,no,yes,Good,yes,no,High
+23,60,58,Pass,3,3,yes,yes,yes,yes,Poor,yes,no,High
+24,44,65,Pass,7,4,yes,no,yes,no,Average,yes,no,High
+25,53,56,Fail,4,1,yes,no,yes,no,Good,no,no,Low
+26,51,54,Pass,4,2,yes,no,yes,yes,Average,yes,no,Low
+27,57,56,Pass,2,3,no,no,no,yes,Good,no,no,High
+28,43,50,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+29,67,54,Pass,3,2,no,no,no,yes,Average,yes,no,Low
+30,64,78,Fail,7,1,yes,no,yes,yes,Very Good,yes,no,Low
+31,51,48,Pass,7,1,no,no,no,yes,Good,yes,no,High
+32,52,55,Pass,8,1,yes,yes,yes,no,Average,yes,no,High
+33,53,54,Fail,6,2,no,yes,yes,yes,Good,yes,no,High
+34,47,55,Fail,7,1,yes,no,no,no,Good,yes,yes,High
+35,50,54,Pass,4,2,no,yes,no,yes,Good,yes,no,High
+36,52,60,Pass,7,2,no,yes,no,yes,Good,yes,no,Low
+37,71,40,Fail,2,3,no,no,no,no,Average,no,no,Low
+38,64,68,Fail,5,4,yes,yes,no,yes,Average,yes,yes,Low
+39,64,64,Pass,3,2,yes,no,no,no,Good,yes,no,High
+40,58,45,Fail,7,2,yes,yes,yes,yes,Poor,yes,no,High
+41,43,35,Pass,5,4,yes,no,yes,no,Good,yes,no,High
+42,54,48,Pass,7,2,no,no,no,no,Average,yes,no,High
+43,64,55,Pass,9,4,no,no,no,yes,Good,yes,no,High
+44,42,83,Pass,6,1,yes,no,no,no,Average,yes,no,High
+45,61,63,Pass,5,4,no,no,yes,yes,Average,yes,yes,High
+46,78,39,Pass,7,2,no,no,no,yes,Good,yes,no,Low
+47,65,51,Pass,1,1,yes,no,no,yes,Good,no,no,High
+48,69,57,Pass,3,4,yes,yes,no,yes,Average,yes,no,High
+49,57,60,Pass,3,4,no,yes,yes,yes,Very Poor,no,no,Low
+50,64,44,Pass,11,2,no,yes,no,yes,Good,no,no,Low
+51,47,56,Fail,4,4,no,yes,no,no,Very Good,no,no,High
+52,62,50,Pass,2,1,yes,yes,no,yes,Poor,yes,no,High
+53,61,46,Fail,5,3,yes,yes,no,no,Average,yes,yes,Low
+54,57,60,Pass,7,2,no,no,no,yes,Average,yes,no,High
+55,68,65,Pass,2,2,yes,no,yes,yes,Very Good,no,no,Low
+56,49,66,Pass,5,3,yes,yes,no,no,Poor,yes,no,High
+57,53,63,Fail,2,2,no,no,no,no,Poor,yes,yes,High
+58,55,53,Pass,1,1,no,no,yes,no,Poor,no,no,High
+59,44,65,Pass,6,2,no,no,yes,yes,Good,no,no,Low
+60,57,61,Fail,4,2,yes,no,no,yes,Very Good,yes,no,Low
+61,37,59,Fail,7,3,yes,yes,no,yes,Average,yes,yes,High
+62,65,51,Fail,7,2,no,no,no,yes,Poor,yes,no,High
+63,55,53,Pass,6,3,no,no,yes,yes,Average,yes,no,High
+64,49,58,Pass,6,2,no,no,no,yes,Poor,no,no,Low
+65,46,82,Fail,6,2,no,no,no,yes,Very Poor,no,no,Low
+66,52,61,Pass,7,2,no,no,no,no,Very Good,yes,no,High
+67,61,51,Fail,4,3,no,no,no,no,Very Good,yes,no,Low
+68,60,49,Fail,9,1,yes,no,no,yes,Very Good,yes,no,High
+69,47,53,Fail,4,2,no,yes,yes,yes,Average,yes,no,High
+70,46,79,Pass,6,2,no,no,no,yes,Average,yes,no,High
+71,61,54,Pass,7,4,yes,no,no,yes,Good,yes,yes,High
+72,47,67,Fail,4,1,no,no,yes,no,Poor,no,yes,Low
+73,55,54,Pass,6,3,yes,no,no,yes,Poor,no,no,High
+74,56,60,Pass,2,2,no,yes,yes,no,Average,yes,yes,Low
+75,58,65,Pass,6,1,yes,yes,no,yes,Very Good,yes,yes,Low
+76,63,52,Pass,4,2,yes,no,no,no,Good,yes,no,Low
+77,42,51,Pass,3,1,no,yes,no,yes,Poor,yes,yes,High
+78,35,74,Fail,3,2,yes,yes,no,no,Very Poor,yes,no,Low
+79,49,67,Pass,5,4,no,no,no,yes,Good,yes,no,High
+80,73,65,Pass,3,1,yes,yes,no,yes,Good,yes,no,Low
+81,75,65,Pass,4,2,no,yes,no,yes,Good,yes,yes,High
+82,73,62,Pass,3,2,no,no,no,yes,Poor,no,no,Low
+83,53,78,Fail,6,2,no,yes,no,yes,Average,no,yes,Low
+84,37,58,Fail,9,2,no,yes,no,no,Good,yes,no,Low
+85,31,63,Pass,5,4,no,yes,yes,yes,Very Good,yes,no,High
+86,48,43,Fail,6,1,yes,no,no,yes,Poor,yes,no,High
+87,53,49,Pass,4,3,yes,no,yes,no,Average,yes,yes,High
+88,68,45,Fail,3,2,yes,yes,no,yes,Poor,yes,yes,High
+89,63,70,Pass,9,2,no,yes,yes,yes,Average,yes,no,High
+90,57,32,Pass,3,2,no,no,no,no,Poor,yes,no,Low
+91,46,53,Pass,9,2,yes,yes,yes,yes,Good,yes,no,Low
+92,45,28,Fail,4,1,yes,no,yes,yes,Average,yes,no,High
+93,57,49,Pass,8,1,yes,no,no,no,Average,yes,no,Low
+94,61,53,Fail,3,2,yes,yes,no,yes,Average,yes,yes,Low
+95,58,71,Pass,3,3,no,no,no,no,Very Good,yes,no,Low
+96,44,61,Fail,5,1,no,yes,yes,yes,Good,yes,no,Low
+97,61,49,Pass,8,3,no,yes,no,yes,Very Poor,yes,no,Low
+98,59,68,Fail,3,2,yes,yes,yes,yes,Very Poor,yes,no,High
+99,44,58,Pass,4,4,no,no,no,no,Average,no,yes,Low
+100,47,58,Pass,8,2,yes,yes,no,no,Average,no,no,High
+101,61,45,Fail,3,2,yes,no,yes,yes,Average,yes,no,Low
+102,52,48,Fail,3,4,no,yes,no,yes,Good,yes,yes,Low
+103,70,49,Fail,2,2,yes,no,no,yes,Poor,yes,yes,High
+104,60,58,Pass,7,2,yes,yes,no,yes,Very Good,no,no,High
+105,50,58,Pass,2,2,yes,yes,yes,no,Very Poor,no,no,High
+106,54,73,Pass,6,2,no,no,no,no,Poor,yes,yes,High
+107,55,61,Pass,5,4,no,no,no,no,Average,yes,yes,High
+108,47,30,Pass,6,3,no,no,no,yes,Average,no,no,Low
+109,45,60,Pass,2,3,no,yes,no,yes,Poor,yes,yes,High
+110,62,43,Fail,10,4,yes,no,yes,yes,Good,yes,yes,Low
+111,63,48,Fail,3,2,yes,no,yes,yes,Average,yes,no,High
+112,61,49,Pass,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+113,70,51,Pass,5,3,no,no,no,no,Very Good,yes,no,Low
+114,49,44,Pass,7,2,yes,no,no,yes,Very Good,yes,no,High
+115,71,60,Fail,6,2,no,no,no,yes,Good,yes,no,High
+116,45,43,Pass,7,2,yes,no,no,yes,Good,yes,no,High
+117,44,61,Fail,4,4,no,no,no,no,Poor,yes,no,High
+118,37,80,Pass,7,2,no,yes,yes,no,Average,no,yes,High
+119,50,44,Pass,2,3,yes,no,no,yes,Average,no,no,High
+120,49,55,Fail,6,2,no,yes,no,no,Very Good,yes,no,High
+121,60,32,Fail,7,1,yes,no,no,yes,Average,no,no,High
+122,57,54,Pass,5,3,yes,yes,yes,yes,Very Poor,no,no,Low
+123,43,64,Pass,4,4,yes,yes,no,yes,Average,no,no,High
+124,51,65,Fail,5,2,no,no,no,yes,Very Poor,no,no,Low
+125,51,58,Pass,2,2,yes,no,yes,yes,Poor,no,yes,High
+126,37,66,Fail,8,2,yes,no,no,yes,Average,yes,yes,Low
+127,45,83,Fail,5,3,no,no,no,yes,Average,yes,no,High
+128,47,75,Fail,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+129,69,52,Pass,5,2,yes,no,yes,yes,Poor,yes,no,High
+130,56,43,Pass,6,3,no,no,no,no,Average,no,no,High
+131,61,53,Fail,8,2,yes,no,yes,yes,Good,yes,no,Low
+132,40,48,Pass,7,2,yes,no,no,yes,Average,no,no,High
+133,66,62,Pass,0,4,no,no,no,yes,Good,no,no,High
+134,68,46,Fail,4,4,yes,no,yes,yes,Poor,yes,no,Low
+135,35,57,Pass,7,4,yes,no,yes,yes,Poor,yes,no,High
+136,47,66,Fail,7,2,yes,yes,no,yes,Good,yes,no,High
+137,59,56,Fail,2,4,no,no,yes,yes,Average,yes,yes,High
+138,61,48,Fail,3,3,yes,yes,no,no,Average,no,no,High
+139,48,69,Fail,9,2,yes,no,no,yes,Very Good,no,no,High
+140,51,39,Pass,7,3,yes,no,no,no,Average,yes,no,Low
+141,49,54,Pass,8,1,yes,yes,yes,no,Very Poor,yes,no,High
+142,56,57,Fail,4,3,no,yes,no,yes,Very Good,yes,no,Low
+143,66,58,Pass,2,3,yes,no,no,yes,Very Poor,yes,no,Low
+144,47,59,Fail,6,3,no,no,yes,yes,Good,no,no,Low
+145,65,64,Fail,2,2,no,no,yes,yes,Average,yes,no,High
+146,47,57,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+147,46,54,Fail,9,2,yes,yes,yes,yes,Average,yes,yes,High
+148,63,53,Pass,4,4,yes,no,yes,yes,Average,yes,no,Low
+149,64,51,Pass,3,3,yes,yes,no,yes,Good,yes,no,Low
+150,63,65,Fail,4,1,no,no,yes,yes,Very Good,yes,no,High
+151,41,51,Fail,2,2,no,yes,no,yes,Very Poor,yes,no,Low
+152,50,66,Pass,7,3,yes,no,no,yes,Good,yes,no,High
+153,63,58,Pass,7,2,no,yes,no,no,Poor,yes,no,Low
+154,55,52,Pass,2,3,no,no,yes,yes,Very Poor,yes,yes,Low
+155,44,64,Pass,4,2,yes,no,no,yes,Very Good,no,no,Low
+156,59,50,Pass,4,3,yes,no,no,yes,Average,yes,no,Low
+157,47,64,Pass,5,2,no,yes,yes,yes,Poor,yes,no,High
+158,72,60,Fail,6,2,yes,yes,yes,yes,Average,yes,yes,High
+159,70,52,Fail,6,4,no,yes,yes,yes,Average,no,no,High
+160,61,63,Pass,8,3,no,no,yes,no,Average,yes,yes,Low
+161,68,63,Pass,4,1,yes,no,yes,yes,Good,yes,no,Low
+162,55,69,Fail,1,4,no,no,yes,yes,Very Good,yes,no,High
+163,62,67,Fail,4,2,yes,yes,no,yes,Very Poor,no,no,High
+164,69,62,Fail,6,3,yes,no,no,yes,Poor,yes,yes,High
+165,57,46,Pass,3,2,yes,no,no,yes,Very Poor,no,no,High
+166,52,82,Pass,4,2,yes,yes,no,yes,Very Poor,yes,no,High
+167,37,43,Pass,1,2,no,no,no,yes,Very Good,yes,no,Low
+168,54,67,Fail,7,2,yes,yes,no,yes,Very Good,yes,no,High
+169,63,62,Pass,2,4,no,no,no,yes,Good,yes,no,High
+170,64,46,Pass,9,4,yes,no,yes,yes,Good,yes,no,High
+171,60,56,Pass,6,2,yes,no,yes,no,Good,yes,no,Low
+172,49,57,Pass,5,1,yes,no,no,no,Very Poor,yes,no,Low
+173,35,71,Fail,10,4,yes,yes,yes,yes,Poor,yes,no,High
+174,50,50,Pass,7,2,yes,no,yes,yes,Average,yes,no,High
+175,51,55,Fail,5,2,no,yes,yes,yes,Good,yes,yes,High
+176,51,34,Pass,4,2,yes,yes,no,no,Average,yes,yes,Low
+177,61,75,Pass,11,2,no,no,yes,yes,Average,yes,no,Low
+178,74,47,Pass,4,2,yes,no,no,yes,Poor,yes,no,Low
+179,56,61,Pass,3,3,no,yes,yes,yes,Good,yes,no,High
+180,52,56,Pass,1,2,no,yes,no,yes,Very Good,yes,no,High
+181,52,57,Fail,7,4,yes,no,no,yes,Average,yes,yes,High
+182,56,66,Fail,5,2,no,yes,yes,yes,Good,yes,no,High
+183,46,74,Pass,7,2,yes,no,no,yes,Average,yes,no,Low
+184,56,60,Pass,5,2,no,yes,no,no,Good,yes,no,High
+185,59,64,Fail,2,3,no,yes,no,no,Average,yes,yes,High
+186,57,61,Pass,5,1,no,no,no,no,Average,yes,no,High
+187,59,68,Pass,9,2,no,no,no,yes,Average,no,no,Low
+188,59,53,Pass,11,3,no,no,no,no,Very Poor,no,no,Low
+189,37,68,Fail,6,2,no,no,yes,no,Very Good,no,no,High
+190,61,69,Pass,6,3,yes,yes,no,no,Very Good,yes,no,High
+191,48,68,Pass,3,4,no,no,yes,yes,Average,yes,no,High
+192,44,51,Pass,8,2,yes,no,yes,yes,Poor,no,no,High
+193,43,56,Pass,3,2,no,no,no,yes,Good,yes,no,Low
+194,59,60,Pass,8,2,no,no,yes,no,Average,yes,no,Low
+195,52,44,Fail,7,3,no,yes,no,yes,Average,yes,no,Low
+196,38,73,Fail,6,2,no,yes,no,yes,Very Poor,yes,yes,Low
+197,59,57,Pass,6,3,no,no,no,yes,Very Good,yes,yes,Low
+198,40,60,Pass,3,3,yes,yes,yes,yes,Good,no,no,Low
+199,56,52,Fail,7,2,yes,no,yes,no,Good,no,no,Low
+200,57,44,Fail,4,3,no,yes,no,yes,Average,yes,no,Low
+201,63,51,Pass,4,2,yes,yes,no,yes,Good,no,no,High
+202,72,60,Pass,10,2,no,yes,yes,no,Average,yes,yes,High
+203,41,64,Pass,6,3,yes,yes,no,yes,Average,yes,yes,High
+204,54,59,Pass,2,2,yes,no,no,no,Good,yes,no,Low
+205,52,61,Pass,4,2,no,no,yes,yes,Very Good,yes,yes,High
+206,59,54,Fail,3,3,no,no,no,yes,Very Good,yes,no,High
+207,57,62,Pass,9,3,yes,yes,yes,yes,Good,yes,no,High
+208,51,72,Fail,6,2,yes,no,no,yes,Good,yes,no,Low
+209,50,65,Fail,3,3,yes,yes,yes,yes,Good,yes,no,Low
+210,43,66,Fail,7,2,yes,no,yes,no,Very Good,no,yes,Low
+211,64,60,Pass,5,4,yes,yes,no,yes,Average,yes,no,High
+212,59,42,Pass,7,3,no,no,yes,yes,Poor,yes,no,High
+213,64,47,Fail,7,2,no,no,no,no,Good,yes,no,High
+214,51,62,Fail,2,2,yes,no,yes,yes,Very Good,no,yes,Low
+215,48,57,Fail,7,3,yes,yes,no,yes,Average,yes,no,Low
+216,44,62,Pass,3,4,no,no,no,yes,Good,yes,no,Low
+217,58,74,Pass,7,2,no,yes,no,yes,Average,yes,yes,High
+218,44,65,Fail,5,2,yes,no,yes,yes,Very Good,yes,yes,Low
+219,73,70,Pass,8,1,yes,no,yes,no,Good,yes,no,High
+220,41,58,Pass,3,2,yes,no,no,yes,Average,no,yes,High
+221,57,49,Pass,7,3,yes,no,yes,yes,Good,yes,no,Low
+222,70,57,Pass,4,1,no,yes,no,yes,Good,no,no,High
+223,60,49,Pass,3,3,no,yes,no,yes,Very Good,yes,no,Low
+224,56,73,Pass,3,4,no,yes,no,no,Very Good,yes,no,Low
+225,45,65,Pass,2,4,no,no,yes,yes,Very Poor,yes,no,High
+226,41,63,Fail,9,2,yes,no,no,no,Poor,yes,no,High
+227,62,70,Pass,10,3,no,no,no,yes,Good,yes,no,High
+228,70,37,Pass,7,4,yes,no,no,yes,Very Good,yes,no,Low
+229,50,63,Fail,7,1,yes,no,no,no,Average,no,no,High
+230,43,44,Pass,4,2,no,no,yes,yes,Very Poor,yes,yes,High
+231,30,57,Pass,4,4,yes,no,no,yes,Average,yes,no,Low
+232,45,54,Fail,5,2,yes,no,no,no,Average,yes,no,High
+233,53,64,Fail,3,4,no,no,yes,yes,Good,yes,no,High
+234,70,60,Pass,7,2,yes,yes,yes,yes,Very Poor,yes,no,High
+235,61,71,Pass,4,1,no,yes,yes,yes,Poor,yes,no,High
+236,58,51,Fail,4,2,yes,yes,no,no,Very Good,yes,no,High
+237,50,65,Pass,4,2,no,no,no,yes,Poor,no,no,Low
+238,49,59,Fail,8,2,yes,no,yes,no,Good,yes,yes,High
+239,69,41,Fail,5,2,no,yes,no,yes,Average,yes,no,Low
+240,57,48,Fail,3,2,yes,no,no,no,Good,yes,yes,High
+241,33,56,Pass,11,2,no,yes,no,yes,Very Poor,yes,yes,Low
+242,48,69,Pass,7,1,no,no,no,yes,Average,yes,yes,Low
+243,46,62,Fail,5,3,yes,no,no,yes,Average,yes,yes,High
+244,49,46,Pass,6,2,yes,no,no,yes,Very Good,yes,no,High
+245,60,56,Pass,2,3,yes,yes,yes,yes,Average,yes,no,High
+246,53,78,Fail,1,3,no,no,no,yes,Very Poor,no,no,Low
+247,54,59,Pass,3,2,no,yes,no,no,Good,yes,yes,High
+248,68,54,Pass,5,1,yes,no,yes,yes,Very Poor,yes,yes,High
+249,48,62,Fail,7,4,no,no,yes,no,Very Good,yes,no,High
+250,73,65,Pass,3,3,no,no,yes,yes,Poor,yes,no,High
+251,48,53,Pass,4,1,yes,no,no,yes,Average,yes,no,Low
+252,55,63,Pass,2,3,yes,no,no,no,Very Poor,yes,yes,Low
+253,52,54,Fail,5,1,no,no,no,no,Average,no,yes,High
+254,56,65,Pass,2,1,no,yes,no,yes,Average,yes,yes,High
+255,59,59,Pass,5,2,yes,no,yes,yes,Average,yes,yes,High
+256,59,62,Fail,7,1,yes,no,no,yes,Very Poor,yes,no,High
+257,47,50,Fail,3,4,yes,yes,yes,yes,Very Good,yes,no,Low
+258,43,49,Pass,6,4,no,no,yes,no,Good,yes,yes,High
+259,80,67,Fail,3,3,no,no,yes,yes,Good,no,no,Low
+260,50,57,Pass,10,1,yes,no,yes,yes,Average,yes,no,High
+261,61,60,Fail,5,2,yes,no,yes,yes,Good,no,no,Low
+262,38,54,Pass,3,2,yes,no,yes,yes,Poor,yes,yes,Low
+263,52,66,Pass,7,2,no,yes,no,yes,Very Good,yes,no,Low
+264,53,51,Fail,3,2,yes,no,yes,no,Average,yes,no,High
+265,59,56,Pass,5,2,no,no,yes,yes,Good,yes,no,High
+266,27,65,Pass,4,2,no,no,no,yes,Good,yes,no,Low
+267,56,69,Pass,7,4,no,yes,no,no,Good,no,yes,Low
+268,43,52,Fail,4,4,no,no,yes,yes,Very Good,no,no,High
+269,58,77,Pass,4,2,yes,yes,yes,no,Average,yes,no,High
+270,44,61,Pass,3,3,no,yes,no,yes,Good,yes,yes,Low
+271,46,47,Pass,6,1,no,no,no,yes,Average,yes,no,Low
+272,52,61,Pass,10,2,no,yes,yes,yes,Very Poor,no,no,High
+273,44,54,Pass,3,4,yes,no,yes,no,Average,yes,no,High
+274,50,62,Pass,5,3,yes,no,no,no,Good,yes,no,Low
+275,43,57,Pass,4,2,no,yes,no,yes,Average,yes,no,Low
+276,36,58,Pass,5,2,no,no,no,yes,Average,yes,yes,High
+277,65,48,Fail,2,4,no,yes,yes,yes,Average,yes,no,High
+278,42,67,Fail,3,2,no,no,yes,yes,Good,yes,no,Low
+279,53,46,Fail,4,2,no,yes,no,no,Very Good,yes,no,High
+280,62,46,Pass,6,4,yes,yes,no,yes,Poor,yes,no,High
+281,48,61,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+282,46,74,Pass,4,2,no,no,no,yes,Average,yes,no,High
+283,57,54,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+284,66,65,Pass,4,4,no,yes,no,no,Very Good,yes,no,High
+285,43,68,Pass,5,3,yes,yes,yes,yes,Very Poor,yes,yes,Low
+286,53,66,Pass,6,2,yes,no,no,yes,Poor,yes,no,High
+287,37,54,Pass,9,1,no,no,no,yes,Good,yes,yes,High
+288,51,47,Fail,3,2,yes,no,no,yes,Average,yes,yes,High
+289,55,35,Fail,9,2,no,no,no,yes,Good,yes,no,High
+290,46,55,Fail,6,1,no,yes,yes,no,Good,no,no,Low
+291,50,69,Fail,2,2,yes,yes,no,yes,Average,yes,no,Low
+292,40,46,Pass,9,1,no,no,yes,yes,Poor,yes,no,Low
+293,55,65,Pass,4,4,yes,yes,no,no,Poor,no,yes,High
+294,65,48,Fail,5,1,no,yes,yes,yes,Poor,yes,no,High
+295,44,59,Pass,5,2,yes,yes,no,yes,Average,yes,no,High
+296,48,65,Fail,4,2,no,no,no,yes,Very Good,yes,no,High
+297,60,51,Pass,3,3,no,yes,yes,yes,Good,no,no,High
+298,67,59,Pass,5,1,yes,no,no,yes,Very Poor,yes,yes,High
+299,40,53,Fail,4,2,no,no,no,yes,Very Good,yes,no,Low
+300,53,65,Pass,3,3,no,yes,no,yes,Very Poor,yes,yes,Low
+301,57,60,Pass,5,4,no,no,yes,yes,Good,yes,yes,High
+302,53,58,Pass,6,3,no,no,no,yes,Poor,yes,no,High
+303,30,73,Fail,9,1,yes,yes,no,yes,Very Poor,yes,no,Low
+304,60,64,Pass,3,1,no,yes,yes,yes,Good,yes,no,High
+305,70,51,Pass,5,3,yes,yes,no,no,Average,yes,no,High
+306,56,57,Pass,7,2,no,no,no,no,Average,yes,no,High
+307,44,57,Pass,5,2,yes,no,no,yes,Average,yes,yes,High
+308,49,58,Pass,2,4,yes,yes,no,no,Very Poor,yes,yes,High
+309,72,83,Pass,5,3,yes,no,no,yes,Good,yes,yes,High
+310,64,61,Fail,7,3,yes,no,no,no,Good,yes,no,High
+311,61,37,Fail,8,4,no,yes,yes,yes,Very Poor,yes,no,Low
+312,58,52,Pass,2,3,yes,no,yes,yes,Average,yes,no,High
+313,48,38,Fail,3,3,no,yes,no,no,Average,yes,yes,High
+314,52,54,Pass,6,2,yes,no,yes,no,Good,yes,yes,High
+315,54,38,Pass,3,4,no,yes,no,yes,Average,yes,no,High
+316,60,49,Pass,6,2,no,no,no,no,Good,yes,no,High
+317,70,42,Pass,10,2,yes,yes,yes,yes,Very Good,no,yes,High
+318,66,61,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+319,40,58,Pass,6,1,yes,yes,no,yes,Average,no,no,High
+320,57,61,Fail,5,2,yes,no,yes,yes,Good,yes,yes,Low
+321,62,56,Pass,3,2,yes,yes,no,no,Average,yes,yes,High
+322,61,44,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+323,48,63,Pass,5,2,yes,yes,no,yes,Good,yes,no,Low
+324,84,77,Pass,5,2,no,yes,yes,yes,Good,no,no,Low
+325,42,62,Pass,9,1,yes,no,yes,no,Average,yes,yes,Low
+326,44,53,Pass,6,2,no,no,yes,yes,Poor,yes,no,Low
+327,57,43,Fail,4,3,no,no,yes,yes,Average,yes,yes,High
+328,76,48,Fail,3,2,yes,no,no,yes,Very Good,yes,yes,High
+329,46,62,Pass,4,2,yes,yes,no,yes,Very Good,no,yes,Low
+330,52,68,Fail,2,2,yes,yes,yes,no,Good,yes,no,Low
+331,65,60,Fail,5,4,yes,no,yes,yes,Good,yes,no,High
+332,54,65,Fail,4,3,no,no,no,yes,Poor,no,yes,Low
+333,51,65,Pass,2,1,yes,no,no,no,Average,no,no,High
+334,60,63,Fail,5,4,yes,no,no,yes,Poor,yes,no,High
+335,57,51,Pass,11,3,yes,yes,yes,yes,Good,yes,yes,High
+336,65,59,Fail,4,3,no,yes,no,yes,Average,yes,no,High
+337,67,49,Pass,6,2,no,no,no,yes,Good,yes,no,Low
+338,58,58,Pass,2,3,no,no,yes,no,Good,no,no,Low
+339,57,61,Pass,4,2,no,yes,no,yes,Very Good,no,no,High
+340,57,74,Pass,9,3,yes,no,no,no,Good,yes,no,High
+341,59,44,Fail,2,4,yes,no,no,yes,Average,yes,yes,High
+342,55,62,Pass,5,4,yes,no,no,yes,Average,yes,no,High
+343,54,72,Pass,4,2,no,no,no,yes,Average,yes,yes,High
+344,66,65,Fail,5,4,no,yes,yes,no,Poor,yes,no,High
+345,70,66,Pass,3,1,yes,no,yes,yes,Poor,yes,no,High
+346,39,63,Pass,4,1,yes,no,no,yes,Poor,yes,yes,High
+347,55,70,Pass,5,2,yes,no,no,yes,Very Good,yes,no,Low
+348,48,47,Pass,7,3,no,yes,no,yes,Poor,yes,no,Low
+349,51,44,Pass,6,2,no,no,no,yes,Good,yes,no,High
+350,59,57,Pass,5,2,yes,yes,no,yes,Poor,no,no,High
+351,61,36,Fail,7,1,yes,yes,no,no,Very Good,yes,no,Low
+352,53,70,Fail,5,3,yes,no,no,no,Average,yes,yes,Low
+353,35,70,Pass,9,4,no,no,no,yes,Average,yes,no,High
+354,45,53,Pass,5,3,no,no,no,yes,Average,no,yes,High
+355,63,54,Pass,5,2,yes,no,no,yes,Good,no,yes,High
+356,27,57,Fail,8,4,yes,no,no,yes,Poor,yes,no,High
+357,66,58,Pass,4,3,yes,yes,yes,yes,Good,yes,no,High
+358,60,59,Fail,2,3,no,no,yes,yes,Good,yes,no,High
+359,68,63,Pass,5,3,no,no,no,no,Poor,yes,no,Low
+360,53,56,Fail,3,4,no,no,yes,yes,Very Poor,yes,no,High
+361,34,67,Pass,2,3,no,no,yes,yes,Good,yes,no,Low
+362,59,62,Fail,5,2,yes,no,no,no,Poor,yes,no,High
+363,67,51,Pass,8,2,no,no,yes,no,Very Good,yes,no,High
+364,64,71,Fail,3,3,yes,no,no,yes,Poor,yes,no,High
+365,48,44,Pass,4,2,yes,no,yes,yes,Good,yes,no,Low
+366,55,57,Pass,11,3,no,no,yes,yes,Good,yes,no,High
+367,49,67,Pass,4,2,no,no,no,yes,Good,yes,no,High
+368,46,50,Fail,7,2,no,yes,no,no,Average,no,yes,High
+369,64,61,Fail,1,2,no,yes,yes,no,Very Good,yes,no,High
+370,43,63,Pass,3,3,no,yes,no,no,Good,yes,yes,High
+371,46,49,Pass,2,3,yes,no,no,yes,Average,yes,yes,High
+372,43,57,Pass,6,1,no,yes,no,yes,Good,yes,no,High
+373,40,56,Fail,3,2,no,no,no,yes,Average,yes,no,High
+374,56,52,Fail,5,1,no,no,yes,yes,Very Good,yes,no,Low
+375,66,81,Fail,8,1,no,no,no,yes,Very Good,no,no,High
+376,53,50,Pass,8,2,no,yes,yes,yes,Poor,no,yes,High
+377,39,68,Fail,2,3,no,yes,yes,yes,Average,no,yes,High
+378,63,54,Fail,6,4,yes,no,no,yes,Very Good,yes,no,Low
+379,71,47,Fail,7,2,no,no,no,yes,Poor,yes,yes,High
+380,48,59,Pass,3,2,no,no,no,yes,Very Good,yes,no,High
+381,50,64,Fail,4,3,yes,no,yes,yes,Good,yes,no,High
+382,60,67,Pass,8,4,no,no,no,yes,Very Poor,yes,yes,Low
+383,71,73,Pass,6,4,yes,no,no,yes,Average,no,yes,High
+384,49,87,Pass,5,1,yes,no,no,no,Average,yes,no,Low
+385,41,60,Pass,2,2,no,no,yes,yes,Good,yes,no,Low
+386,61,51,Pass,6,1,no,no,no,no,Average,yes,yes,High
+387,62,62,Pass,5,3,yes,no,yes,no,Average,yes,yes,High
+388,55,55,Pass,8,3,no,no,no,yes,Very Good,yes,no,Low
+389,49,67,Fail,3,2,no,yes,no,yes,Very Poor,yes,no,High
+390,64,45,Pass,5,4,no,no,yes,yes,Average,yes,no,High
+391,60,81,Pass,4,2,no,no,yes,yes,Average,yes,no,High
+392,47,66,Pass,7,4,no,no,yes,yes,Very Poor,yes,no,High
+393,55,41,Fail,9,1,no,yes,no,no,Very Poor,yes,no,High
+394,41,50,Fail,6,1,no,yes,yes,yes,Average,yes,yes,Low
+395,61,66,Pass,13,2,yes,yes,no,no,Poor,no,no,Low
+396,52,69,Fail,3,1,yes,yes,yes,no,Average,yes,no,High
+397,50,45,Pass,7,3,yes,yes,yes,yes,Good,no,yes,High
+398,54,65,Fail,5,1,no,no,no,yes,Good,yes,yes,Low
+399,55,38,Pass,6,3,yes,no,no,yes,Average,no,yes,High
+400,63,57,Pass,11,1,yes,no,no,yes,Average,yes,no,Low
+401,60,69,Pass,7,2,no,no,yes,yes,Poor,yes,no,High
+402,53,52,Pass,4,3,no,yes,yes,no,Poor,yes,yes,Low
+403,62,42,Pass,8,4,no,no,no,yes,Average,no,no,High
+404,59,59,Fail,6,2,yes,no,no,yes,Very Good,no,no,High
+405,50,51,Fail,4,4,yes,no,no,no,Poor,yes,no,High
+406,53,64,Pass,4,3,yes,yes,yes,yes,Average,yes,no,High
+407,53,49,Pass,7,2,yes,no,yes,yes,Good,yes,no,Low
+408,60,50,Pass,8,3,yes,yes,no,yes,Good,yes,no,Low
+409,51,37,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+410,51,59,Fail,8,2,yes,no,no,no,Poor,yes,no,High
+411,74,56,Pass,6,3,no,yes,no,no,Very Poor,yes,yes,Low
+412,64,46,Fail,8,2,yes,yes,yes,yes,Average,no,no,High
+413,47,59,Pass,3,1,yes,no,no,yes,Poor,yes,yes,Low
+414,60,68,Pass,3,1,no,no,no,yes,Average,yes,no,High
+415,56,55,Pass,7,3,no,no,yes,no,Very Good,yes,yes,High
+416,58,60,Pass,6,3,no,yes,no,yes,Good,yes,yes,Low
+417,56,60,Pass,6,2,yes,yes,no,yes,Poor,yes,yes,Low
+418,66,45,Fail,4,4,no,yes,yes,yes,Poor,yes,no,Low
+419,58,78,Pass,3,2,no,no,no,no,Very Good,no,yes,High
+420,54,53,Pass,7,3,no,yes,no,yes,Average,yes,no,Low
+421,65,64,Fail,7,4,yes,yes,no,yes,Very Good,yes,yes,Low
+422,57,65,Pass,7,3,yes,no,no,no,Good,yes,no,Low
+423,56,56,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+424,58,64,Pass,4,3,no,no,no,yes,Very Good,yes,no,Low
+425,54,60,Pass,4,2,no,no,no,yes,Average,yes,no,High
+426,55,43,Fail,7,3,no,no,no,no,Good,yes,yes,High
+427,49,54,Fail,5,2,no,no,yes,yes,Average,yes,yes,High
+428,47,51,Pass,4,2,no,no,no,yes,Poor,no,no,Low
+429,45,53,Pass,3,2,no,no,yes,yes,Poor,yes,no,High
+430,41,44,Fail,3,1,yes,no,yes,no,Average,yes,no,High
+431,46,69,Pass,3,2,yes,no,yes,yes,Poor,yes,no,Low
+432,53,74,Pass,6,4,no,no,no,yes,Poor,yes,no,High
+433,56,67,Fail,5,1,no,no,yes,yes,Average,yes,no,High
+434,52,70,Fail,5,2,yes,no,no,yes,Very Good,yes,no,Low
+435,31,54,Fail,4,2,no,no,no,no,Average,yes,no,High
+436,70,51,Fail,8,3,no,no,no,yes,Average,yes,yes,High
+437,65,50,Fail,7,2,yes,yes,yes,no,Poor,yes,no,High
+438,59,64,Fail,4,1,no,no,no,no,Poor,no,yes,High
+439,74,60,Fail,3,2,no,no,yes,no,Good,yes,no,High
+440,45,57,Pass,4,3,no,no,yes,yes,Good,yes,yes,Low
+441,73,70,Pass,7,1,no,yes,no,yes,Average,yes,no,Low
+442,45,62,Fail,9,2,yes,no,yes,yes,Average,no,no,High
+443,57,49,Fail,8,3,no,yes,no,no,Good,no,yes,High
+444,42,51,Pass,3,1,no,no,no,no,Very Poor,no,yes,High
+445,55,64,Pass,5,2,yes,yes,yes,yes,Average,yes,yes,High
+446,58,68,Fail,6,2,yes,no,no,no,Good,yes,yes,Low
+447,53,63,Pass,7,4,no,no,yes,no,Good,yes,yes,High
+448,62,76,Pass,6,2,no,no,yes,no,Very Poor,no,no,Low
+449,55,74,Fail,5,2,yes,no,no,yes,Poor,no,no,Low
+450,49,62,Fail,8,2,yes,yes,yes,no,Good,yes,no,Low
+451,49,49,Fail,7,4,yes,yes,no,no,Average,yes,no,High
+452,63,44,Fail,4,1,yes,no,yes,yes,Good,yes,no,High
+453,48,54,Pass,6,2,no,yes,no,no,Very Poor,yes,yes,High
+454,64,65,Fail,9,3,no,no,no,yes,Poor,no,no,Low
+455,67,76,Pass,6,4,yes,no,no,yes,Average,yes,no,High
+456,38,62,Fail,5,3,no,yes,no,no,Very Good,yes,yes,High
+457,66,69,Pass,4,2,no,yes,no,yes,Good,yes,no,Low
+458,75,55,Pass,3,2,yes,yes,no,no,Very Good,yes,yes,High
+459,57,64,Pass,0,2,no,no,yes,yes,Average,yes,yes,High
+460,60,66,Pass,6,3,no,yes,no,yes,Good,no,yes,High
+461,65,38,Fail,3,3,yes,yes,no,yes,Very Good,no,no,High
+462,52,53,Fail,4,3,yes,no,no,yes,Average,yes,no,Low
+463,56,67,Fail,4,2,no,no,no,no,Very Good,yes,no,High
+464,41,60,Fail,8,3,yes,no,no,yes,Very Good,yes,no,High
+465,56,46,Pass,3,4,yes,no,no,yes,Very Good,yes,no,Low
+466,59,33,Fail,4,4,no,yes,no,yes,Very Good,no,no,High
+467,60,54,Fail,2,3,no,yes,no,no,Good,yes,no,High
+468,65,57,Fail,5,3,no,yes,no,yes,Very Good,yes,no,High
+469,47,49,Pass,7,2,yes,no,yes,no,Average,no,no,Low
+470,49,59,Fail,9,2,no,yes,no,yes,Good,yes,no,Low
+471,73,63,Fail,8,1,no,no,no,yes,Poor,yes,no,High
+472,53,64,Pass,10,2,no,no,no,no,Good,yes,no,High
+473,57,34,Fail,6,2,yes,no,no,yes,Good,no,yes,Low
+474,54,44,Fail,14,2,yes,yes,no,yes,Good,no,no,High
+475,46,54,Pass,3,3,no,no,yes,no,Good,no,yes,High
+476,71,63,Fail,6,2,no,no,yes,yes,Average,no,no,High
+477,49,62,Fail,8,1,no,no,yes,no,Average,yes,no,Low
+478,43,62,Fail,4,1,yes,no,yes,no,Very Poor,yes,yes,Low
+479,50,54,Pass,6,1,no,no,no,yes,Poor,yes,no,Low
+480,34,54,Fail,8,2,no,no,no,yes,Good,no,no,Low
+481,48,50,Pass,9,4,no,yes,yes,yes,Average,yes,no,Low
+482,45,65,Pass,6,2,yes,yes,yes,no,Poor,no,yes,High
+483,61,48,Fail,9,2,no,no,yes,no,Poor,yes,yes,High
+484,48,66,Fail,1,1,no,no,yes,yes,Average,no,yes,Low
+485,63,60,Fail,6,3,no,no,no,yes,Good,yes,yes,High
+486,68,57,Pass,6,3,no,no,yes,yes,Good,yes,no,Low
+487,62,51,Pass,7,2,yes,no,yes,yes,Very Poor,yes,no,Low
+488,52,44,Fail,4,4,no,yes,no,yes,Good,yes,yes,High
+489,56,51,Pass,13,3,yes,no,yes,no,Average,yes,yes,High
+490,39,54,Fail,3,2,no,no,no,no,Good,yes,no,High
+491,53,34,Fail,5,2,yes,no,no,no,Poor,yes,no,High
+492,46,56,Fail,4,2,yes,yes,yes,yes,Very Good,yes,no,Low
+493,61,67,Pass,4,2,no,no,no,no,Very Poor,yes,yes,High
+494,80,63,Fail,8,3,yes,yes,no,no,Good,yes,no,Low
+495,59,53,Fail,3,1,no,yes,yes,yes,Average,no,yes,High
+496,35,58,Pass,2,2,yes,no,yes,yes,Very Poor,no,no,Low
+497,51,52,Pass,4,2,no,no,no,no,Very Poor,yes,no,High
+498,56,59,Pass,5,2,no,no,no,no,Average,no,no,High
+499,55,73,Pass,5,4,yes,no,no,yes,Good,no,yes,High
+500,47,67,Fail,6,2,no,yes,yes,yes,Very Poor,no,yes,High
+501,57,63,Fail,7,1,yes,yes,yes,yes,Good,no,no,Low
+502,42,53,Fail,6,3,yes,no,no,no,Good,yes,no,Low
+503,45,65,Pass,4,2,yes,yes,no,no,Average,yes,no,High
+504,61,41,Fail,10,1,no,no,no,yes,Very Poor,yes,yes,High
+505,44,55,Pass,7,2,yes,no,yes,yes,Very Good,yes,no,Low
+506,60,63,Fail,5,2,yes,yes,no,no,Average,yes,no,Low
+507,41,65,Fail,2,2,no,no,no,no,Poor,yes,no,High
+508,72,64,Fail,5,2,yes,yes,no,no,Good,yes,yes,High
+509,47,60,Fail,4,1,yes,no,yes,no,Poor,yes,no,High
+510,52,56,Fail,3,2,yes,no,no,yes,Average,yes,yes,High
+511,58,63,Fail,2,1,yes,no,no,no,Very Poor,yes,no,High
+512,49,48,Fail,2,4,yes,no,yes,yes,Very Good,no,no,High
+513,56,49,Pass,6,2,yes,yes,no,no,Average,yes,no,High
+514,60,58,Fail,12,3,yes,yes,no,yes,Very Good,no,yes,High
+515,64,59,Fail,7,3,yes,no,yes,no,Average,yes,yes,High
+516,62,39,Pass,1,2,yes,no,no,no,Average,yes,no,High
+517,53,62,Pass,8,3,no,yes,yes,yes,Very Good,yes,no,High
+518,53,65,Fail,4,3,no,no,no,yes,Average,yes,yes,High
+519,78,57,Pass,3,2,yes,no,no,yes,Average,yes,no,High
+520,64,81,Pass,10,4,no,no,no,no,Very Poor,no,no,High
+521,45,51,Fail,2,1,no,yes,no,no,Very Good,yes,no,Low
+522,55,54,Fail,7,2,no,no,no,no,Very Poor,no,no,High
+523,51,54,Fail,3,3,yes,yes,no,yes,Good,yes,yes,Low
+524,53,57,Pass,5,2,no,no,no,yes,Average,yes,no,High
+525,42,54,Pass,5,3,yes,yes,yes,yes,Very Poor,yes,no,High
+526,50,43,Pass,9,4,no,no,yes,yes,Very Poor,yes,no,High
+527,73,52,Pass,2,4,yes,no,no,yes,Very Good,yes,no,High
+528,60,57,Pass,7,2,yes,no,yes,no,Good,yes,no,High
+529,30,70,Fail,5,4,yes,no,no,yes,Good,no,yes,High
+530,67,80,Pass,6,2,no,yes,no,no,Average,yes,no,High
+531,65,71,Pass,4,2,no,no,yes,yes,Poor,no,no,High
+532,51,50,Pass,5,2,yes,no,yes,yes,Good,yes,yes,Low
+533,62,51,Pass,6,3,yes,yes,no,yes,Good,yes,no,High
+534,46,56,Pass,10,2,no,no,no,yes,Good,yes,no,Low
+535,50,75,Pass,7,2,no,no,yes,no,Average,yes,no,High
+536,69,56,Fail,2,2,no,no,no,yes,Very Good,yes,yes,High
+537,52,44,Pass,7,2,no,no,no,yes,Very Poor,yes,yes,Low
+538,36,52,Pass,5,4,yes,yes,no,no,Very Poor,yes,no,High
+539,54,65,Pass,9,2,yes,no,no,no,Very Good,yes,no,Low
+540,54,64,Pass,4,2,yes,no,yes,yes,Good,yes,yes,High
+541,66,55,Pass,7,3,yes,yes,no,yes,Average,yes,no,High
+542,55,64,Pass,3,2,no,no,yes,yes,Good,no,yes,High
+543,50,35,Pass,7,3,yes,no,yes,yes,Average,yes,no,High
+544,65,59,Fail,6,1,yes,yes,yes,yes,Very Poor,yes,yes,High
+545,56,66,Pass,3,2,yes,no,yes,no,Good,yes,no,High
+546,47,49,Pass,5,1,yes,no,no,yes,Poor,no,no,High
+547,66,49,Pass,4,1,no,no,yes,yes,Poor,yes,no,High
+548,56,39,Pass,7,3,yes,yes,no,yes,Poor,yes,no,High
+549,55,73,Pass,6,2,yes,no,no,no,Average,yes,no,Low
+550,56,50,Pass,3,4,no,yes,no,yes,Very Poor,no,no,High
+551,44,60,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+552,49,64,Pass,2,2,yes,no,no,yes,Average,yes,no,High
+553,55,73,Pass,6,3,no,no,yes,yes,Average,yes,no,High
+554,53,56,Pass,5,3,yes,no,no,yes,Good,yes,no,High
+555,67,52,Pass,6,3,no,no,yes,yes,Good,yes,no,Low
+556,57,59,Fail,5,3,no,no,no,yes,Good,no,no,Low
+557,63,70,Fail,6,2,yes,no,yes,yes,Poor,yes,yes,High
+558,55,56,Fail,3,3,yes,no,no,yes,Poor,yes,no,High
+559,65,48,Fail,5,2,no,no,yes,no,Very Good,yes,no,High
+560,58,42,Fail,8,2,yes,no,yes,yes,Poor,yes,no,Low
+561,55,45,Fail,6,4,no,no,no,no,Very Poor,yes,no,High
+562,54,66,Fail,4,2,yes,no,no,yes,Good,yes,no,Low
+563,45,54,Pass,4,3,no,no,yes,no,Poor,no,no,High
+564,60,51,Pass,2,2,no,yes,no,yes,Very Good,yes,no,Low
+565,54,50,Fail,6,1,no,no,yes,yes,Very Good,yes,no,High
+566,49,58,Fail,10,2,yes,no,no,no,Good,yes,no,Low
+567,66,55,Pass,5,2,yes,no,no,no,Good,no,yes,High
+568,42,55,Fail,3,2,yes,no,yes,no,Average,no,yes,High
+569,50,71,Pass,7,2,no,yes,no,no,Good,yes,no,High
+570,65,73,Pass,6,3,yes,yes,yes,yes,Good,yes,no,High
+571,58,41,Pass,5,1,no,no,yes,yes,Very Poor,yes,no,High
+572,54,61,Pass,6,2,yes,yes,no,yes,Very Good,yes,no,Low
+573,57,50,Pass,1,3,yes,yes,no,yes,Very Good,yes,no,Low
+574,56,55,Fail,5,4,yes,no,no,no,Very Good,yes,no,High
+575,39,61,Fail,4,2,no,no,yes,yes,Good,no,yes,High
+576,51,55,Fail,9,4,no,no,no,no,Average,yes,no,Low
+577,71,60,Pass,9,2,yes,no,no,yes,Poor,yes,no,High
+578,48,64,Fail,6,2,no,yes,no,yes,Poor,yes,no,Low
+579,51,60,Pass,9,3,yes,no,yes,yes,Poor,yes,yes,High
+580,49,51,Pass,7,4,no,yes,no,yes,Poor,yes,no,Low
+581,54,51,Fail,2,2,no,yes,no,no,Average,yes,no,High
+582,49,43,Pass,3,1,yes,no,no,no,Good,yes,yes,High
+583,59,49,Pass,4,1,yes,yes,yes,yes,Average,no,yes,High
+584,56,77,Pass,5,2,yes,no,no,no,Average,no,no,Low
+585,62,50,Fail,8,3,yes,no,no,yes,Average,yes,yes,High
+586,44,46,Pass,4,2,no,yes,no,no,Good,yes,yes,Low
+587,51,61,Fail,4,2,no,no,no,yes,Very Good,yes,no,High
+588,52,56,Fail,4,2,no,no,yes,yes,Good,yes,yes,Low
+589,59,56,Fail,3,4,no,no,yes,yes,Very Poor,no,yes,High
+590,47,72,Fail,2,1,yes,no,no,yes,Average,yes,no,High
+591,64,63,Pass,5,3,yes,yes,yes,yes,Good,yes,yes,Low
+592,66,52,Pass,9,4,no,no,no,yes,Average,yes,no,Low
+593,45,53,Pass,6,2,no,no,no,yes,Very Good,yes,no,Low
+594,50,52,Pass,3,3,no,no,yes,yes,Very Poor,yes,yes,Low
+595,49,66,Fail,4,3,no,no,no,no,Average,yes,no,High
+596,81,54,Pass,3,1,yes,no,no,no,Poor,no,yes,High
+597,50,40,Pass,4,2,yes,yes,no,no,Good,yes,yes,High
+598,71,57,Fail,3,3,no,no,no,yes,Average,yes,no,High
+599,42,42,Fail,5,2,yes,no,yes,yes,Poor,no,yes,High
+600,45,79,Fail,6,2,no,no,no,yes,Average,yes,no,Low
+601,48,48,Fail,8,2,yes,no,no,yes,Average,no,no,High
+602,46,56,Fail,2,3,yes,no,no,yes,Very Good,yes,no,High
+603,52,60,Fail,6,2,yes,yes,yes,yes,Average,no,no,High
+604,47,55,Pass,4,2,no,no,yes,yes,Poor,yes,no,High
+605,46,55,Fail,5,2,no,no,no,yes,Average,yes,no,High
+606,66,62,Pass,5,3,yes,yes,yes,yes,Average,no,no,High
+607,67,73,Pass,7,1,yes,yes,no,no,Average,no,no,Low
+608,64,65,Pass,7,2,no,no,yes,no,Average,yes,no,High
+609,60,72,Fail,6,2,yes,no,yes,yes,Good,yes,no,Low
+610,55,47,Fail,5,1,yes,no,yes,yes,Very Good,no,no,High
+611,50,61,Pass,2,2,yes,yes,yes,no,Poor,yes,no,High
+612,45,59,Pass,0,3,yes,no,no,no,Good,yes,yes,High
+613,58,61,Fail,4,3,no,yes,no,no,Very Good,yes,no,Low
+614,43,71,Fail,4,3,yes,no,yes,yes,Average,yes,yes,Low
+615,45,55,Pass,2,2,yes,no,yes,yes,Poor,yes,yes,High
+616,66,53,Pass,5,1,yes,no,yes,yes,Good,no,yes,High
+617,74,63,Fail,8,4,yes,no,yes,no,Good,yes,no,High
+618,58,40,Pass,5,2,no,no,no,no,Poor,no,no,High
+619,66,55,Fail,7,3,yes,no,no,yes,Average,yes,no,Low
+620,52,56,Pass,7,4,no,no,no,yes,Average,yes,no,High
+621,41,48,Pass,6,3,yes,yes,no,yes,Poor,yes,no,High
+622,61,68,Pass,6,2,no,no,no,no,Good,yes,no,Low
+623,60,47,Pass,5,2,no,yes,no,no,Good,yes,no,High
+624,55,56,Pass,5,1,yes,no,no,yes,Very Good,yes,yes,Low
+625,52,60,Pass,4,3,no,no,no,yes,Average,yes,no,Low
+626,64,71,Fail,10,3,yes,no,no,yes,Average,yes,no,High
+627,45,57,Pass,2,3,yes,no,yes,no,Good,yes,no,High
+628,47,67,Fail,8,1,yes,no,no,no,Average,no,yes,High
+629,44,65,Pass,2,3,yes,no,no,yes,Good,yes,no,Low
+630,55,59,Fail,4,3,yes,yes,no,yes,Good,no,yes,Low
+631,44,47,Pass,7,1,yes,no,yes,yes,Good,no,yes,High
+632,48,43,Pass,3,2,yes,no,no,yes,Good,yes,no,High
+633,47,59,Pass,6,3,no,no,no,yes,Good,yes,no,High
+634,52,52,Pass,10,2,yes,yes,yes,yes,Poor,no,no,High
+635,40,67,Fail,5,1,yes,no,no,no,Very Good,yes,no,High
+636,55,65,Fail,4,1,yes,no,no,no,Average,no,no,Low
+637,67,56,Fail,4,3,yes,no,yes,yes,Very Good,yes,yes,High
+638,56,46,Pass,7,2,yes,no,no,yes,Average,yes,no,Low
+639,70,63,Fail,4,2,yes,yes,yes,yes,Poor,yes,no,Low
+640,68,47,Fail,1,3,no,yes,no,no,Very Good,yes,no,High
+641,62,50,Fail,4,3,yes,no,no,no,Good,yes,no,Low
+642,55,48,Fail,2,3,no,no,no,yes,Good,yes,yes,High
+643,55,56,Pass,12,2,yes,no,no,yes,Very Poor,yes,no,Low
+644,62,69,Pass,4,2,yes,no,no,yes,Very Good,yes,no,High
+645,51,57,Pass,7,3,yes,no,no,yes,Average,no,no,Low
+646,36,53,Fail,8,4,no,yes,yes,yes,Average,no,no,Low
+647,59,42,Pass,6,2,no,no,no,yes,Very Good,no,no,High
+648,43,63,Fail,8,2,yes,no,yes,yes,Good,yes,yes,High
+649,45,50,Pass,4,1,yes,no,yes,yes,Poor,yes,no,High
+650,55,59,Pass,1,3,yes,yes,no,no,Average,yes,no,High
+651,54,54,Pass,3,2,yes,yes,no,yes,Good,yes,no,High
+652,40,66,Pass,4,1,no,yes,no,no,Very Good,yes,no,Low
+653,56,56,Fail,4,2,no,no,yes,yes,Average,yes,no,Low
+654,64,57,Pass,5,2,yes,no,yes,yes,Good,yes,no,High
+655,43,62,Fail,6,2,yes,no,no,yes,Good,yes,yes,High
+656,67,79,Pass,7,4,no,yes,yes,yes,Poor,yes,no,High
+657,39,66,Pass,7,3,no,yes,yes,yes,Very Poor,yes,no,Low
+658,76,57,Fail,2,1,no,no,no,yes,Average,no,no,High
+659,50,58,Pass,6,2,yes,no,no,yes,Good,yes,yes,High
+660,56,52,Fail,6,1,no,no,yes,no,Average,no,no,High
+661,36,48,Fail,4,3,yes,yes,yes,yes,Good,yes,yes,Low
+662,54,52,Fail,6,2,yes,no,no,yes,Good,no,no,High
+663,57,50,Pass,8,4,no,no,no,no,Good,yes,yes,High
+664,54,64,Pass,6,3,no,yes,yes,no,Very Poor,yes,yes,High
+665,49,47,Fail,2,2,yes,no,no,yes,Very Poor,yes,yes,High
+666,45,71,Fail,3,3,no,yes,yes,yes,Good,no,no,High
+667,66,65,Fail,9,3,no,yes,no,yes,Good,yes,no,High
+668,55,58,Pass,6,2,yes,no,yes,yes,Average,yes,no,High
+669,70,58,Pass,8,2,no,no,no,yes,Average,yes,no,High
+670,49,52,Pass,3,2,no,yes,no,yes,Good,yes,no,High
+671,50,60,Fail,5,2,no,no,no,no,Poor,yes,no,High
+672,63,68,Pass,9,2,yes,no,no,yes,Good,no,no,High
+673,38,50,Pass,5,2,yes,yes,no,yes,Average,yes,yes,High
+674,42,42,Fail,2,2,no,yes,no,yes,Good,yes,yes,High
+675,65,65,Pass,7,1,yes,no,yes,yes,Average,yes,no,High
+676,43,61,Pass,2,4,yes,yes,yes,yes,Good,yes,yes,High
+677,36,46,Pass,2,3,no,no,no,yes,Average,yes,no,High
+678,73,50,Pass,6,3,no,no,no,yes,Average,yes,yes,High
+679,41,49,Pass,5,2,yes,yes,no,no,Average,yes,no,High
+680,56,50,Pass,7,3,yes,no,no,yes,Good,yes,yes,High
+681,55,54,Pass,6,4,no,yes,no,yes,Average,yes,no,High
+682,26,55,Pass,5,2,yes,yes,no,no,Poor,yes,yes,High
+683,52,51,Pass,7,3,yes,yes,no,no,Very Good,no,no,High
+684,59,50,Fail,5,2,yes,no,yes,yes,Average,yes,no,Low
+685,58,55,Pass,5,4,no,no,yes,no,Poor,yes,no,High
+686,64,59,Pass,9,4,yes,no,no,yes,Good,yes,yes,High
+687,51,54,Pass,7,4,no,no,yes,yes,Good,yes,no,High
+688,62,69,Pass,3,1,no,yes,yes,yes,Average,yes,no,High
+689,48,63,Pass,7,2,yes,yes,yes,yes,Good,yes,yes,High
+690,40,42,Pass,6,1,yes,yes,no,yes,Poor,yes,no,Low
+691,42,63,Fail,7,2,yes,yes,no,yes,Average,no,yes,High
+692,40,64,Pass,3,2,yes,yes,yes,no,Poor,yes,yes,High
+693,65,53,Fail,4,2,yes,no,no,yes,Average,no,no,Low
+694,39,43,Pass,7,3,no,no,yes,yes,Average,no,yes,High
+695,57,58,Pass,8,2,yes,no,no,yes,Average,yes,no,High
+696,52,57,Pass,5,4,no,yes,no,no,Average,yes,yes,High
+697,53,46,Fail,5,2,no,no,no,no,Average,yes,no,High
+698,68,43,Pass,5,2,yes,no,no,yes,Average,yes,no,Low
+699,50,57,Pass,4,3,yes,no,yes,no,Poor,no,no,High
+700,61,55,Pass,5,3,no,yes,no,no,Average,yes,yes,Low
+701,55,53,Pass,5,1,no,no,yes,no,Poor,yes,yes,Low
+702,53,57,Fail,3,3,no,no,yes,yes,Good,yes,no,High
+703,77,46,Pass,3,2,yes,no,no,yes,Good,yes,yes,High
+704,40,53,Fail,3,4,no,no,no,yes,Good,yes,no,High
+705,67,63,Fail,3,4,yes,no,no,no,Good,yes,no,Low
+706,61,54,Pass,6,2,yes,yes,no,no,Average,yes,yes,High
+707,50,41,Pass,6,4,yes,no,no,no,Good,yes,no,High
+708,71,53,Fail,6,3,yes,yes,no,yes,Good,no,no,Low
+709,36,47,Pass,5,4,no,yes,yes,yes,Very Poor,yes,no,High
+710,49,60,Pass,3,4,yes,no,no,yes,Very Good,yes,no,High
+711,42,61,Fail,6,3,no,no,no,yes,Very Poor,yes,no,High
+712,59,41,Fail,6,2,no,yes,yes,yes,Average,no,yes,High
+713,43,65,Fail,5,2,no,no,no,yes,Average,no,yes,High
+714,59,46,Fail,4,4,yes,no,yes,no,Good,yes,no,Low
+715,53,73,Pass,5,3,no,no,no,yes,Very Good,yes,no,High
+716,50,57,Pass,6,2,yes,yes,no,no,Very Good,no,no,High
+717,58,45,Pass,4,2,no,no,yes,no,Average,yes,no,High
+718,52,46,Fail,4,3,no,yes,yes,yes,Good,yes,no,Low
+719,44,61,Fail,4,2,yes,yes,no,yes,Very Poor,yes,no,Low
+720,83,54,Pass,6,1,yes,no,no,no,Average,no,yes,High
+721,50,57,Pass,4,1,no,yes,no,no,Very Good,yes,no,High
+722,32,74,Pass,3,3,no,yes,no,yes,Average,yes,no,Low
+723,46,51,Fail,4,2,yes,no,yes,yes,Very Poor,yes,no,High
+724,42,58,Pass,6,2,yes,yes,yes,yes,Poor,yes,yes,High
+725,63,72,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+726,58,60,Fail,3,3,no,no,no,yes,Poor,no,no,High
+727,58,41,Fail,6,2,yes,no,yes,no,Average,no,no,High
+728,51,63,Pass,6,1,no,no,no,yes,Average,yes,no,Low
+729,52,46,Fail,3,2,no,no,yes,yes,Average,yes,no,High
+730,51,72,Pass,3,3,no,no,no,no,Very Poor,no,yes,High
+731,54,49,Pass,2,1,no,no,yes,yes,Very Good,yes,no,High
+732,63,87,Pass,3,2,yes,yes,yes,no,Good,yes,no,High
+733,58,72,Fail,5,4,yes,yes,yes,yes,Good,no,no,High
+734,60,50,Fail,7,4,yes,no,yes,yes,Good,no,no,High
+735,59,58,Pass,3,2,yes,no,yes,yes,Average,yes,no,High
+736,63,65,Fail,3,1,yes,no,no,yes,Good,yes,no,High
+737,57,65,Pass,6,2,no,yes,no,no,Very Good,yes,no,High
+738,58,62,Fail,7,2,no,yes,yes,no,Very Poor,no,no,Low
+739,66,70,Fail,3,2,yes,no,no,no,Very Poor,no,yes,High
+740,48,56,Pass,6,2,yes,no,no,yes,Good,yes,no,Low
+741,46,54,Pass,8,2,yes,no,yes,no,Poor,no,no,High
+742,43,54,Fail,3,1,no,yes,no,yes,Very Good,no,no,High
+743,56,66,Pass,3,4,no,yes,yes,yes,Good,yes,no,High
+744,36,61,Fail,5,3,yes,yes,yes,yes,Average,yes,no,High
+745,59,60,Pass,5,2,no,no,no,yes,Average,yes,no,High
+746,53,65,Fail,7,4,yes,no,yes,yes,Good,no,yes,High
+747,66,37,Pass,9,3,yes,no,no,yes,Poor,yes,no,High
+748,48,61,Pass,4,4,yes,no,yes,yes,Very Good,yes,no,High
+749,52,60,Pass,6,2,no,no,no,yes,Very Poor,yes,no,Low
+750,66,74,Fail,6,2,yes,no,no,yes,Very Good,yes,no,High
+751,68,42,Pass,5,2,yes,no,yes,no,Poor,yes,no,High
+752,48,73,Pass,6,2,yes,yes,no,yes,Good,yes,no,Low
+753,56,58,Fail,10,2,yes,no,no,yes,Very Poor,yes,no,High
+754,57,62,Fail,4,3,no,yes,no,no,Average,yes,no,Low
+755,58,74,Pass,3,1,yes,no,no,yes,Good,yes,yes,Low
+756,52,63,Fail,8,3,no,no,yes,yes,Very Poor,yes,yes,High
+757,67,62,Fail,6,2,yes,yes,no,no,Average,yes,no,High
+758,36,60,Pass,7,3,yes,yes,yes,yes,Average,yes,no,Low
+759,50,53,Pass,5,2,yes,yes,yes,no,Average,yes,no,High
+760,59,57,Fail,6,4,yes,no,yes,yes,Average,yes,no,High
+761,59,50,Fail,2,2,yes,yes,no,yes,Good,yes,no,High
+762,68,57,Pass,4,4,yes,no,no,yes,Poor,yes,no,High
+763,66,34,Pass,4,1,no,yes,yes,yes,Very Poor,yes,yes,Low
+764,52,62,Pass,5,3,no,no,yes,yes,Average,yes,yes,High
+765,67,56,Pass,6,2,no,yes,yes,yes,Very Good,yes,no,High
+766,47,54,Pass,6,3,yes,no,yes,yes,Very Good,yes,no,High
+767,64,60,Pass,3,3,yes,no,yes,no,Average,yes,yes,High
+768,73,43,Fail,6,3,yes,no,yes,no,Very Good,yes,no,High
+769,67,77,Fail,3,1,no,no,yes,no,Good,yes,no,Low
+770,56,56,Pass,7,3,no,no,no,yes,Average,no,yes,Low
+771,51,56,Pass,3,2,no,yes,no,yes,Poor,yes,no,High
+772,39,48,Pass,6,1,yes,no,no,yes,Average,yes,no,High
+773,58,58,Pass,9,2,yes,no,no,yes,Poor,no,yes,High
+774,43,71,Fail,3,2,yes,no,yes,no,Good,yes,no,High
+775,47,68,Fail,5,3,yes,yes,no,yes,Average,yes,no,High
+776,43,66,Pass,7,2,yes,yes,yes,no,Average,yes,yes,Low
+777,50,63,Pass,2,1,yes,yes,no,no,Poor,yes,no,High
+778,54,54,Pass,4,3,yes,yes,no,no,Good,yes,yes,Low
+779,57,43,Fail,4,4,yes,no,no,yes,Average,yes,no,High
+780,48,55,Pass,12,3,yes,yes,no,no,Average,yes,yes,Low
+781,65,55,Fail,3,3,no,no,no,no,Very Good,yes,no,High
+782,52,68,Fail,4,2,yes,no,yes,no,Average,yes,yes,Low
+783,47,61,Pass,7,3,yes,no,no,yes,Average,no,no,High
+784,57,74,Fail,6,4,no,no,no,yes,Good,yes,yes,Low
+785,74,69,Fail,9,2,no,yes,yes,yes,Very Good,yes,no,Low
+786,58,53,Fail,6,2,yes,yes,no,no,Poor,no,no,Low
+787,51,40,Fail,3,4,no,no,no,no,Good,no,yes,High
+788,39,71,Pass,3,4,yes,no,yes,yes,Very Good,no,no,High
+789,52,71,Pass,1,1,yes,yes,no,no,Average,yes,no,High
+790,57,44,Fail,4,2,yes,yes,no,no,Average,no,no,High
+791,51,73,Fail,4,3,yes,no,yes,yes,Good,yes,no,Low
+792,38,61,Fail,2,2,no,yes,no,yes,Poor,yes,yes,High
+793,46,59,Pass,2,2,yes,no,no,yes,Average,no,no,High
+794,69,74,Fail,8,3,yes,no,no,no,Very Good,yes,yes,High
+795,69,71,Pass,8,2,no,no,no,yes,Average,yes,no,High
+796,46,64,Pass,6,2,yes,no,yes,no,Very Poor,no,no,High
+797,61,62,Pass,7,4,no,yes,yes,yes,Average,yes,no,High
+798,43,64,Pass,1,3,yes,no,yes,yes,Good,yes,no,High
+799,69,53,Pass,6,4,yes,yes,yes,yes,Average,yes,no,High
+800,57,57,Fail,5,3,yes,no,no,yes,Good,yes,no,High
+801,64,48,Pass,7,3,no,no,no,yes,Good,yes,yes,Low
+802,37,54,Pass,11,3,no,yes,no,yes,Average,yes,yes,Low
+803,61,54,Pass,1,2,yes,no,yes,yes,Very Good,yes,yes,High
+804,54,51,Pass,5,3,yes,no,yes,yes,Very Good,yes,yes,High
+805,63,59,Fail,5,2,no,no,no,yes,Very Poor,yes,yes,High
+806,64,54,Pass,5,3,no,no,no,yes,Average,yes,no,Low
+807,55,63,Pass,3,2,no,no,no,yes,Average,no,no,High
+808,48,41,Fail,4,2,yes,no,no,yes,Poor,yes,no,High
+809,62,56,Fail,6,2,no,no,no,no,Average,no,no,Low
+810,54,59,Fail,7,3,yes,no,no,yes,Average,no,yes,Low
+811,46,54,Fail,7,4,no,yes,no,yes,Very Poor,yes,no,Low
+812,45,56,Fail,2,4,yes,yes,no,no,Poor,yes,no,Low
+813,40,42,Pass,5,2,no,yes,yes,no,Very Poor,no,no,Low
+814,49,61,Fail,8,2,yes,yes,no,yes,Very Poor,yes,yes,Low
+815,66,64,Fail,6,1,no,yes,yes,yes,Average,yes,no,High
+816,56,62,Pass,8,2,no,no,yes,no,Average,yes,yes,Low
+817,49,68,Fail,4,3,no,yes,yes,no,Very Good,yes,yes,Low
+818,63,60,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+819,46,62,Pass,3,2,no,no,no,yes,Very Good,yes,no,High
+820,55,59,Pass,2,2,no,no,no,yes,Very Poor,yes,yes,Low
+821,53,64,Fail,4,2,yes,no,no,yes,Good,yes,no,High
+822,62,42,Pass,5,2,yes,yes,yes,no,Poor,no,no,Low
+823,39,49,Pass,5,3,no,no,yes,yes,Good,yes,no,High
+824,46,73,Fail,3,3,no,no,no,yes,Very Poor,yes,yes,Low
+825,38,33,Pass,4,3,yes,no,yes,no,Very Good,yes,yes,High
+826,52,56,Pass,3,2,no,yes,no,yes,Very Poor,yes,no,High
+827,67,69,Fail,9,2,yes,no,no,yes,Poor,yes,no,Low
+828,49,57,Fail,2,2,yes,no,no,yes,Average,no,yes,High
+829,49,53,Pass,7,1,no,no,no,yes,Good,no,no,Low
+830,63,59,Fail,5,3,no,yes,no,no,Very Good,yes,yes,High
+831,65,54,Pass,6,3,no,no,yes,yes,Average,yes,yes,Low
+832,54,58,Pass,5,3,no,no,no,yes,Good,yes,no,High
+833,61,51,Pass,11,1,yes,no,no,yes,Good,yes,yes,High
+834,44,69,Fail,3,3,yes,no,yes,no,Average,yes,no,Low
+835,68,72,Pass,3,1,no,yes,yes,yes,Good,yes,no,High
+836,76,56,Pass,5,1,no,yes,no,yes,Very Poor,yes,yes,Low
+837,60,44,Fail,5,2,yes,yes,no,no,Average,yes,no,Low
+838,34,52,Pass,3,2,no,yes,yes,no,Good,yes,no,High
+839,49,56,Fail,6,3,no,yes,no,no,Average,no,no,High
+840,61,63,Pass,5,3,no,yes,no,yes,Very Good,no,no,High
+841,50,47,Fail,6,2,no,yes,no,yes,Good,no,no,High
+842,67,50,Pass,2,2,yes,no,no,yes,Very Good,yes,no,High
+843,60,63,Pass,5,2,yes,no,no,no,Poor,yes,yes,High
+844,47,67,Pass,6,1,no,yes,no,no,Poor,yes,no,Low
+845,55,51,Fail,2,2,no,yes,no,no,Very Poor,yes,no,High
+846,46,44,Fail,8,3,yes,no,yes,no,Very Good,yes,yes,High
+847,53,90,Pass,5,2,no,no,no,yes,Poor,yes,no,High
+848,49,65,Fail,5,3,no,yes,no,no,Average,yes,no,High
+849,66,55,Pass,12,2,yes,no,no,no,Average,no,no,Low
+850,76,66,Fail,4,2,no,yes,yes,no,Very Poor,yes,yes,High
+851,40,56,Fail,7,2,yes,no,yes,no,Average,yes,no,Low
+852,35,66,Fail,5,3,yes,no,no,yes,Very Poor,yes,no,High
+853,52,59,Fail,3,2,no,yes,no,yes,Average,yes,no,High
+854,39,58,Fail,8,1,yes,no,yes,yes,Very Good,yes,no,Low
+855,55,56,Pass,3,4,yes,yes,yes,yes,Good,no,no,Low
+856,62,43,Fail,3,1,no,no,no,yes,Good,yes,yes,Low
+857,69,77,Fail,6,4,no,no,no,no,Average,no,no,High
+858,57,48,Fail,4,1,yes,no,no,no,Good,yes,yes,High
+859,53,44,Pass,7,3,yes,yes,no,no,Very Good,yes,no,High
+860,35,55,Pass,5,2,yes,no,yes,yes,Very Good,no,yes,High
+861,55,48,Pass,4,2,no,no,no,yes,Very Poor,no,no,High
+862,55,57,Fail,3,1,yes,no,no,yes,Very Good,no,no,Low
+863,61,64,Pass,3,2,yes,yes,no,yes,Poor,yes,yes,High
+864,47,67,Pass,6,3,yes,yes,yes,yes,Average,yes,no,High
+865,50,66,Pass,4,4,yes,no,yes,no,Average,yes,no,High
+866,40,54,Pass,3,2,yes,no,no,yes,Good,yes,no,High
+867,32,58,Pass,7,2,yes,no,no,yes,Average,yes,yes,High
+868,43,62,Pass,2,1,no,no,no,yes,Poor,yes,no,Low
+869,39,40,Fail,7,3,no,yes,no,no,Good,no,no,Low
+870,58,63,Fail,3,2,yes,no,yes,no,Average,yes,no,High
+871,49,43,Pass,6,1,no,yes,no,no,Very Poor,yes,no,High
+872,49,78,Fail,5,3,no,no,no,no,Average,yes,yes,Low
+873,45,53,Fail,4,2,yes,no,no,yes,Average,yes,no,High
+874,22,56,Pass,3,1,yes,no,no,no,Very Poor,no,no,High
+875,70,50,Pass,4,1,yes,yes,yes,yes,Poor,yes,no,High
+876,44,51,Fail,6,3,no,no,no,yes,Very Good,no,yes,High
+877,50,80,Pass,6,1,no,yes,no,yes,Very Good,no,yes,Low
+878,40,67,Fail,3,4,no,yes,no,no,Poor,no,no,Low
+879,64,42,Pass,3,2,no,yes,no,no,Average,no,yes,High
+880,56,73,Pass,4,1,no,yes,no,yes,Average,yes,no,High
+881,46,69,Fail,7,3,no,no,no,yes,Average,yes,no,High
+882,51,55,Pass,5,2,no,no,yes,no,Average,yes,no,High
+883,71,61,Fail,6,2,yes,no,yes,yes,Very Poor,yes,yes,Low
+884,54,57,Pass,4,2,yes,yes,no,no,Average,no,yes,High
+885,53,77,Pass,2,1,no,no,yes,yes,Poor,yes,no,High
+886,45,50,Pass,4,3,no,yes,yes,yes,Average,yes,yes,High
+887,36,59,Pass,6,2,yes,yes,no,yes,Very Good,yes,yes,High
+888,53,53,Pass,6,3,no,no,no,yes,Very Good,yes,no,High
+889,58,43,Pass,7,3,no,no,yes,no,Very Good,yes,no,High
+890,65,79,Pass,6,3,no,no,yes,no,Very Good,yes,no,Low
+891,32,46,Fail,2,3,yes,no,yes,yes,Very Poor,yes,no,High
+892,43,60,Pass,6,3,no,yes,no,no,Good,yes,no,Low
+893,49,40,Fail,5,2,yes,yes,yes,no,Average,yes,yes,Low
+894,54,54,Pass,3,2,yes,no,no,yes,Very Good,yes,no,Low
+895,53,62,Pass,6,1,no,yes,no,yes,Good,yes,no,High
+896,53,49,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+897,59,63,Pass,11,3,yes,no,yes,yes,Average,no,no,Low
+898,45,55,Pass,5,2,no,yes,no,yes,Average,yes,no,High
+899,64,69,Pass,7,4,yes,no,yes,no,Average,yes,no,Low
+900,59,71,Fail,5,2,no,yes,no,yes,Very Good,no,yes,High
+901,51,52,Fail,4,2,no,yes,no,yes,Very Good,yes,no,Low
+902,71,58,Pass,1,1,yes,no,yes,yes,Poor,yes,no,High
+903,70,59,Pass,7,2,yes,no,yes,yes,Average,yes,yes,Low
+904,64,64,Fail,5,3,no,no,no,yes,Poor,yes,yes,High
+905,24,58,Pass,4,1,yes,yes,yes,yes,Very Good,yes,yes,High
+906,70,59,Pass,6,2,yes,yes,yes,yes,Very Good,yes,yes,High
+907,62,55,Pass,1,4,yes,no,yes,yes,Average,yes,no,High
+908,75,59,Pass,3,3,yes,no,no,yes,Good,yes,yes,Low
+909,67,70,Pass,5,2,no,no,no,yes,Good,yes,no,High
+910,70,64,Fail,8,2,yes,no,yes,yes,Poor,yes,no,High
+911,63,65,Pass,5,1,no,no,no,yes,Very Good,yes,no,Low
+912,68,65,Pass,2,4,yes,yes,yes,yes,Average,yes,no,High
+913,74,56,Fail,11,4,no,yes,no,yes,Very Poor,yes,no,High
+914,57,61,Pass,8,3,no,yes,yes,yes,Average,yes,yes,High
+915,39,47,Pass,3,1,yes,no,yes,yes,Good,yes,yes,High
+916,51,70,Pass,7,2,no,no,no,yes,Average,yes,no,Low
+917,58,30,Fail,5,2,yes,yes,yes,no,Good,yes,no,Low
+918,55,57,Pass,3,2,no,yes,yes,yes,Very Good,yes,no,Low
+919,42,69,Pass,10,2,no,no,no,yes,Good,no,no,High
+920,38,44,Fail,6,3,no,no,no,yes,Good,yes,no,Low
+921,47,61,Fail,7,2,no,no,no,no,Average,yes,no,High
+922,63,51,Fail,2,1,yes,yes,no,no,Average,yes,no,High
+923,70,54,Pass,4,3,yes,no,no,yes,Average,yes,yes,High
+924,64,67,Pass,8,2,yes,no,yes,yes,Average,yes,no,High
+925,65,59,Pass,6,3,no,yes,yes,yes,Very Good,no,no,Low
+926,54,37,Pass,4,2,no,no,yes,yes,Very Good,yes,yes,High
+927,37,48,Fail,7,2,yes,yes,yes,yes,Poor,no,yes,Low
+928,50,67,Pass,5,1,yes,yes,no,yes,Good,yes,yes,High
+929,52,62,Fail,5,4,yes,no,yes,yes,Good,yes,yes,High
+930,50,75,Pass,4,3,yes,no,no,yes,Very Good,no,yes,High
+931,55,74,Pass,7,2,yes,no,yes,yes,Average,yes,no,High
+932,59,54,Fail,7,1,no,yes,yes,no,Good,yes,no,Low
+933,63,83,Pass,5,3,no,no,no,yes,Average,yes,no,Low
+934,52,58,Fail,2,2,no,yes,yes,no,Very Poor,no,no,High
+935,35,48,Fail,5,4,no,yes,yes,yes,Very Poor,yes,yes,High
+936,50,51,Pass,1,4,no,no,no,yes,Poor,yes,yes,High
+937,55,35,Pass,3,3,no,no,no,no,Average,yes,yes,High
+938,67,74,Pass,11,4,yes,yes,no,yes,Average,yes,no,Low
+939,49,73,Fail,4,1,yes,no,no,yes,Good,yes,yes,High
+940,60,47,Pass,6,2,yes,yes,no,yes,Good,yes,no,High
+941,57,55,Fail,5,2,no,no,yes,yes,Very Good,yes,yes,Low
+942,55,58,Pass,11,1,no,no,yes,yes,Average,no,yes,High
+943,64,48,Fail,5,4,no,no,no,yes,Very Good,yes,yes,High
+944,48,40,Fail,7,1,no,no,yes,yes,Good,no,no,Low
+945,49,55,Pass,6,4,yes,yes,yes,yes,Average,yes,yes,High
+946,54,54,Pass,6,3,no,no,yes,yes,Good,yes,yes,High
+947,48,54,Pass,7,2,no,no,yes,yes,Good,no,no,Low
+948,60,60,Pass,6,1,no,yes,no,no,Poor,yes,no,High
+949,47,72,Pass,5,1,no,no,yes,yes,Good,yes,no,High
+950,57,54,Pass,2,2,no,yes,yes,yes,Good,yes,no,High
+951,53,59,Fail,3,2,yes,no,no,no,Very Good,yes,no,Low
+952,57,65,Fail,2,2,yes,no,no,yes,Very Good,no,yes,High
+953,50,63,Fail,4,2,no,no,no,yes,Good,yes,no,High
+954,51,51,Pass,6,3,no,yes,no,yes,Good,no,no,High
+955,55,58,Fail,2,2,yes,no,no,yes,Very Good,no,no,High
+956,57,63,Pass,6,2,no,no,no,yes,Very Good,yes,no,High
+957,54,46,Pass,6,3,no,no,yes,yes,Good,yes,no,High
+958,72,70,Pass,7,2,yes,no,yes,yes,Good,yes,no,High
+959,45,72,Pass,5,2,yes,yes,no,yes,Poor,yes,yes,Low
+960,54,50,Pass,2,3,yes,no,yes,no,Good,no,no,Low
+961,39,59,Pass,2,4,yes,yes,yes,yes,Average,yes,no,High
+962,58,64,Fail,7,4,yes,no,yes,no,Average,yes,no,Low
+963,43,52,Pass,3,1,yes,yes,yes,no,Average,yes,no,High
+964,52,62,Fail,8,2,yes,no,yes,yes,Average,yes,no,High
+965,51,59,Pass,3,1,no,yes,yes,yes,Average,yes,no,High
+966,57,43,Pass,3,4,no,no,yes,yes,Very Good,yes,no,High
+967,49,62,Pass,6,2,no,yes,yes,yes,Good,yes,yes,High
+968,49,46,Fail,6,2,no,no,yes,no,Average,no,no,High
+969,69,67,Pass,4,4,no,yes,no,yes,Good,yes,no,Low
+970,57,51,Pass,5,4,no,no,no,yes,Very Good,yes,yes,High
+971,49,56,Pass,7,3,no,yes,no,yes,Average,yes,no,High
+972,52,71,Pass,5,1,yes,no,no,yes,Average,yes,no,Low
+973,71,62,Fail,5,2,no,no,no,yes,Average,yes,no,Low
+974,52,47,Pass,5,3,no,no,no,yes,Very Good,no,no,High
+975,48,47,Pass,4,2,yes,no,yes,yes,Average,yes,yes,High
+976,48,52,Fail,6,1,yes,yes,no,yes,Very Good,yes,no,Low
+977,49,61,Pass,2,2,no,yes,no,yes,Average,yes,no,High
+978,49,61,Fail,4,4,yes,no,yes,yes,Poor,yes,no,High
+979,42,49,Fail,5,2,yes,no,no,yes,Poor,yes,no,Low
+980,43,46,Fail,7,3,no,no,no,yes,Average,yes,yes,High
+981,46,60,Pass,3,2,no,yes,yes,yes,Good,yes,no,Low
+982,60,56,Fail,9,2,no,no,no,yes,Average,no,no,High
+983,51,79,Pass,2,4,no,no,yes,yes,Average,yes,no,Low
+984,52,58,Fail,3,2,no,yes,yes,yes,Average,yes,no,High
+985,67,76,Pass,6,3,yes,yes,yes,yes,Good,no,no,High
+986,67,46,Pass,5,2,no,no,no,yes,Good,yes,yes,Low
+987,52,42,Fail,7,1,yes,yes,no,yes,Good,yes,no,High
+988,48,46,Pass,2,3,no,no,no,yes,Very Good,yes,no,Low
+989,46,69,Fail,8,3,yes,no,no,yes,Average,yes,no,High
+990,61,75,Fail,7,3,yes,no,yes,yes,Very Poor,no,no,Low
+991,52,50,Pass,2,2,yes,no,yes,no,Average,yes,no,Low
+992,51,53,Pass,6,2,no,no,no,yes,Average,yes,yes,Low
+993,46,46,Pass,3,4,no,yes,no,yes,Average,yes,yes,Low
+994,47,39,Fail,4,2,yes,yes,no,yes,Very Good,yes,yes,High
+995,58,65,Pass,5,3,yes,no,yes,yes,Good,yes,no,High
+996,41,60,Pass,4,2,no,no,no,yes,Poor,yes,no,Low
+997,64,58,Fail,6,4,no,no,yes,yes,Average,yes,no,High
+998,49,43,Fail,5,4,yes,no,yes,yes,Good,no,no,High
+999,53,74,Fail,6,1,yes,yes,no,no,Very Good,yes,yes,High
+1000,41,52,Fail,3,3,yes,yes,no,yes,Very Poor,yes,no,High
+1001,54,63,Pass,4,2,no,yes,yes,no,Average,yes,no,Low
+1002,51,43,Pass,3,2,yes,no,no,no,Very Good,yes,no,Low
+1003,54,56,Pass,4,2,yes,no,no,no,Very Good,yes,yes,High
+1004,69,60,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+1005,56,61,Fail,5,2,no,no,no,yes,Very Poor,no,yes,High
+1006,47,59,Fail,4,2,no,no,yes,yes,Average,no,yes,Low
+1007,47,62,Fail,6,2,no,no,no,yes,Very Good,yes,no,High
+1008,60,46,Pass,5,1,no,no,no,yes,Average,yes,no,Low
+1009,67,59,Pass,7,2,no,yes,yes,yes,Very Good,no,no,High
+1010,57,59,Pass,5,2,yes,no,no,no,Average,no,no,Low
+1011,61,60,Pass,5,3,no,no,yes,yes,Good,yes,no,Low
+1012,61,58,Fail,6,3,yes,no,yes,yes,Good,no,no,Low
+1013,69,45,Pass,3,4,no,no,no,yes,Average,no,yes,Low
+1014,35,44,Fail,7,2,no,no,yes,yes,Average,yes,no,High
+1015,61,35,Fail,6,1,no,no,yes,yes,Average,yes,yes,Low
+1016,64,66,Pass,7,3,no,no,no,yes,Good,yes,no,Low
+1017,41,66,Pass,7,3,no,yes,no,no,Poor,no,yes,High
+1018,46,66,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1019,46,61,Pass,5,3,yes,yes,no,yes,Good,yes,yes,High
+1020,47,36,Fail,5,2,no,yes,no,yes,Average,yes,yes,Low
+1021,50,47,Pass,7,1,yes,yes,no,no,Very Good,yes,no,High
+1022,57,59,Fail,3,3,no,no,yes,yes,Good,yes,no,High
+1023,63,59,Fail,6,2,yes,yes,no,no,Good,yes,no,High
+1024,65,55,Pass,6,2,yes,no,yes,no,Average,no,yes,High
+1025,46,61,Fail,3,2,no,no,no,yes,Good,yes,yes,High
+1026,46,58,Fail,8,2,yes,no,no,yes,Poor,no,no,High
+1027,68,59,Fail,7,2,yes,no,no,yes,Very Good,yes,no,Low
+1028,61,51,Pass,3,1,no,yes,no,yes,Very Poor,yes,no,Low
+1029,55,67,Pass,4,4,no,no,no,no,Good,no,no,High
+1030,59,53,Pass,2,3,yes,yes,no,yes,Good,yes,no,High
+1031,54,44,Pass,4,2,no,no,no,no,Poor,yes,no,High
+1032,60,50,Fail,3,2,no,no,no,yes,Very Poor,yes,no,High
+1033,51,54,Fail,5,1,no,yes,yes,yes,Poor,yes,no,Low
+1034,57,67,Fail,6,3,no,yes,no,yes,Average,yes,yes,High
+1035,39,57,Pass,6,2,yes,no,no,yes,Very Good,yes,no,High
+1036,48,56,Pass,4,2,yes,no,no,yes,Very Good,yes,no,High
+1037,48,45,Fail,4,2,yes,no,no,yes,Very Poor,yes,no,High
+1038,51,65,Pass,5,2,yes,yes,yes,yes,Average,no,no,High
+1039,45,51,Pass,8,3,yes,no,no,no,Very Good,yes,yes,High
+1040,49,56,Pass,5,3,yes,yes,yes,yes,Poor,yes,yes,High
+1041,39,72,Pass,8,4,no,no,no,yes,Very Good,yes,yes,High
+1042,60,63,Fail,2,2,no,no,no,yes,Average,no,no,Low
+1043,54,41,Pass,7,3,no,yes,yes,no,Good,no,no,Low
+1044,37,40,Fail,11,1,yes,yes,no,yes,Average,yes,yes,Low
+1045,46,57,Fail,4,2,yes,no,no,yes,Poor,yes,yes,Low
+1046,58,45,Pass,6,2,no,yes,no,no,Average,yes,yes,Low
+1047,49,64,Fail,3,2,yes,no,no,no,Good,no,yes,High
+1048,48,58,Pass,3,2,no,no,yes,yes,Average,yes,no,High
+1049,54,59,Fail,1,3,no,yes,yes,no,Good,no,yes,High
+1050,58,50,Pass,3,1,yes,yes,no,yes,Poor,yes,no,High
+1051,40,75,Fail,6,2,yes,no,yes,no,Average,yes,no,High
+1052,60,86,Pass,3,4,yes,no,no,yes,Average,yes,yes,High
+1053,46,55,Fail,2,2,yes,no,no,yes,Average,no,no,High
+1054,54,61,Fail,6,3,yes,yes,no,no,Poor,yes,no,High
+1055,54,58,Pass,4,3,yes,yes,no,yes,Average,yes,yes,High
+1056,49,55,Fail,3,2,no,no,no,yes,Good,no,no,Low
+1057,44,49,Pass,6,2,yes,no,no,yes,Very Good,yes,yes,Low
+1058,52,47,Pass,2,3,no,yes,no,yes,Good,yes,yes,Low
+1059,71,46,Fail,3,3,yes,yes,yes,yes,Poor,yes,yes,Low
+1060,41,62,Fail,10,1,yes,no,yes,yes,Average,yes,no,High
+1061,71,52,Pass,7,2,yes,no,no,no,Very Poor,yes,no,High
+1062,52,32,Pass,4,2,yes,yes,no,yes,Poor,yes,no,Low
+1063,55,62,Fail,1,3,yes,no,yes,no,Average,yes,no,High
+1064,44,57,Fail,3,2,yes,yes,no,yes,Poor,yes,yes,High
+1065,47,71,Pass,7,4,yes,yes,no,yes,Poor,no,no,Low
+1066,49,61,Pass,7,4,yes,no,no,yes,Poor,no,no,Low
+1067,44,43,Fail,3,3,no,no,yes,no,Average,no,no,High
+1068,52,35,Fail,7,3,no,yes,yes,yes,Poor,no,no,Low
+1069,50,50,Fail,2,2,yes,yes,no,yes,Average,no,no,High
+1070,73,51,Pass,5,1,yes,yes,yes,yes,Good,no,no,High
+1071,43,67,Fail,2,2,no,no,no,no,Poor,no,no,High
+1072,56,57,Fail,4,2,no,yes,no,yes,Poor,yes,yes,Low
+1073,57,69,Pass,5,2,no,yes,yes,yes,Very Poor,yes,yes,High
+1074,44,44,Pass,3,3,yes,yes,no,no,Average,yes,yes,Low
+1075,61,67,Fail,4,2,yes,no,no,yes,Good,no,yes,High
+1076,51,65,Pass,5,3,no,no,yes,no,Very Poor,yes,no,High
+1077,30,37,Fail,2,2,no,yes,yes,no,Average,no,yes,High
+1078,61,71,Fail,5,2,yes,no,no,yes,Good,yes,no,High
+1079,43,58,Fail,6,2,no,yes,no,yes,Average,no,no,High
+1080,44,61,Fail,2,4,yes,no,no,yes,Very Good,yes,no,High
+1081,61,49,Pass,5,3,yes,yes,no,no,Very Good,yes,yes,Low
+1082,51,70,Pass,5,2,yes,yes,no,yes,Very Poor,no,yes,Low
+1083,64,46,Fail,7,2,yes,no,yes,no,Average,yes,yes,High
+1084,67,66,Pass,8,4,no,no,yes,yes,Good,yes,no,High
+1085,48,66,Pass,7,1,no,no,yes,yes,Very Good,yes,no,High
+1086,62,48,Pass,4,2,no,no,no,yes,Good,yes,no,High
+1087,47,77,Pass,7,2,yes,yes,yes,yes,Poor,yes,no,High
+1088,77,60,Fail,6,2,yes,yes,no,yes,Average,yes,no,High
+1089,48,64,Pass,7,2,yes,no,no,yes,Good,no,yes,Low
+1090,65,42,Pass,5,1,yes,no,no,yes,Average,yes,no,Low
+1091,63,79,Fail,5,3,no,no,yes,yes,Average,yes,no,High
+1092,58,45,Fail,5,1,yes,no,no,yes,Good,no,yes,Low
+1093,48,68,Fail,7,3,no,no,no,yes,Poor,yes,no,High
+1094,53,48,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+1095,33,51,Fail,2,2,yes,yes,no,yes,Very Good,yes,no,Low
+1096,57,65,Fail,4,1,no,no,yes,no,Average,yes,no,Low
+1097,58,68,Pass,7,3,yes,yes,yes,yes,Good,yes,no,High
+1098,56,45,Fail,7,2,no,yes,no,no,Good,no,no,Low
+1099,25,68,Pass,6,2,no,yes,no,yes,Poor,yes,no,Low
+1100,42,68,Fail,3,2,yes,no,yes,no,Poor,yes,no,Low
+1101,47,48,Pass,1,3,yes,no,yes,yes,Very Poor,yes,no,High
+1102,57,73,Pass,4,1,no,no,no,yes,Very Good,yes,no,Low
+1103,57,43,Pass,9,1,yes,no,no,yes,Average,yes,no,Low
+1104,53,51,Pass,5,2,no,no,yes,yes,Very Poor,yes,no,High
+1105,61,62,Fail,4,3,yes,yes,no,yes,Average,yes,no,High
+1106,44,49,Fail,4,2,no,no,no,yes,Very Poor,yes,yes,High
+1107,61,60,Fail,7,3,no,no,no,yes,Very Poor,no,yes,High
+1108,59,60,Fail,4,3,no,no,no,yes,Average,yes,yes,High
+1109,58,56,Pass,6,4,yes,yes,no,no,Average,no,no,Low
+1110,53,66,Fail,2,2,yes,yes,yes,yes,Average,yes,yes,Low
+1111,73,55,Pass,7,2,yes,yes,no,yes,Good,yes,yes,High
+1112,59,60,Fail,3,3,no,no,no,yes,Good,yes,yes,Low
+1113,45,69,Pass,3,2,yes,no,no,yes,Average,no,no,Low
+1114,57,65,Pass,6,2,yes,no,no,yes,Good,yes,yes,High
+1115,62,65,Fail,4,2,no,no,yes,yes,Average,yes,no,High
+1116,49,46,Fail,7,4,yes,yes,yes,yes,Average,yes,no,High
+1117,65,63,Fail,6,2,no,yes,no,yes,Average,no,no,High
+1118,58,49,Fail,8,2,no,no,yes,yes,Average,yes,no,High
+1119,31,45,Pass,3,3,no,yes,yes,no,Poor,yes,yes,High
+1120,57,57,Fail,5,2,yes,yes,no,no,Very Poor,yes,no,Low
+1121,50,48,Fail,6,4,yes,no,no,yes,Average,yes,no,High
+1122,60,65,Pass,3,2,no,no,no,yes,Average,yes,yes,High
+1123,64,66,Pass,4,3,yes,no,no,yes,Average,no,no,Low
+1124,56,38,Pass,8,2,no,yes,no,yes,Very Good,yes,no,Low
+1125,71,49,Fail,4,3,no,no,no,yes,Average,yes,no,Low
+1126,53,43,Pass,4,4,yes,yes,no,yes,Very Good,yes,yes,High
+1127,61,53,Pass,4,3,no,no,yes,yes,Average,yes,no,High
+1128,63,62,Pass,4,3,no,yes,no,no,Poor,yes,no,High
+1129,54,55,Pass,8,1,no,no,no,no,Very Good,yes,no,High
+1130,62,52,Fail,7,4,no,yes,no,no,Very Good,yes,no,High
+1131,49,71,Fail,7,3,no,no,no,yes,Average,no,no,High
+1132,50,34,Pass,5,4,yes,yes,no,no,Poor,yes,yes,Low
+1133,41,70,Pass,7,3,no,yes,no,yes,Poor,yes,no,High
+1134,57,52,Pass,4,2,yes,no,no,yes,Good,yes,no,High
+1135,58,57,Fail,7,3,no,no,yes,no,Very Poor,no,yes,High
+1136,66,52,Pass,2,1,yes,yes,yes,no,Good,no,yes,High
+1137,62,73,Pass,2,3,yes,yes,yes,no,Good,yes,yes,High
+1138,52,45,Fail,5,2,yes,no,no,yes,Poor,yes,yes,Low
+1139,43,58,Pass,5,2,yes,yes,no,yes,Good,yes,yes,High
+1140,59,63,Fail,8,4,yes,yes,no,yes,Good,yes,no,High
+1141,66,41,Pass,6,4,no,yes,no,no,Average,no,no,Low
+1142,62,48,Fail,5,4,yes,no,no,yes,Average,yes,yes,Low
+1143,65,56,Pass,8,3,no,yes,no,yes,Good,yes,no,Low
+1144,52,49,Pass,5,3,yes,no,yes,yes,Average,yes,no,High
+1145,50,49,Pass,7,3,yes,no,no,yes,Good,yes,yes,High
+1146,47,54,Fail,4,1,yes,no,no,no,Average,no,yes,High
+1147,54,64,Fail,7,4,yes,yes,yes,yes,Poor,yes,yes,Low
+1148,54,54,Pass,6,4,yes,no,yes,yes,Very Good,yes,no,High
+1149,57,68,Fail,5,3,no,no,no,no,Average,yes,no,Low
+1150,53,48,Fail,3,4,yes,no,no,yes,Average,yes,yes,Low
+1151,53,45,Fail,5,2,no,no,no,no,Good,yes,yes,High
+1152,47,77,Fail,5,2,yes,yes,no,no,Good,yes,no,High
+1153,64,51,Pass,4,4,no,no,no,yes,Poor,yes,no,High
+1154,55,44,Fail,1,2,yes,yes,yes,yes,Very Good,no,no,High
+1155,53,40,Pass,6,3,no,no,no,yes,Very Poor,yes,no,Low
+1156,47,68,Pass,6,2,yes,no,yes,yes,Good,yes,yes,High
+1157,41,54,Pass,7,3,yes,yes,no,yes,Average,no,no,High
+1158,68,55,Fail,8,3,no,yes,yes,yes,Average,yes,no,High
+1159,60,56,Fail,7,3,no,yes,no,yes,Good,no,no,High
+1160,38,68,Fail,1,2,yes,no,no,yes,Good,yes,no,High
+1161,62,56,Fail,5,2,yes,no,no,yes,Good,yes,no,High
+1162,64,81,Fail,4,3,no,no,yes,yes,Average,yes,yes,High
+1163,56,59,Pass,8,4,yes,no,yes,yes,Very Good,yes,yes,High
+1164,70,68,Pass,3,1,yes,yes,yes,yes,Average,no,no,Low
+1165,57,66,Pass,1,1,no,yes,yes,yes,Average,yes,no,Low
+1166,40,57,Pass,2,1,no,yes,no,no,Very Good,no,yes,Low
+1167,58,52,Pass,3,4,yes,yes,no,yes,Very Poor,yes,no,High
+1168,57,61,Pass,7,3,no,no,no,no,Poor,yes,no,Low
+1169,48,63,Fail,4,4,yes,no,no,yes,Very Good,yes,yes,High
+1170,60,52,Fail,7,2,yes,no,yes,yes,Very Good,yes,no,High
+1171,38,59,Fail,11,2,yes,no,no,no,Good,yes,yes,High
+1172,64,70,Fail,3,3,no,yes,no,yes,Average,yes,no,High
+1173,46,78,Pass,7,2,yes,yes,no,yes,Average,yes,no,Low
+1174,45,66,Fail,5,2,yes,yes,no,yes,Average,no,no,High
+1175,53,76,Pass,9,2,no,no,no,yes,Average,no,yes,High
+1176,59,51,Pass,5,2,yes,no,no,yes,Average,no,no,High
+1177,56,65,Fail,7,2,no,yes,no,yes,Very Poor,yes,yes,Low
+1178,47,71,Pass,4,1,no,no,no,yes,Average,yes,no,High
+1179,49,49,Pass,3,2,no,no,no,no,Average,no,no,High
+1180,43,53,Pass,5,2,yes,yes,yes,no,Good,yes,no,Low
+1181,52,75,Fail,4,3,no,no,no,yes,Average,yes,no,High
+1182,65,48,Fail,8,2,no,no,yes,no,Very Good,no,no,Low
+1183,54,44,Pass,4,2,yes,yes,no,yes,Average,no,yes,Low
+1184,63,73,Fail,3,1,yes,no,no,yes,Average,yes,no,High
+1185,69,69,Pass,5,2,yes,yes,no,no,Average,yes,yes,Low
+1186,49,62,Pass,2,3,yes,no,no,yes,Poor,yes,yes,Low
+1187,53,57,Pass,6,4,no,no,no,yes,Average,yes,no,High
+1188,76,53,Fail,6,3,no,no,yes,yes,Good,yes,no,High
+1189,69,60,Pass,3,2,yes,yes,no,yes,Average,yes,yes,Low
+1190,38,73,Pass,4,1,no,no,no,yes,Very Good,yes,no,High
+1191,58,60,Pass,5,2,yes,yes,no,no,Good,yes,no,High
+1192,55,79,Pass,7,4,no,yes,yes,yes,Poor,yes,no,Low
+1193,63,49,Fail,6,3,yes,no,no,yes,Average,yes,no,High
+1194,47,57,Pass,3,1,yes,yes,no,yes,Good,yes,no,Low
+1195,46,54,Pass,6,1,yes,yes,yes,no,Good,yes,no,High
+1196,48,47,Pass,3,2,no,no,no,yes,Very Good,yes,no,Low
+1197,49,56,Pass,6,2,yes,no,yes,yes,Good,no,yes,High
+1198,63,62,Fail,2,3,yes,yes,no,no,Very Poor,yes,no,High
+1199,43,63,Pass,3,2,no,no,no,yes,Poor,no,no,High
+1200,48,79,Pass,4,3,no,no,no,yes,Good,no,no,High
+1201,37,62,Pass,11,2,no,yes,no,yes,Poor,yes,no,High
+1202,65,69,Pass,5,2,no,no,yes,yes,Average,no,yes,High
+1203,67,58,Fail,4,2,no,no,no,yes,Good,yes,no,Low
+1204,51,74,Fail,3,3,no,no,yes,yes,Average,yes,yes,High
+1205,52,81,Fail,2,2,no,yes,no,yes,Average,yes,no,High
+1206,59,63,Pass,7,2,no,yes,yes,no,Good,yes,no,High
+1207,69,48,Fail,4,3,no,no,no,yes,Poor,yes,no,Low
+1208,59,52,Fail,1,1,yes,no,no,yes,Good,yes,no,Low
+1209,48,60,Pass,0,2,yes,no,no,no,Good,yes,no,Low
+1210,38,62,Fail,6,2,yes,no,no,yes,Average,yes,yes,High
+1211,43,64,Fail,5,3,no,no,yes,yes,Average,yes,yes,High
+1212,55,62,Pass,5,1,no,no,no,yes,Good,yes,no,High
+1213,48,58,Pass,9,3,no,no,no,yes,Average,no,no,Low
+1214,56,51,Fail,1,1,no,no,yes,yes,Very Poor,yes,no,High
+1215,49,62,Pass,2,1,yes,yes,no,yes,Very Good,yes,yes,Low
+1216,44,76,Fail,5,3,no,no,no,no,Good,yes,no,High
+1217,43,68,Fail,4,3,yes,yes,yes,yes,Average,yes,no,High
+1218,70,63,Fail,5,4,yes,yes,yes,yes,Average,yes,yes,High
+1219,63,68,Pass,8,2,no,no,yes,yes,Very Good,no,no,High
+1220,72,54,Pass,7,2,no,yes,yes,no,Good,yes,no,High
+1221,60,52,Pass,5,3,no,yes,yes,yes,Average,no,no,High
+1222,50,50,Fail,6,2,yes,no,no,no,Good,no,no,High
+1223,68,56,Fail,4,1,no,no,yes,yes,Average,yes,no,Low
+1224,54,53,Fail,4,2,yes,no,yes,yes,Poor,no,no,High
+1225,57,70,Pass,5,2,no,no,yes,yes,Average,yes,yes,High
+1226,54,53,Fail,5,2,yes,no,no,yes,Average,no,no,High
+1227,25,49,Fail,3,4,no,yes,no,yes,Good,yes,no,High
+1228,71,77,Pass,6,3,yes,yes,no,yes,Poor,yes,no,High
+1229,59,53,Pass,8,4,yes,no,no,no,Good,no,yes,High
+1230,58,59,Fail,3,4,no,no,no,no,Average,yes,yes,High
+1231,54,62,Fail,6,2,no,no,yes,yes,Average,no,yes,High
+1232,56,46,Fail,3,2,no,no,yes,no,Average,yes,no,Low
+1233,49,70,Pass,8,2,no,yes,yes,yes,Average,yes,no,High
+1234,61,64,Pass,3,4,no,no,yes,yes,Average,yes,yes,High
+1235,41,73,Fail,11,2,no,yes,yes,yes,Average,no,yes,High
+1236,56,51,Fail,8,2,yes,no,no,yes,Good,yes,no,High
+1237,60,58,Fail,10,1,yes,yes,yes,yes,Good,yes,no,High
+1238,53,58,Fail,7,2,no,no,no,yes,Good,yes,no,High
+1239,58,60,Pass,9,2,yes,yes,no,no,Good,no,yes,High
+1240,45,43,Fail,7,2,yes,no,no,yes,Good,yes,no,Low
+1241,45,59,Pass,8,4,yes,yes,yes,no,Poor,yes,no,High
+1242,57,43,Pass,8,1,yes,yes,no,yes,Very Good,yes,yes,Low
+1243,61,61,Pass,4,4,no,no,no,yes,Average,yes,yes,High
+1244,36,36,Fail,5,1,yes,no,no,no,Good,no,yes,High
+1245,60,39,Fail,6,4,yes,no,no,yes,Good,yes,yes,Low
+1246,49,66,Pass,5,2,no,yes,no,no,Average,yes,no,High
+1247,53,52,Pass,2,3,no,no,yes,yes,Very Good,yes,no,High
+1248,41,48,Fail,5,2,no,yes,yes,no,Poor,yes,no,Low
+1249,46,70,Fail,3,3,yes,yes,yes,yes,Average,yes,no,High
+1250,64,61,Fail,7,4,yes,no,no,yes,Poor,no,no,Low
+1251,55,66,Pass,1,1,yes,yes,yes,yes,Poor,yes,no,High
+1252,51,56,Pass,1,1,yes,no,yes,no,Good,yes,yes,High
+1253,53,84,Pass,3,2,yes,no,no,yes,Very Poor,yes,no,High
+1254,59,51,Pass,2,2,no,yes,yes,no,Very Good,no,no,High
+1255,59,75,Pass,5,1,no,yes,no,yes,Good,yes,yes,High
+1256,54,57,Pass,0,3,no,no,no,yes,Average,no,no,Low
+1257,65,41,Pass,4,2,no,no,yes,yes,Average,yes,no,High
+1258,64,62,Pass,4,3,no,no,yes,yes,Poor,yes,no,High
+1259,59,61,Fail,3,4,no,no,no,yes,Very Good,yes,no,High
+1260,55,47,Pass,2,3,no,no,no,yes,Good,yes,no,High
+1261,61,48,Pass,5,1,no,yes,no,no,Average,no,yes,High
+1262,58,57,Fail,5,2,yes,no,yes,yes,Very Poor,yes,no,High
+1263,65,61,Fail,3,2,yes,yes,yes,yes,Average,yes,no,High
+1264,63,33,Fail,2,2,no,no,yes,yes,Poor,yes,yes,Low
+1265,44,68,Fail,6,2,yes,yes,no,no,Good,yes,no,Low
+1266,44,53,Fail,2,4,no,no,yes,yes,Good,no,no,Low
+1267,47,44,Fail,7,3,no,yes,yes,yes,Average,no,yes,High
+1268,64,67,Fail,5,1,no,no,no,yes,Very Good,yes,no,High
+1269,39,57,Fail,10,2,yes,no,no,no,Poor,yes,no,High
+1270,58,70,Pass,2,2,yes,no,yes,no,Average,yes,no,Low
+1271,58,62,Pass,6,4,yes,no,no,no,Good,no,no,High
+1272,66,57,Fail,6,4,no,no,no,no,Very Poor,no,no,High
+1273,56,56,Pass,6,2,yes,yes,no,yes,Average,no,yes,High
+1274,41,62,Fail,4,2,no,no,no,yes,Average,yes,yes,High
+1275,45,53,Pass,6,2,no,no,no,yes,Average,yes,no,Low
+1276,43,49,Pass,6,2,no,yes,no,yes,Average,yes,no,High
+1277,49,64,Fail,2,2,no,no,no,yes,Good,yes,yes,High
+1278,53,56,Pass,3,3,no,no,no,yes,Average,yes,no,Low
+1279,43,58,Fail,3,2,yes,no,no,yes,Poor,yes,no,High
+1280,69,68,Fail,6,3,no,yes,no,yes,Poor,yes,no,Low
+1281,41,56,Fail,2,2,yes,no,no,yes,Average,yes,no,Low
+1282,68,58,Pass,5,3,yes,yes,yes,yes,Poor,yes,no,High
+1283,66,52,Fail,3,3,yes,no,yes,no,Very Good,yes,yes,High
+1284,63,62,Fail,8,2,no,no,no,yes,Good,yes,no,High
+1285,48,61,Fail,3,3,yes,no,no,no,Average,yes,yes,High
+1286,58,67,Fail,7,2,no,no,no,yes,Good,yes,no,Low
+1287,42,52,Fail,2,1,no,yes,no,yes,Average,yes,no,High
+1288,64,53,Fail,4,2,no,no,yes,yes,Poor,no,no,High
+1289,54,65,Fail,3,2,yes,yes,no,yes,Good,yes,no,Low
+1290,50,60,Pass,6,1,no,yes,no,no,Good,yes,yes,High
+1291,42,48,Pass,5,3,no,no,yes,yes,Very Poor,yes,no,Low
+1292,30,71,Pass,2,2,yes,yes,yes,no,Average,no,no,Low
+1293,44,41,Pass,12,1,no,no,yes,yes,Very Poor,yes,yes,High
+1294,66,65,Fail,1,3,yes,no,yes,yes,Average,yes,no,Low
+1295,50,45,Pass,4,3,no,no,yes,yes,Average,no,no,High
+1296,53,76,Fail,6,2,no,yes,no,yes,Good,yes,no,Low
+1297,61,42,Pass,4,2,yes,no,no,yes,Poor,yes,no,Low
+1298,73,69,Pass,7,2,yes,no,no,yes,Very Poor,no,no,High
+1299,68,57,Pass,5,2,no,no,no,no,Average,no,no,High
+1300,45,54,Pass,4,4,yes,no,no,yes,Good,yes,no,High
+1301,35,59,Pass,7,2,yes,no,yes,yes,Average,no,no,High
+1302,78,64,Pass,7,2,no,no,yes,no,Average,yes,yes,High
+1303,77,48,Fail,2,4,no,yes,yes,yes,Average,yes,yes,High
+1304,56,49,Pass,5,3,no,yes,no,yes,Good,yes,no,High
+1305,42,64,Pass,3,2,no,no,no,yes,Average,yes,no,High
+1306,64,40,Fail,4,3,yes,no,yes,no,Very Poor,yes,no,High
+1307,53,52,Pass,5,3,no,no,no,yes,Poor,no,yes,High
+1308,53,88,Pass,7,2,no,no,no,yes,Poor,yes,no,High
+1309,63,48,Pass,6,4,yes,no,no,no,Average,yes,no,Low
+1310,58,69,Pass,3,2,no,no,no,no,Very Poor,yes,yes,High
+1311,43,52,Fail,6,3,no,no,yes,yes,Average,yes,no,High
+1312,51,63,Pass,3,4,yes,no,yes,no,Good,yes,yes,Low
+1313,61,64,Fail,4,2,no,yes,no,no,Average,yes,yes,High
+1314,60,69,Fail,5,3,no,no,no,yes,Good,no,no,Low
+1315,57,55,Pass,4,3,yes,no,no,yes,Average,no,no,High
+1316,64,77,Fail,5,3,no,yes,yes,no,Very Good,yes,no,High
+1317,51,52,Pass,4,3,no,yes,no,yes,Very Good,yes,no,High
+1318,56,60,Pass,9,1,no,yes,no,yes,Good,yes,yes,Low
+1319,21,60,Pass,6,3,yes,yes,yes,no,Very Good,yes,no,Low
+1320,50,46,Pass,1,3,yes,no,yes,no,Poor,yes,no,Low
+1321,62,55,Fail,5,3,yes,yes,no,yes,Good,yes,yes,High
+1322,51,59,Pass,7,3,no,no,yes,yes,Average,yes,no,High
+1323,50,53,Fail,2,1,no,no,yes,yes,Good,yes,yes,High
+1324,44,82,Fail,4,2,yes,no,yes,yes,Average,no,yes,High
+1325,65,49,Pass,4,3,yes,no,no,no,Average,yes,no,Low
+1326,60,69,Fail,2,4,yes,no,no,yes,Very Good,yes,no,High
+1327,63,66,Fail,4,2,no,yes,yes,yes,Poor,yes,no,High
+1328,37,57,Pass,6,2,no,yes,no,no,Good,yes,no,High
+1329,53,49,Pass,3,3,yes,no,no,yes,Good,yes,yes,High
+1330,52,50,Pass,4,3,yes,no,yes,yes,Average,yes,no,High
+1331,52,52,Pass,2,3,yes,yes,no,yes,Average,yes,no,High
+1332,48,40,Pass,6,1,yes,yes,no,yes,Poor,no,no,High
+1333,51,47,Pass,3,3,no,no,no,yes,Very Good,no,no,Low
+1334,63,43,Fail,4,3,yes,no,no,yes,Very Good,yes,yes,High
+1335,35,71,Fail,4,3,yes,no,no,yes,Good,yes,no,High
+1336,72,64,Pass,4,3,no,yes,yes,no,Good,yes,no,Low
+1337,59,65,Pass,4,2,no,no,yes,yes,Very Poor,yes,no,Low
+1338,54,63,Pass,6,4,no,no,no,yes,Average,yes,no,High
+1339,64,59,Pass,4,3,no,no,no,yes,Average,yes,no,High
+1340,40,72,Pass,7,2,no,no,no,yes,Average,yes,yes,Low
+1341,48,51,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+1342,53,59,Pass,3,4,no,no,yes,no,Average,yes,no,High
+1343,68,65,Pass,2,3,no,no,no,yes,Good,yes,no,High
+1344,54,44,Pass,4,2,no,yes,yes,yes,Poor,no,no,Low
+1345,59,88,Fail,3,2,yes,no,yes,yes,Poor,no,no,Low
+1346,49,58,Fail,1,2,yes,no,no,yes,Very Poor,yes,yes,Low
+1347,59,59,Pass,4,2,yes,no,no,no,Good,yes,no,High
+1348,71,70,Pass,5,2,no,no,no,no,Average,yes,yes,High
+1349,64,67,Pass,5,2,no,no,yes,yes,Poor,yes,no,Low
+1350,54,58,Pass,4,2,no,no,yes,no,Good,yes,no,High
+1351,61,59,Fail,3,4,yes,yes,no,yes,Poor,yes,no,High
+1352,60,42,Fail,3,2,yes,no,no,yes,Average,yes,no,High
+1353,60,52,Fail,6,2,no,no,no,no,Good,yes,yes,High
+1354,66,63,Pass,1,2,yes,yes,no,yes,Average,no,no,Low
+1355,66,62,Pass,5,1,yes,no,no,yes,Average,yes,no,High
+1356,53,70,Fail,4,4,no,yes,yes,yes,Poor,yes,no,High
+1357,61,56,Pass,6,2,yes,no,yes,yes,Poor,yes,no,High
+1358,51,44,Fail,6,3,yes,no,yes,yes,Average,yes,no,High
+1359,45,68,Pass,8,3,yes,yes,no,no,Very Poor,yes,yes,Low
+1360,52,72,Pass,4,2,yes,no,yes,yes,Very Good,no,no,Low
+1361,54,66,Fail,1,2,no,no,yes,yes,Average,no,no,High
+1362,38,56,Pass,7,2,yes,yes,no,yes,Average,yes,yes,Low
+1363,63,68,Pass,9,2,yes,no,yes,yes,Average,yes,yes,High
+1364,27,92,Pass,2,2,yes,no,yes,no,Very Good,yes,no,High
+1365,82,59,Fail,5,3,no,yes,no,no,Good,no,no,High
+1366,70,44,Pass,6,2,yes,no,no,no,Average,no,no,High
+1367,52,52,Pass,2,2,yes,yes,no,yes,Average,yes,yes,Low
+1368,55,64,Fail,10,1,yes,yes,no,no,Average,no,no,Low
+1369,58,41,Pass,5,3,yes,yes,yes,yes,Average,yes,no,Low
+1370,49,59,Fail,2,2,yes,yes,no,yes,Average,yes,no,Low
+1371,56,61,Pass,5,1,no,yes,no,no,Average,yes,yes,High
+1372,53,73,Fail,7,3,no,no,yes,yes,Average,yes,no,High
+1373,54,71,Pass,5,2,no,yes,no,yes,Very Poor,no,no,High
+1374,56,66,Fail,5,2,no,yes,yes,no,Very Poor,yes,no,Low
+1375,41,36,Fail,3,2,yes,yes,yes,no,Poor,no,no,Low
+1376,55,67,Fail,7,4,no,no,no,yes,Average,no,no,High
+1377,56,65,Pass,2,2,yes,no,yes,no,Very Good,no,yes,Low
+1378,56,60,Pass,11,2,no,no,yes,no,Good,yes,no,Low
+1379,52,40,Fail,6,4,yes,yes,yes,no,Very Good,yes,no,High
+1380,66,50,Pass,5,2,no,no,yes,yes,Average,yes,no,High
+1381,51,46,Pass,6,3,no,no,no,no,Average,no,yes,High
+1382,57,37,Fail,4,2,yes,no,no,no,Good,yes,yes,High
+1383,67,57,Pass,4,1,yes,no,no,yes,Average,yes,no,Low
+1384,54,50,Fail,5,3,no,no,no,yes,Average,no,no,Low
+1385,57,84,Pass,5,4,yes,yes,no,yes,Average,no,yes,High
+1386,54,56,Fail,1,2,no,yes,yes,yes,Average,no,yes,Low
+1387,67,70,Pass,7,3,yes,yes,yes,no,Good,yes,no,High
+1388,52,42,Pass,9,3,yes,no,yes,yes,Good,yes,yes,High
+1389,67,52,Fail,6,2,no,yes,no,yes,Very Good,yes,no,High
+1390,53,58,Pass,6,3,yes,no,no,no,Very Good,yes,no,Low
+1391,46,48,Fail,3,2,yes,no,no,yes,Average,yes,no,Low
+1392,61,53,Fail,6,2,no,no,no,yes,Very Poor,yes,yes,High
+1393,51,55,Pass,8,2,no,no,no,yes,Very Poor,no,no,Low
+1394,61,55,Fail,8,4,no,no,yes,yes,Poor,no,yes,Low
+1395,27,76,Pass,8,2,no,no,no,no,Very Poor,yes,yes,High
+1396,55,61,Fail,6,3,yes,no,no,no,Average,yes,yes,High
+1397,50,62,Pass,4,2,yes,no,no,yes,Very Poor,yes,yes,Low
+1398,44,63,Fail,3,2,yes,no,yes,no,Good,yes,no,High
+1399,49,64,Fail,5,3,no,yes,no,yes,Poor,no,no,High
+1400,49,57,Pass,5,3,yes,no,no,yes,Average,yes,yes,High
+1401,54,54,Fail,3,2,yes,yes,yes,yes,Poor,yes,no,Low
+1402,41,59,Pass,4,2,no,no,no,no,Good,yes,no,Low
+1403,58,69,Pass,6,4,no,yes,yes,yes,Good,no,no,High
+1404,68,69,Pass,4,1,no,yes,yes,yes,Average,no,yes,Low
+1405,57,55,Pass,6,3,yes,no,no,yes,Very Good,no,yes,High
+1406,63,65,Pass,3,3,no,no,yes,yes,Poor,yes,yes,High
+1407,65,56,Pass,3,3,yes,no,no,no,Good,yes,no,Low
+1408,67,58,Pass,4,4,no,no,no,yes,Average,yes,no,High
+1409,73,53,Pass,5,3,yes,no,no,no,Average,yes,no,High
+1410,50,56,Pass,3,2,yes,no,no,yes,Very Poor,yes,yes,High
+1411,47,71,Fail,9,2,yes,no,yes,no,Poor,no,no,High
+1412,62,58,Fail,3,2,yes,yes,no,no,Very Good,yes,no,High
+1413,62,59,Pass,4,1,no,no,no,yes,Good,yes,no,High
+1414,62,43,Fail,5,4,no,no,no,yes,Poor,no,yes,Low
+1415,73,54,Fail,1,1,no,no,no,no,Average,yes,no,High
+1416,55,55,Fail,2,3,yes,no,no,no,Poor,yes,no,High
+1417,59,49,Pass,5,3,no,no,no,yes,Very Poor,yes,no,Low
+1418,45,58,Pass,6,3,yes,yes,no,yes,Very Good,no,no,Low
+1419,76,53,Fail,3,2,yes,yes,no,no,Average,yes,no,High
+1420,51,58,Fail,5,3,yes,yes,no,yes,Average,yes,yes,High
+1421,51,59,Pass,5,2,yes,yes,yes,yes,Very Good,no,yes,Low
+1422,51,48,Pass,6,3,yes,no,no,no,Average,yes,no,High
+1423,48,54,Fail,1,2,yes,yes,no,no,Average,no,no,High
+1424,47,58,Fail,6,4,no,yes,no,no,Average,yes,no,High
+1425,49,69,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1426,41,60,Pass,7,2,yes,no,no,no,Average,yes,yes,High
+1427,47,51,Pass,2,2,yes,no,no,yes,Very Poor,yes,no,High
+1428,74,61,Pass,2,3,yes,no,yes,yes,Good,yes,yes,High
+1429,62,75,Pass,3,3,yes,no,no,yes,Good,yes,no,High
+1430,64,67,Pass,2,2,yes,no,no,no,Good,yes,no,Low
+1431,66,63,Fail,4,1,yes,no,no,yes,Very Good,yes,no,Low
+1432,73,65,Pass,3,2,no,no,yes,no,Average,yes,no,High
+1433,37,72,Fail,5,2,no,yes,no,no,Poor,no,no,High
+1434,42,68,Pass,5,2,yes,no,yes,yes,Good,yes,no,Low
+1435,46,63,Pass,5,2,no,no,no,no,Poor,yes,no,High
+1436,50,68,Pass,7,3,no,no,yes,no,Very Poor,yes,yes,Low
+1437,51,47,Pass,4,2,yes,no,no,yes,Very Poor,yes,no,High
+1438,50,42,Fail,4,4,yes,no,yes,yes,Good,no,no,High
+1439,57,59,Pass,3,2,no,no,no,yes,Very Poor,no,no,High
+1440,55,58,Pass,6,3,no,yes,no,yes,Average,no,no,Low
+1441,47,52,Pass,4,3,yes,yes,no,no,Poor,yes,no,High
+1442,33,66,Pass,5,2,no,yes,yes,yes,Good,yes,yes,Low
+1443,45,39,Fail,5,2,yes,yes,yes,no,Average,yes,no,High
+1444,49,52,Pass,7,2,no,yes,no,no,Poor,yes,yes,High
+1445,52,53,Fail,3,2,yes,no,yes,yes,Good,no,no,High
+1446,43,41,Fail,7,2,yes,no,yes,yes,Good,no,no,High
+1447,50,72,Pass,3,2,no,no,no,yes,Average,yes,yes,High
+1448,43,44,Pass,6,2,no,no,no,yes,Average,yes,no,High
+1449,53,52,Fail,6,2,yes,no,yes,yes,Average,yes,no,High
+1450,44,67,Fail,3,2,yes,yes,no,yes,Very Good,no,no,High
+1451,46,64,Pass,5,1,yes,no,no,yes,Very Poor,yes,no,Low
+1452,41,46,Pass,4,1,yes,no,yes,yes,Average,yes,no,Low
+1453,53,64,Pass,7,3,yes,yes,no,no,Average,no,no,High
+1454,46,60,Pass,6,3,no,yes,yes,yes,Good,no,no,High
+1455,64,81,Pass,4,4,yes,yes,yes,yes,Good,yes,no,High
+1456,59,62,Pass,3,1,no,no,yes,yes,Poor,yes,no,High
+1457,54,56,Pass,4,1,no,no,yes,yes,Poor,no,no,High
+1458,47,49,Pass,3,1,yes,no,no,yes,Very Good,yes,no,High
+1459,58,50,Pass,10,2,no,yes,yes,yes,Good,yes,yes,Low
+1460,61,49,Fail,4,3,no,yes,no,yes,Very Good,yes,yes,Low
+1461,56,71,Pass,1,2,yes,yes,no,yes,Good,no,no,High
+1462,71,58,Fail,3,3,no,yes,no,yes,Average,no,no,Low
+1463,59,63,Pass,4,3,no,yes,no,yes,Poor,no,yes,High
+1464,64,73,Fail,4,4,no,yes,no,yes,Good,yes,no,High
+1465,56,34,Pass,4,1,yes,no,yes,no,Average,yes,no,Low
+1466,61,70,Fail,5,1,no,no,no,yes,Average,yes,no,High
+1467,47,58,Pass,5,2,yes,no,no,yes,Average,no,yes,Low
+1468,50,62,Pass,7,1,no,no,yes,no,Very Good,yes,yes,High
+1469,58,49,Fail,5,4,no,no,no,no,Very Poor,yes,yes,Low
+1470,58,50,Pass,11,2,no,no,no,no,Poor,yes,no,High
+1471,60,62,Fail,4,2,yes,yes,yes,yes,Good,no,no,Low
+1472,66,81,Pass,3,2,yes,no,no,yes,Very Good,no,no,High
+1473,40,68,Pass,4,2,yes,no,yes,yes,Very Good,no,yes,High
+1474,45,70,Pass,0,2,no,yes,yes,no,Average,yes,no,Low
+1475,57,56,Fail,6,2,yes,yes,no,no,Very Poor,no,yes,Low
+1476,47,51,Pass,7,3,yes,no,no,yes,Average,yes,yes,Low
+1477,88,50,Fail,1,4,yes,no,yes,yes,Very Good,no,no,High
+1478,60,53,Pass,5,2,no,yes,no,yes,Average,yes,yes,High
+1479,54,37,Fail,6,2,yes,yes,no,yes,Good,yes,no,High
+1480,49,50,Pass,4,1,no,no,no,no,Average,yes,yes,High
+1481,50,52,Pass,3,3,no,yes,yes,yes,Very Poor,yes,yes,Low
+1482,55,56,Pass,3,1,no,no,no,yes,Average,yes,no,Low
+1483,56,59,Pass,3,4,yes,yes,no,no,Good,yes,yes,Low
+1484,50,61,Pass,4,2,yes,no,no,yes,Very Good,yes,yes,High
+1485,52,57,Pass,6,2,yes,yes,no,yes,Good,yes,no,High
+1486,68,52,Pass,3,2,yes,yes,no,yes,Average,yes,no,Low
+1487,68,38,Pass,4,4,no,no,yes,yes,Good,no,no,Low
+1488,57,52,Pass,6,2,yes,yes,no,yes,Good,no,no,Low
+1489,41,48,Pass,5,2,yes,yes,yes,yes,Very Poor,no,no,Low
+1490,60,62,Pass,7,1,no,no,yes,yes,Very Good,yes,yes,Low
+1491,70,67,Fail,5,2,yes,yes,yes,yes,Average,no,no,High
+1492,68,67,Fail,1,1,yes,yes,no,yes,Very Good,no,no,Low
+1493,62,65,Pass,8,3,yes,yes,yes,no,Good,yes,yes,High
+1494,69,56,Fail,6,4,no,no,yes,yes,Poor,yes,no,Low
+1495,55,52,Fail,4,4,no,no,yes,yes,Poor,yes,no,High
+1496,61,50,Pass,10,1,no,no,yes,yes,Average,yes,no,High
+1497,48,42,Pass,3,2,yes,no,no,yes,Average,no,no,High
+1498,57,67,Fail,5,1,yes,no,no,yes,Average,yes,yes,High
+1499,68,56,Fail,6,2,no,no,yes,no,Good,yes,no,High
+1500,49,45,Fail,5,3,no,no,yes,yes,Average,yes,yes,High
+1501,46,49,Fail,7,2,no,no,no,yes,Very Poor,yes,no,High
+1502,55,49,Pass,6,4,no,no,no,yes,Very Good,yes,yes,High
+1503,52,58,Pass,3,3,yes,no,no,no,Average,yes,no,High
+1504,61,68,Pass,8,2,no,yes,yes,no,Very Good,yes,no,High
+1505,50,54,Pass,6,3,no,no,no,yes,Very Poor,yes,no,High
+1506,72,35,Pass,7,1,no,no,no,yes,Good,yes,no,High
+1507,42,56,Pass,6,2,no,yes,no,yes,Poor,no,yes,High
+1508,67,56,Pass,4,2,yes,yes,yes,no,Good,no,yes,High
+1509,47,55,Pass,6,4,no,no,yes,yes,Good,yes,no,Low
+1510,37,51,Pass,6,2,no,no,no,yes,Very Good,yes,no,High
+1511,57,60,Pass,4,3,yes,no,yes,yes,Average,yes,no,Low
+1512,52,58,Pass,3,3,yes,no,yes,yes,Poor,yes,yes,High
+1513,43,57,Pass,6,3,no,no,no,yes,Very Good,yes,no,High
+1514,38,62,Fail,2,3,yes,yes,no,yes,Average,yes,yes,High
+1515,54,53,Fail,7,2,no,no,no,no,Poor,no,no,High
+1516,64,53,Pass,6,3,yes,no,no,yes,Average,yes,no,High
+1517,60,71,Pass,2,2,no,no,no,yes,Poor,no,no,Low
+1518,55,63,Fail,6,2,yes,no,no,yes,Average,yes,yes,Low
+1519,59,66,Pass,3,1,yes,no,no,yes,Average,yes,no,Low
+1520,54,70,Fail,5,2,no,no,no,yes,Average,yes,no,Low
+1521,40,63,Pass,6,4,no,no,no,no,Average,yes,no,High
+1522,40,67,Fail,3,2,yes,no,yes,yes,Average,yes,no,High
+1523,52,42,Fail,6,2,yes,no,no,no,Good,no,yes,Low
+1524,53,60,Fail,7,2,no,no,yes,yes,Very Good,yes,no,Low
+1525,63,56,Pass,4,1,no,no,no,yes,Poor,yes,no,High
+1526,62,74,Fail,3,2,no,no,yes,yes,Good,no,no,Low
+1527,61,67,Fail,9,2,no,no,no,no,Very Good,yes,yes,High
+1528,52,51,Fail,7,4,yes,no,yes,yes,Good,yes,no,High
+1529,41,61,Pass,6,2,no,no,no,yes,Very Good,yes,yes,Low
+1530,59,59,Fail,11,2,no,no,yes,yes,Average,yes,no,Low
+1531,60,62,Pass,1,2,no,yes,no,yes,Good,yes,no,Low
+1532,31,47,Pass,7,2,no,yes,no,yes,Good,yes,yes,Low
+1533,46,61,Pass,7,4,no,yes,yes,yes,Average,yes,yes,High
+1534,48,55,Pass,4,2,no,yes,yes,no,Good,yes,no,High
+1535,56,60,Fail,4,2,no,no,no,yes,Average,no,no,High
+1536,46,50,Fail,2,2,no,no,no,yes,Poor,yes,yes,Low
+1537,54,52,Pass,6,3,no,no,yes,no,Poor,yes,no,High
+1538,52,69,Fail,5,2,no,yes,yes,yes,Good,yes,yes,Low
+1539,53,47,Fail,6,2,no,no,no,yes,Good,yes,no,High
+1540,47,48,Pass,9,1,yes,no,yes,no,Average,yes,no,Low
+1541,48,57,Pass,6,4,yes,yes,no,yes,Average,yes,no,High
+1542,44,50,Pass,6,3,no,no,no,yes,Poor,no,no,High
+1543,58,49,Pass,7,1,no,yes,yes,yes,Average,yes,no,High
+1544,60,59,Pass,6,3,yes,yes,no,yes,Very Good,yes,no,High
+1545,47,42,Pass,8,2,yes,no,no,yes,Very Good,no,no,High
+1546,70,47,Pass,2,2,yes,no,no,yes,Good,yes,yes,Low
+1547,51,78,Fail,5,1,yes,no,no,yes,Very Good,no,no,High
+1548,70,62,Fail,10,3,yes,no,no,yes,Very Good,yes,no,Low
+1549,48,50,Pass,3,2,no,yes,no,no,Poor,no,no,Low
+1550,34,62,Pass,6,3,no,no,no,yes,Average,yes,no,High
+1551,59,63,Pass,6,1,no,no,yes,no,Poor,no,no,High
+1552,57,67,Pass,7,3,yes,no,yes,yes,Average,yes,no,Low
+1553,55,56,Pass,3,1,no,no,no,yes,Good,yes,no,High
+1554,48,67,Pass,10,2,no,yes,no,yes,Poor,yes,no,High
+1555,54,37,Pass,4,2,yes,no,yes,yes,Very Good,no,no,High
+1556,49,47,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+1557,51,59,Pass,1,2,no,yes,no,no,Good,yes,yes,High
+1558,63,61,Fail,4,2,no,yes,yes,yes,Very Poor,no,yes,High
+1559,56,48,Pass,4,4,no,yes,yes,yes,Very Poor,yes,no,High
+1560,61,60,Pass,6,2,yes,no,yes,yes,Good,yes,yes,High
+1561,52,51,Pass,2,2,no,yes,no,yes,Good,no,no,High
+1562,51,55,Fail,5,2,yes,yes,no,yes,Very Good,yes,no,High
+1563,43,68,Fail,5,2,no,no,yes,no,Good,no,no,High
+1564,51,67,Pass,5,1,no,yes,no,yes,Poor,yes,no,High
+1565,21,48,Fail,7,3,yes,yes,no,yes,Poor,yes,no,High
+1566,49,47,Pass,7,2,yes,no,no,yes,Very Good,yes,no,High
+1567,54,53,Fail,6,3,yes,no,yes,no,Poor,no,no,High
+1568,60,57,Pass,4,2,yes,yes,no,yes,Good,no,yes,Low
+1569,52,51,Pass,5,4,yes,yes,yes,yes,Average,yes,no,High
+1570,58,68,Fail,2,2,no,no,yes,yes,Average,yes,no,Low
+1571,33,61,Pass,4,1,no,no,yes,yes,Average,yes,yes,High
+1572,54,62,Fail,9,2,no,no,yes,no,Very Good,no,no,Low
+1573,38,45,Pass,6,4,no,no,no,yes,Very Good,yes,no,High
+1574,42,69,Fail,4,3,no,yes,no,no,Very Good,yes,yes,High
+1575,53,29,Pass,8,1,no,yes,no,yes,Average,no,yes,High
+1576,67,66,Pass,5,2,yes,no,yes,yes,Poor,no,yes,High
+1577,58,67,Fail,8,4,no,yes,no,yes,Very Good,yes,no,Low
+1578,55,53,Fail,3,1,yes,no,no,no,Poor,no,yes,Low
+1579,54,70,Fail,3,2,yes,no,yes,yes,Average,no,no,High
+1580,47,57,Fail,3,3,no,no,yes,yes,Average,no,yes,High
+1581,49,58,Fail,5,4,yes,no,no,no,Average,yes,no,High
+1582,59,61,Pass,8,3,no,no,yes,yes,Average,yes,no,High
+1583,41,89,Pass,9,4,yes,yes,no,yes,Very Good,no,no,High
+1584,60,71,Pass,7,1,yes,no,no,no,Very Good,yes,no,High
+1585,51,65,Pass,4,2,no,no,yes,yes,Average,yes,no,Low
+1586,63,48,Fail,6,3,yes,yes,no,no,Very Poor,yes,no,High
+1587,64,59,Pass,7,3,yes,no,yes,yes,Good,yes,no,Low
+1588,38,49,Fail,2,3,yes,no,yes,yes,Average,yes,yes,Low
+1589,49,66,Pass,3,4,no,no,yes,yes,Very Good,no,no,High
+1590,46,59,Fail,2,2,yes,yes,no,yes,Very Poor,yes,yes,High
+1591,36,46,Pass,4,1,no,no,yes,yes,Poor,yes,no,Low
+1592,44,58,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1593,79,49,Fail,6,3,no,no,yes,no,Good,yes,no,High
+1594,61,59,Pass,4,2,no,yes,yes,no,Average,yes,no,Low
+1595,74,49,Pass,0,3,yes,no,yes,yes,Average,no,no,High
+1596,63,58,Pass,6,2,no,no,no,yes,Average,yes,no,Low
+1597,47,65,Pass,4,1,no,no,no,yes,Average,yes,no,High
+1598,51,57,Pass,3,2,yes,yes,no,yes,Poor,no,yes,Low
+1599,60,54,Fail,5,3,yes,no,yes,no,Very Good,yes,yes,Low
+1600,59,60,Pass,6,2,no,no,yes,yes,Very Poor,yes,yes,High
+1601,49,64,Pass,4,3,no,no,no,yes,Average,yes,yes,Low
+1602,39,46,Pass,5,2,no,no,yes,yes,Good,yes,no,Low
+1603,87,60,Fail,4,2,no,no,yes,yes,Very Poor,yes,no,High
+1604,53,71,Fail,4,1,no,no,yes,yes,Very Good,no,yes,Low
+1605,51,63,Pass,4,3,yes,no,no,yes,Good,yes,yes,High
+1606,56,58,Pass,1,2,yes,yes,no,yes,Very Poor,yes,no,Low
+1607,52,64,Pass,6,4,no,no,yes,yes,Very Good,yes,no,High
+1608,56,62,Fail,5,2,yes,no,no,yes,Average,yes,no,High
+1609,67,65,Fail,4,2,yes,no,no,no,Good,no,no,High
+1610,53,37,Fail,6,2,no,yes,yes,yes,Very Good,yes,no,High
+1611,43,42,Pass,5,1,yes,no,yes,yes,Very Good,yes,yes,Low
+1612,53,68,Pass,1,2,yes,no,no,yes,Average,yes,no,High
+1613,50,42,Pass,3,2,no,yes,no,yes,Poor,no,no,High
+1614,69,62,Pass,6,3,no,no,yes,no,Average,yes,yes,High
+1615,66,54,Pass,5,2,yes,yes,no,no,Good,yes,no,High
+1616,56,48,Pass,2,2,no,no,no,no,Very Good,yes,yes,High
+1617,42,61,Fail,6,1,no,no,no,no,Very Poor,no,no,High
+1618,42,60,Pass,6,2,yes,yes,yes,no,Very Poor,yes,yes,Low
+1619,55,79,Fail,4,2,yes,yes,yes,yes,Good,yes,no,High
+1620,58,51,Pass,5,4,yes,no,no,yes,Average,yes,no,Low
+1621,51,72,Fail,2,3,no,no,no,yes,Average,yes,no,Low
+1622,50,61,Fail,9,3,no,no,yes,no,Poor,yes,no,High
+1623,49,51,Fail,4,2,no,no,no,yes,Average,yes,no,Low
+1624,54,65,Fail,2,1,no,no,no,yes,Very Good,no,no,High
+1625,31,63,Fail,1,2,yes,no,no,no,Very Good,no,no,High
+1626,43,58,Pass,5,2,yes,no,yes,yes,Average,no,yes,High
+1627,48,60,Pass,2,2,yes,no,no,yes,Very Good,yes,no,High
+1628,67,52,Fail,8,2,yes,no,no,no,Average,no,no,High
+1629,46,49,Fail,6,4,no,no,yes,no,Very Good,yes,yes,Low
+1630,56,65,Fail,4,4,no,yes,yes,no,Poor,yes,no,Low
+1631,57,55,Pass,3,2,yes,no,yes,no,Good,yes,no,Low
+1632,67,57,Pass,8,3,yes,no,no,yes,Average,yes,no,High
+1633,67,60,Fail,0,3,yes,no,yes,yes,Poor,yes,no,High
+1634,54,60,Fail,4,2,no,no,no,yes,Very Good,yes,no,Low
+1635,50,43,Pass,2,4,no,no,no,no,Poor,yes,yes,High
+1636,48,70,Pass,7,2,no,yes,no,yes,Very Good,yes,no,High
+1637,52,59,Pass,2,3,yes,no,no,yes,Poor,yes,no,High
+1638,50,55,Pass,4,2,yes,yes,no,yes,Very Poor,no,no,High
+1639,60,62,Pass,5,2,yes,yes,yes,yes,Very Good,no,yes,Low
+1640,59,60,Pass,7,2,no,no,no,yes,Average,no,yes,Low
+1641,60,65,Fail,1,4,no,yes,yes,no,Average,no,no,High
+1642,67,63,Pass,5,1,no,yes,yes,yes,Very Poor,no,no,Low
+1643,73,65,Pass,6,1,no,no,yes,yes,Average,yes,no,High
+1644,56,71,Fail,2,2,no,yes,no,yes,Average,no,no,High
+1645,65,66,Fail,3,1,yes,yes,yes,yes,Average,yes,no,High
+1646,51,56,Fail,1,3,yes,no,no,yes,Good,no,no,High
+1647,66,46,Pass,7,3,no,no,no,yes,Good,yes,no,High
+1648,65,74,Fail,3,4,yes,yes,yes,no,Very Good,yes,no,Low
+1649,65,55,Pass,6,3,yes,yes,no,no,Good,no,no,Low
+1650,55,53,Fail,4,4,no,no,no,no,Average,yes,yes,High
+1651,48,40,Fail,4,3,no,yes,yes,yes,Average,yes,no,High
+1652,41,61,Pass,9,4,no,no,no,no,Average,yes,no,Low
+1653,54,59,Pass,11,2,yes,no,no,no,Average,yes,no,High
+1654,70,42,Pass,8,2,yes,no,yes,no,Average,no,no,High
+1655,51,62,Fail,7,4,no,no,yes,yes,Good,yes,yes,High
+1656,62,53,Pass,5,3,no,no,no,yes,Very Good,yes,no,High
+1657,63,84,Fail,5,4,no,no,no,yes,Good,no,yes,High
+1658,52,52,Pass,8,1,no,no,no,no,Average,no,yes,High
+1659,68,53,Pass,6,4,no,no,yes,yes,Average,yes,no,Low
+1660,25,49,Fail,5,3,yes,no,no,yes,Good,no,no,Low
+1661,42,70,Fail,6,2,yes,no,yes,yes,Good,yes,yes,High
+1662,45,54,Fail,4,1,yes,no,no,no,Good,yes,yes,High
+1663,46,50,Pass,5,2,no,yes,no,no,Very Poor,no,no,High
+1664,58,65,Pass,4,4,yes,no,no,no,Good,no,no,High
+1665,57,44,Pass,3,3,no,yes,yes,no,Good,yes,no,Low
+1666,58,64,Pass,5,4,no,yes,no,yes,Very Poor,yes,yes,High
+1667,60,75,Pass,7,2,yes,no,yes,yes,Poor,yes,no,High
+1668,45,63,Fail,6,4,no,no,yes,no,Good,no,yes,Low
+1669,42,64,Pass,8,2,no,no,no,no,Average,no,no,Low
+1670,58,66,Pass,6,2,no,no,no,yes,Good,yes,no,High
+1671,48,75,Pass,6,2,no,yes,no,yes,Poor,yes,no,High
+1672,39,70,Pass,4,4,yes,no,no,yes,Very Poor,yes,yes,High
+1673,64,62,Fail,3,2,yes,no,yes,yes,Poor,no,no,High
+1674,68,67,Pass,5,2,yes,no,no,yes,Average,yes,no,High
+1675,70,49,Pass,8,1,no,yes,no,yes,Average,yes,no,Low
+1676,56,65,Pass,6,2,no,no,yes,no,Very Good,yes,no,High
+1677,61,47,Fail,5,4,no,no,no,yes,Good,yes,no,Low
+1678,68,54,Fail,6,2,yes,no,no,yes,Very Good,yes,no,Low
+1679,48,27,Fail,9,3,no,yes,no,yes,Very Poor,yes,yes,High
+1680,66,62,Pass,9,4,no,no,no,no,Poor,yes,no,High
+1681,57,51,Pass,6,2,no,no,yes,yes,Very Poor,no,no,High
+1682,64,69,Fail,4,3,yes,no,yes,yes,Average,yes,no,High
+1683,56,61,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1684,67,69,Fail,4,4,yes,no,yes,yes,Good,yes,yes,High
+1685,57,47,Fail,3,1,yes,no,no,yes,Poor,yes,no,Low
+1686,40,68,Pass,10,3,yes,yes,yes,yes,Poor,yes,no,High
+1687,69,79,Fail,3,3,yes,no,no,yes,Average,yes,yes,High
+1688,45,65,Fail,7,2,no,no,yes,yes,Average,no,no,Low
+1689,67,65,Fail,9,2,yes,yes,no,yes,Good,no,yes,Low
+1690,54,59,Pass,2,2,no,no,yes,no,Good,no,no,High
+1691,66,52,Pass,7,1,yes,yes,no,no,Poor,yes,no,High
+1692,66,65,Pass,3,2,yes,yes,yes,yes,Good,no,no,High
+1693,59,42,Pass,8,4,yes,no,yes,yes,Average,no,no,Low
+1694,60,53,Pass,8,2,yes,no,no,yes,Average,yes,no,High
+1695,59,40,Fail,4,2,yes,no,no,yes,Very Poor,yes,no,Low
+1696,34,50,Pass,6,1,no,yes,no,no,Good,yes,no,High
+1697,56,64,Pass,4,1,no,no,no,yes,Very Poor,yes,no,Low
+1698,43,63,Pass,4,2,yes,no,no,no,Average,no,no,Low
+1699,56,58,Pass,5,4,yes,no,no,no,Very Poor,yes,no,High
+1700,43,59,Fail,5,4,yes,no,no,yes,Average,yes,no,Low
+1701,43,39,Pass,7,2,no,no,yes,yes,Good,yes,no,Low
+1702,71,54,Pass,3,2,no,yes,no,yes,Very Good,yes,yes,High
+1703,65,51,Fail,3,2,no,no,no,yes,Good,no,no,High
+1704,54,51,Fail,2,3,yes,no,no,no,Very Good,yes,no,Low
+1705,56,63,Pass,3,3,yes,yes,no,yes,Good,yes,no,Low
+1706,52,49,Fail,3,3,yes,no,yes,yes,Average,yes,no,High
+1707,60,51,Fail,4,1,no,no,no,no,Average,no,no,High
+1708,48,37,Fail,3,4,yes,no,no,no,Average,yes,no,High
+1709,64,55,Pass,6,1,no,no,no,yes,Average,no,yes,High
+1710,52,47,Fail,6,2,no,yes,no,no,Average,yes,no,High
+1711,50,58,Pass,7,4,no,yes,yes,yes,Good,yes,no,High
+1712,55,48,Pass,8,2,yes,no,yes,no,Very Poor,yes,no,High
+1713,49,59,Pass,4,1,no,yes,no,yes,Good,yes,yes,Low
+1714,58,56,Pass,4,2,yes,yes,yes,no,Poor,yes,no,High
+1715,49,74,Fail,5,2,no,no,no,yes,Very Poor,yes,no,High
+1716,59,62,Pass,6,1,yes,yes,no,yes,Average,yes,yes,High
+1717,67,39,Pass,7,2,yes,no,yes,yes,Average,yes,yes,High
+1718,47,45,Pass,10,2,yes,no,yes,yes,Very Poor,yes,yes,Low
+1719,53,58,Pass,3,3,no,no,no,yes,Average,yes,no,High
+1720,59,48,Fail,3,1,yes,no,yes,no,Average,no,yes,Low
+1721,50,28,Pass,4,3,yes,no,yes,no,Very Poor,yes,yes,Low
+1722,59,71,Fail,2,2,yes,no,no,no,Good,yes,no,High
+1723,60,65,Fail,1,2,yes,no,no,no,Poor,yes,no,Low
+1724,65,63,Fail,4,2,no,no,no,no,Good,yes,yes,High
+1725,48,51,Fail,6,3,yes,no,no,no,Average,yes,yes,High
+1726,45,62,Pass,4,3,no,no,no,yes,Average,yes,no,High
+1727,51,50,Fail,6,1,no,no,no,no,Very Good,no,yes,High
+1728,45,60,Fail,5,3,no,no,no,yes,Good,no,yes,High
+1729,60,48,Fail,3,4,yes,no,no,no,Good,yes,no,High
+1730,43,73,Fail,5,1,yes,no,no,yes,Poor,yes,no,High
+1731,78,42,Fail,10,3,no,yes,yes,yes,Very Poor,yes,no,High
+1732,67,70,Fail,2,2,no,yes,no,yes,Good,yes,no,High
+1733,55,58,Fail,8,1,yes,no,yes,yes,Average,yes,no,High
+1734,63,53,Pass,4,2,no,yes,yes,yes,Very Good,no,no,High
+1735,38,59,Pass,6,4,no,yes,no,no,Average,yes,no,High
+1736,80,65,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+1737,49,71,Pass,4,4,no,yes,yes,yes,Average,yes,no,High
+1738,53,61,Fail,7,3,yes,no,yes,yes,Good,no,no,High
+1739,36,49,Fail,6,1,yes,yes,no,yes,Average,yes,yes,High
+1740,59,58,Fail,3,1,yes,no,no,yes,Very Good,yes,yes,High
+1741,43,76,Fail,4,3,yes,no,no,yes,Average,yes,no,Low
+1742,56,71,Pass,4,2,yes,yes,no,yes,Good,yes,no,High
+1743,49,67,Fail,7,1,no,no,no,yes,Average,yes,yes,Low
+1744,44,65,Pass,5,3,no,no,no,yes,Good,yes,no,High
+1745,46,64,Pass,7,3,no,no,yes,no,Very Poor,yes,yes,High
+1746,57,69,Pass,4,3,no,no,no,yes,Good,no,yes,High
+1747,42,53,Fail,3,2,yes,no,yes,yes,Average,yes,yes,Low
+1748,47,44,Pass,3,2,yes,yes,yes,yes,Average,yes,no,High
+1749,61,58,Fail,3,4,no,no,no,yes,Poor,yes,yes,Low
+1750,81,49,Pass,3,4,no,yes,no,yes,Good,yes,no,Low
+1751,59,47,Pass,4,2,yes,no,no,yes,Poor,no,yes,Low
+1752,45,50,Pass,6,3,no,yes,yes,no,Poor,yes,yes,High
+1753,51,82,Pass,4,2,yes,no,yes,yes,Poor,yes,no,High
+1754,55,59,Fail,11,2,no,yes,yes,yes,Very Poor,yes,no,High
+1755,51,61,Pass,3,2,no,yes,no,yes,Good,no,no,High
+1756,64,45,Fail,6,1,yes,no,no,yes,Average,yes,yes,High
+1757,57,39,Fail,1,4,yes,no,no,yes,Poor,yes,yes,High
+1758,64,49,Fail,10,2,no,no,no,yes,Average,yes,no,Low
+1759,51,72,Pass,4,2,yes,no,no,no,Average,yes,yes,Low
+1760,68,61,Fail,5,3,yes,yes,yes,yes,Average,no,no,High
+1761,53,63,Pass,3,3,yes,no,no,yes,Average,yes,no,High
+1762,45,65,Pass,6,1,no,no,no,no,Average,yes,no,Low
+1763,76,52,Pass,11,3,no,yes,no,yes,Average,yes,no,High
+1764,36,71,Fail,6,3,no,no,yes,yes,Good,yes,no,Low
+1765,47,51,Pass,3,3,no,no,no,yes,Very Poor,yes,yes,Low
+1766,48,72,Pass,2,3,no,yes,yes,yes,Very Good,no,no,High
+1767,80,62,Pass,5,2,yes,yes,no,no,Poor,yes,no,Low
+1768,73,40,Pass,7,2,no,no,no,yes,Good,yes,yes,Low
+1769,69,50,Pass,3,3,yes,no,yes,yes,Average,yes,no,High
+1770,51,40,Fail,1,4,yes,no,yes,no,Average,no,no,High
+1771,79,69,Pass,9,2,no,no,no,yes,Good,yes,no,Low
+1772,58,57,Fail,6,1,yes,yes,no,yes,Good,yes,yes,High
+1773,64,35,Fail,6,4,no,no,no,yes,Average,no,no,Low
+1774,56,61,Fail,3,2,yes,yes,no,no,Average,yes,no,High
+1775,54,52,Pass,4,2,no,yes,no,no,Very Poor,yes,no,High
+1776,52,43,Fail,6,2,yes,yes,yes,yes,Very Good,yes,no,Low
+1777,52,74,Pass,2,2,yes,no,no,no,Good,yes,yes,High
+1778,61,59,Pass,7,2,yes,yes,no,no,Average,yes,yes,High
+1779,58,55,Fail,8,2,yes,no,yes,no,Good,no,no,High
+1780,54,54,Fail,5,1,yes,no,yes,yes,Average,yes,no,High
+1781,70,42,Fail,6,4,no,no,yes,no,Good,yes,yes,High
+1782,25,44,Fail,3,4,no,yes,yes,yes,Average,yes,no,High
+1783,60,70,Pass,6,4,yes,yes,no,no,Average,yes,no,High
+1784,62,53,Fail,6,4,yes,no,yes,yes,Very Poor,no,no,High
+1785,66,58,Pass,5,3,yes,no,no,yes,Very Good,yes,no,High
+1786,54,37,Pass,8,2,yes,no,no,no,Good,no,no,High
+1787,57,44,Fail,7,1,no,no,yes,no,Good,no,yes,High
+1788,64,64,Fail,5,1,yes,no,yes,yes,Average,no,no,High
+1789,69,61,Pass,2,2,no,yes,no,yes,Average,yes,no,Low
+1790,51,75,Pass,2,2,yes,no,yes,yes,Average,yes,no,High
+1791,57,71,Pass,9,4,no,no,yes,yes,Good,yes,no,High
+1792,71,55,Pass,4,2,no,no,yes,yes,Very Good,yes,no,Low
+1793,33,62,Fail,5,2,yes,no,yes,yes,Average,yes,no,High
+1794,48,54,Fail,11,3,no,no,yes,yes,Good,yes,no,High
+1795,69,78,Fail,3,2,no,no,yes,yes,Good,no,no,High
+1796,65,69,Fail,3,4,no,yes,no,yes,Poor,yes,no,High
+1797,60,59,Pass,4,2,yes,no,yes,no,Average,yes,no,High
+1798,50,60,Pass,3,2,no,yes,no,yes,Poor,yes,no,Low
+1799,46,72,Pass,6,4,no,no,yes,yes,Good,yes,no,High
+1800,49,63,Fail,7,3,yes,no,yes,no,Very Good,yes,yes,High
+1801,70,73,Fail,2,2,yes,yes,no,yes,Very Good,yes,no,Low
+1802,48,36,Fail,4,2,yes,yes,yes,yes,Good,yes,yes,Low
+1803,56,62,Pass,3,3,yes,no,yes,yes,Average,yes,no,High
+1804,47,52,Pass,5,2,no,yes,no,yes,Good,yes,no,High
+1805,63,75,Fail,7,4,yes,no,yes,yes,Very Good,yes,no,Low
+1806,49,73,Pass,5,4,no,yes,no,yes,Good,yes,yes,High
+1807,54,58,Fail,4,2,yes,yes,yes,no,Average,yes,no,High
+1808,38,73,Pass,5,3,yes,no,yes,yes,Very Good,yes,no,High
+1809,38,75,Pass,7,4,no,no,yes,no,Good,yes,yes,High
+1810,55,58,Fail,6,2,yes,no,no,yes,Very Good,yes,no,High
+1811,41,82,Pass,3,4,no,no,no,yes,Very Good,no,yes,Low
+1812,76,57,Fail,6,3,no,no,no,yes,Average,yes,yes,Low
+1813,34,55,Fail,5,2,no,no,no,yes,Very Good,yes,no,High
+1814,46,66,Pass,4,3,no,yes,no,no,Average,no,no,High
+1815,55,54,Fail,2,2,no,yes,no,yes,Very Poor,yes,no,High
+1816,51,58,Pass,5,1,no,yes,no,yes,Good,yes,no,High
+1817,43,72,Pass,5,3,yes,no,no,yes,Average,no,yes,High
+1818,45,58,Fail,5,2,no,no,yes,yes,Average,yes,no,High
+1819,45,41,Pass,3,3,no,no,no,no,Very Good,no,yes,Low
+1820,52,61,Pass,6,2,no,no,no,no,Very Poor,yes,yes,High
+1821,74,51,Fail,5,2,yes,yes,yes,no,Very Good,yes,no,High
+1822,55,66,Pass,5,3,no,no,no,yes,Poor,yes,no,High
+1823,66,64,Fail,6,4,no,yes,no,yes,Average,yes,no,High
+1824,60,72,Fail,5,4,yes,no,yes,yes,Average,yes,yes,High
+1825,66,67,Pass,6,4,no,no,no,yes,Good,no,no,High
+1826,27,68,Pass,2,2,no,no,no,yes,Poor,yes,no,Low
+1827,51,51,Pass,12,3,no,no,no,no,Very Good,no,yes,High
+1828,68,66,Pass,7,2,yes,no,yes,no,Good,yes,yes,High
+1829,49,77,Fail,4,2,yes,no,yes,no,Good,no,no,Low
+1830,72,51,Fail,5,1,no,yes,yes,yes,Poor,yes,no,Low
+1831,69,75,Pass,7,4,no,yes,yes,yes,Average,yes,yes,Low
+1832,50,52,Fail,1,1,yes,no,no,no,Very Good,yes,yes,High
+1833,49,49,Fail,5,1,yes,no,no,no,Average,yes,no,High
+1834,44,60,Pass,6,2,yes,no,no,no,Poor,yes,no,Low
+1835,48,65,Fail,5,2,yes,no,yes,yes,Average,yes,yes,High
+1836,42,67,Fail,2,4,no,no,yes,no,Very Good,yes,no,Low
+1837,59,48,Pass,5,2,no,yes,no,yes,Average,yes,no,High
+1838,40,62,Pass,2,2,no,yes,no,yes,Average,yes,yes,High
+1839,61,51,Fail,4,2,no,no,no,no,Good,yes,no,High
+1840,61,43,Pass,5,2,no,yes,no,yes,Very Good,yes,yes,High
+1841,38,48,Pass,6,1,yes,no,no,yes,Very Poor,yes,no,Low
+1842,70,50,Fail,3,2,no,no,yes,yes,Poor,no,yes,Low
+1843,60,63,Fail,6,2,yes,yes,no,yes,Poor,yes,no,High
+1844,62,69,Pass,6,2,no,no,yes,yes,Very Poor,no,no,High
+1845,47,43,Pass,3,3,yes,no,no,yes,Average,no,no,High
+1846,61,61,Pass,4,4,yes,no,no,yes,Poor,yes,no,Low
+1847,66,46,Pass,4,1,yes,no,no,yes,Average,no,yes,High
+1848,54,64,Pass,7,1,no,no,yes,no,Average,yes,no,High
+1849,75,51,Pass,4,3,yes,no,no,yes,Average,no,yes,High
+1850,55,47,Pass,7,2,yes,no,yes,no,Very Good,yes,no,Low
+1851,66,65,Pass,5,2,no,no,yes,yes,Poor,yes,yes,High
+1852,57,52,Pass,2,2,no,no,no,yes,Average,yes,no,Low
+1853,60,54,Pass,6,4,yes,no,no,yes,Average,no,yes,High
+1854,38,35,Pass,5,3,yes,no,no,yes,Average,yes,yes,Low
+1855,58,67,Pass,3,1,yes,no,no,no,Good,yes,no,High
+1856,47,66,Fail,2,1,no,no,yes,yes,Good,yes,yes,High
+1857,46,58,Pass,8,2,no,no,yes,no,Average,no,no,High
+1858,72,42,Fail,1,2,yes,no,yes,yes,Very Good,yes,yes,Low
+1859,52,70,Fail,5,2,no,no,no,no,Good,yes,yes,High
+1860,44,51,Pass,4,3,yes,yes,yes,yes,Poor,yes,no,Low
+1861,51,53,Fail,6,2,yes,no,no,yes,Poor,yes,yes,Low
+1862,41,81,Pass,3,2,no,yes,no,yes,Good,yes,yes,High
+1863,69,50,Pass,5,2,yes,no,no,yes,Very Good,no,yes,Low
+1864,48,65,Pass,3,1,no,no,no,yes,Average,no,yes,Low
+1865,60,63,Pass,7,4,no,no,yes,yes,Poor,yes,yes,Low
+1866,68,61,Pass,5,1,yes,no,no,yes,Very Good,no,yes,Low
+1867,49,60,Pass,7,2,yes,no,no,no,Poor,no,yes,Low
+1868,60,61,Fail,6,1,no,yes,no,no,Good,no,no,High
+1869,44,60,Fail,8,2,no,no,yes,yes,Very Poor,no,yes,Low
+1870,79,57,Pass,6,4,yes,yes,yes,yes,Very Poor,yes,no,Low
+1871,64,73,Pass,4,1,yes,no,no,yes,Average,yes,no,High
+1872,53,44,Pass,4,2,yes,no,yes,no,Good,yes,yes,High
+1873,47,68,Pass,2,1,no,no,no,yes,Poor,yes,yes,Low
+1874,53,66,Fail,2,3,yes,no,yes,yes,Good,no,yes,High
+1875,51,64,Pass,5,3,yes,no,no,yes,Poor,yes,no,High
+1876,74,69,Pass,2,3,no,yes,no,yes,Average,no,no,High
+1877,42,57,Fail,1,2,yes,no,no,yes,Average,yes,no,Low
+1878,56,39,Fail,4,4,yes,yes,no,yes,Good,yes,no,High
+1879,54,57,Pass,6,2,no,yes,no,yes,Good,yes,yes,Low
+1880,53,48,Pass,6,2,no,no,no,yes,Very Poor,no,no,High
+1881,53,50,Pass,9,3,yes,yes,no,yes,Poor,yes,no,Low
+1882,53,45,Pass,3,2,yes,yes,yes,yes,Very Good,yes,no,High
+1883,63,53,Pass,9,2,yes,yes,yes,yes,Average,yes,no,Low
+1884,61,52,Pass,6,2,yes,no,yes,yes,Average,no,yes,High
+1885,59,34,Fail,11,1,no,no,yes,yes,Poor,yes,no,High
+1886,24,65,Pass,5,2,no,no,no,yes,Very Good,no,no,High
+1887,57,80,Pass,2,3,no,no,no,yes,Very Good,yes,no,Low
+1888,38,64,Pass,7,1,no,no,no,yes,Very Poor,yes,no,Low
+1889,61,55,Pass,2,3,no,yes,yes,no,Average,yes,no,High
+1890,69,57,Fail,2,4,no,yes,yes,yes,Very Good,no,no,Low
+1891,45,53,Pass,5,2,no,no,no,yes,Average,yes,no,Low
+1892,52,58,Pass,7,2,yes,no,no,yes,Average,yes,yes,High
+1893,49,57,Pass,4,4,no,no,no,yes,Average,yes,no,High
+1894,67,49,Pass,6,3,yes,yes,no,no,Very Poor,no,no,High
+1895,55,74,Pass,6,1,yes,yes,no,no,Good,yes,no,High
+1896,72,43,Pass,2,2,no,yes,no,yes,Average,yes,no,Low
+1897,59,65,Pass,10,3,yes,no,no,yes,Average,yes,no,High
+1898,57,56,Pass,4,2,no,yes,no,no,Average,yes,no,High
+1899,55,77,Pass,4,3,no,no,yes,no,Good,yes,yes,Low
+1900,63,61,Fail,4,2,no,yes,no,yes,Good,yes,no,Low
+1901,37,54,Fail,3,3,no,no,no,yes,Average,yes,no,High
+1902,55,55,Fail,3,2,yes,yes,yes,no,Very Good,yes,no,High
+1903,54,58,Fail,7,3,yes,yes,yes,no,Poor,yes,yes,High
+1904,62,46,Pass,7,4,no,yes,no,yes,Good,yes,no,Low
+1905,53,50,Fail,7,2,yes,yes,no,yes,Average,no,no,Low
+1906,44,40,Pass,3,3,no,yes,no,yes,Poor,yes,no,High
+1907,55,48,Pass,5,2,yes,no,yes,yes,Poor,yes,yes,High
+1908,44,58,Pass,7,2,yes,yes,no,yes,Average,no,yes,High
+1909,35,61,Pass,7,4,yes,yes,yes,yes,Very Good,yes,no,Low
+1910,62,38,Fail,4,1,no,no,no,no,Good,yes,no,High
+1911,60,56,Pass,8,2,yes,no,no,yes,Good,yes,yes,Low
+1912,59,63,Pass,8,2,yes,yes,no,yes,Very Poor,yes,no,High
+1913,68,56,Pass,5,2,yes,no,yes,no,Very Good,yes,no,Low
+1914,48,51,Pass,10,3,yes,no,yes,yes,Average,no,no,High
+1915,40,53,Pass,6,2,yes,yes,yes,no,Good,yes,no,High
+1916,54,52,Pass,9,1,yes,no,no,no,Good,yes,no,High
+1917,51,51,Pass,8,2,no,yes,yes,yes,Poor,no,yes,High
+1918,46,59,Fail,6,2,yes,yes,yes,yes,Good,yes,yes,High
+1919,54,81,Pass,4,2,yes,no,no,no,Very Poor,yes,no,High
+1920,48,50,Pass,2,3,no,yes,no,yes,Poor,yes,no,High
+1921,36,54,Fail,3,2,yes,yes,yes,yes,Good,no,no,High
+1922,50,57,Fail,1,2,no,no,yes,no,Poor,yes,yes,High
+1923,43,51,Pass,8,3,yes,no,no,yes,Average,yes,no,Low
+1924,57,68,Pass,7,1,yes,no,no,yes,Poor,yes,no,Low
+1925,48,34,Fail,5,2,yes,no,no,yes,Average,yes,no,High
+1926,66,52,Pass,2,3,no,no,yes,yes,Very Poor,yes,no,High
+1927,71,66,Pass,7,2,no,no,no,yes,Good,yes,yes,Low
+1928,61,55,Pass,12,2,yes,yes,no,yes,Very Poor,yes,yes,High
+1929,39,49,Fail,5,2,no,no,no,yes,Good,no,no,High
+1930,70,62,Fail,3,2,yes,yes,yes,yes,Good,no,no,High
+1931,70,67,Fail,4,2,yes,yes,yes,no,Average,no,no,High
+1932,55,60,Pass,5,4,no,no,no,yes,Very Good,yes,no,High
+1933,68,49,Pass,6,2,no,no,no,yes,Poor,yes,yes,Low
+1934,49,62,Pass,3,3,yes,yes,no,yes,Average,yes,no,High
+1935,36,53,Fail,3,4,yes,yes,yes,no,Poor,yes,no,Low
+1936,47,65,Fail,1,3,no,no,no,yes,Average,yes,yes,Low
+1937,72,72,Pass,5,2,no,no,yes,yes,Very Good,yes,no,Low
+1938,40,31,Fail,2,2,yes,no,yes,no,Poor,yes,no,High
+1939,54,59,Pass,4,2,no,no,no,no,Good,yes,no,High
+1940,55,40,Pass,2,3,yes,no,yes,yes,Good,yes,yes,High
+1941,49,82,Fail,7,1,no,no,yes,no,Very Poor,yes,no,High
+1942,50,53,Pass,3,4,no,no,no,no,Very Good,no,no,Low
+1943,55,65,Pass,9,2,no,no,yes,no,Very Good,yes,yes,High
+1944,49,57,Pass,6,3,no,no,no,yes,Very Good,no,no,Low
+1945,40,49,Fail,5,1,yes,no,no,yes,Average,no,yes,High
+1946,57,48,Fail,2,4,yes,no,no,yes,Poor,no,no,Low
+1947,65,73,Fail,5,1,no,yes,no,yes,Average,no,no,High
+1948,63,67,Fail,5,3,yes,no,no,yes,Good,yes,no,High
+1949,46,77,Pass,8,2,yes,no,yes,yes,Average,yes,yes,Low
+1950,42,58,Pass,2,3,no,no,no,yes,Good,no,yes,High
+1951,52,60,Fail,5,3,yes,yes,no,yes,Good,yes,no,High
+1952,70,55,Pass,5,2,yes,yes,yes,yes,Poor,yes,no,High
+1953,61,55,Fail,6,2,yes,no,no,yes,Average,yes,no,High
+1954,62,47,Fail,1,2,no,no,yes,yes,Very Good,yes,yes,High
+1955,63,58,Fail,3,2,yes,no,yes,yes,Poor,no,yes,High
+1956,59,50,Pass,9,3,yes,yes,yes,no,Average,yes,no,High
+1957,56,62,Pass,6,1,no,no,yes,no,Very Poor,yes,no,Low
+1958,61,59,Fail,5,2,no,yes,no,yes,Average,no,yes,High
+1959,49,60,Fail,4,3,no,no,no,yes,Average,yes,yes,Low
+1960,40,74,Fail,3,2,no,no,no,yes,Very Poor,no,yes,High
+1961,62,57,Pass,11,4,yes,no,no,yes,Very Poor,no,yes,Low
+1962,67,65,Pass,6,2,no,no,no,yes,Average,no,yes,High
+1963,43,78,Fail,3,2,yes,yes,no,yes,Average,yes,no,High
+1964,63,71,Fail,7,1,yes,no,no,yes,Very Poor,yes,no,High
+1965,71,69,Fail,6,2,yes,no,yes,yes,Very Good,yes,yes,High
+1966,54,54,Pass,2,2,yes,yes,no,yes,Average,yes,no,Low
+1967,46,60,Fail,4,2,yes,no,no,no,Poor,yes,no,Low
+1968,56,44,Pass,5,1,yes,no,no,no,Very Good,yes,no,High
+1969,49,62,Fail,2,2,no,yes,no,yes,Average,yes,no,Low
+1970,48,60,Pass,2,2,yes,no,no,no,Poor,yes,no,High
+1971,59,58,Pass,4,1,no,yes,no,no,Very Good,yes,no,High
+1972,38,68,Fail,6,3,no,no,no,no,Poor,yes,no,Low
+1973,40,45,Pass,4,4,no,no,no,no,Very Good,no,no,High
+1974,55,74,Pass,6,4,yes,yes,yes,no,Good,yes,yes,High
+1975,54,67,Pass,8,4,no,no,yes,yes,Average,yes,no,High
+1976,58,57,Fail,7,3,no,no,no,yes,Very Poor,yes,no,High
+1977,73,56,Pass,8,2,no,no,yes,no,Very Poor,yes,yes,High
+1978,56,62,Pass,5,2,yes,yes,yes,yes,Poor,yes,no,High
+1979,60,73,Fail,1,2,yes,no,no,no,Very Good,yes,no,Low
+1980,45,59,Pass,5,3,yes,no,no,no,Average,no,yes,High
+1981,62,59,Pass,5,4,yes,yes,no,yes,Very Poor,yes,no,High
+1982,49,58,Pass,7,2,no,yes,no,yes,Average,yes,no,Low
+1983,55,75,Fail,2,2,no,no,no,yes,Poor,no,no,High
+1984,53,54,Pass,6,3,yes,no,no,yes,Poor,yes,yes,High
+1985,65,57,Fail,6,2,yes,no,no,yes,Poor,yes,no,Low
+1986,41,72,Pass,3,2,yes,no,no,yes,Good,no,no,Low
+1987,32,59,Fail,5,2,yes,yes,yes,yes,Very Poor,yes,yes,High
+1988,52,69,Fail,7,4,no,no,no,yes,Average,yes,no,Low
+1989,59,48,Pass,4,2,no,no,no,yes,Very Poor,no,yes,Low
+1990,56,55,Pass,3,2,yes,no,yes,no,Average,yes,no,High
+1991,67,72,Fail,2,2,yes,yes,no,no,Average,yes,no,High
+1992,59,51,Pass,4,2,no,no,no,yes,Very Poor,yes,no,High
+1993,49,56,Fail,8,2,yes,no,yes,yes,Average,yes,no,High
+1994,31,60,Pass,9,2,no,no,no,no,Average,yes,no,High
+1995,52,48,Fail,11,2,no,no,yes,yes,Poor,yes,no,Low
+1996,65,53,Pass,4,1,no,yes,yes,yes,Good,no,no,Low
+1997,51,59,Fail,8,2,yes,no,no,yes,Average,no,yes,High
+1998,55,58,Pass,2,2,yes,no,no,yes,Good,yes,yes,High
+1999,59,70,Pass,2,4,no,no,yes,yes,Average,yes,no,High
+2000,44,73,Pass,8,1,yes,yes,no,yes,Very Good,yes,yes,High
